@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/5VfgNZJvJ6FcwF3PPQbpUIzILkQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 9283,
+  "imdb_id": "tt0115639",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Beautiful Girls",
+  "overview": "O pianista Willie Conway (Timothy Hutton) volta para sua cidade natal em Massachusetts para uma reunião de colégio. Lá, ele encontra os velhos amigos Sharon Cassidy (Mira Sorvino), Tommy Rowland (Matt Dillon), Tracy Stover (Annabeth Gish) e Paul Kirkwood (Michael Rapaport), além de outros que, juntos, garantem diversão e boas risadas.",
+  "popularity": 0.9511,
+  "poster_path": "/sHcx1fBmrtZYvFmUywU0d5cvIFd.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 163562,
+      "logo_path": null,
+      "name": "Woods Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    }
+  ],
+  "release_date": "1996-02-09",
+  "revenue": 27000000,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Brincando de Seduzir",
+  "video": false,
+  "vote_average": 6.637,
+  "vote_count": 387,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-10-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1999-04-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-02-09T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City ",
+            "release_date": "1996-01-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-02-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

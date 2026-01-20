@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/rJbDh4nIjxQFlFjK6k2SktTTT01.jpg",
+  "belongs_to_collection": null,
+  "budget": 32400000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 13997,
+  "imdb_id": "tt0115697",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Black Sheep",
+  "overview": "Candidato ao governo do estado, Al (Tim Matheson) tem uma grande pedra no caminho: seu irmão Mike (Chris Farley), um trapalhão de primeira. É quando o comitê decide encontrar alguém para levar Mike para longe, durante a campanha. Para mantê-lo longe de problemas, Al obriga um de seus assessores, Steve Dodds (David Spade), a ficar de olho nele durante a eleição. Mas a concorrente de Al sabe que só precisa trazer Mike de volta, para vencer o pleito.",
+  "popularity": 1.6013,
+  "poster_path": "/ihGI8Gldygi49hV62mKa850H3Gf.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-02-01",
+  "revenue": 32000000,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Toda Família Tem uma",
+  "title": "A Ovelha Negra",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 442,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "1996-07-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-08-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1997-06-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-02-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

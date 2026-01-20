@@ -1,0 +1,406 @@
+{
+  "adult": false,
+  "backdrop_path": "/9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg",
+  "belongs_to_collection": {
+    "id": 136214,
+    "name": "Pocahontas: Coleção",
+    "poster_path": "/ugfIREN33qUkvuvNG6MhFxN9HtC.jpg",
+    "backdrop_path": "/or6DYoMtttpgs0g7cTBE5DgeUUf.jpg"
+  },
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 10530,
+  "imdb_id": "tt0114148",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Pocahontas",
+  "overview": "Pocahontas, filha do chefe Powhatan, observa a chegada de um grande grupo de colonos ingleses, liderados pelo ambicioso governador Radcliff e pelo corajoso capitão John Smith. Com seu companheiro brincalhão, Meeko, um guaxinim travesso, e Flit, um pássaro alegre, Pocahontas forma uma forte amizade com o capitão Smith. Mas quando as tensões começam a surgir entre as duas culturas, Pocahontas recorre à sabedoria da avó Willow para encontrar uma maneira de trazer a paz entre seu povo e os conquistadores.",
+  "popularity": 5.5874,
+  "poster_path": "/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg",
+  "production_companies": [
+    {
+      "id": 171656,
+      "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-06-16",
+  "revenue": 346079773,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Uma lenda americana ganha vida.",
+  "title": "Pocahontas: O Encontro de Dois Mundos",
+  "video": false,
+  "vote_average": 6.911,
+  "vote_count": 5962,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-08-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-12-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-11-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "da",
+            "note": "",
+            "release_date": "1995-11-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-11-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "1995-11-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-12-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-10-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "הותר לכול",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-06-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "הותר לכול",
+            "descriptors": [],
+            "iso_639_1": "he",
+            "note": "",
+            "release_date": "1995-06-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "1995-11-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "",
+            "release_date": "1995-07-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "VHS",
+            "release_date": "1996-05-31T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "DVD",
+            "release_date": "2006-05-17T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "Blu-ray",
+            "release_date": "2012-03-28T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "1995-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-11-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-10-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-11-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "sv",
+            "note": "",
+            "release_date": "1995-11-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "sv",
+            "note": "VHS release",
+            "release_date": "1996-08-21T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD release",
+            "release_date": "2002-05-22T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray release",
+            "release_date": "2013-02-13T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-11-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City",
+            "release_date": "1995-06-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-06-16T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-06-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

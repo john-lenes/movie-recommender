@@ -1,0 +1,249 @@
+{
+  "adult": false,
+  "backdrop_path": "/7LMy4tZggDRa31ycv5ccnPtLspV.jpg",
+  "belongs_to_collection": {
+    "id": 122017,
+    "name": "Screamers Collection",
+    "poster_path": "/o18uXfDeEf5HjXWSZ5SR0cILr5f.jpg",
+    "backdrop_path": "/d21tZlah1O42lo5bvrR04CYpfcz.jpg"
+  },
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 10752,
+      "name": "Guerra"
+    }
+  ],
+  "homepage": "",
+  "id": 9102,
+  "imdb_id": "tt0114367",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Screamers",
+  "overview": "A história se passa no ano de 2078, no planeta Sirius 6B, local de minas de exploração de metal. Após ano de guerra contra N.E.B., os mineiros e cientistas criaram uma aliança e construiram os “screamers”, robôs com inteligência artificial, pequenos e velozes. Mas essa arma começa a se desenvolver independente do controle humano, e inicia uma nova missão: acabar com toda forma de vida.",
+  "popularity": 1.9778,
+  "poster_path": "/eqgBf791rMZG7ywHfObpXeMpiRf.jpg",
+  "production_companies": [
+    {
+      "id": 7958,
+      "logo_path": null,
+      "name": "Fuji Eight Company Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 4899,
+      "logo_path": null,
+      "name": "Allegro Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 23096,
+      "logo_path": null,
+      "name": "Fries Film Group",
+      "origin_country": ""
+    },
+    {
+      "id": 23097,
+      "logo_path": null,
+      "name": "Super Ecran",
+      "origin_country": ""
+    },
+    {
+      "id": 23098,
+      "logo_path": "/qosRT1fWXpaGuWQBWOQJO9RcPTo.png",
+      "name": "Triumph Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 808,
+      "logo_path": "/4L1apH72jCx6Z5qyH7UOJUDlRoF.png",
+      "name": "The Movie Network",
+      "origin_country": "CA"
+    },
+    {
+      "id": 62765,
+      "logo_path": null,
+      "name": "Fries Film Company",
+      "origin_country": ""
+    },
+    {
+      "id": 4078,
+      "logo_path": null,
+      "name": "Triumph",
+      "origin_country": ""
+    },
+    {
+      "id": 404,
+      "logo_path": null,
+      "name": "Allegro Film",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-09-08",
+  "revenue": 5781885,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Assassinos Cibernéticos",
+  "video": false,
+  "vote_average": 6.221,
+  "vote_count": 583,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "14A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-09-08T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "1996-07-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-07-10T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "1999-04-08T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-Ray",
+            "release_date": "2021-04-21T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-06-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-07-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-05-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-09-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "1998-07-28T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2019-01-29T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "adult": false,
+  "backdrop_path": "/wCwZ4ljSsWyZyTiyk1tGQtBHTDx.jpg",
+  "belongs_to_collection": {
+    "id": 350309,
+    "name": "Baahubali: Coleção",
+    "poster_path": "/7epmOb8dEDJVvEuRrnYe9Fo0k7L.jpg",
+    "backdrop_path": "/wpXu0AdZUGmExrN39uVYJNSh9ug.jpg"
+  },
+  "budget": 65000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1511417,
+  "imdb_id": "tt37893389",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "Baahubali: The Epic",
+  "overview": "Um guerreiro lendário surge de origens humildes para desafiar forças poderosas que ameaçam sua terra natal, à medida que antigas profecias e laços familiares moldam sua jornada.",
+  "popularity": 106.6802,
+  "poster_path": "/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+  "production_companies": [
+    {
+      "id": 57946,
+      "logo_path": "/oBMVxYVfjmirgN7tpz4CaSSTnNj.png",
+      "name": "Arka Media Works",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-10-29",
+  "revenue": 3500000,
+  "runtime": 225,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Baahubali: The Epic",
+  "video": false,
+  "vote_average": 5.87,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237045,
+        "known_for_department": "Acting",
+        "name": "Prabhas",
+        "original_name": "Prabhas",
+        "popularity": 4.3647,
+        "profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
+        "cast_id": 1,
+        "character": "Mahendra Bahubali / Amarendra Bahubali / Maharaja Veerendra Vikramadeva",
+        "credit_id": "686fbb50764be82c7fe80a06",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215910,
+        "known_for_department": "Acting",
+        "name": "Rana Daggubati",
+        "original_name": "Rana Daggubati",
+        "popularity": 0.8475,
+        "profile_path": "/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg",
+        "cast_id": 2,
+        "character": "Bhallaladeva",
+        "credit_id": "686fbb6f89dc8fa30e51f3d8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88167,
+        "known_for_department": "Acting",
+        "name": "Anushka Shetty",
+        "original_name": "Anushka Shetty",
+        "popularity": 2.1688,
+        "profile_path": "/zpe6Es8kdNOXuPdXiJvqxzsmN6z.jpg",
+        "cast_id": 3,
+        "character": "Devasena",
+        "credit_id": "686fbb81940547aa229a5432",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141701,
+        "known_for_department": "Acting",
+        "name": "Ramya Krishnan",
+        "original_name": "Ramya Krishnan",
+        "popularity": 5.1484,
+        "profile_path": "/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg",
+        "cast_id": 5,
+        "character": "Sivagami",
+        "credit_id": "686fbbb2af6b528508ed70bf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 581895,
+        "known_for_department": "Acting",
+        "name": "Sathyaraj",
+        "original_name": "Sathyaraj",
+        "popularity": 1.42,
+        "profile_path": "/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg",
+        "cast_id": 4,
+        "character": "Karikala Kattappa Nadar",
+        "credit_id": "686fbb976ddea7161651f251",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130111,
+        "known_for_department": "Acting",
+        "name": "Nassar",
+        "original_name": "Nassar",
+        "popularity": 0.9771,
+        "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+        "cast_id": 6,
+        "character": "Bijjaladeva",
+        "credit_id": "686fbbe489dc8fa30e51f3e0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225315,
+        "known_for_department": "Acting",
+        "name": "Subbaraju",
+        "original_name": "Subbaraju",
+        "popularity": 0.6252,
+        "profile_path": "/upq4ba9D8GgejWkI5tRVzze2yZV.jpg",
+        "cast_id": 7,
+        "character": "Kumara varma",
+        "credit_id": "686fbbfd2f008e78c7e8088f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 85721,
+        "known_for_department": "Acting",
+        "name": "Tamannaah Bhatia",
+        "original_name": "Tamannaah Bhatia",
+        "popularity": 8.4597,
+        "profile_path": "/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
+        "cast_id": 8,
+        "character": "Avanthika",
+        "credit_id": "686fbc1bdbf2542b4ae809f4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 467845,
+        "known_for_department": "Acting",
+        "name": "Rohini",
+        "original_name": "Rohini",
+        "popularity": 1.0524,
+        "profile_path": "/oeT5DXeqsTY17DtJLTGpQec91fr.jpg",
+        "cast_id": 9,
+        "character": "Sanga",
+        "credit_id": "686fbc31919517ace9a9750a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565890,
+        "known_for_department": "Acting",
+        "name": "Tanikella Bharani",
+        "original_name": "Tanikella Bharani",
+        "popularity": 1.2767,
+        "profile_path": "/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+        "cast_id": 10,
+        "character": "Swami",
+        "credit_id": "686fbc4c3c3084ac3ce80b32",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486367,
+        "known_for_department": "Acting",
+        "name": "Prabhakar",
+        "original_name": "Prabhakar",
+        "popularity": 0.5594,
+        "profile_path": "/82ZArziu8gJ1gVamzlcXjedeOFq.jpg",
+        "cast_id": 11,
+        "character": "King Kalakeya",
+        "credit_id": "686fbc821d0ef79eab7040a1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 389604,
+        "known_for_department": "Acting",
+        "name": "Sudeep",
+        "original_name": "Sudeep",
+        "popularity": 0.9257,
+        "profile_path": "/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg",
+        "cast_id": 12,
+        "character": "Aslam Khan",
+        "credit_id": "686fbc9b1b9a8ab1e8a96b4a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291761,
+        "known_for_department": "Acting",
+        "name": "Adivi Sesh",
+        "original_name": "Adivi Sesh",
+        "popularity": 1.2782,
+        "profile_path": "/vWvU1qlpGGrCsdox0pAJ6Gns4Bp.jpg",
+        "cast_id": 13,
+        "character": "Bhadra",
+        "credit_id": "686fbcaf940547aa229a543a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606105,
+        "known_for_department": "Acting",
+        "name": "Ramakrishna Meka",
+        "original_name": "Ramakrishna Meka",
+        "popularity": 0.089,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Jaya Varma",
+        "credit_id": "686fbce84621fbdb6751fa30",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1781711,
+        "known_for_department": "Acting",
+        "name": "Charandeep",
+        "original_name": "Charandeep",
+        "popularity": 0.4009,
+        "profile_path": "/aV18GfEmzYp278Al3WARDRxNYje.jpg",
+        "cast_id": 15,
+        "character": "Kalakeya' Brother",
+        "credit_id": "686fbd11a09f4f060f6e98d9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488788,
+        "known_for_department": "Acting",
+        "name": "Rakesh Varre",
+        "original_name": "Rakesh Varre",
+        "popularity": 0.3049,
+        "profile_path": "/erutHeuAaIMBJ2ILrnjQhInjgjp.jpg",
+        "cast_id": 16,
+        "character": "Ballaladeva's Friend",
+        "credit_id": "686fbd36787b8e0829ed6cf4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2375168,
+        "known_for_department": "Acting",
+        "name": "Bharani Shankar",
+        "original_name": "Bharani Shankar",
+        "popularity": 0.2508,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Marthanda",
+        "credit_id": "686fbd6b064c4eae466e959b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282728,
+        "known_for_department": "Acting",
+        "name": "Teja Kakumanu",
+        "original_name": "Teja Kakumanu",
+        "popularity": 0.1912,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Sakethudu",
+        "credit_id": "686fbd90b5eabfc4219a5411",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2735982,
+        "known_for_department": "Acting",
+        "name": "John Kokken",
+        "original_name": "John Kokken",
+        "popularity": 0.498,
+        "profile_path": "/3dIc5cYnlzLYjaZYTOkrTIAg2D1.jpg",
+        "cast_id": 19,
+        "character": "A Kalakeya Warrior",
+        "credit_id": "686fbda1615b980443ba2775",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147021,
+        "known_for_department": "Directing",
+        "name": "S. S. Rajamouli",
+        "original_name": "S. S. Rajamouli",
+        "popularity": 2.1764,
+        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "credit_id": "686fbe595cfab44819ed6d62",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147021,
+        "known_for_department": "Directing",
+        "name": "S. S. Rajamouli",
+        "original_name": "S. S. Rajamouli",
+        "popularity": 2.1764,
+        "profile_path": "/g7jXGAVT8T5vq81fO5JWDleDc75.jpg",
+        "credit_id": "686fbea20849184ac2ba2662",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 581908,
+        "known_for_department": "Writing",
+        "name": "Madhan Karky",
+        "original_name": "Madhan Karky",
+        "popularity": 0.9539,
+        "profile_path": "/6zwJAtDi6ScjmsL8qwnTwJto70I.jpg",
+        "credit_id": "686fbebe17deb888f6ba2738",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146144,
+        "known_for_department": "Directing",
+        "name": "Deva Katta",
+        "original_name": "Deva Katta",
+        "popularity": 0.4057,
+        "profile_path": null,
+        "credit_id": "686fbecd54dc98874aba267e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147022,
+        "known_for_department": "Writing",
+        "name": "Vijayendra Prasad",
+        "original_name": "Vijayendra Prasad",
+        "popularity": 0.5273,
+        "profile_path": "/wNzLSp9QSr2iEiC19eRuqKc2LQp.jpg",
+        "credit_id": "686fbee614a3ea9170a96dac",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488792,
+        "known_for_department": "Writing",
+        "name": "Rahul Koda",
+        "original_name": "Rahul Koda",
+        "popularity": 0.2503,
+        "profile_path": null,
+        "credit_id": "686fbef729130765637043ec",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.2805,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "686fbf591d0ef79eab7040b2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552983,
+        "known_for_department": "Camera",
+        "name": "K.K. Senthil Kumar",
+        "original_name": "K.K. Senthil Kumar",
+        "popularity": 0.2275,
+        "profile_path": "/q8OngLi4xFoWFnMG6zkM2lR5glJ.jpg",
+        "credit_id": "686fbf6abb64f77f45703f71",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5555612,
+        "known_for_department": "Art",
+        "name": "Sabu Cyril",
+        "original_name": "Sabu Cyril",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "credit_id": "686fc04165e69f4515ba2741",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587735,
+        "known_for_department": "Crew",
+        "name": "Peter Hein",
+        "original_name": "Peter Hein",
+        "popularity": 0.5712,
+        "profile_path": "/881LTUkVppdwtFaBDLgd70SEEBe.jpg",
+        "credit_id": "686fc066dbf2542b4ae809fc",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225318,
+        "known_for_department": "Sound",
+        "name": "M.M. Keeravaani",
+        "original_name": "M.M. Keeravaani",
+        "popularity": 0.3343,
+        "profile_path": "/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg",
+        "credit_id": "686fc071fc002bf987e80971",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1300814,
+        "known_for_department": "Sound",
+        "name": "Philippe van Leer",
+        "original_name": "Philippe van Leer",
+        "popularity": 0.1187,
+        "profile_path": "/zG8GQk9HWdqo47yEDDQrICaHzbP.jpg",
+        "credit_id": "686fc0a19b2ba2c5c19a5522",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606145,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rama Rajamouli",
+        "original_name": "Rama Rajamouli",
+        "popularity": 0.2653,
+        "profile_path": null,
+        "credit_id": "686fc0c5f75eacd43f104c25",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1606146,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Prashanti Tipirneni",
+        "original_name": "Prashanti Tipirneni",
+        "popularity": 0.1325,
+        "profile_path": "/xVy18tlsyT8Cxl2YADJZTGOijSR.jpg",
+        "credit_id": "686fc0dd3daee631b59a540c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488790,
+        "known_for_department": "Production",
+        "name": "Prasad Devineni",
+        "original_name": "Prasad Devineni",
+        "popularity": 0.1928,
+        "profile_path": null,
+        "credit_id": "686fc10a9b2ba2c5c19a5529",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488791,
+        "known_for_department": "Production",
+        "name": "Shobu Yarlagadda",
+        "original_name": "Shobu Yarlagadda",
+        "popularity": 0.1013,
+        "profile_path": null,
+        "credit_id": "686fc11c0a2ea4778351f049",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2803,
+        "name": "affectation"
+      },
+      {
+        "id": 9856,
+        "name": "flashback"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 12026,
+        "name": "alternate history"
+      },
+      {
+        "id": 12995,
+        "name": "historical fiction"
+      },
+      {
+        "id": 170771,
+        "name": "fratricide"
+      },
+      {
+        "id": 216932,
+        "name": "ancient india"
+      },
+      {
+        "id": 226647,
+        "name": "regicide"
+      },
+      {
+        "id": 281072,
+        "name": "multi generational"
+      },
+      {
+        "id": 309974,
+        "name": "absurd"
+      },
+      {
+        "id": 324885,
+        "name": "hindu shiva"
+      },
+      {
+        "id": 334469,
+        "name": "multiple timelines"
+      },
+      {
+        "id": 336619,
+        "name": "remastered"
+      },
+      {
+        "id": 349749,
+        "name": "epic film"
+      },
+      {
+        "id": 353000,
+        "name": "director's cut"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AMC The Grove",
+            "release_date": "2025-10-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1652 @@
+{
+  "adult": false,
+  "backdrop_path": "/aHaqZpOL7UyVu0nKqp3SMz0o2E1.jpg",
+  "belongs_to_collection": null,
+  "budget": 3700000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "Guerra"
+    }
+  ],
+  "homepage": "https://studioghibli.com.br/filmografia/tumulo-dos-vagalumes/",
+  "id": 12477,
+  "imdb_id": "tt0095327",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "火垂るの墓",
+  "overview": "Nos meses finais da Segunda Guerra Mundial, Seita, de 14 anos, e sua irmã Setsuko ficam órfãos após a morte da mãe durante um ataque aéreo em Kobe, no Japão. Após uma briga com a tia, eles se mudam para um abrigo antiaéreo abandonado. Sem parentes sobreviventes e com as rações de emergência esgotadas, Seita e Setsuko lutam para sobreviver.",
+  "popularity": 0.0084,
+  "poster_path": "/kHFUyxNJfhMkKk1FwrNHd62KTEs.jpg",
+  "production_companies": [
+    {
+      "id": 10342,
+      "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+      "name": "Studio Ghibli",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1988-04-16",
+  "revenue": 842132,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Em 4 e 14, eles tentaram viver.",
+  "title": "Túmulo dos Vagalumes",
+  "video": false,
+  "vote_average": 8.4,
+  "vote_count": 6286,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72413,
+        "known_for_department": "Acting",
+        "name": "辰巳努",
+        "original_name": "辰巳努",
+        "popularity": 0.1896,
+        "profile_path": "/opRQfqXqAcUaqLMNARi78S7KZVa.jpg",
+        "cast_id": 1,
+        "character": "Seita (voice)",
+        "credit_id": "52fe44e89251416c750452b1",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 72414,
+        "known_for_department": "Acting",
+        "name": "白石綾乃",
+        "original_name": "白石綾乃",
+        "popularity": 0.3987,
+        "profile_path": "/ltxZJRUAMsKqnflUKw1zlSjMhcu.jpg",
+        "cast_id": 2,
+        "character": "Setsuko (voice)",
+        "credit_id": "52fe44e89251416c750452b5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72415,
+        "known_for_department": "Acting",
+        "name": "志乃原良子",
+        "original_name": "志乃原良子",
+        "popularity": 0.2267,
+        "profile_path": "/yvpARjDfEri1a3nh7OXywzWb1Xn.jpg",
+        "cast_id": 3,
+        "character": "Mother (voice)",
+        "credit_id": "52fe44e89251416c750452b9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72416,
+        "known_for_department": "Acting",
+        "name": "山口朱美",
+        "original_name": "山口朱美",
+        "popularity": 0.3174,
+        "profile_path": null,
+        "cast_id": 68,
+        "character": "Auntie (voice)",
+        "credit_id": "638eed2e5800c4008bb4cd1a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773484,
+        "known_for_department": "Acting",
+        "name": "Masayo Sakai",
+        "original_name": "Masayo Sakai",
+        "popularity": 0.1761,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Woman who takes care of Setsuko (voice)",
+        "credit_id": "6367fc7f1e9225007dd5a06c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773478,
+        "known_for_department": "Acting",
+        "name": "Kozo Hashida",
+        "original_name": "Kozo Hashida",
+        "popularity": 0.1568,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Obayashi Chairman (voice)",
+        "credit_id": "6367fc48a5046e008124f540",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773488,
+        "known_for_department": "Acting",
+        "name": "Kazumi Nozaki",
+        "original_name": "Kazumi Nozaki",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Cousin (voice)",
+        "credit_id": "6367fc9debb99d0090898290",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773491,
+        "known_for_department": "Acting",
+        "name": "Yoshio Matsuoka",
+        "original_name": "Yoshio Matsuoka",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Gosaku (voice)",
+        "credit_id": "6367fcc5e7c097009133afe2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773492,
+        "known_for_department": "Acting",
+        "name": "Masahiro Kanetake",
+        "original_name": "Masahiro Kanetake",
+        "popularity": 0.1077,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Aunt's House Guest (voice)",
+        "credit_id": "6367fcf696e30b007a4c8388",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773494,
+        "known_for_department": "Acting",
+        "name": "Kiyoshi Yanagawa",
+        "original_name": "Kiyoshi Yanagawa",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Patrolman (voice)",
+        "credit_id": "6367fd0cc048a90081d89739",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773496,
+        "known_for_department": "Acting",
+        "name": "Hajime Maki",
+        "original_name": "Hajime Maki",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Man who arrests Seita (voice)",
+        "credit_id": "6367fd2bd207f30087485320",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773498,
+        "known_for_department": "Acting",
+        "name": "Atsuo Omotem",
+        "original_name": "Atsuo Omotem",
+        "popularity": 0.1012,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Person in Bank (voice)",
+        "credit_id": "6367fd48d8d329008272614a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773499,
+        "known_for_department": "Acting",
+        "name": "Teruhisa Harita",
+        "original_name": "Teruhisa Harita",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Station Worker (voice)",
+        "credit_id": "6367fd664ca6760089a7aea2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118998,
+        "known_for_department": "Acting",
+        "name": "田中浩",
+        "original_name": "田中浩",
+        "popularity": 0.6386,
+        "profile_path": "/syy1wzPDojswjSMznKNwGLV2x91.jpg",
+        "cast_id": 43,
+        "character": "Person in Bank (voice)",
+        "credit_id": "6367fda396e30b007a4c83c9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773504,
+        "known_for_department": "Acting",
+        "name": "Michio Denpo",
+        "original_name": "Michio Denpo",
+        "popularity": 0.1767,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Station Worker / Doctor (voice)",
+        "credit_id": "6367fdcb66565a008ac19fc7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773506,
+        "known_for_department": "Acting",
+        "name": "Shiro Tamaki",
+        "original_name": "Shiro Tamaki",
+        "popularity": 0.1233,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Person in Bank (voice)",
+        "credit_id": "6367fdeae7c097007aebde54",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3773508,
+        "known_for_department": "Acting",
+        "name": "Mika Sekita",
+        "original_name": "Mika Sekita",
+        "popularity": 0.082,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Nurse (voice)",
+        "credit_id": "6367fe0596e30b007d08c8f4",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3642773,
+        "known_for_department": "Writing",
+        "name": "森脇京子",
+        "original_name": "森脇京子",
+        "popularity": 0.1423,
+        "profile_path": "/gP3iUDhua74Anml2vDgSCFdA3FI.jpg",
+        "cast_id": 71,
+        "character": "(voice)",
+        "credit_id": "65f82584903c52017e29d837",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 628,
+        "known_for_department": "Directing",
+        "name": "高畑勲",
+        "original_name": "高畑勲",
+        "popularity": 1.0154,
+        "profile_path": "/qbvnGLByh0N9ni7gZSREIgvO1sM.jpg",
+        "credit_id": "52fe44e89251416c750452c3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 628,
+        "known_for_department": "Directing",
+        "name": "高畑勲",
+        "original_name": "高畑勲",
+        "popularity": 1.0154,
+        "profile_path": "/qbvnGLByh0N9ni7gZSREIgvO1sM.jpg",
+        "credit_id": "52fe44e89251416c750452cf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72419,
+        "known_for_department": "Sound",
+        "name": "間宮芳生",
+        "original_name": "間宮芳生",
+        "popularity": 0.135,
+        "profile_path": null,
+        "credit_id": "52fe44e99251416c750452e1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72420,
+        "known_for_department": "Camera",
+        "name": "小山信夫",
+        "original_name": "小山信夫",
+        "popularity": 0.1948,
+        "profile_path": null,
+        "credit_id": "52fe44e99251416c750452e7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1697,
+        "known_for_department": "Editing",
+        "name": "瀬山武司",
+        "original_name": "瀬山武司",
+        "popularity": 0.353,
+        "profile_path": "/2ZoMQKCyNiUCYo8sy6pDIb30ViV.jpg",
+        "credit_id": "52fe44e99251416c750452ed",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4254376,
+        "known_for_department": "Crew",
+        "name": "Neil Nadelman",
+        "original_name": "Neil Nadelman",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "64f6d8a1b234b90100965d6f",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4342660,
+        "known_for_department": "Visual Effects",
+        "name": "谷口直之",
+        "original_name": "谷口直之",
+        "popularity": 0.2777,
+        "profile_path": null,
+        "credit_id": "653bc486e894a6013a9b64d5",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77921,
+        "known_for_department": "Directing",
+        "name": "Hideaki Anno",
+        "original_name": "庵野秀明",
+        "popularity": 1.2961,
+        "profile_path": "/AfV9h1RW6uALpx751APdUoX8ONc.jpg",
+        "credit_id": "6377056c66a7c300aab01dca",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2777912,
+        "known_for_department": "Visual Effects",
+        "name": "羽根章悦",
+        "original_name": "羽根章悦",
+        "popularity": 0.3052,
+        "profile_path": null,
+        "credit_id": "63770576156cc7007f4f3ee6",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83762,
+        "known_for_department": "Directing",
+        "name": "梅津泰臣",
+        "original_name": "梅津泰臣",
+        "popularity": 1.0439,
+        "profile_path": null,
+        "credit_id": "6377058211c06600c8006cc5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152828,
+        "known_for_department": "Visual Effects",
+        "name": "才田俊次",
+        "original_name": "才田俊次",
+        "popularity": 0.1995,
+        "profile_path": null,
+        "credit_id": "63770597e8999b00c880bad1",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2784137,
+        "known_for_department": "Visual Effects",
+        "name": "山内昇寿郎",
+        "original_name": "山内昇寿郎",
+        "popularity": 0.2425,
+        "profile_path": "/zFBb8CbDzepSSRlzEHCViKcyBRQ.jpg",
+        "credit_id": "6377059e66a7c3007a8575a0",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1158434,
+        "known_for_department": "Visual Effects",
+        "name": "奥山玲子",
+        "original_name": "奥山玲子",
+        "popularity": 0.1993,
+        "profile_path": "/wrsfiamP1MWpzdaVmVXkiBBfp9J.jpg",
+        "credit_id": "637705a511c06600f39ae6f2",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3712854,
+        "known_for_department": "Visual Effects",
+        "name": "大関紀子",
+        "original_name": "大関紀子",
+        "popularity": 0.4198,
+        "profile_path": null,
+        "credit_id": "637705ae66a7c300c3949693",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456780,
+        "known_for_department": "Visual Effects",
+        "name": "森友典子",
+        "original_name": "森友典子",
+        "popularity": 0.2204,
+        "profile_path": null,
+        "credit_id": "637705b6156cc700cdd4dac6",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2256324,
+        "known_for_department": "Visual Effects",
+        "name": "高野登",
+        "original_name": "高野登",
+        "popularity": 0.1584,
+        "profile_path": null,
+        "credit_id": "637705bd2faf4d00dc998453",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2052086,
+        "known_for_department": "Visual Effects",
+        "name": "桜井美知代",
+        "original_name": "桜井美知代",
+        "popularity": 0.1529,
+        "profile_path": null,
+        "credit_id": "637705c4fab3fa007ab6241b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456614,
+        "known_for_department": "Visual Effects",
+        "name": "賀川愛",
+        "original_name": "賀川愛",
+        "popularity": 0.2984,
+        "profile_path": null,
+        "credit_id": "637705d05b2f470075318726",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19604,
+        "known_for_department": "Visual Effects",
+        "name": "石井邦幸",
+        "original_name": "石井邦幸",
+        "popularity": 0.2197,
+        "profile_path": null,
+        "credit_id": "637705d72faf4d00aa039858",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456616,
+        "known_for_department": "Visual Effects",
+        "name": "高坂希太郎",
+        "original_name": "高坂希太郎",
+        "popularity": 0.3056,
+        "profile_path": "/wF0UPY9dL5U1ooszv2kAQVaUWjV.jpg",
+        "credit_id": "637705dde8999b00a460377a",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2005949,
+        "known_for_department": "Visual Effects",
+        "name": "石黒育",
+        "original_name": "石黒育",
+        "popularity": 0.2362,
+        "profile_path": null,
+        "credit_id": "637705e6156cc700bc406128",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2583139,
+        "known_for_department": "Visual Effects",
+        "name": "河内日出夫",
+        "original_name": "河内日出夫",
+        "popularity": 0.3302,
+        "profile_path": null,
+        "credit_id": "63770665fab3fa007fbe5789",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456798,
+        "known_for_department": "Visual Effects",
+        "name": "大谷敦子",
+        "original_name": "大谷敦子",
+        "popularity": 0.2955,
+        "profile_path": null,
+        "credit_id": "637706a0156cc7009434b5a3",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3791505,
+        "known_for_department": "Visual Effects",
+        "name": "酒井明雄",
+        "original_name": "酒井明雄",
+        "popularity": 0.3213,
+        "profile_path": null,
+        "credit_id": "637706b1336e010082e0c7f1",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1207896,
+        "known_for_department": "Directing",
+        "name": "百瀬義行",
+        "original_name": "百瀬義行",
+        "popularity": 0.6212,
+        "profile_path": "/7nJ5bMwWenL6WEfq0CvVNKXQcjx.jpg",
+        "credit_id": "572a2787c3a3682795000120",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555254,
+        "known_for_department": "Directing",
+        "name": "近藤喜文",
+        "original_name": "近藤喜文",
+        "popularity": 0.8196,
+        "profile_path": "/j4AdlDyugpfp5tsIC2QZqd8zxnm.jpg",
+        "credit_id": "572a29abc3a368279900018c",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1009730,
+        "known_for_department": "Art",
+        "name": "山本二三",
+        "original_name": "山本二三",
+        "popularity": 0.3506,
+        "profile_path": null,
+        "credit_id": "5747270cc3a36839f1000122",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456795,
+        "known_for_department": "Visual Effects",
+        "name": "保田道世",
+        "original_name": "保田道世",
+        "popularity": 0.4073,
+        "profile_path": null,
+        "credit_id": "574727cd9251412b4d000151",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555254,
+        "known_for_department": "Directing",
+        "name": "近藤喜文",
+        "original_name": "近藤喜文",
+        "popularity": 0.8196,
+        "profile_path": "/j4AdlDyugpfp5tsIC2QZqd8zxnm.jpg",
+        "credit_id": "59ecc72392514124a700761b",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239826,
+        "known_for_department": "Sound",
+        "name": "浦上靖夫",
+        "original_name": "浦上靖夫",
+        "popularity": 0.3035,
+        "profile_path": null,
+        "credit_id": "59ecd2f8925141274d008ab5",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55667,
+        "known_for_department": "Production",
+        "name": "原徹",
+        "original_name": "原徹",
+        "popularity": 0.135,
+        "profile_path": "/mrsl8Z9wqgAhWWdp4woLnKSBchQ.jpg",
+        "credit_id": "59ecd6eb925141211f00ef42",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1132551,
+        "known_for_department": "Art",
+        "name": "久村佳津",
+        "original_name": "久村佳津",
+        "popularity": 0.0971,
+        "profile_path": null,
+        "credit_id": "59ecd7149251412783009371",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1452508,
+        "known_for_department": "Sound",
+        "name": "伊藤道廣",
+        "original_name": "伊藤道廣",
+        "popularity": 0.2946,
+        "profile_path": null,
+        "credit_id": "59ecd8de92514119fc0141b6",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1910225,
+        "known_for_department": "Sound",
+        "name": "大平紀義",
+        "original_name": "大平紀義",
+        "popularity": 0.1369,
+        "profile_path": null,
+        "credit_id": "59ecd99392514119fc01435b",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1910227,
+        "known_for_department": "Sound",
+        "name": "大城久典　",
+        "original_name": "大城久典　",
+        "popularity": 0.1231,
+        "profile_path": null,
+        "credit_id": "59ecd9f0925141366d003c4e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552597,
+        "known_for_department": "Crew",
+        "name": "谷藤薫児",
+        "original_name": "谷藤薫児",
+        "popularity": 0.1744,
+        "profile_path": null,
+        "credit_id": "59ecda549251412783009a37",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120524,
+        "known_for_department": "Art",
+        "name": "菱山徹",
+        "original_name": "菱山徹",
+        "popularity": 0.3992,
+        "profile_path": null,
+        "credit_id": "5b63955d0e0a267ee503af59",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72417,
+        "known_for_department": "Writing",
+        "name": "野坂昭如",
+        "original_name": "野坂昭如",
+        "popularity": 0.4726,
+        "profile_path": null,
+        "credit_id": "669fb98ecccdc58ef9b512b2",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237219,
+        "known_for_department": "Directing",
+        "name": "木上益治",
+        "original_name": "木上益治",
+        "popularity": 0.2222,
+        "profile_path": "/xBhjreC3CenyAvN4AgyLLe7NWtZ.jpg",
+        "credit_id": "5f860a79afe22400381a1740",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1962941,
+        "known_for_department": "Visual Effects",
+        "name": "岡田敏靖",
+        "original_name": "岡田敏靖",
+        "popularity": 0.2842,
+        "profile_path": null,
+        "credit_id": "68d4f2f57e44b9e1e95b13c8",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555326,
+        "known_for_department": "Art",
+        "name": "小関睦夫",
+        "original_name": "小関睦夫",
+        "popularity": 0.1784,
+        "profile_path": null,
+        "credit_id": "68d50fdcfe7f611d0d19dba1",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555349,
+        "known_for_department": "Art",
+        "name": "平田秀一",
+        "original_name": "平田秀一",
+        "popularity": 0.2058,
+        "profile_path": null,
+        "credit_id": "68d50ffd9843f8d0dc19dbed",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5710173,
+        "known_for_department": "Art",
+        "name": "樋口法子",
+        "original_name": "樋口法子",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "68d5103fe9b3f2b3465b1499",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144663,
+        "known_for_department": "Art",
+        "name": "田村せいき",
+        "original_name": "田村せいき",
+        "popularity": 0.469,
+        "profile_path": null,
+        "credit_id": "68d510726072f5c7b5a2bd57",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5710178,
+        "known_for_department": "Art",
+        "name": "金箱良成",
+        "original_name": "金箱良成",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "68d510a7ceefc3afcf19dbb8",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2032192,
+        "known_for_department": "Art",
+        "name": "中座洋次",
+        "original_name": "中座洋次",
+        "popularity": 0.3628,
+        "profile_path": null,
+        "credit_id": "68d510e769dd9e428213a396",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5710181,
+        "known_for_department": "Art",
+        "name": "橋爪冨紀子",
+        "original_name": "橋爪冨紀子",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68d511a9f0da4c2dc813a472",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5710185,
+        "known_for_department": "Art",
+        "name": "須藤栄子",
+        "original_name": "須藤栄子",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "68d51273604804bfda5b149e",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1843030,
+        "known_for_department": "Art",
+        "name": "平川栄治",
+        "original_name": "平川栄治",
+        "popularity": 0.1291,
+        "profile_path": null,
+        "credit_id": "68d5132f409d5e52ca40d802",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456799,
+        "known_for_department": "Art",
+        "name": "伊奈淳子",
+        "original_name": "伊奈淳子",
+        "popularity": 0.166,
+        "profile_path": null,
+        "credit_id": "68d513478d823d9f0ef20b72",
+        "department": "Art",
+        "job": "Background Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 1899,
+        "name": "hunger"
+      },
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 11159,
+        "name": "wartime"
+      },
+      {
+        "id": 4917,
+        "name": "shelter"
+      },
+      {
+        "id": 15354,
+        "name": "struggle for survival"
+      },
+      {
+        "id": 161246,
+        "name": "pacific theater"
+      },
+      {
+        "id": 161919,
+        "name": "adult animation"
+      },
+      {
+        "id": 165402,
+        "name": "semi autobiographical"
+      },
+      {
+        "id": 165431,
+        "name": "anti war"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 210162,
+        "name": "grim"
+      },
+      {
+        "id": 236343,
+        "name": "orphan siblings"
+      },
+      {
+        "id": 241982,
+        "name": "children in wartime"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1991-09-02T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray & DVD Steelbook",
+            "release_date": "2025-07-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "2002-05-17T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2002-08-27T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2013-09-27T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2003-10-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-06-19T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-12-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2000-12-06T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2017-11-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "25th Anniversary Re-release",
+            "release_date": "2013-05-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-08-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1988-04-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-11-10T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1995-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1988-04-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2025-07-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-06-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "B",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-01-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "9",
+            "descriptors": [
+              "Fear"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "9",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2008-01-15T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "9",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2013-07-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-29T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-01-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2009-03-12T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Studio Ghibli Fest",
+            "release_date": "2025-08-10T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1988-04-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-07-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Studio Ghibli Fest",
+            "release_date": "2018-08-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Studio Ghibli Fest",
+            "release_date": "2025-08-10T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "1989-07-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD (Remastered Edition)",
+            "release_date": "2012-03-06T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray (Remastered Edition)",
+            "release_date": "2012-11-20T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2009-07-07T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-12-07T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD (Collector's Series)",
+            "release_date": "2002-10-08T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD (Dual Language)",
+            "release_date": "1998-10-07T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS (English dubbed)",
+            "release_date": "1998-09-01T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1993-06-02T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray (SteelBook)",
+            "release_date": "2020-02-11T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Gkids Blu-ray (regular and SteelBook)",
+            "release_date": "2025-07-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-09-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2025-11-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

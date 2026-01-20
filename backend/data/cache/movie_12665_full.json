@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": "/gAeFtnwgF4asNVbmrudWMHOilWj.jpg",
+  "belongs_to_collection": null,
+  "budget": 9500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "",
+  "id": 12665,
+  "imdb_id": "tt0114168",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Powder",
+  "overview": "Ao investigar a morte de um velho em uma propriedade rural, Barnum, o xerife local, descobre Powder - seu verdadeiro nome é Jeremy Reed -, um adolescente que era neto do falecido e que tinha passado toda a sua vida conhecendo o mundo através dos livros, sem nunca ter deixado a fazenda da família, tudo isto por ter uma aparência estranha (é totalmente branco). Powder é levado para um orfanato, mas é hostilizado pelos outros internos em virtude do seu aspecto. Ele demonstra ter dons particulares além de ter o intelecto mais elevado que qualquer ser humano jamais teve, passando a alterar a vida de todos que estão ao seu redor.",
+  "popularity": 5.2504,
+  "poster_path": "/PdqliHbL6bj9JrQ1eyGGRkpGAJ.jpg",
+  "production_companies": [
+    {
+      "id": 915,
+      "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 175,
+      "logo_path": "/Aruhqf13whJ0bNSgtv1gt3xclT6.png",
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-10-27",
+  "revenue": 30900000,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Um incrível encontro com um extraordinário ser humano.",
+  "title": "Energia Pura",
+  "video": false,
+  "vote_average": 6.992,
+  "vote_count": 698,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-02-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2006-06-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-06-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-06-19T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2021-02-23T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-06-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2008-01-18T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Yorin",
+            "release_date": "2003-01-27T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-10-27T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Hollywood Pictures Home Video [𝐕𝐇𝐒📼] (Screener) 𝟭𝟭𝟮  mínutєѕ",
+            "release_date": "1996-02-15T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney / Buena Vista [𝐃𝐕𝐃📀] 𝟭𝟭𝟮  mínutєѕ",
+            "release_date": "1999-08-10T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

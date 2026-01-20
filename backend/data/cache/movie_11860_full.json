@@ -1,0 +1,238 @@
+{
+  "adult": false,
+  "backdrop_path": "/oMGV48EGhsNavC1PL8HMeWs5Udq.jpg",
+  "belongs_to_collection": null,
+  "budget": 58000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 11860,
+  "imdb_id": "tt0114319",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sabrina",
+  "overview": "Sabrina é filha do chofer da rica família Larrabee. Ela passa dois anos em Paris e volta como uma mulher sofisticada, atraindo a atenção de David, o caçula dos Larrabee, por quem sempre foi apaixonada. Linus, o mais velho, tenta impedir o romance.",
+  "popularity": 2.5883,
+  "poster_path": "/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 457,
+      "logo_path": null,
+      "name": "Constellation Films",
+      "origin_country": ""
+    },
+    {
+      "id": 932,
+      "logo_path": "/o7leiZVIDBHxODfK8pjGPV2SdMp.png",
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 258,
+      "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5842,
+      "logo_path": null,
+      "name": "Sandollar Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12192,
+      "logo_path": null,
+      "name": "Worldwide Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 58079,
+      "logo_path": null,
+      "name": "Mont Blanc Entertainment GmbH",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-12-15",
+  "revenue": 53672080,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sabrina",
+  "title": "Sabrina",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 663,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-03-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-01-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "APTA",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "1996-02-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-01-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "M6",
+            "release_date": "1999-10-25T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-02-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-02-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2002-06-04T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Net 5",
+            "release_date": "2004-04-10T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "1996-02-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-12-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

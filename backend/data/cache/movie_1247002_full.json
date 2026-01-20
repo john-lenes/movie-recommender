@@ -1,0 +1,1041 @@
+{
+  "adult": false,
+  "backdrop_path": "/fepnF3W4VP3s8ui8nDtrlsFVYwO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1247002,
+  "imdb_id": "tt34509472",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "파과",
+  "overview": "A assassina envelhecida Hornclaw viu tudo, mas ela nunca esperava orientar um novato imprudente como Bullfight. À medida que seu vínculo improvável se aprofunda, rachaduras se formam no submundo em que eles navegam juntos. Quando Hornclaw descobre que alguém a quer morta, ela é empurrada para um jogo mortal de engano. Com os inimigos se aproximando e confiando na falta de oferta, sobreviver significa permanecer afiada - tanto a lâmina quanto a mente.",
+  "popularity": 66.9675,
+  "poster_path": "/A9yJjkI7GdqeFYMyUe4PebA2NIw.jpg",
+  "production_companies": [
+    {
+      "id": 96988,
+      "logo_path": "/akinMWSzcOArgVt7xJPdy7AOl1d.png",
+      "name": "Soo Film",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-04-30",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Velha Com a Faca",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 49,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 588209,
+        "known_for_department": "Acting",
+        "name": "이혜영",
+        "original_name": "이혜영",
+        "popularity": 0.8967,
+        "profile_path": "/v1Qy0fyn2Iipk51dkRAI4COhwjz.jpg",
+        "cast_id": 2,
+        "character": "Hornclaw",
+        "credit_id": "6627ed08b9a0bd0147d4e911",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1916087,
+        "known_for_department": "Acting",
+        "name": "김성철",
+        "original_name": "김성철",
+        "popularity": 1.4797,
+        "profile_path": "/p1VPzk9IWtXMIwsf6TY8MAQ67qI.jpg",
+        "cast_id": 3,
+        "character": "Bullfight",
+        "credit_id": "6627ed0e62f335014bd85134",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1346848,
+        "known_for_department": "Acting",
+        "name": "Yeon Woo-jin",
+        "original_name": "연우진",
+        "popularity": 0.9568,
+        "profile_path": "/oGOpjHfwifYd3hVohVFbxmA7Aoe.jpg",
+        "cast_id": 13,
+        "character": "Dr. Kang",
+        "credit_id": "678923f52ba9fb7c5ead3842",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84788,
+        "known_for_department": "Acting",
+        "name": "김무열",
+        "original_name": "김무열",
+        "popularity": 1.1633,
+        "profile_path": "/7SoxNZ826OzxV7WBplJWud8WhOr.jpg",
+        "cast_id": 10,
+        "character": "Ryu",
+        "credit_id": "66c2c412f61f7e593afbfb20",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2896274,
+        "known_for_department": "Acting",
+        "name": "Shin Si A",
+        "original_name": "신시아",
+        "popularity": 0.7121,
+        "profile_path": "/6acKN3HgVwV2dT771EgYYilp7I9.jpg",
+        "cast_id": 11,
+        "character": "Young Hornclaw",
+        "credit_id": "66c2c41632aa85f0c2c85f52",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84751,
+        "known_for_department": "Acting",
+        "name": "김강우",
+        "original_name": "김강우",
+        "popularity": 0.5775,
+        "profile_path": "/1B883y0AG0WPTmGkC14XIggXVLz.jpg",
+        "cast_id": 20,
+        "character": "Director Sohn",
+        "credit_id": "67acc79b8c5579ba6e36cd47",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240081,
+        "known_for_department": "Acting",
+        "name": "최무성",
+        "original_name": "최무성",
+        "popularity": 0.559,
+        "profile_path": "/pcbn8YaW0iOR5jpV0aC7jwzDtAj.jpg",
+        "cast_id": 25,
+        "character": "Jang-bi",
+        "credit_id": "6813942730d62e3d05b754f0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2133924,
+        "known_for_department": "Acting",
+        "name": "옥자연",
+        "original_name": "옥자연",
+        "popularity": 0.6618,
+        "profile_path": "/kEAetv6yd34vrDJxYHCJ6Dw7OTk.jpg",
+        "cast_id": 22,
+        "character": "Cho-yeop",
+        "credit_id": "681392e49d1b9c8aa1b1fcd8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3639306,
+        "known_for_department": "Acting",
+        "name": "이현걸",
+        "original_name": "이현걸",
+        "popularity": 0.2431,
+        "profile_path": "/lL7r8bKBBfEYdF2x4rJ70BIYbw2.jpg",
+        "cast_id": 23,
+        "character": "Han Seong-do",
+        "credit_id": "6813930cb6a529e1859b3a57",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 557743,
+        "known_for_department": "Acting",
+        "name": "이용녀",
+        "original_name": "이용녀",
+        "popularity": 0.5661,
+        "profile_path": "/q4t4bs0nm6rjIbRm58SBJAChAf4.jpg",
+        "cast_id": 24,
+        "character": "Kang's Mother-in-Law",
+        "credit_id": "681393b68a1f55be7e910206",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1203792,
+        "known_for_department": "Acting",
+        "name": "Cho Han Chul",
+        "original_name": "조한철",
+        "popularity": 1.1944,
+        "profile_path": "/58DGEXFyWfaFdqL7yKKW0VdEg3R.jpg",
+        "cast_id": 21,
+        "character": "Bullfight's Father",
+        "credit_id": "67b0bbb0b1bd2f6e9f35b85e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453249,
+        "known_for_department": "Acting",
+        "name": "남명렬",
+        "original_name": "남명렬",
+        "popularity": 0.5109,
+        "profile_path": "/xKdVdeiC3HZAtNrdPpGrYykwMXQ.jpg",
+        "cast_id": 26,
+        "character": "Dr. Chang",
+        "credit_id": "681395f0cdb97588e7020935",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2273915,
+        "known_for_department": "Acting",
+        "name": "Hyun Bong Sik",
+        "original_name": "현봉식",
+        "popularity": 0.8169,
+        "profile_path": "/6NS02ljZ2ssoFyxEM0Jp2SpWYC5.jpg",
+        "cast_id": 27,
+        "character": "Mr. Ku, The Organ Trafficker",
+        "credit_id": "681502d226e541e139be8e2f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2306987,
+        "known_for_department": "Acting",
+        "name": "정현준",
+        "original_name": "정현준",
+        "popularity": 0.6631,
+        "profile_path": "/vZadA6ip6V2kh0VZW9RwnLcYFgW.jpg",
+        "cast_id": 29,
+        "character": "Bae Do-young",
+        "credit_id": "6815031c241c5937a4be8e53",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3640642,
+        "known_for_department": "Acting",
+        "name": "윤채나",
+        "original_name": "윤채나",
+        "popularity": 0.246,
+        "profile_path": "/tPEOimh1TC7OICtGix6DP8xciDu.jpg",
+        "cast_id": 30,
+        "character": "Kang Haeni",
+        "credit_id": "6815035ffbeb5a1010030c07",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1191711,
+        "known_for_department": "Acting",
+        "name": "길해연",
+        "original_name": "길해연",
+        "popularity": 0.6205,
+        "profile_path": "/2mfEbiYfezKfC2XJ7WXcEARct.jpg",
+        "cast_id": 31,
+        "character": "Ms. Hong, The Client",
+        "credit_id": "681504e76ea216a5e984c67e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1145852,
+        "known_for_department": "Acting",
+        "name": "박지아",
+        "original_name": "박지아",
+        "popularity": 0.5339,
+        "profile_path": "/y8f7dDJvzZ08ikTJJjxWIWL14vK.jpg",
+        "cast_id": 32,
+        "character": "Carer for the Elderly with Dementia",
+        "credit_id": "68150669fbeb5a1010030c39",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96663,
+        "known_for_department": "Acting",
+        "name": "박명신",
+        "original_name": "박명신",
+        "popularity": 0.5971,
+        "profile_path": "/4VXJXafwdzVMugBeTtTHf6RtDKS.jpg",
+        "cast_id": 33,
+        "character": "Hospital Director",
+        "credit_id": "6815069023b73a4074912bb9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3245268,
+        "known_for_department": "Acting",
+        "name": "권다함",
+        "original_name": "권다함",
+        "popularity": 0.3949,
+        "profile_path": "/ulInuoKvagzuCPmuRNQiFyHLFLv.jpg",
+        "cast_id": 34,
+        "character": "Son of Hospital Director",
+        "credit_id": "6815075844116ab7bc912bb4",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2104285,
+        "known_for_department": "Acting",
+        "name": "한해인",
+        "original_name": "한해인",
+        "popularity": 0.2998,
+        "profile_path": "/211ThVbEv3pdmHTuUsAZBNXbud6.jpg",
+        "cast_id": 28,
+        "character": "Ryu's Wife",
+        "credit_id": "681502fd0d356ee5cc030d46",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87090,
+        "known_for_department": "Acting",
+        "name": "천호진",
+        "original_name": "천호진",
+        "popularity": 0.8216,
+        "profile_path": "/eS5jGpHrBDu3wtHHEfUNkwnZ0uE.jpg",
+        "cast_id": 54,
+        "character": "Director Sohn's father",
+        "credit_id": "68aaf6283105f27bb69dae95",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64454,
+        "known_for_department": "Acting",
+        "name": "기주봉",
+        "original_name": "기주봉",
+        "popularity": 0.6993,
+        "profile_path": "/uliB2ZpdxcnDqPCG34YB69qR8vp.jpg",
+        "cast_id": 55,
+        "character": "Manager Choi",
+        "credit_id": "68aaf65559474a61271e4c5b",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 572182,
+        "known_for_department": "Acting",
+        "name": "전노민",
+        "original_name": "전노민",
+        "popularity": 0.553,
+        "profile_path": "/b3GzIYGEvUg3fQGygjo41xcQoq8.jpg",
+        "cast_id": 56,
+        "character": "Chairman Shim",
+        "credit_id": "68aaf6732d2c51440e448af8",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127850,
+        "known_for_department": "Acting",
+        "name": "이도경",
+        "original_name": "이도경",
+        "popularity": 0.3691,
+        "profile_path": "/9b1QGzRaYPUphI52Ax5GmcfxEhu.jpg",
+        "cast_id": 57,
+        "character": "Ji Doo-ha",
+        "credit_id": "68aaf6acb5a1b18a19670237",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2595111,
+        "known_for_department": "Acting",
+        "name": "진호은",
+        "original_name": "진호은",
+        "popularity": 0.8441,
+        "profile_path": "/qUbjtCCnltqTXaK4hZUHOdUBDMl.jpg",
+        "cast_id": 58,
+        "character": "Kindergarten teacher",
+        "credit_id": "68aaf6bbcdbf8cca73670351",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4676205,
+        "known_for_department": "Writing",
+        "name": "구병모",
+        "original_name": "구병모",
+        "popularity": 0.2546,
+        "profile_path": "/hJRG9W7BlWIkgzCn0Ea8hT9MyXa.jpg",
+        "credit_id": "664710670d6cd6f50f2f328d",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150150,
+        "known_for_department": "Directing",
+        "name": "민규동",
+        "original_name": "민규동",
+        "popularity": 0.6541,
+        "profile_path": "/7XzmPy2Bo3qGeonyZ0rBf1yiHwF.jpg",
+        "credit_id": "6649d32dddbb1ab83d795706",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2355647,
+        "known_for_department": "Editing",
+        "name": "정지은",
+        "original_name": "정지은",
+        "popularity": 0.2853,
+        "profile_path": null,
+        "credit_id": "6756daec0982b462678a2a6a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1326174,
+        "known_for_department": "Production",
+        "name": "민진수",
+        "original_name": "민진수",
+        "popularity": 0.2226,
+        "profile_path": null,
+        "credit_id": "6789c0eae98081f582979dba",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2424989,
+        "known_for_department": "Camera",
+        "name": "Lee Jae-woo",
+        "original_name": "Lee Jae-woo",
+        "popularity": 0.2402,
+        "profile_path": null,
+        "credit_id": "678c616ba915feb71065045a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150150,
+        "known_for_department": "Directing",
+        "name": "민규동",
+        "original_name": "민규동",
+        "popularity": 0.6541,
+        "profile_path": "/7XzmPy2Bo3qGeonyZ0rBf1yiHwF.jpg",
+        "credit_id": "678f70d3e1af20590faab4d4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1674270,
+        "known_for_department": "Art",
+        "name": "Bae Jung-yoon",
+        "original_name": "Bae Jung-yoon",
+        "popularity": 0.2892,
+        "profile_path": null,
+        "credit_id": "67acc75bd63e9deeea36cd42",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293604,
+        "known_for_department": "Sound",
+        "name": "Kim Jun-seong",
+        "original_name": "Kim Jun-seong",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "67acc7731168deda109f2da9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2313865,
+        "known_for_department": "Sound",
+        "name": "공태원",
+        "original_name": "공태원",
+        "popularity": 0.2063,
+        "profile_path": null,
+        "credit_id": "68174c22aef2e53c6ed4c94e",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5134860,
+        "known_for_department": "Art",
+        "name": "박성윤",
+        "original_name": "박성윤",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "credit_id": "68aaf4d168d62872b38d1f6a",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5645705,
+        "known_for_department": "Writing",
+        "name": "김동완",
+        "original_name": "김동완",
+        "popularity": 0.1547,
+        "profile_path": null,
+        "credit_id": "68aaf525eab92453cb6ce5aa",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2678917,
+        "known_for_department": "Writing",
+        "name": "Byun Hye-joo",
+        "original_name": "Byun Hye-joo",
+        "popularity": 0.2699,
+        "profile_path": null,
+        "credit_id": "68aaf53a22347146a8781cfa",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4638425,
+        "known_for_department": "Production",
+        "name": "Park Jae-sung",
+        "original_name": "Park Jae-sung",
+        "popularity": 0.2461,
+        "profile_path": null,
+        "credit_id": "68aaf545b7d81a70b4547f88",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391603,
+        "known_for_department": "Lighting",
+        "name": "Lee Jae-geon",
+        "original_name": "Lee Jae-geon",
+        "popularity": 0.1282,
+        "profile_path": null,
+        "credit_id": "68aaf5586fa7bc3adba9a005",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4569723,
+        "known_for_department": "Camera",
+        "name": "Jeong Min-ho",
+        "original_name": "Jeong Min-ho",
+        "popularity": 0.104,
+        "profile_path": null,
+        "credit_id": "68aaf5612cf904ae89a9a0a6",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3377906,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shin Yeon-jeong",
+        "original_name": "Shin Yeon-jeong",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "68aaf579e8163640b3781eba",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1294959,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jang Joo-hee",
+        "original_name": "Jang Joo-hee",
+        "popularity": 0.3764,
+        "profile_path": null,
+        "credit_id": "68aaf58599963babd29dad46",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2078536,
+        "known_for_department": "Crew",
+        "name": "Noh Nam-seok",
+        "original_name": "Noh Nam-seok",
+        "popularity": 0.3202,
+        "profile_path": null,
+        "credit_id": "68aaf591c9856d112a9daf32",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5645711,
+        "known_for_department": "Crew",
+        "name": "심철민",
+        "original_name": "심철민",
+        "popularity": 0.1951,
+        "profile_path": null,
+        "credit_id": "68aaf598c1d786a8645480ce",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3422959,
+        "known_for_department": "Sound",
+        "name": "Shon Yong-ik",
+        "original_name": "Shon Yong-ik",
+        "popularity": 0.2858,
+        "profile_path": null,
+        "credit_id": "68aaf5a40e594afe4d9dac44",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5645713,
+        "known_for_department": "Visual Effects",
+        "name": "신상수",
+        "original_name": "신상수",
+        "popularity": 0.1617,
+        "profile_path": null,
+        "credit_id": "68aaf5b3f36db17dc58d1f10",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2499559,
+        "known_for_department": "Editing",
+        "name": "박진호",
+        "original_name": "박진호",
+        "popularity": 0.2032,
+        "profile_path": null,
+        "credit_id": "68aaf5c80e594afe4d9dac47",
+        "department": "Editing",
+        "job": "Digital Intermediate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197563,
+        "known_for_department": "Visual Effects",
+        "name": "Hong Jang-pyo",
+        "original_name": "Hong Jang-pyo",
+        "popularity": 0.2828,
+        "profile_path": null,
+        "credit_id": "68aaf5d3a628d42a61448ae6",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905742,
+        "known_for_department": "Visual Effects",
+        "name": "Jeong Jong-bae",
+        "original_name": "Jeong Jong-bae",
+        "popularity": 0.253,
+        "profile_path": null,
+        "credit_id": "68aaf5d90217ddf7dc54820c",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5645715,
+        "known_for_department": "Production",
+        "name": "이기훈",
+        "original_name": "이기훈",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "68aaf5e74f457c2748448b6b",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5645716,
+        "known_for_department": "Directing",
+        "name": "곽병민",
+        "original_name": "곽병민",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "68aaf5f1e15eaed8e48d20ac",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4033411,
+        "known_for_department": "Camera",
+        "name": "정종헌",
+        "original_name": "정종헌",
+        "popularity": 0.1346,
+        "profile_path": null,
+        "credit_id": "68aaf73ceaf5c82d78448aa5",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Brussels International Fantastic Film Festival",
+            "release_date": "2025-04-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Neuchâtel International Fantastic Film Festival",
+            "release_date": "2025-07-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing International Film Festival",
+            "release_date": "2025-04-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2025-02-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-26T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sitges Film Festival",
+            "release_date": "2025-10-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Helsinki International Film Festival",
+            "release_date": "2025-09-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "L'Étrange Festival",
+            "release_date": "2025-09-02T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "SXSW London",
+            "release_date": "2025-06-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-09T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-09T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Korean Film Festival",
+            "release_date": "2025-10-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-30T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "International Cut",
+            "release_date": "2025-12-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kharkhorum International Film Festival ",
+            "release_date": "2025-06-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Warsaw Korean Film Festival",
+            "release_date": "2025-10-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "MOTELX - Lisbon International Horror Film Festival",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "47th Moscow International Film Festival",
+            "release_date": "2025-04-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-16T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  }
+}

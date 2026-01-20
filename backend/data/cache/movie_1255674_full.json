@@ -1,0 +1,525 @@
+{
+  "adult": false,
+  "backdrop_path": "/A1prqBBKiwfnahBnNgM1t5y5vmA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 1255674,
+  "imdb_id": "tt31613162",
+  "origin_country": [
+    "AR",
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Vieja loca",
+  "overview": "",
+  "popularity": 90.9635,
+  "poster_path": "/a2EdW8sk22fNCvrpOiaHbR2hOuZ.jpg",
+  "production_companies": [
+    {
+      "id": 53490,
+      "logo_path": null,
+      "name": "La Trini",
+      "origin_country": ""
+    },
+    {
+      "id": 134166,
+      "logo_path": "/tINT6vMiVhG0LuLbDYxXZlGMm6L.png",
+      "name": "Primo Content",
+      "origin_country": "AR"
+    },
+    {
+      "id": 27628,
+      "logo_path": "/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png",
+      "name": "Bambú Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 16948,
+      "logo_path": "/oZKnEm3BUXsiV8znce6fX26ad3R.png",
+      "name": "La Unión de los Ríos",
+      "origin_country": "AR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-10-10",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vieja loca",
+  "video": false,
+  "vote_average": 5.818,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2744,
+        "known_for_department": "Acting",
+        "name": "Carmen Maura",
+        "original_name": "Carmen Maura",
+        "popularity": 0.8785,
+        "profile_path": "/sXvr7BvxscBkYpGTcYjpqbzkUSH.jpg",
+        "cast_id": 1,
+        "character": "Alicia",
+        "credit_id": "65e9e0cb7f4f21017bdba4bd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131867,
+        "known_for_department": "Acting",
+        "name": "Daniel Hendler",
+        "original_name": "Daniel Hendler",
+        "popularity": 0.6916,
+        "profile_path": "/8Q36TGfbnm4CjuKVWz1XGmTiZtk.jpg",
+        "cast_id": 2,
+        "character": "Pedro",
+        "credit_id": "65e9e0da3396b9016283c502",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1205006,
+        "known_for_department": "Writing",
+        "name": "Agustina Liendo",
+        "original_name": "Agustina Liendo",
+        "popularity": 0.2092,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Laura",
+        "credit_id": "68b5e4017c5bec6e009e231a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5055166,
+        "known_for_department": "Acting",
+        "name": "Emma Cetrángolo",
+        "original_name": "Emma Cetrángolo",
+        "popularity": 0.1121,
+        "profile_path": "/yJeZGb94F0Z5beuR1nKlh3mNYkP.jpg",
+        "cast_id": 16,
+        "character": "Elena",
+        "credit_id": "68b5e40b28cb1c6b9e158586",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1728864,
+        "known_for_department": "Acting",
+        "name": "Camila Peralta",
+        "original_name": "Camila Peralta",
+        "popularity": 0.4241,
+        "profile_path": "/tmCYBZ8rCdLsK8hgjB1EBh83Cz8.jpg",
+        "cast_id": 23,
+        "character": "Victoria",
+        "credit_id": "690d3cb812ca476d5add0fbe",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117847,
+        "known_for_department": "Acting",
+        "name": "Ezequiel Díaz",
+        "original_name": "Ezequiel Díaz",
+        "popularity": 0.3547,
+        "profile_path": "/xABb3qvk74FLYyUma6Zm61nYkWT.jpg",
+        "cast_id": 24,
+        "character": "Ramiro",
+        "credit_id": "690d3d0b3330221fc43a84b1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3511308,
+        "known_for_department": "Directing",
+        "name": "Olivia Nuss",
+        "original_name": "Olivia Nuss",
+        "popularity": 0.3134,
+        "profile_path": "/s7XvZq9UYjb5pCckIOx6np8m6ix.jpg",
+        "cast_id": 25,
+        "character": "Mujer laguna 3",
+        "credit_id": "690d3d227964fd978b3a832d",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84676,
+        "known_for_department": "Writing",
+        "name": "Martín Mauregui",
+        "original_name": "Martín Mauregui",
+        "popularity": 0.2907,
+        "profile_path": null,
+        "credit_id": "65e9e1326beaea01867a6df0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84676,
+        "known_for_department": "Writing",
+        "name": "Martín Mauregui",
+        "original_name": "Martín Mauregui",
+        "popularity": 0.2907,
+        "profile_path": null,
+        "credit_id": "65e9e13672c13e0162c3fef1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3896747,
+        "known_for_department": "Creator",
+        "name": "Nicolás Pérez Veiga",
+        "original_name": "Nicolás Pérez Veiga",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "65e9e3ef6a2227014a94c85e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51894,
+        "known_for_department": "Directing",
+        "name": "J. A. Bayona",
+        "original_name": "J. A. Bayona",
+        "popularity": 0.7381,
+        "profile_path": "/cnbbnS7K8Uu6yohAfSRHv5Kxc7r.jpg",
+        "credit_id": "65e9e39c3396b9016283c723",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3757870,
+        "known_for_department": "Directing",
+        "name": "Gabriela Carcova Krichmar",
+        "original_name": "Gabriela Carcova Krichmar",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "65e9e3bc6beaea01867a70b9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2163071,
+        "known_for_department": "Production",
+        "name": "Agustina Llambi Campbell",
+        "original_name": "Agustina Llambi Campbell",
+        "popularity": 0.1277,
+        "profile_path": "/lE4ln949FMP4NU6mvWBLKemVhWq.jpg",
+        "credit_id": "65e9e3e46beaea01867a7111",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2645535,
+        "known_for_department": "Production",
+        "name": "Alfredo Pérez Veiga",
+        "original_name": "Alfredo Pérez Veiga",
+        "popularity": 0.0979,
+        "profile_path": null,
+        "credit_id": "65e9e4267c6de3014907ce03",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17003,
+        "known_for_department": "Production",
+        "name": "Belén Atienza",
+        "original_name": "Belén Atienza",
+        "popularity": 0.2341,
+        "profile_path": null,
+        "credit_id": "65e9e3a4d100b601854cf253",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 969757,
+        "known_for_department": "Production",
+        "name": "Ron Halpern",
+        "original_name": "Ron Halpern",
+        "popularity": 0.4004,
+        "profile_path": "/vTDgDF35XMn8eLMpc0XE47eLzuT.jpg",
+        "credit_id": "65e9e43b7f4f210148d9e4b5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4470014,
+        "known_for_department": "Directing",
+        "name": "Víctor Fandiño",
+        "original_name": "Víctor Fandiño",
+        "popularity": 0.1049,
+        "profile_path": "/mLCVgJHMzPGHaXyf0CroJwN693T.jpg",
+        "credit_id": "68f3f9c134075c3b02f99aa2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3350004,
+        "known_for_department": "Production",
+        "name": "Carolina Agunin",
+        "original_name": "Carolina Agunin",
+        "popularity": 0.0838,
+        "profile_path": null,
+        "credit_id": "68f3fa61c255a96681751d54",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983123,
+        "known_for_department": "Sound",
+        "name": "Pedro Osuna",
+        "original_name": "Pedro Osuna",
+        "popularity": 0.0844,
+        "profile_path": null,
+        "credit_id": "68f3fb1fe22c6802f97e2dd3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557711,
+        "known_for_department": "Camera",
+        "name": "Julián Apezteguia",
+        "original_name": "Julián Apezteguia",
+        "popularity": 0.1187,
+        "profile_path": "/wWRn3AT8bnHfPOxAZYWdeffTInD.jpg",
+        "credit_id": "68f3fb3d9960882ab18d01b7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1205002,
+        "known_for_department": "Editing",
+        "name": "Andrés Pepe Estrada",
+        "original_name": "Andrés Pepe Estrada",
+        "popularity": 0.2279,
+        "profile_path": null,
+        "credit_id": "68f3fb50d61d63f1d5baf4c6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1801308,
+        "known_for_department": "Art",
+        "name": "Matías Martínez",
+        "original_name": "Matías Martínez",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "68f3fb94456e6986e700d824",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2843058,
+        "known_for_department": "Sound",
+        "name": "Willy Vila",
+        "original_name": "Willy Vila",
+        "popularity": 0.0723,
+        "profile_path": "/jqQmwfodUsDPsl5SP9a8i4NFAPJ.jpg",
+        "credit_id": "696bc0a7bed723460736a786",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasy Filmfest White Nights",
+            "release_date": "2026-01-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shudder",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD rental",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantastic Fest",
+            "release_date": "2025-09-21T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AMC+/Shudder",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

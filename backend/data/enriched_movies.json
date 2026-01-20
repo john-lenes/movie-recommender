@@ -1,0 +1,4134 @@
+[
+  {
+    "id": 1,
+    "title": "Toy Story",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "rating_stats": {
+      "average": 3.92,
+      "count": 215,
+      "min": 0.5,
+      "max": 5.0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Jumanji",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "rating_stats": {
+      "average": 3.43,
+      "count": 110,
+      "min": 0.5,
+      "max": 5.0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Grumpier Old Men",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.26,
+      "count": 52,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 15602,
+    "imdb_id": "tt0113228",
+    "original_title": "Grumpier Old Men",
+    "overview": "Dois velhos amigos brigam por vários anos e exceto pelo fato de um deles (Jack Lemmon) ter casado recentemente, parece que nada mais mudou. Mas quando uma bela italiana (Sophia Loren) decide transformar a loja de iscas em um \"ristorante\" as coisas se complicam, se complicando ainda mais quando ela passa a se interessar pelo solteirão (Walter Matthau) da dupla.",
+    "tagline": "Só há uma coisa mais forte do que dois velhos rabugentos: uma mulher de caráter.",
+    "runtime": 101,
+    "vote_average": 6.483,
+    "vote_count": 414,
+    "popularity": 2.2781,
+    "poster_path": "/4wGrG45BhrHjPJypQ3Wzf5Eoz74.jpg",
+    "backdrop_path": "/1o4vuCHpmd4DXofMYDUwpnhKiuy.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-22",
+    "tmdb_genres": [
+      "Romance",
+      "Comédia"
+    ],
+    "keywords": [
+      "fishing",
+      "sequel",
+      "old man",
+      "best friend",
+      "wedding",
+      "italian restaurant",
+      "old friends",
+      "duringcreditsstinger",
+      "pranks"
+    ],
+    "director": "Howard Deutch",
+    "cast": [
+      "Walter Matthau",
+      "Jack Lemmon",
+      "Ann-Margret",
+      "Sophia Loren",
+      "Daryl Hannah",
+      "Burgess Meredith",
+      "Kevin Pollak",
+      "Katie Sagona",
+      "Ann Morgan Guilbert",
+      "James Andelin"
+    ],
+    "production_companies": [
+      "Lancaster Gate",
+      "Warner Bros. Pictures"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Father of the Bride Part II",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "rating_stats": {
+      "average": 3.07,
+      "count": 49,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 11862,
+    "imdb_id": "tt0113041",
+    "original_title": "Father of the Bride Part II",
+    "overview": "Após todas as confusões envolvendo o casamento de sua filha, George Banks (Steve Martin) vê sua vida virar de cabeça para baixo ao receber uma dupla notícia: sua filha recém-casada e sua esposa estão grávidas.",
+    "tagline": "Quando seu mundo voltar ao normal... ele terá a surpresa de sua vida!",
+    "runtime": 106,
+    "vote_average": 6.269,
+    "vote_count": 787,
+    "popularity": 3.9477,
+    "poster_path": "/jleYA9C53MR7rajS7LUV0xFbzJo.jpg",
+    "backdrop_path": "/lEsjVrGU21BeJjF5AF9EWsihDpw.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-08",
+    "tmdb_genres": [
+      "Comédia",
+      "Família"
+    ],
+    "keywords": [
+      "daughter",
+      "baby",
+      "parent child relationship",
+      "midlife crisis",
+      "pregnancy",
+      "confidence",
+      "aging",
+      "sequel",
+      "remake",
+      "los angeles, california",
+      "pregnant woman",
+      "contraception",
+      "gynecologist",
+      "pregnant"
+    ],
+    "director": "Charles Shyer",
+    "cast": [
+      "Steve Martin",
+      "Diane Keaton",
+      "Martin Short",
+      "Kimberly Williams-Paisley",
+      "George Newbern",
+      "Kieran Culkin",
+      "BD Wong",
+      "Peter Michael Goetz",
+      "Kate McGregor-Stewart",
+      "Jane Adams"
+    ],
+    "production_companies": [
+      "Touchstone Pictures",
+      "Sandollar Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Heat",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.95,
+      "count": 102,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 949,
+    "imdb_id": "tt0113277",
+    "original_title": "Heat",
+    "overview": "O ladrão obsessivo Neil McCauley lidera uma equipe de primeira linha em vários assaltos ousados ​​por Los Angeles, enquanto o determinado detetive Vincent Hanna o persegue sem descanso. Cada homem reconhece e respeita a capacidade e a dedicação do outro, mesmo sabendo que o seu jogo de gato e rato pode terminar em violência.",
+    "tagline": "Uma saga de crime e obsessão.",
+    "runtime": 170,
+    "vote_average": 7.926,
+    "vote_count": 8015,
+    "popularity": 13.6627,
+    "poster_path": "/kqT6z0L0ArfUyEks4oJUFcz8hYa.jpg",
+    "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-15",
+    "tmdb_genres": [
+      "Crime",
+      "Drama",
+      "Ação"
+    ],
+    "keywords": [
+      "robbery",
+      "chase",
+      "obsession",
+      "detective",
+      "heist",
+      "thief",
+      "honor",
+      "murder",
+      "betrayal",
+      "gang",
+      "los angeles, california",
+      "cat and mouse",
+      "bank robbery",
+      "criminal mastermind",
+      "cynical",
+      "ex-con",
+      "one last job",
+      "loner",
+      "bank job",
+      "neo-noir"
+    ],
+    "director": "Michael Mann",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer",
+      "Jon Voight",
+      "Tom Sizemore",
+      "Diane Venora",
+      "Amy Brenneman",
+      "Ashley Judd",
+      "Mykelti Williamson",
+      "Wes Studi"
+    ],
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Regency Enterprises",
+      "Forward Pass"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Sabrina",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.19,
+      "count": 54,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 11860,
+    "imdb_id": "tt0114319",
+    "original_title": "Sabrina",
+    "overview": "Sabrina é filha do chofer da rica família Larrabee. Ela passa dois anos em Paris e volta como uma mulher sofisticada, atraindo a atenção de David, o caçula dos Larrabee, por quem sempre foi apaixonada. Linus, o mais velho, tenta impedir o romance.",
+    "tagline": "Sabrina",
+    "runtime": 127,
+    "vote_average": 6.2,
+    "vote_count": 663,
+    "popularity": 2.5829,
+    "poster_path": "/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
+    "backdrop_path": "/oMGV48EGhsNavC1PL8HMeWs5Udq.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-15",
+    "tmdb_genres": [
+      "Romance",
+      "Drama",
+      "Comédia"
+    ],
+    "keywords": [
+      "chauffeur",
+      "sibling relationship",
+      "paris, france",
+      "transformation",
+      "birthday party",
+      "family business ",
+      "long island, new york",
+      "playboy",
+      "teenage crush",
+      "millionaire",
+      "marriage engagement",
+      "high society",
+      "merger",
+      "impossible love",
+      "family disapproval",
+      "scheme",
+      "wealth differences",
+      "wealthy family",
+      "father daughter relationship",
+      "brother brother relationship"
+    ],
+    "director": "Sydney Pollack",
+    "cast": [
+      "Harrison Ford",
+      "Julia Ormond",
+      "Greg Kinnear",
+      "Nancy Marchand",
+      "John Wood",
+      "Richard Crenna",
+      "Angie Dickinson",
+      "Lauren Holly",
+      "Dana Ivey",
+      "Miriam Colon"
+    ],
+    "production_companies": [
+      "Paramount Pictures",
+      "Constellation Films",
+      "Mirage Enterprises",
+      "Scott Rudin Productions",
+      "Sandollar Productions"
+    ],
+    "production_countries": [
+      "Germany",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Sudden Death",
+    "year": 1995,
+    "genres": [
+      "Action"
+    ],
+    "rating_stats": {
+      "average": 3.12,
+      "count": 16,
+      "min": 1.5,
+      "max": 5.0
+    },
+    "tmdb_id": 9091,
+    "imdb_id": "tt0114576",
+    "original_title": "Sudden Death",
+    "overview": "O inspetor de incêndios Darren McCord vai a um jogo de hóquei com seus dois filhos. No jogo, o vice-presidente dos EUA é vítima de terroristas comandados pelo ex-agente da CIA Joshua Foss, que idealizou um esquema para fazê-lo de refém e exigir dinheiro. Além disso, existem bombas escondidas no estádio prontas para serem detonadas no final do jogo. Darren descobre o plano e, usando suas habilidades marciais, precisa lidar com as bombas, com os terroristas, com o sequestro da filha e com o tempo.",
+    "tagline": "O terror vai até a prorrogação",
+    "runtime": 110,
+    "vote_average": 6.008,
+    "vote_count": 780,
+    "popularity": 1.8992,
+    "poster_path": "/vBu3ggozN5xJjUzrkYgAVoI7LLI.jpg",
+    "backdrop_path": "/wPSHboBNEInknw4VnCWOD2D8qc2.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-10-27",
+    "tmdb_genres": [
+      "Ação",
+      "Drama",
+      "Thriller",
+      "Crime"
+    ],
+    "keywords": [
+      "explosive",
+      "hostage",
+      "ice hockey",
+      "terrorism",
+      "vice president",
+      "pittsburgh, pennsylvania",
+      "pittsburgh penguins"
+    ],
+    "director": "Peter Hyams",
+    "cast": [
+      "Jean-Claude Van Damme",
+      "Powers Boothe",
+      "Raymond J. Barry",
+      "Whittni Wright",
+      "Ross Malinger",
+      "Dorian Harewood",
+      "Kate McNeil",
+      "Michael Gaston",
+      "Audra Lindley",
+      "Brian Delate"
+    ],
+    "production_companies": [
+      "Shattered Productions",
+      "Universal Pictures",
+      "Imperial Entertainment",
+      "Signature Entertainment"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "GoldenEye",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.5,
+      "count": 132,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 710,
+    "imdb_id": "tt0113189",
+    "original_title": "GoldenEye",
+    "overview": "James Bond precisa impedir que o controle do poderoso satélite GoldenEye, capaz de causar pane em qualquer equipamento eletrônico do mundo, caia em mãos erradas. Para isso, contará com a ajuda da bela especialista em computação Natalya Siminova.",
+    "tagline": "Quando o mundo é o alvo e a ameaça é real, você ainda pode depender de um homem.",
+    "runtime": 130,
+    "vote_average": 6.899,
+    "vote_count": 4184,
+    "popularity": 4.7286,
+    "poster_path": "/l9ouf5HFQQWKLD2I8UkSzj7JqCS.jpg",
+    "backdrop_path": "/fIWsCpYR9iGDMSbMTSAzy8L7Kg5.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-11-16",
+    "tmdb_genres": [
+      "Aventura",
+      "Ação",
+      "Thriller"
+    ],
+    "keywords": [
+      "computer virus",
+      "cuba",
+      "falsely accused",
+      "secret intelligence service",
+      "secret identity",
+      "secret base",
+      "kgb",
+      "satellite",
+      "special car",
+      "cossack",
+      "electromagnetic pulse",
+      "time bomb",
+      "st. petersburg, russia",
+      "red army"
+    ],
+    "director": "Martin Campbell",
+    "cast": [
+      "Pierce Brosnan",
+      "Sean Bean",
+      "Izabella Scorupco",
+      "Famke Janssen",
+      "Joe Don Baker",
+      "Judi Dench",
+      "Robbie Coltrane",
+      "Tchéky Karyo",
+      "Gottfried John",
+      "Alan Cumming"
+    ],
+    "production_companies": [
+      "EON Productions"
+    ],
+    "production_countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "American President, The",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.67,
+      "count": 70,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9087,
+    "imdb_id": "tt0112346",
+    "original_title": "The American President",
+    "overview": "Andrew Sheperd (Michael Douglas) é o atual presidente americano, que perdeu a mulher, vítima de câncer, logo após ter sido eleito por uma margem mínima. No decorrer de três anos ele conseguiu uma aprovação de 63% do eleitorado, mas quando entra em uma fase do seu mandato em que tudo é calculado visando a reeleição, se envolve com uma lobista (Annette Bening). A paixão do presidente passa a ser o principal alvo de um senador (Richard Dreyfuss), que é candidato à presidência.",
+    "tagline": "Por que o homem mais poderoso do mundo não pode ter a única coisa que ele mais quer?",
+    "runtime": 114,
+    "vote_average": 6.5,
+    "vote_count": 760,
+    "popularity": 1.9949,
+    "poster_path": "/7qiiGueGWLAcTNPx8synnpKBNVZ.jpg",
+    "backdrop_path": "/62BnXyJtVEq4WKNSpnPG7QPYYDI.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-11-17",
+    "tmdb_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "new love",
+      "usa president",
+      "the white house",
+      "holiday",
+      "global warming",
+      "press",
+      "fossil fuel",
+      "dating",
+      "class differences",
+      "widower",
+      "wildlife conservation",
+      "lobbyist",
+      "father daughter relationship",
+      "widower with daughter",
+      "romantic"
+    ],
+    "director": "Rob Reiner",
+    "cast": [
+      "Michael Douglas",
+      "Annette Bening",
+      "Martin Sheen",
+      "Michael J. Fox",
+      "Anna Deavere Smith",
+      "Samantha Mathis",
+      "Shawna Waldron",
+      "David Paymer",
+      "Anne Haney",
+      "Richard Dreyfuss"
+    ],
+    "production_companies": [
+      "Castle Rock Entertainment",
+      "Universal Pictures",
+      "Wildwood Enterprises"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Dracula: Dead and Loving It",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "rating_stats": {
+      "average": 2.42,
+      "count": 19,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 12110,
+    "imdb_id": "tt0112896",
+    "original_title": "Dracula: Dead and Loving It",
+    "overview": "O procurador Thomas Renfield (Peter MacNicol) chega a Transilvânia para um encontro com Conde Drácula (Leslie Nielsen), onde é hipnotizado e passa a obedecer suas ordens. O plano do vampiro é ir a Londres e fazer de uma mulher sua eterna esposa e parceira, mas o Dr. Van Helsing (Mel Brooks) fará de tudo para detê-lo.",
+    "tagline": "",
+    "runtime": 88,
+    "vote_average": 6.065,
+    "vote_count": 1073,
+    "popularity": 2.4965,
+    "poster_path": "/jDdOCWn2Ugn8fUeojarlyjzgw8M.jpg",
+    "backdrop_path": "/rLUTSWHmphMe0wH0WSFxcywzOHW.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-22",
+    "tmdb_genres": [
+      "Comédia",
+      "Terror"
+    ],
+    "keywords": [
+      "vampire",
+      "satire",
+      "spoof",
+      "dracula"
+    ],
+    "director": "Mel Brooks",
+    "cast": [
+      "Leslie Nielsen",
+      "Mel Brooks",
+      "Amy Yasbeck",
+      "Peter MacNicol",
+      "Lysette Anthony",
+      "Harvey Korman",
+      "Steven Weber",
+      "Mark Blankfield",
+      "Megan Cavanagh",
+      "Gregg Binkley"
+    ],
+    "production_companies": [
+      "Castle Rock Entertainment",
+      "Brooksfilms",
+      "Gaumont"
+    ],
+    "production_countries": [
+      "France",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Nixon",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.83,
+      "count": 18,
+      "min": 3.0,
+      "max": 5.0
+    },
+    "tmdb_id": 10858,
+    "imdb_id": "tt0113987",
+    "original_title": "Nixon",
+    "overview": "A incrível trajetória de Richard Nixon (Anthony Hopkins) desde a sua infância, passando por sua derrota para John F. Kennedy, sua ascensão política, que teve como ápice ser eleito duas vezes presidente, e sua subsequente queda com o escândalo Watergate, que o aniquilou politicamente.",
+    "tagline": "Triunfante na vitória, amargo na derrota. Ele mudou o mundo, mas perdeu uma nação.",
+    "runtime": 192,
+    "vote_average": 6.868,
+    "vote_count": 386,
+    "popularity": 1.7312,
+    "poster_path": "/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+    "backdrop_path": "/zAaFQHZV23SJgSwRBvW5PeD219H.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-22",
+    "tmdb_genres": [
+      "Drama",
+      "História"
+    ],
+    "keywords": [
+      "usa president",
+      "washington dc, usa",
+      "government",
+      "presidential election",
+      "1970s",
+      "watergate scandal",
+      "biography",
+      "historical figure",
+      "richard nixon",
+      "1960s",
+      "ambiguous",
+      "disapproving",
+      "disdainful",
+      "disheartening",
+      "earnest",
+      "empathetic",
+      "frustrated"
+    ],
+    "director": "Oliver Stone",
+    "cast": [
+      "Anthony Hopkins",
+      "Joan Allen",
+      "Powers Boothe",
+      "Ed Harris",
+      "Bob Hoskins",
+      "E.G. Marshall",
+      "David Paymer",
+      "David Hyde Pierce",
+      "Paul Sorvino",
+      "Mary Steenburgen"
+    ],
+    "production_companies": [
+      "Cinergi Pictures",
+      "Hollywood Pictures",
+      "Illusion Entertainment Group"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Cutthroat Island",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.0,
+      "count": 13,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 1408,
+    "imdb_id": "tt0112760",
+    "original_title": "Cutthroat Island",
+    "overview": "Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.",
+    "tagline": "O curso foi definido. Invoque sua coragem. Descubra a aventura de sua vida!",
+    "runtime": 124,
+    "vote_average": 5.8,
+    "vote_count": 599,
+    "popularity": 1.8554,
+    "poster_path": "/arv8NOL2eOKcOs54PCXj7EsOiZ6.jpg",
+    "backdrop_path": "/ndjMBg9FINJBEi1RaP64oLApR1s.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-22",
+    "tmdb_genres": [
+      "Ação",
+      "Aventura"
+    ],
+    "keywords": [
+      "ship",
+      "treasure",
+      "exotic island",
+      "island",
+      "map",
+      "scalp",
+      "treasure map",
+      "sword fight",
+      "betrayal",
+      "pirate",
+      "heroine",
+      "swashbuckler",
+      "adventurer",
+      "pirate ship",
+      "17th century"
+    ],
+    "director": "Renny Harlin",
+    "cast": [
+      "Geena Davis",
+      "Matthew Modine",
+      "Frank Langella",
+      "Maury Chaykin",
+      "Patrick Malahide",
+      "Stan Shaw",
+      "Rex Linn",
+      "Paul Dillon",
+      "Christopher Masterson",
+      "Jimmie F. Skaggs"
+    ],
+    "production_companies": [
+      "Carolco Pictures",
+      "Forge",
+      "Laurence Mark Productions",
+      "Beckner/Gorman Productions",
+      "Le Studio Canal+"
+    ],
+    "production_countries": [
+      "United States of America",
+      "France",
+      "Germany",
+      "Italy"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Casino",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.93,
+      "count": 82,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 524,
+    "imdb_id": "tt0112641",
+    "original_title": "Casino",
+    "overview": "No início dos anos 70, em Las Vegas, Sam \"Ace\" Rothstein é escolhido pelos seus chefes para dirigir o Cassino Tangiers. No início, ele é um grande sucesso no cargo, mas com o passar dos anos, problemas com o seu executor Nicky Santoro, a sua ex-mulher Ginger, o seu ex-vigarista Lester Diamond e um punhado de políticos corruptos colocam Sam em perigo cada vez maior.",
+    "tagline": "Ninguém fica no topo pra sempre.",
+    "runtime": 179,
+    "vote_average": 7.991,
+    "vote_count": 6331,
+    "popularity": 6.8937,
+    "poster_path": "/5tch5Gllpawf5triVw4cSsIQHTV.jpg",
+    "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-11-22",
+    "tmdb_genres": [
+      "Crime",
+      "Drama"
+    ],
+    "keywords": [
+      "drug abuse",
+      "casino",
+      "based on novel or book",
+      "poker",
+      "italian american",
+      "gambling",
+      "1970s",
+      "fbi",
+      "pimp",
+      "greed",
+      "cocaine",
+      "overdose",
+      "marriage",
+      "car bomb",
+      "rise and fall",
+      "money",
+      "murder",
+      "organized crime",
+      "mafia",
+      "jewish american"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci",
+      "James Woods",
+      "Don Rickles",
+      "Alan King",
+      "Kevin Pollak",
+      "L.Q. Jones",
+      "Dick Smothers",
+      "Frank Vincent"
+    ],
+    "production_companies": [
+      "Universal Pictures",
+      "Syalis DA",
+      "Légende Films",
+      "Cappa/De Fina Productions"
+    ],
+    "production_countries": [
+      "France",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Sense and Sensibility",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.78,
+      "count": 67,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 4584,
+    "imdb_id": "tt0114388",
+    "original_title": "Sense and Sensibility",
+    "overview": "Em virtude da morte do marido, uma viúva e as três filhas passam a enfrentar dificuldades financeiras, pois praticamente toda a herança foi para um filho do primeiro casamento, que ignora a promessa feita no leito de morte de seu pai que ampararia as meias-irmãs. Neste contexto, enquanto uma irmã prática (Emma Thompson), usando a razão como principal forma de conduzir as situações, a outra (Kate Winslet) se mostra emotiva, sem se reprimir nunca com uma sensibilidade flor da pele.",
+    "tagline": "Perca o seu coração e venha a seus sentidos.",
+    "runtime": 136,
+    "vote_average": 7.4,
+    "vote_count": 1797,
+    "popularity": 7.9549,
+    "poster_path": "/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
+    "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-13",
+    "tmdb_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "secret love",
+      "london, england",
+      "countryside",
+      "based on novel or book",
+      "widow",
+      "military officer",
+      "servant",
+      "country life",
+      "pneumonia",
+      "inheritance",
+      "period drama",
+      "rainstorm",
+      "decorum",
+      "horse carriage",
+      "young love",
+      "dowry",
+      "social class",
+      "19th century",
+      "penniless",
+      "social elite"
+    ],
+    "director": "李安",
+    "cast": [
+      "Emma Thompson",
+      "Kate Winslet",
+      "Alan Rickman",
+      "Hugh Grant",
+      "Gemma Jones",
+      "Greg Wise",
+      "Elizabeth Spriggs",
+      "Imogen Stubbs",
+      "Harriet Walter",
+      "James Fleet"
+    ],
+    "production_companies": [
+      "Columbia Pictures",
+      "Mirage Enterprises",
+      "Good Machine"
+    ],
+    "production_countries": [
+      "United States of America",
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Four Rooms",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "rating_stats": {
+      "average": 3.7,
+      "count": 20,
+      "min": 2.0,
+      "max": 5.0
+    },
+    "tmdb_id": 5,
+    "imdb_id": "tt0113101",
+    "original_title": "Four Rooms",
+    "overview": "Em uma véspera de Ano-Novo muito louca, o carregador de malas de um hotel precisa lidar com bruxas em um quarto, crianças diabólicas em outro, acaba no meio de uma relação problemática e de uma aposta sangrenta entre a comitiva de um superstar.",
+    "tagline": "A véspera de Ano Novo mais louca de sua vida",
+    "runtime": 102,
+    "vote_average": 5.881,
+    "vote_count": 2780,
+    "popularity": 2.8254,
+    "poster_path": "/6lNBW7dohayBDxNZlHnve6UlPSP.jpg",
+    "backdrop_path": "/c1BaOxC8bo5ACFYkYYxL0bBWRaq.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-09",
+    "tmdb_genres": [
+      "Comédia"
+    ],
+    "keywords": [
+      "hotel",
+      "new year's eve",
+      "witch",
+      "bet",
+      "sperm",
+      "hotel room",
+      "anthology",
+      "los angeles, california",
+      "hoodlum",
+      "multiple storylines",
+      "woman director",
+      "réveillon"
+    ],
+    "director": "Robert Rodriguez",
+    "cast": [
+      "Tim Roth",
+      "Jennifer Beals",
+      "David Proval",
+      "Ione Skye",
+      "Madonna",
+      "Antonio Banderas",
+      "Quentin Tarantino",
+      "Paul Calderon",
+      "Bruce Willis",
+      "Lana McKissack"
+    ],
+    "production_companies": [
+      "Miramax",
+      "A Band Apart"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Ace Ventura: When Nature Calls",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "rating_stats": {
+      "average": 2.73,
+      "count": 88,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9273,
+    "imdb_id": "tt0112281",
+    "original_title": "Ace Ventura: When Nature Calls",
+    "overview": "Depois de não conseguir salvar um guaxinim, Ace Ventura (Jim Carrey) impôs a si mesmo um exílio entre monges no Himalaia. Ele acaba deixando seu retiro espiritual para tentar encontrar o grande morcego branco sagrado, que foi prometido como dote a uma princesa de uma tribo africana. Caso o animal não seja recuperado em tempo hábil, uma guerra pode estourar entre tribos rivais.",
+    "tagline": "Novos animais. Novas aventuras. O mesmo cabelo.",
+    "runtime": 94,
+    "vote_average": 6.32,
+    "vote_count": 4412,
+    "popularity": 3.148,
+    "poster_path": "/2TmlbjEQ6DFWI2YFrS4MTmgIWOs.jpg",
+    "backdrop_path": "/h5Y9T4OoFpMrONhVBZvN2X2DfAB.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-11-10",
+    "tmdb_genres": [
+      "Crime",
+      "Comédia",
+      "Aventura"
+    ],
+    "keywords": [
+      "kidnapping",
+      "africa",
+      "indigenous",
+      "human animal relationship",
+      "bat",
+      "stupidity",
+      "slapstick comedy",
+      "animals",
+      "pets"
+    ],
+    "director": "Steve Oedekerk",
+    "cast": [
+      "Jim Carrey",
+      "Ian McNeice",
+      "Simon Callow",
+      "Maynard Eziashi",
+      "Bob Gunton",
+      "Sophie Okonedo",
+      "Tommy Davidson",
+      "Adewale Akinnuoye-Agbaje",
+      "Danny Daniels",
+      "Sam Phillips"
+    ],
+    "production_companies": [
+      "Morgan Creek Entertainment"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Money Train",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 2.5,
+      "count": 15,
+      "min": 1.0,
+      "max": 4.0
+    },
+    "tmdb_id": 11517,
+    "imdb_id": "tt0113845",
+    "original_title": "Money Train",
+    "overview": "John e Charlie são grandes amigos que trabalham como policiais de trânsito. No momento eles agem disfarçados, em pleno metrô de Nova York, e estão apaixonados por Grace Santiago, o que faz com que a rivalidade entre eles fique ainda maior. Após perder o emprego e passar por uma série de problemas, Charlie resolve elaborar um plano para roubar o trem que guarda todo o dinheiro ganho nas bilheterias do metrô. Cabe a John impedir que Charlie leva o plano adiante ou se juntar a ele na empreitada.",
+    "tagline": "Entre... ou saia do caminho.",
+    "runtime": 110,
+    "vote_average": 5.847,
+    "vote_count": 828,
+    "popularity": 3.0006,
+    "poster_path": "/g0ZcQL4stFhW7fAJrEaEYTxLEdE.jpg",
+    "backdrop_path": "/gyaBJn7eR8Ol205wmT2Xpi6IuhA.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-11-21",
+    "tmdb_genres": [
+      "Ação",
+      "Comédia",
+      "Crime"
+    ],
+    "keywords": [
+      "new york city",
+      "sibling relationship",
+      "subway",
+      "new york subway",
+      "train robbery"
+    ],
+    "director": "Joseph Ruben",
+    "cast": [
+      "Wesley Snipes",
+      "Woody Harrelson",
+      "Jennifer Lopez",
+      "Robert Blake",
+      "Chris Cooper",
+      "Joe Grifasi",
+      "Scott Sowers",
+      "Skipp Sudduth",
+      "Aida Turturro",
+      "Vincent Pastore"
+    ],
+    "production_companies": [
+      "Columbia Pictures",
+      "Peters Entertainment"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Get Shorty",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.49,
+      "count": 89,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 8012,
+    "imdb_id": "tt0113161",
+    "original_title": "Get Shorty",
+    "overview": "Um gângster (John Travolta) se vê em situação delicada quando seu chefe morre de um ataque cardíaco. Ele se vê obrigado a trabalhar para pessoas que não gosta e seu primeiro trabalho é cobrar em Los Angeles uma dívida de um produtor de filmes classe \"B\" (Gene Hackman). Mas ao chegar em Los Angeles sua paixão pelo cinema e a oportunidade de ter outro tipo de vida o fazem apostar todas as fichas em seu sonho.",
+    "tagline": "A Atitude Faz Parte Desse Jogo.",
+    "runtime": 105,
+    "vote_average": 6.498,
+    "vote_count": 1170,
+    "popularity": 1.8454,
+    "poster_path": "/obxS3oY2HaenWj1lTD5Fpwm5oUf.jpg",
+    "backdrop_path": "/wiZT8DVmAZNwmqd8G3QjWZ1mpLB.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-10-20",
+    "tmdb_genres": [
+      "Comédia",
+      "Thriller",
+      "Crime"
+    ],
+    "keywords": [
+      "based on novel or book",
+      "miami, florida",
+      "gambling",
+      "gangster",
+      "money",
+      "murder",
+      "travel",
+      "mobster",
+      "mafia",
+      "business",
+      "debt",
+      "hollywood",
+      "drugs",
+      "producer",
+      "con"
+    ],
+    "director": "Barry Sonnenfeld",
+    "cast": [
+      "John Travolta",
+      "Gene Hackman",
+      "Rene Russo",
+      "Danny DeVito",
+      "Dennis Farina",
+      "Delroy Lindo",
+      "James Gandolfini",
+      "Jon Gries",
+      "Renee Props",
+      "David Paymer"
+    ],
+    "production_companies": [
+      "Metro-Goldwyn-Mayer",
+      "Jersey Films"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Copycat",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.22,
+      "count": 36,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 1710,
+    "imdb_id": "tt0112722",
+    "original_title": "Copycat",
+    "overview": "Em São Francisco vive Helen Hudson (Sigourney Weaver), uma psiquiatra criminal que é especialista no comportamento de grandes serial killers mas sofre de agorafobia desde que foi atacada por um deles. Juntamente com M.J. Monahan (Holly Hunter), uma inspetora de polícia, ela luta contra o tempo para deter um serial killer que é discípulo do seu agressor e copia em seus crimes o modus operandi de famosos serial killers do passado.",
+    "tagline": "Uma psicóloga e uma policial a procura de um assassino que imita violentos crimes do passado",
+    "runtime": 124,
+    "vote_average": 6.464,
+    "vote_count": 1196,
+    "popularity": 5.7717,
+    "poster_path": "/4jf2ZtreVJjog3b8zNkjvGVitv3.jpg",
+    "backdrop_path": "/f0wTYitK1lELuGygXslG7SQpY0E.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-10-27",
+    "tmdb_genres": [
+      "Thriller",
+      "Crime",
+      "Mistério"
+    ],
+    "keywords": [
+      "police brutality",
+      "psychology",
+      "police operation",
+      "police protection",
+      "psychologist",
+      "serial killer",
+      "cowardliness"
+    ],
+    "director": "Jon Amiel",
+    "cast": [
+      "Sigourney Weaver",
+      "Holly Hunter",
+      "Dermot Mulroney",
+      "William McNamara",
+      "Harry Connick Jr.",
+      "J.E. Freeman",
+      "Will Patton",
+      "John Rothman",
+      "Shannon O'Hurley",
+      "Bob Greene"
+    ],
+    "production_companies": [
+      "Regency Enterprises"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Assassins",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.12,
+      "count": 16,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9691,
+    "imdb_id": "tt0112401",
+    "original_title": "Assassins",
+    "overview": "Um veterano assassino profissional, que é considerado o melhor no ramo, pensa em sair do negócio, mas resolve aceitar como último trabalho eliminar uma hacker. Ele acaba sendo traído pelo contratante, passando então a ser caçado por um jovem assassino, que planeja matá-lo para ficar no seu lugar. Esta situação obriga-o a se unir à mulher que pretendia matar.",
+    "tagline": "Nesta batalha só haverá um sobrevivente!",
+    "runtime": 132,
+    "vote_average": 6.492,
+    "vote_count": 1658,
+    "popularity": 2.14,
+    "poster_path": "/7R67Xk5JjfGoBo2Z4MV33nfJg2k.jpg",
+    "backdrop_path": "/sYpmWBe1IO7Fxthtw3UmlzQEylK.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-10-06",
+    "tmdb_genres": [
+      "Ação",
+      "Aventura",
+      "Crime",
+      "Thriller"
+    ],
+    "keywords": [
+      "rescue",
+      "central intelligence agency (cia)",
+      "hitman",
+      "cat",
+      "bank",
+      "mexican standoff",
+      "seattle, washington",
+      "mission of murder",
+      "hidden camera",
+      "rivalry",
+      "shootout",
+      "police chase",
+      "sniper rifle",
+      "detroit, michigan",
+      "silencer",
+      "double cross",
+      "caribbean sea"
+    ],
+    "director": "Richard Donner",
+    "cast": [
+      "Sylvester Stallone",
+      "Antonio Banderas",
+      "Julianne Moore",
+      "Anatoli Davydov",
+      "Muse Watson",
+      "Steve Kahan",
+      "Kelly Rowan",
+      "Reed Diamond",
+      "Kai Wulff",
+      "Kerry Skalsky"
+    ],
+    "production_companies": [
+      "Warner Bros. Pictures",
+      "Silver Pictures",
+      "Donner/Shuler-Donner Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Powder",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "rating_stats": {
+      "average": 3.12,
+      "count": 28,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 12665,
+    "imdb_id": "tt0114168",
+    "original_title": "Powder",
+    "overview": "Ao investigar a morte de um velho em uma propriedade rural, Barnum, o xerife local, descobre Powder - seu verdadeiro nome é Jeremy Reed -, um adolescente que era neto do falecido e que tinha passado toda a sua vida conhecendo o mundo através dos livros, sem nunca ter deixado a fazenda da família, tudo isto por ter uma aparência estranha (é totalmente branco). Powder é levado para um orfanato, mas é hostilizado pelos outros internos em virtude do seu aspecto. Ele demonstra ter dons particulares além de ter o intelecto mais elevado que qualquer ser humano jamais teve, passando a alterar a vida de todos que estão ao seu redor.",
+    "tagline": "Um incrível encontro com um extraordinário ser humano.",
+    "runtime": 112,
+    "vote_average": 6.992,
+    "vote_count": 698,
+    "popularity": 5.3049,
+    "poster_path": "/PdqliHbL6bj9JrQ1eyGGRkpGAJ.jpg",
+    "backdrop_path": "/gAeFtnwgF4asNVbmrudWMHOilWj.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-10-27",
+    "tmdb_genres": [
+      "Drama",
+      "Fantasia"
+    ],
+    "keywords": [
+      "teenage boy",
+      "held at gunpoint",
+      "teacher student relationship",
+      "albino",
+      "fainting",
+      "christ allegory",
+      "psionic power",
+      "healing power",
+      "flickering light",
+      "extrasensory perception",
+      "pale"
+    ],
+    "director": "Victor Salva",
+    "cast": [
+      "Mary Steenburgen",
+      "Sean Patrick Flanery",
+      "Lance Henriksen",
+      "Jeff Goldblum",
+      "Brandon Smith",
+      "Bradford Tatum",
+      "Susan Tyrrell",
+      "Missy Crider",
+      "Ray Wise",
+      "Esteban Powell"
+    ],
+    "production_companies": [
+      "Hollywood Pictures",
+      "Caravan Pictures"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Leaving Las Vegas",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.62,
+      "count": 76,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 451,
+    "imdb_id": "tt0113627",
+    "original_title": "Leaving Las Vegas",
+    "overview": "Um roteirista alcoólatra decide beber até morrer em Las Vegas. Ele conhece uma bela prostituta e os dois começam um relacionamento incomum: ela não pode dizer a ele para parar de beber e ele não pode culpá-la pelo trabalho dela.",
+    "tagline": "",
+    "runtime": 111,
+    "vote_average": 7.244,
+    "vote_count": 1579,
+    "popularity": 2.6872,
+    "poster_path": "/fqgYqr5Nse89cU9a7dVHhd5lrPg.jpg",
+    "backdrop_path": "/5m5VhSN1lTk3egtrNzqNv5nwMuG.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-10-27",
+    "tmdb_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "hotel room",
+      "dying and death",
+      "individual",
+      "prostitute",
+      "lovesickness",
+      "rage and hate",
+      "casino",
+      "unsociability",
+      "alcohol",
+      "love at first sight",
+      "movie business",
+      "screenwriter",
+      "alcoholism",
+      "los angeles, california",
+      "las vegas",
+      "alcohol abuse",
+      "dramatic",
+      "depressing",
+      "tragic"
+    ],
+    "director": "Mike Figgis",
+    "cast": [
+      "Nicolas Cage",
+      "Elisabeth Shue",
+      "Julian Sands",
+      "Richard Lewis",
+      "Steven Weber",
+      "Kim Adams",
+      "Emily Procter",
+      "Stuart Regen",
+      "Valeria Golino",
+      "Graham Beckel"
+    ],
+    "production_companies": [
+      "Initial Productions",
+      "Lumière Pictures"
+    ],
+    "production_countries": [
+      "France",
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Othello",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.5,
+      "count": 13,
+      "min": 2.5,
+      "max": 4.0
+    },
+    "tmdb_id": 16420,
+    "imdb_id": "tt0114057",
+    "original_title": "Othello",
+    "overview": "O heroico general Othello, único africano no exército veneziano, se casa com uma mulher nobre, Desdêmona. Porém, o tenente Iago, ciumento e invejoso, tenta convencê-lo de que está sendo traído pela esposa, o que pode provocar uma tragédia.",
+    "tagline": "",
+    "runtime": 143,
+    "vote_average": 6.3,
+    "vote_count": 148,
+    "popularity": 0.4682,
+    "poster_path": "/kyevuYzW36wKadiE8lftLac5VwQ.jpg",
+    "backdrop_path": "/7SqIfSVW3xKTk07FbUm4LrhOOeL.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-15",
+    "tmdb_genres": [
+      "Drama"
+    ],
+    "keywords": [
+      "jealousy",
+      "based on play or musical",
+      "friends",
+      "the moors (people)",
+      "shakespeare"
+    ],
+    "director": "Oliver Parker",
+    "cast": [
+      "Laurence Fishburne",
+      "Irène Jacob",
+      "Kenneth Branagh",
+      "Nathaniel Parker",
+      "Michael Maloney",
+      "Anna Patrick",
+      "Nicholas Farrell",
+      "Indra Ové",
+      "Michael Sheen",
+      "John Savident"
+    ],
+    "production_companies": [
+      "Castle Rock Entertainment",
+      "Dakota Films"
+    ],
+    "production_countries": [
+      "United Kingdom",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Persuasion",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 4.23,
+      "count": 11,
+      "min": 2.5,
+      "max": 5.0
+    },
+    "tmdb_id": 17015,
+    "imdb_id": "tt0114117",
+    "original_title": "Persuasion",
+    "overview": "Há sete anos, Anne Elliot rompeu seu noivado com Frederick Wentworth por pressão familiar porque ele era apenas um pescador. Agora, a família Elliot aluga sua casa para o Almirante Croft, e Anne descobre que Frederick se tornou um rico capitão, em busca de uma esposa. Mas será que ele vai casar com uma de suas pretendentes ou vai perdoar Anne?",
+    "tagline": "",
+    "runtime": 107,
+    "vote_average": 7.126,
+    "vote_count": 139,
+    "popularity": 7.2147,
+    "poster_path": "/3MwunVE65fGNJRuXC4lJzaPzDty.jpg",
+    "backdrop_path": "/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-05-01",
+    "tmdb_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "marriage proposal",
+      "strong woman",
+      "based on novel or book",
+      "love triangle",
+      "marriage",
+      "unrequited love",
+      "family in peril",
+      "old flame",
+      "admiral",
+      "bankruptcy",
+      "marriage broker",
+      "lovers reunited",
+      "lovers reunion",
+      "betrothal",
+      "rejected suitor"
+    ],
+    "director": "Roger Michell",
+    "cast": [
+      "Amanda Root",
+      "Ciarán Hinds",
+      "Susan Fleetwood",
+      "Corin Redgrave",
+      "Fiona Shaw",
+      "John Woodvine",
+      "Phoebe Nicholls",
+      "Samuel West",
+      "Sophie Thompson",
+      "Simon Russell Beale"
+    ],
+    "production_companies": [
+      "BBC Film",
+      "Millésime Productions",
+      "GBH",
+      "France 2"
+    ],
+    "production_countries": [
+      "France",
+      "United Kingdom",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "City of Lost Children, The (Cité des enfants perdus, La)",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "rating_stats": {
+      "average": 4.01,
+      "count": 38,
+      "min": 2.0,
+      "max": 5.0
+    },
+    "tmdb_id": 902,
+    "imdb_id": "tt0112682",
+    "original_title": "La Cité des Enfants Perdus",
+    "overview": "Este conto de fadas acompanha um menino andando pelas ruas de uma nublada cidade portuária povoada por estranhas criaturas aterrorizadas por Krank, um cientista louco que sequestra crianças órfãs para roubar seus sonhos, na tentativa de abrandar o processo de envelhecimento.",
+    "tagline": "Onde o final feliz é apenas um sonho.",
+    "runtime": 112,
+    "vote_average": 7.243,
+    "vote_count": 1179,
+    "popularity": 1.5013,
+    "poster_path": "/wnHKvvBH1epZ4CvD31dKwV51weJ.jpg",
+    "backdrop_path": "/yDjsUoEANHggKFabkAyTu3Y9j4N.jpg",
+    "original_language": "fr",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-05-17",
+    "tmdb_genres": [
+      "Fantasia",
+      "Ficção científica",
+      "Aventura"
+    ],
+    "keywords": [
+      "rescue",
+      "friendship",
+      "island",
+      "dreams",
+      "clone",
+      "dystopia",
+      "eye",
+      "aging",
+      "steampunk",
+      "childhood",
+      "child kidnapping",
+      "flea"
+    ],
+    "director": "Marc Caro",
+    "cast": [
+      "Ron Perlman",
+      "Dominique Pinon",
+      "Judith Vittet",
+      "Daniel Emilfork",
+      "Jean-Claude Dreyfus",
+      "Geneviève Brunet",
+      "Odile Mallet",
+      "Mireille Mossé",
+      "Serge Merlin",
+      "Rufus"
+    ],
+    "production_companies": [
+      "Constellation",
+      "Lumière Pictures",
+      "Le Studio Canal+",
+      "France 3 Cinéma",
+      "Elías Querejeta PC"
+    ],
+    "production_countries": [
+      "France",
+      "Germany",
+      "Spain",
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Dangerous Minds",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.18,
+      "count": 38,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 9909,
+    "imdb_id": "tt0112792",
+    "original_title": "Dangerous Minds",
+    "overview": "Louanne Johnson, uma oficial da marinha, abandona a vida militar para ser professora de inglês. Porém, logo na primeira escola em que trabalha, ela se depara com diversas barreiras e é forçada a lidar com a rebeldia dos alunos. Como a professora não consegue a atenção da sua classe, ela parte para outra forma de ensino e passa a dar aulas com caratê e músicas de Bob Dylan, tentando ajudar a turma por meio de métodos pouco convencionais.",
+    "tagline": "Ela quebrou as regras... e mudou suas vidas.",
+    "runtime": 99,
+    "vote_average": 6.962,
+    "vote_count": 1226,
+    "popularity": 5.5232,
+    "poster_path": "/gGejznMDy26IF0El7xMMqQv9ewu.jpg",
+    "backdrop_path": "/k28lTv01nuncbs9Y2WZh6FQunqv.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-08-11",
+    "tmdb_genres": [
+      "Drama"
+    ],
+    "keywords": [
+      "high school",
+      "california",
+      "rap music",
+      "karate",
+      "naval officer",
+      "teacher",
+      "based on memoir or autobiography",
+      "amusement park",
+      "schoolteacher"
+    ],
+    "director": "John N. Smith",
+    "cast": [
+      "Michelle Pfeiffer",
+      "George Dzundza",
+      "Courtney B. Vance",
+      "Robin Bartlett",
+      "Beatrice Winde",
+      "John Neville",
+      "Lorraine Toussaint",
+      "Renoly Santiago",
+      "Wade Dominguez",
+      "Bruklin Harris"
+    ],
+    "production_companies": [
+      "Don Simpson/Jerry Bruckheimer Films",
+      "Hollywood Pictures",
+      "Via Rosa Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Twelve Monkeys (a.k.a. 12 Monkeys)",
+    "year": 1995,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.98,
+      "count": 177,
+      "min": 1.0,
+      "max": 5.0
+    }
+  },
+  {
+    "id": 34,
+    "title": "Babe",
+    "year": 1995,
+    "genres": [
+      "Children",
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.65,
+      "count": 128,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9598,
+    "imdb_id": "tt0112431",
+    "original_title": "Babe",
+    "overview": "A fazenda do Sr. Hoggett é um lugar quase perfeito, onde cada coisa ocupa o lugar certo. Até que nasce Babe, um leitãozinho que pensa que é um cachorro. E convence até o dono da fazenda, que o inscreve no Campeonato Nacional de Cães Pastores, com consequências imprevisíveis.",
+    "tagline": "‎Um porquinho vai longe.‎",
+    "runtime": 89,
+    "vote_average": 6.3,
+    "vote_count": 3047,
+    "popularity": 4.3014,
+    "poster_path": "/1JCaSMPbvGBFZTenMy3F0XzDo1.jpg",
+    "backdrop_path": "/agkZziO4ZPAsVfKUrJD68lys08P.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-07-18",
+    "tmdb_genres": [
+      "Fantasia",
+      "Drama",
+      "Comédia",
+      "Família"
+    ],
+    "keywords": [
+      "farm",
+      "sheep",
+      "pig",
+      "alarm clock",
+      "cat",
+      "duck",
+      "heroism",
+      "affection",
+      "piglet",
+      "anthropomorphism",
+      "based on children's book",
+      "dog",
+      "separation",
+      "animals",
+      "farmer",
+      "grandson",
+      "sheepdog",
+      "talking pig",
+      "christmas"
+    ],
+    "director": "Chris Noonan",
+    "cast": [
+      "Christine Cavanaugh",
+      "Miriam Margolyes",
+      "Danny Mann",
+      "Hugo Weaving",
+      "Miriam Flynn",
+      "James Cromwell",
+      "Magda Szubanski",
+      "Russi Taylor",
+      "Roscoe Lee Browne",
+      "Evelyn Krape"
+    ],
+    "production_companies": [
+      "Universal Pictures",
+      "Kennedy Miller Productions"
+    ],
+    "production_countries": [
+      "Australia",
+      "United States of America",
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Dead Man Walking",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.84,
+      "count": 67,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 687,
+    "imdb_id": "tt0112818",
+    "original_title": "Dead Man Walking",
+    "overview": "A Irmã Helen Prejean, uma caridosa freira de New Orleans, é a conselheira espiritual de Matthew Poncelet, um assassino cruel, revoltado e complexo, que aguarda sua execução. A missão da irmã é ajudar a quem, como Matthew, precisa encontrar a salvação. Mas quando ela tenta navegar na sombria alma de Matthew, encontra uma densidade de maldade que a faz questionar até onde a redenção realmente pode ir. Ela conseguirá adiar a data fatal da execução o suficiente para ter tempo de salvar Matthew? Ou acabará descobrindo uma verdade que abalará os próprios preceitos pelos quais norteia sua vida?",
+    "tagline": "",
+    "runtime": 122,
+    "vote_average": 7.3,
+    "vote_count": 1451,
+    "popularity": 2.0429,
+    "poster_path": "/y8Xgpw5Reh1Kkv7AbeUjTSjaMFH.jpg",
+    "backdrop_path": "/gwRWQeHfPuA8mg73kydQsM8rdXq.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-29",
+    "tmdb_genres": [
+      "Drama"
+    ],
+    "keywords": [
+      "prison",
+      "death penalty",
+      "right and justice",
+      "rape",
+      "rage and hate",
+      "unsociability",
+      "court case",
+      "court",
+      "nun",
+      "penalty",
+      "therapist",
+      "sentence",
+      "forgiveness",
+      "self-discovery",
+      "despair",
+      "prison cell",
+      "socially deprived family",
+      "death row",
+      "doomed man",
+      "death sentence"
+    ],
+    "director": "Tim Robbins",
+    "cast": [
+      "Susan Sarandon",
+      "Sean Penn",
+      "Robert Prosky",
+      "Raymond J. Barry",
+      "R. Lee Ermey",
+      "Celia Weston",
+      "Lois Smith",
+      "Scott Wilson",
+      "Roberta Maxwell",
+      "Margo Martindale"
+    ],
+    "production_companies": [
+      "Havoc",
+      "PolyGram Filmed Entertainment",
+      "Working Title Films",
+      "PolyGram Video",
+      "Gramercy Pictures"
+    ],
+    "production_countries": [
+      "United States of America",
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Clueless",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.29,
+      "count": 104,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 9603,
+    "imdb_id": "tt0112697",
+    "original_title": "Clueless",
+    "overview": "Em Beverly Hills, a adolescente Cher (Alicia Silverstone), filha de uma advogado (Dan Hedaya) muito rico, passa seu tempo em conversas fúteis e fazendo compras com amigas totalmente alienadas como ela. Mas a chegada do enteado de seu pai, Josh (Paul Rudd), muda tudo, primeiro por ele criticá-la de não tomar conhecimento com o \"mundo real\" e em segundo lugar por ela descobrir que está apaixonada por ele.",
+    "tagline": "Sexo. Roupas. Popularidade. Que problema há nisso?",
+    "runtime": 110,
+    "vote_average": 7.3,
+    "vote_count": 4688,
+    "popularity": 4.7995,
+    "poster_path": "/sfgpINIXoGEUkA3n6k7of89bP9x.jpg",
+    "backdrop_path": "/65d0MccsiRSPTVicregKQL8owoo.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-07-19",
+    "tmdb_genres": [
+      "Comédia",
+      "Romance"
+    ],
+    "keywords": [
+      "puberty",
+      "high school",
+      "based on novel or book",
+      "make a match",
+      "spoiled child",
+      "coming of age",
+      "matchmaking",
+      "conflict",
+      "wedding",
+      "high school friends",
+      "makeover",
+      "woman director",
+      "popular girl",
+      "matchmaker",
+      "gay theme",
+      "match making",
+      "cheerful"
+    ],
+    "director": "Amy Heckerling",
+    "cast": [
+      "Alicia Silverstone",
+      "Stacey Dash",
+      "Brittany Murphy",
+      "Paul Rudd",
+      "Donald Faison",
+      "Elisa Donovan",
+      "Breckin Meyer",
+      "Jeremy Sisto",
+      "Dan Hedaya",
+      "Aida Linares"
+    ],
+    "production_companies": [
+      "Paramount Pictures",
+      "Robert Lawrence Productions",
+      "Scott Rudin Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Richard III",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "rating_stats": {
+      "average": 3.7,
+      "count": 15,
+      "min": 2.5,
+      "max": 5.0
+    },
+    "tmdb_id": 31174,
+    "imdb_id": "tt0114279",
+    "original_title": "Richard III",
+    "overview": "Richard, um aleijado brilhante e cruel, decide eliminar todos os que poderiam impedi-lo de suceder seu irmão, o rei Edward IV.",
+    "tagline": "",
+    "runtime": 104,
+    "vote_average": 6.7,
+    "vote_count": 190,
+    "popularity": 1.764,
+    "poster_path": "/1TaHsHmIkDHqQh368c74h5TUqYN.jpg",
+    "backdrop_path": "/l8gbqIvow8rXFblM5IzYI5AKN8Z.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-29",
+    "tmdb_genres": [
+      "Drama",
+      "Guerra"
+    ],
+    "keywords": [
+      "england",
+      "kidnapping",
+      "murder",
+      "king"
+    ],
+    "director": "Richard Loncraine",
+    "cast": [
+      "Ian McKellen",
+      "Annette Bening",
+      "Jim Broadbent",
+      "Robert Downey Jr.",
+      "Kristin Scott Thomas",
+      "Adrian Dunbar",
+      "Maggie Smith",
+      "Tim McInnerny",
+      "Edward Hardwicke",
+      "Nigel Hawthorne"
+    ],
+    "production_companies": [
+      "Mayfair Entertainment International",
+      "British Screen",
+      "United Artists",
+      "First Look Pictures",
+      "Bayly/Paré Productions"
+    ],
+    "production_countries": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Mortal Kombat",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "rating_stats": {
+      "average": 2.54,
+      "count": 46,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 9312,
+    "imdb_id": "tt0113855",
+    "original_title": "Mortal Kombat",
+    "overview": "Escolhidos cuidadosamente e levados até uma misteriosa ilha, três guerreiros, verdadeiros mestres das artes marciais, terão que enfrentar estranhos e perigosos inimigos para defender o futuro do planeta Terra. Eles são os representantes da humanidade naquela que será a definitiva batalha do Bem contra o Mal, um torneio audacioso e fatal, o combate do milênio: Mortal Kombat.",
+    "tagline": "Nada neste mundo preparou você para isso.",
+    "runtime": 101,
+    "vote_average": 5.876,
+    "vote_count": 2439,
+    "popularity": 3.0935,
+    "poster_path": "/mxH8ko3KfD1sKe8H8U4a5hvH8ko.jpg",
+    "backdrop_path": "/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-08-18",
+    "tmdb_genres": [
+      "Ação",
+      "Fantasia"
+    ],
+    "keywords": [
+      "island",
+      "martial arts",
+      "monster",
+      "saving the world",
+      "magic",
+      "villain",
+      "gore",
+      "god",
+      "alternate dimension",
+      "ninja",
+      "sorcerer",
+      "tournament",
+      "underground fighting",
+      "based on video game",
+      "ghost",
+      "hand to hand combat",
+      "warrior",
+      "action hero",
+      "supernatural power",
+      "mortal kombat"
+    ],
+    "director": "Paul W. S. Anderson",
+    "cast": [
+      "Robin Shou",
+      "Linden Ashby",
+      "Bridgette Wilson-Sampras",
+      "Christopher Lambert",
+      "Cary-Hiroyuki Tagawa",
+      "Talisa Soto",
+      "Trevor Goddard",
+      "Chris Casamassa",
+      "François Petit",
+      "Keith Cooke"
+    ],
+    "production_companies": [
+      "New Line Cinema",
+      "Threshold Entertainment"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "To Die For",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.31,
+      "count": 32,
+      "min": 2.0,
+      "max": 5.0
+    },
+    "tmdb_id": 577,
+    "imdb_id": "tt0114681",
+    "original_title": "To Die For",
+    "overview": "O sonho americano de sucesso a qualquer custo na história de Suzanne Stone (Nicole Kidman), bonita e limitada garota do interior que tenta a sorte como repórter na TV. Obcecada, ela torna-se capaz até de matar para chegar ao estrelato.",
+    "tagline": "",
+    "runtime": 106,
+    "vote_average": 6.579,
+    "vote_count": 853,
+    "popularity": 1.67,
+    "poster_path": "/c3YeUqjTJX3bvCFiMFQQa74ZPTv.jpg",
+    "backdrop_path": "/2g58NnfO9ecZc0VcP0i0EVyKV7m.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-09-22",
+    "tmdb_genres": [
+      "Drama",
+      "Comédia",
+      "Crime"
+    ],
+    "keywords": [
+      "adultery",
+      "based on novel or book",
+      "winter",
+      "obsession",
+      "new hampshire",
+      "mockumentary",
+      "narcissistic personality disorder",
+      "satirical"
+    ],
+    "director": "Gus Van Sant",
+    "cast": [
+      "Nicole Kidman",
+      "Matt Dillon",
+      "Joaquin Phoenix",
+      "Casey Affleck",
+      "Illeana Douglas",
+      "Alison Folland",
+      "Dan Hedaya",
+      "Wayne Knight",
+      "Kurtwood Smith",
+      "Holland Taylor"
+    ],
+    "production_companies": [
+      "Columbia Pictures",
+      "The Rank Organisation",
+      "Laura Ziskin Productions"
+    ],
+    "production_countries": [
+      "United Kingdom",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "How to Make an American Quilt",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.07,
+      "count": 15,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 11861,
+    "imdb_id": "tt0113347",
+    "original_title": "How to Make an American Quilt",
+    "overview": "Enquanto elabora sua tese e se prepara para se casar Finn Dodd (Winona Ryder), uma jovem mulher, vai morar na casa da sua avó (Ellen Burstyn). Lá estão várias amigas da família, que preparam uma elaborada colcha de retalhos como presente de casamento. Enquanto o trabalho é feito ela ouve o relato de paixões e envolvimentos, nem sempre moralmente aprováveis mas repletos de sentimentos, que estas mulheres tiveram. Neste meio tempo ela se sente atraída por um desconhecido, criando dúvidas no seu coração que precisam ser esclarecidas.",
+    "tagline": "",
+    "runtime": 117,
+    "vote_average": 6.382,
+    "vote_count": 190,
+    "popularity": 1.5131,
+    "poster_path": "/lge3PeJX2Ri1H8aRKwKs1UaTCoF.jpg",
+    "backdrop_path": "/nOPCU3zmLTp1A6KpPtHTuAyzkf5.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-10-06",
+    "tmdb_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "marriage proposal",
+      "wedding vows",
+      "married couple",
+      "marriage",
+      "monogamy",
+      "advice",
+      "quilt",
+      "love",
+      "family holiday",
+      "extramarital affair",
+      "grandmother",
+      "woman director"
+    ],
+    "director": "Jocelyn Moorhouse",
+    "cast": [
+      "Winona Ryder",
+      "Anne Bancroft",
+      "Ellen Burstyn",
+      "Kate Nelligan",
+      "Jean Simmons",
+      "Maya Angelou",
+      "Alfre Woodard",
+      "Dermot Mulroney",
+      "Lois Smith",
+      "Kate Capshaw"
+    ],
+    "production_companies": [
+      "Universal Pictures",
+      "Amblin Entertainment"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Seven (a.k.a. Se7en)",
+    "year": 1995,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.98,
+      "count": 203,
+      "min": 0.5,
+      "max": 5.0
+    }
+  },
+  {
+    "id": 48,
+    "title": "Pocahontas",
+    "year": 1995,
+    "genres": [
+      "Animation",
+      "Children",
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.15,
+      "count": 68,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 10530,
+    "imdb_id": "tt0114148",
+    "original_title": "Pocahontas",
+    "overview": "Pocahontas, filha do chefe Powhatan, observa a chegada de um grande grupo de colonos ingleses, liderados pelo ambicioso governador Radcliff e pelo corajoso capitão John Smith. Com seu companheiro brincalhão, Meeko, um guaxinim travesso, e Flit, um pássaro alegre, Pocahontas forma uma forte amizade com o capitão Smith. Mas quando as tensões começam a surgir entre as duas culturas, Pocahontas recorre à sabedoria da avó Willow para encontrar uma maneira de trazer a paz entre seu povo e os conquistadores.",
+    "tagline": "Uma lenda americana ganha vida.",
+    "runtime": 81,
+    "vote_average": 6.911,
+    "vote_count": 5961,
+    "popularity": 5.3165,
+    "poster_path": "/q5MYFXVy8UQ1ds76fdJs6AJbMzv.jpg",
+    "backdrop_path": "/9YAVIwBcBrLXeukg2dgMGfYB1uu.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-06-16",
+    "tmdb_genres": [
+      "Aventura",
+      "Animação",
+      "Família",
+      "Romance"
+    ],
+    "keywords": [
+      "princess",
+      "culture clash",
+      "cartoon",
+      "villain",
+      "colony",
+      "forbidden love",
+      "musical",
+      "gold rush",
+      "native american",
+      "colonisation",
+      "virginia",
+      "star crossed lovers",
+      "intercultural relationship",
+      "based on myths, legends or folklore",
+      "17th century",
+      "shamanism",
+      "animal sidekick"
+    ],
+    "director": "Mike Gabriel",
+    "cast": [
+      "Irene Bedard",
+      "Mel Gibson",
+      "David Ogden Stiers",
+      "John Kassir",
+      "Christian Bale",
+      "Judy Kuhn",
+      "Billy Connolly",
+      "Frank Welker",
+      "Russell Means",
+      "Linda Hunt"
+    ],
+    "production_companies": [
+      "Walt Disney Feature Animation"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Usual Suspects, The",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 4.24,
+      "count": 204,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 629,
+    "imdb_id": "tt0114814",
+    "original_title": "The Usual Suspects",
+    "overview": "Um detetive interroga um dos únicos sobreviventes de uma explosão no cais que provocou dezenas de mortes. O suspeito conta uma história sobre os eventos que levaram ele e mais quatro criminosos ao local do crime, deixando dúvidas sobre a verdade.",
+    "tagline": "A verdade está sempre no último lugar para onde você olha.",
+    "runtime": 106,
+    "vote_average": 8.171,
+    "vote_count": 11079,
+    "popularity": 9.9165,
+    "poster_path": "/8RrGQ3kSiu2JJatkQ3o0DdXUGUU.jpg",
+    "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-07-19",
+    "tmdb_genres": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ],
+    "keywords": [
+      "new york city",
+      "robbery",
+      "relatives",
+      "heist",
+      "flashback",
+      "police corruption",
+      "whodunit",
+      "los angeles, california",
+      "theft",
+      "criminal",
+      "criminal mastermind",
+      "cargo ship",
+      "mind game",
+      "neo-noir",
+      "mystery villain",
+      "pretentious",
+      "rashomon effect"
+    ],
+    "director": "Bryan Singer",
+    "cast": [
+      "Stephen Baldwin",
+      "Gabriel Byrne",
+      "Benicio del Toro",
+      "Kevin Pollak",
+      "Kevin Spacey",
+      "Chazz Palminteri",
+      "Pete Postlethwaite",
+      "Suzy Amis",
+      "Giancarlo Esposito",
+      "Dan Hedaya"
+    ],
+    "production_companies": [
+      "Bad Hat Harry Productions",
+      "Blue Parrot Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Mighty Aphrodite",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.46,
+      "count": 28,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 11448,
+    "imdb_id": "tt0113819",
+    "original_title": "Mighty Aphrodite",
+    "overview": "Em Nova York, um casal adota um menino e com o tempo o pai adotivo (Woody Allen) decide saber quem é a mãe biológica de seu filho. Ele descobre que ela é uma prostituta chamada Linda (Mira Sorvino), que em filmes pornográficos usa o nome Judy Cum e que nem sabe quem é o pai do garoto. O pai adotivo decide então aconselhá-la a abandonar este tipo de vida.",
+    "tagline": "De todas as fraquezas humanas, a obsessão é a mais perigosa e a mais tola!",
+    "runtime": 95,
+    "vote_average": 6.712,
+    "vote_count": 724,
+    "popularity": 3.4179,
+    "poster_path": "/j1OA7BNHKHWE6cHnF0WcnUTtxSF.jpg",
+    "backdrop_path": "/hSY4PYJSFW5JWeQqOs2LAzG0W8a.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-09-13",
+    "tmdb_genres": [
+      "Comédia",
+      "Romance"
+    ],
+    "keywords": [
+      "prostitute",
+      "adoption",
+      "adoptive father",
+      "child prodigy",
+      "childlessness",
+      "looking for  birth parents",
+      "porn star",
+      "adoptive mother",
+      "illegal prostitution",
+      "pygmalion",
+      "kids",
+      "adopted son"
+    ],
+    "director": "Woody Allen",
+    "cast": [
+      "Woody Allen",
+      "Mira Sorvino",
+      "Helena Bonham Carter",
+      "F. Murray Abraham",
+      "Donald Symington",
+      "Claire Bloom",
+      "Olympia Dukakis",
+      "Michael Rapaport",
+      "David Ogden Stiers",
+      "Jack Warden"
+    ],
+    "production_companies": [
+      "Miramax",
+      "Jean Doumanian Productions",
+      "Sweetland Films"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Postman, The (Postino, Il)",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 4.03,
+      "count": 37,
+      "min": 2.0,
+      "max": 5.0
+    },
+    "tmdb_id": 11010,
+    "imdb_id": "tt0110877",
+    "original_title": "Il postino",
+    "overview": "Por razões políticas o poeta Pablo Neruda se exila em uma ilha na Itália. Lá, um desempregado quase analfabeto é contratado como \"carteiro\" extra, encarregado de cuidar da correspondência do poeta. Gradativamente se forma uma sólida amizade entre os dois. O carteiro Mario, aos poucos, aprende a escrever seus sentimentos por Beatrice, e Neruda ganha, em troca, um ouvinte compreensivo para suas lembranças saudosas do Chile.",
+    "tagline": "Sonhos se tornam realidade.",
+    "runtime": 108,
+    "vote_average": 7.919,
+    "vote_count": 1192,
+    "popularity": 4.0013,
+    "poster_path": "/hyKKKcUqGBw8Qfwh0IFCUeL7dpD.jpg",
+    "backdrop_path": "/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg",
+    "original_language": "it",
+    "adult": false,
+    "video": false,
+    "release_date": "1994-09-22",
+    "tmdb_genres": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "island",
+      "fisherman",
+      "letter",
+      "postman",
+      "poet",
+      "naples, italy",
+      "love",
+      "poverty"
+    ],
+    "director": "Michael Radford",
+    "cast": [
+      "Massimo Troisi",
+      "Philippe Noiret",
+      "Maria Grazia Cucinotta",
+      "Renato Scarpa",
+      "Linda Moretti",
+      "Mariano Rigillo",
+      "Anna Bonaiuto",
+      "Sergio Solli",
+      "Carlo Di Maio",
+      "Nando Neri"
+    ],
+    "production_companies": [
+      "Esterno Mediterraneo Film",
+      "Cecchi Gori Group Tiger Cinematografica",
+      "K2 Two",
+      "Blue Dahlia Productions",
+      "Penta Film"
+    ],
+    "production_countries": [
+      "Belgium",
+      "France",
+      "Italy"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Indian in the Cupboard, The",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "rating_stats": {
+      "average": 3.24,
+      "count": 34,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 11359,
+    "imdb_id": "tt0113419",
+    "original_title": "The Indian in the Cupboard",
+    "overview": "Entre os diversos presentes que um garoto ganha ao fazer 9 anos estavam dois sem muita importância: um pequeno armário e um índio de plástico. Mas quando uma antiga chave é usada para fechar o armário o índio ganha vida, provocando situações inimagináveis.",
+    "tagline": "Quando a imaginação se torna realidade.",
+    "runtime": 96,
+    "vote_average": 6.458,
+    "vote_count": 661,
+    "popularity": 1.5285,
+    "poster_path": "/xZMmUOzxIWEd8ClJjJZCC33UmVu.jpg",
+    "backdrop_path": "/fKzQzmqsUDVbrH4dux9FcXtXLbQ.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-07-14",
+    "tmdb_genres": [
+      "Aventura",
+      "Família",
+      "Fantasia"
+    ],
+    "keywords": [
+      "based on novel or book",
+      "cupboard",
+      "puppet",
+      "based on children's book",
+      "game",
+      "parallel world",
+      "toy comes to life",
+      "toy soldier"
+    ],
+    "director": "Frank Oz",
+    "cast": [
+      "Hal Scardino",
+      "Litefoot",
+      "Lindsay Crouse",
+      "Richard Jenkins",
+      "Rishi Bhat",
+      "Steve Coogan",
+      "David Keith",
+      "Sakina Jaffrey",
+      "Vincent Kartheiser",
+      "Nestor Serrano"
+    ],
+    "production_companies": [
+      "Paramount Pictures",
+      "The Kennedy/Marshall Company",
+      "Columbia Pictures"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Mr. Holland's Opus",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.71,
+      "count": 80,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 2054,
+    "imdb_id": "tt0113862",
+    "original_title": "Mr. Holland's Opus",
+    "overview": "Em 1964, o jovem compositor Glenn Holland decide dar aulas de música, enquanto economiza para dedicar todo seu tempo à composição de sua sinfonia. Os alunos estão longe das expectativas de Glenn.",
+    "tagline": "",
+    "runtime": 127,
+    "vote_average": 6.949,
+    "vote_count": 438,
+    "popularity": 5.5095,
+    "poster_path": "/zVx2N7Z4xR5B00USVkFIeY8PvvJ.jpg",
+    "backdrop_path": "/oUptKQLatCgywVDx0ETVhq7knHt.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-29",
+    "tmdb_genres": [
+      "Drama",
+      "Música"
+    ],
+    "keywords": [
+      "high school",
+      "husband wife relationship",
+      "composer",
+      "music teacher",
+      "mentor",
+      "deaf-mute",
+      "portland, oregon",
+      "marching band",
+      "teacher student relationship",
+      "high school teacher",
+      "disabled",
+      "teaching",
+      "retirement party",
+      "sign languages",
+      "forced retirement",
+      "1960s",
+      "1990s",
+      "father son relationship",
+      "inspiring teacher"
+    ],
+    "director": "Stephen Herek",
+    "cast": [
+      "Richard Dreyfuss",
+      "Glenne Headly",
+      "Jay Thomas",
+      "Olympia Dukakis",
+      "William H. Macy",
+      "Alicia Witt",
+      "Terrence Howard",
+      "Damon Whitaker",
+      "Jean Louisa Kelly",
+      "Alexandra Boyd"
+    ],
+    "production_companies": [
+      "Hollywood Pictures",
+      "Interscope Communications",
+      "PolyGram Filmed Entertainment",
+      "The Charlie Mopic Company"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Bio-Dome",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "rating_stats": {
+      "average": 2.53,
+      "count": 31,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9536,
+    "imdb_id": "tt0115683",
+    "original_title": "Bio-Dome",
+    "overview": "Dois doidões (Pauly Shore e Stephen Baldwin) que não vivem sem conforto acabam participando de experiência científica. Mas descobrem tarde demais que terão que passar um ano dentro de uma redoma de vidro. E começam a levar os cientistas à loucura. No entanto, para sair eles terão que descobrir como salvar a Terra e ajudar os cientistas nessa missão.",
+    "tagline": "",
+    "runtime": 88,
+    "vote_average": 4.528,
+    "vote_count": 392,
+    "popularity": 3.5383,
+    "poster_path": "/rO03HRMYvb6C0viHNdTt1fQrOI9.jpg",
+    "backdrop_path": "/4pXKbwEFGxvBMFq4QjOjljtVzdq.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-01-12",
+    "tmdb_genres": [
+      "Comédia"
+    ],
+    "keywords": [
+      "pollution",
+      "biotope",
+      "vegetarian",
+      "biosphere"
+    ],
+    "director": "Jason Bloom",
+    "cast": [
+      "Pauly Shore",
+      "Stephen Baldwin",
+      "William Atherton",
+      "Joey Lauren Adams",
+      "Teresa Hill",
+      "Henry Gibson",
+      "Kevin West",
+      "Denise Dowse",
+      "Dara Tomanovich",
+      "Rose McGowan"
+    ],
+    "production_companies": [
+      "Weasel Productions",
+      "Metro-Goldwyn-Mayer",
+      "3 Arts Entertainment",
+      "Motion Picture Corporation of America"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Friday",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "rating_stats": {
+      "average": 3.77,
+      "count": 20,
+      "min": 2.0,
+      "max": 5.0
+    },
+    "tmdb_id": 10634,
+    "imdb_id": "tt0113118",
+    "original_title": "Friday",
+    "overview": "Em Los Angeles, Craig Jones (Ice Cube) e Smokey (Chris Tucker) são dois amigos inseparáveis e sem dinheiro. Craig foi despedido na véspera e Smokey só se preocupa em fumar maconha, que lhe foi dada para vender pelo traficante do bairro. Enquanto conversam ficam vendo as várias confusões que acontecem nas vizinhanças. Mas eles podem participar da maior de todas, pois Smokey está sendo pressionado pelo traficante para, às dez horas da noite, lhe entregar duzentos dólares ou então os dois vão morrer.",
+    "tagline": "Muita coisa pode acontecer entre quinta e sábado...",
+    "runtime": 97,
+    "vote_average": 7.136,
+    "vote_count": 1946,
+    "popularity": 4.9074,
+    "poster_path": "/oM6hiQYs8ERJMo36u3pIZNwLhQN.jpg",
+    "backdrop_path": "/eDY7eBe5EE2djDGwdTPhfH9ZcdG.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-04-26",
+    "tmdb_genres": [
+      "Comédia",
+      "Drama"
+    ],
+    "keywords": [
+      "drug dealer",
+      "rap music",
+      "parent child relationship",
+      "rapper",
+      "male friendship",
+      "urban life",
+      "slacker",
+      "pot smoking",
+      "bully",
+      "marijuana",
+      "los angeles, california",
+      "drugs"
+    ],
+    "director": "F. Gary Gray",
+    "cast": [
+      "Ice Cube",
+      "Chris Tucker",
+      "Nia Long",
+      "Tommy Lister Jr.",
+      "John Witherspoon",
+      "Anna Maria Horsford",
+      "Regina King",
+      "Paula Jai Parker",
+      "Faizon Love",
+      "DJ Pooh"
+    ],
+    "production_companies": [
+      "New Line Cinema",
+      "Ice Cube/Pat Charbonnet Productions",
+      "Priority Films"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "From Dusk Till Dawn",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.51,
+      "count": 55,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 755,
+    "imdb_id": "tt0116367",
+    "original_title": "From Dusk Till Dawn",
+    "overview": "Dois irmãos procurados pela polícia por 16 mortes sequestram um ex-pastor e seu casal de filhos, para poderem atravessar a fronteira com o México, e lá se dirigem à uma casa noturna frequentada por caminhoneiros e motoqueiros, que é uma mistura de cabaré e prostíbulo. Porém, ao chegarem lá eles se deparam com algo totalmente inacreditável.",
+    "tagline": "Uma noite é tudo o que há entre eles e a liberdade. Mas vai ser uma noite e tanto.",
+    "runtime": 108,
+    "vote_average": 7.033,
+    "vote_count": 6309,
+    "popularity": 6.6812,
+    "poster_path": "/e94hzzORbyNlCObOR6nd8XneAuf.jpg",
+    "backdrop_path": "/9JcMUzQy9gPqDmJJGH3AcL145mv.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-01-19",
+    "tmdb_genres": [
+      "Terror",
+      "Ação",
+      "Thriller",
+      "Crime"
+    ],
+    "keywords": [
+      "dancing",
+      "showdown",
+      "sheriff",
+      "sibling relationship",
+      "vampire",
+      "bank robber",
+      "holy water",
+      "siege",
+      "stripper",
+      "priest",
+      "bank robbery",
+      "preacher",
+      "hostage situation",
+      "crucifix",
+      "recreational vehicle",
+      "mexican american border",
+      "female stripping",
+      "boa constrictor",
+      "loss of faith",
+      "foot fetish"
+    ],
+    "director": "Robert Rodriguez",
+    "cast": [
+      "George Clooney",
+      "Quentin Tarantino",
+      "Harvey Keitel",
+      "Juliette Lewis",
+      "Ernest Liu",
+      "Salma Hayek Pinault",
+      "Cheech Marin",
+      "Danny Trejo",
+      "Tom Savini",
+      "Fred Williamson"
+    ],
+    "production_companies": [
+      "Los Hooligans Productions",
+      "A Band Apart",
+      "Dimension Films"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Misérables, Les",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "rating_stats": {
+      "average": 3.46,
+      "count": 13,
+      "min": 2.0,
+      "max": 4.0
+    },
+    "tmdb_id": 48750,
+    "imdb_id": "tt0113828",
+    "original_title": "Les Misérables",
+    "overview": "",
+    "tagline": "",
+    "runtime": 175,
+    "vote_average": 6.7,
+    "vote_count": 83,
+    "popularity": 2.3142,
+    "poster_path": "/czlMyja9zSMnAuXQXTMxJ5Dw7Yc.jpg",
+    "backdrop_path": "/elJMAU9XXxk02KmZ7zlQtFlBq0J.jpg",
+    "original_language": "fr",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-03-22",
+    "tmdb_genres": [
+      "Drama",
+      "História"
+    ],
+    "keywords": [
+      "paris, france",
+      "nun",
+      "boxer",
+      "lawyer"
+    ],
+    "director": "Claude Lelouch",
+    "cast": [
+      "Jean-Paul Belmondo",
+      "Michel Boujenah",
+      "Alessandra Martines",
+      "Salomé Lelouch",
+      "Annie Girardot",
+      "Philippe Léotard",
+      "Philippe Khorsand",
+      "Ticky Holgado",
+      "Rufus",
+      "Nicole Croisille"
+    ],
+    "production_companies": [
+      "TF1",
+      "Les Films 13",
+      "Canal+"
+    ],
+    "production_countries": [
+      "France"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Screamers",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.4,
+      "count": 15,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9102,
+    "imdb_id": "tt0114367",
+    "original_title": "Screamers",
+    "overview": "A história se passa no ano de 2078, no planeta Sirius 6B, local de minas de exploração de metal. Após ano de guerra contra N.E.B., os mineiros e cientistas criaram uma aliança e construiram os “screamers”, robôs com inteligência artificial, pequenos e velozes. Mas essa arma começa a se desenvolver independente do controle humano, e inicia uma nova missão: acabar com toda forma de vida.",
+    "tagline": "",
+    "runtime": 108,
+    "vote_average": 6.221,
+    "vote_count": 583,
+    "popularity": 2.4341,
+    "poster_path": "/eqgBf791rMZG7ywHfObpXeMpiRf.jpg",
+    "backdrop_path": "/7LMy4tZggDRa31ycv5ccnPtLspV.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-09-08",
+    "tmdb_genres": [
+      "Terror",
+      "Ficção científica",
+      "Guerra"
+    ],
+    "keywords": [
+      "man vs machine",
+      "alien planet",
+      "struggle for survival",
+      "android horror"
+    ],
+    "director": "Christian Duguay",
+    "cast": [
+      "Peter Weller",
+      "Jennifer Rubin",
+      "Roy Dupuis",
+      "Andrew Lauer",
+      "Liliana Komorowska",
+      "Michael Caloz",
+      "Jason Cavalier",
+      "Ron White",
+      "Leni Parker",
+      "Sylvain Massé"
+    ],
+    "production_companies": [
+      "Fuji Eight Company Ltd.",
+      "Allegro Films",
+      "Fries Film Group",
+      "Super Ecran",
+      "Triumph Films"
+    ],
+    "production_countries": [
+      "Canada",
+      "Japan",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Juror, The",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 2.76,
+      "count": 17,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9623,
+    "imdb_id": "tt0116731",
+    "original_title": "The Juror",
+    "overview": "Annie Laird (Demi Moore), uma artista plástica que é mãe de Oliver (Joseph Gordon-Levitt), é escolhida como jurada no julgamento de um chefe mafioso (Tony Lo Bianco) que é acusado de envolvimento em um duplo assassinato. Entretanto, um homem (Alec Baldwin) é encarregado de \"convencê-la\" a votar pela absolvição e de influenciar o corpo de jurados a fazer o mesmo, pois a vida do seu filho depende da sua decisão.",
+    "tagline": "",
+    "runtime": 118,
+    "vote_average": 5.668,
+    "vote_count": 426,
+    "popularity": 3.919,
+    "poster_path": "/jT2RH8zPG0ACkQPJeLCfEPgsJMc.jpg",
+    "backdrop_path": "/g0CGOIl3H1FDsqHpPzlfkhXAtv8.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-02",
+    "tmdb_genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "keywords": [
+      "court case",
+      "jurors",
+      "blackmail",
+      "son",
+      "trial",
+      "courtroom",
+      "blasphemy",
+      "courtroom drama",
+      "legal thriller"
+    ],
+    "director": "Brian Gibson",
+    "cast": [
+      "Demi Moore",
+      "Alec Baldwin",
+      "Joseph Gordon-Levitt",
+      "Anne Heche",
+      "James Gandolfini",
+      "Lindsay Crouse",
+      "Tony Lo Bianco",
+      "Michael Constantine",
+      "Matt Craven",
+      "Todd Susman"
+    ],
+    "production_companies": [
+      "Columbia Pictures"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Things to Do in Denver When You're Dead",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.11,
+      "count": 14,
+      "min": 2.0,
+      "max": 5.0
+    },
+    "tmdb_id": 400,
+    "imdb_id": "tt0114660",
+    "original_title": "Things to Do in Denver When You're Dead",
+    "overview": "Em Denver um gângster (Andy Garcia) que usa palavras em vez de armas está com problemas financeiros. Um grande chefão do crime comprou suas promissórias, mas está disposto a esquecê-las se ele fizer um \"serviço\". Assim ele contata pessoas de confiança, que também precisam de dinheiro, mas tudo não sai como o planejado e eles têm 48 horas para sumir da cidade senão vão morrer lentamente.",
+    "tagline": "Proteger. Amar. Honrar. Vingar.",
+    "runtime": 115,
+    "vote_average": 6.5,
+    "vote_count": 413,
+    "popularity": 1.351,
+    "poster_path": "/v78eX12fB5ch6zn62oLyIxcONrZ.jpg",
+    "backdrop_path": "/J4l8AvrK8ByAjnoKposMLh3ubL.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-12-01",
+    "tmdb_genres": [
+      "Drama",
+      "Crime"
+    ],
+    "keywords": [
+      "friendship",
+      "bounty hunter",
+      "hitman",
+      "parent child relationship",
+      "gangster",
+      "psychopath",
+      "boat",
+      "way of life",
+      "paranoia",
+      "coffin",
+      "denver, colorado",
+      "godmother",
+      "diner",
+      "revenge",
+      "murder",
+      "mafia",
+      "illegal prostitution",
+      "extramarital affair"
+    ],
+    "director": "Gary Fleder",
+    "cast": [
+      "Andy Garcia",
+      "Christopher Lloyd",
+      "William Forsythe",
+      "Bill Nunn",
+      "Treat Williams",
+      "Jack Warden",
+      "Steve Buscemi",
+      "Fairuza Balk",
+      "Gabrielle Anwar",
+      "Christopher Walken"
+    ],
+    "production_companies": [
+      "Miramax"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "White Squall",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.97,
+      "count": 15,
+      "min": 3.0,
+      "max": 5.0
+    },
+    "tmdb_id": 10534,
+    "imdb_id": "tt0118158",
+    "original_title": "White Squall",
+    "overview": "Em 1961, um grupo de adolescentes embarca para uma longa viagem no veleiro \"Albatroz\", um navio-escola comandado por Christopher Sheldon (Jeff Bridges), um severo capitão que, junto com Alice (Caroline Goodall), sua mulher, pretende transformar aqueles jovens em homens. No decorrer da viagem o medo que os alunos sentem pelo capitão é substituído por respeito e admiração, mas uma tragédia poderá colocar esta confiança em risco.",
+    "tagline": "",
+    "runtime": 129,
+    "vote_average": 6.265,
+    "vote_count": 388,
+    "popularity": 2.6784,
+    "poster_path": "/ofYYQ8AJuYVbi8ElIqzCf0yHyvh.jpg",
+    "backdrop_path": "/kpVQHZrBLUsB35S1pTbP8apgT5W.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-02",
+    "tmdb_genres": [
+      "Drama",
+      "Aventura"
+    ],
+    "keywords": [
+      "sailing trip",
+      "sailing",
+      "diary",
+      "coming of age",
+      "survival",
+      "teenage boy",
+      "discipline",
+      "squall",
+      "sail",
+      "caribbean sea",
+      "male bonding",
+      "seasickness",
+      "storm at sea",
+      "1960s",
+      "gay interest"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Jeff Bridges",
+      "Caroline Goodall",
+      "John Savage",
+      "Scott Wolf",
+      "Jeremy Sisto",
+      "Ryan Phillippe",
+      "David Lascher",
+      "Eric Michael Cole",
+      "Jason Marsden",
+      "David Selby"
+    ],
+    "production_companies": [
+      "Largo Entertainment",
+      "Scott Free Productions",
+      "Hollywood Pictures"
+    ],
+    "production_countries": [
+      "United Kingdom",
+      "United States of America"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Black Sheep",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "rating_stats": {
+      "average": 3.16,
+      "count": 16,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 13997,
+    "imdb_id": "tt0115697",
+    "original_title": "Black Sheep",
+    "overview": "Candidato ao governo do estado, Al (Tim Matheson) tem uma grande pedra no caminho: seu irmão Mike (Chris Farley), um trapalhão de primeira. É quando o comitê decide encontrar alguém para levar Mike para longe, durante a campanha. Para mantê-lo longe de problemas, Al obriga um de seus assessores, Steve Dodds (David Spade), a ficar de olho nele durante a eleição. Mas a concorrente de Al sabe que só precisa trazer Mike de volta, para vencer o pleito.",
+    "tagline": "Toda Família Tem uma",
+    "runtime": 86,
+    "vote_average": 6.1,
+    "vote_count": 442,
+    "popularity": 1.7433,
+    "poster_path": "/ihGI8Gldygi49hV62mKa850H3Gf.jpg",
+    "backdrop_path": "/rJbDh4nIjxQFlFjK6k2SktTTT01.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-01",
+    "tmdb_genres": [
+      "Comédia"
+    ],
+    "keywords": [
+      "corrupt politician",
+      "nitrous oxide",
+      "candid camera",
+      "double act",
+      "political satire",
+      "woman director"
+    ],
+    "director": "Penelope Spheeris",
+    "cast": [
+      "Chris Farley",
+      "David Spade",
+      "Tim Matheson",
+      "Gary Busey",
+      "Chris Owen",
+      "Bruce McGill",
+      "Boyd Banks",
+      "Grant Heslov",
+      "David St. James",
+      "Timothy Carhart"
+    ],
+    "production_companies": [
+      "Paramount Pictures"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Nick of Time",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.25,
+      "count": 10,
+      "min": 2.0,
+      "max": 4.0
+    },
+    "tmdb_id": 2086,
+    "imdb_id": "tt0113972",
+    "original_title": "Nick of Time",
+    "overview": "Um homem vive um pesadelo quando sua filha é sequestrada por supostos agentes federais. Ele recebe uma ligação dizendo que deve matar a governadora da Califórnia em uma hora e quinze minutos ou não achará mais sua filha com vida.",
+    "tagline": "Noventa minutos. Seis balas. Sem escolha.",
+    "runtime": 89,
+    "vote_average": 6.234,
+    "vote_count": 775,
+    "popularity": 3.5151,
+    "poster_path": "/h0VTxYDBoY23DqPyq7xxG4z0h0c.jpg",
+    "backdrop_path": "/u1JzntSiNw9vUCqYIOcNDajWwdZ.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-11-22",
+    "tmdb_genres": [
+      "Thriller",
+      "Crime",
+      "Ação"
+    ],
+    "keywords": [
+      "assassination",
+      "politics",
+      "los angeles, california"
+    ],
+    "director": "John Badham",
+    "cast": [
+      "Johnny Depp",
+      "Courtney Chase",
+      "Charles S. Dutton",
+      "Christopher Walken",
+      "Roma Maffia",
+      "Peter Strauss",
+      "Gloria Reuben",
+      "Marsha Mason",
+      "Miguel Nájera",
+      "Bill Smitrovich"
+    ],
+    "production_companies": [
+      "Paramount Pictures"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Beautiful Girls",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.95,
+      "count": 10,
+      "min": 3.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9283,
+    "imdb_id": "tt0115639",
+    "original_title": "Beautiful Girls",
+    "overview": "O pianista Willie Conway (Timothy Hutton) volta para sua cidade natal em Massachusetts para uma reunião de colégio. Lá, ele encontra os velhos amigos Sharon Cassidy (Mira Sorvino), Tommy Rowland (Matt Dillon), Tracy Stover (Annabeth Gish) e Paul Kirkwood (Michael Rapaport), além de outros que, juntos, garantem diversão e boas risadas.",
+    "tagline": "",
+    "runtime": 112,
+    "vote_average": 6.637,
+    "vote_count": 387,
+    "popularity": 1.1495,
+    "poster_path": "/sHcx1fBmrtZYvFmUywU0d5cvIFd.jpg",
+    "backdrop_path": "/5VfgNZJvJ6FcwF3PPQbpUIzILkQ.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-09",
+    "tmdb_genres": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "friendship",
+      "small town",
+      "massachusetts",
+      "coming of age",
+      "hometown",
+      "group of friends"
+    ],
+    "director": "Ted Demme",
+    "cast": [
+      "Timothy Hutton",
+      "Matt Dillon",
+      "Noah Emmerich",
+      "Annabeth Gish",
+      "Lauren Holly",
+      "Uma Thurman",
+      "Mira Sorvino",
+      "Michael Rapaport",
+      "Rosie O'Donnell",
+      "Pruitt Taylor Vince"
+    ],
+    "production_companies": [
+      "Miramax",
+      "Woods Entertainment"
+    ],
+    "production_countries": [
+      "United States of America",
+      "Canada",
+      "Malaysia"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Broken Arrow",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 3.02,
+      "count": 84,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 9208,
+    "imdb_id": "tt0115759",
+    "original_title": "Broken Arrow",
+    "overview": "Um piloto desleal da Força Aérea americana rouba dois mísseis nucleares do governo e planeja vendê-los a terroristas inimigos. Mas seu obstinado copiloto e uma guarda florestal fazem de tudo para frustrar seu plano maquiavélico.",
+    "tagline": "Prepare-se para o impacto.",
+    "runtime": 108,
+    "vote_average": 6.059,
+    "vote_count": 1616,
+    "popularity": 3.19,
+    "poster_path": "/nJBAouPQajEDOi9HCynWEUUk29p.jpg",
+    "backdrop_path": "/446lXnrT0vSIkeClW8bCN8KrnxN.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-09",
+    "tmdb_genres": [
+      "Ação",
+      "Thriller"
+    ],
+    "keywords": [
+      "canyon",
+      "helicopter",
+      "underground",
+      "river",
+      "mexican standoff",
+      "countdown",
+      "pilot",
+      "fistfight",
+      "major",
+      "betrayal",
+      "gunfight",
+      "train",
+      "explosion",
+      "park ranger",
+      "desert",
+      "military",
+      "hostile",
+      "nuclear device",
+      "boxing",
+      "stealth aircraft"
+    ],
+    "director": "John Woo",
+    "cast": [
+      "John Travolta",
+      "Christian Slater",
+      "Samantha Mathis",
+      "Delroy Lindo",
+      "Frank Whaley",
+      "Bob Gunton",
+      "Howie Long",
+      "Jack Thompson",
+      "Kurtwood Smith",
+      "Vondie Curtis-Hall"
+    ],
+    "production_companies": [
+      "The Mark Gordon Company",
+      "WCG Entertainment Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Hate (Haine, La)",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "rating_stats": {
+      "average": 3.9,
+      "count": 10,
+      "min": 3.0,
+      "max": 5.0
+    },
+    "tmdb_id": 406,
+    "imdb_id": "tt0113247",
+    "original_title": "La Haine",
+    "overview": "Um dia na vida de três jovens delinquentes, um árabe, um judeu e um negro que moram num conjunto habitacional pobre de Paris, mostra a que ponto pode chegar a discriminação racial de policiais hostis.",
+    "tagline": "Até agora tudo bem...",
+    "runtime": 98,
+    "vote_average": 8.084,
+    "vote_count": 4401,
+    "popularity": 5.6209,
+    "poster_path": "/75WjFRiElQaEGRqNKJdTSB47rMR.jpg",
+    "backdrop_path": "/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+    "original_language": "fr",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-05-31",
+    "tmdb_genres": [
+      "Drama"
+    ],
+    "keywords": [
+      "police brutality",
+      "hip-hop",
+      "paris, france",
+      "socially deprived family",
+      "breakdance",
+      "ghetto",
+      "male friendship",
+      "street riots",
+      "racism",
+      "black and white",
+      "rebellious youth",
+      "xenophobia",
+      "housing project",
+      "ethnic diversity",
+      "riot police",
+      "day in a life",
+      "aggressive",
+      "skinheads",
+      "paris suburb",
+      "gun death"
+    ],
+    "director": "Mathieu Kassovitz",
+    "cast": [
+      "Vincent Cassel",
+      "Hubert Koundé",
+      "Saïd Taghmaoui",
+      "Abdel Ahmed Ghili",
+      "Solo",
+      "Joseph Momo",
+      "Héloïse Rauth",
+      "Rywka Wajsbrot",
+      "Olga Abrego",
+      "Laurent Labasse"
+    ],
+    "production_companies": [
+      "Kasso Productions",
+      "La Sept Cinéma",
+      "Les Productions Lazennec",
+      "Canal+",
+      "StudioCanal"
+    ],
+    "production_countries": [
+      "France"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "City Hall",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 2.79,
+      "count": 14,
+      "min": 1.0,
+      "max": 4.0
+    },
+    "tmdb_id": 11062,
+    "imdb_id": "tt0115907",
+    "original_title": "City Hall",
+    "overview": "Num dia chuvoso em Nova York, um tiroteio entre um detetive da Delegacia de Narcóticos e um traficante de drogas deixa ambos mortos, sendo que uma bala perdida mata também um menino de 6 anos. John Papas (Al Pacino), o prefeito, busca contornar o problema da melhor forma possível, mas Kevin Calhoun (John Cusack), o vice-prefeito, é um idealista e resolve averiguar, descobrindo que foi dada sursis a um criminoso ao qual originariamente tinha sido recomendado uma pena entre dez e vinte anos, sendo que por acaso este criminoso é também filho do chefe da Máfia local.",
+    "tagline": "Tudo começou com um tiroteio em uma rua varrida pela chuva e terminou em um escândalo que abalou Nova York.",
+    "runtime": 96,
+    "vote_average": 5.935,
+    "vote_count": 307,
+    "popularity": 1.3201,
+    "poster_path": "/aWopIPEZkH8nZE7TS4p40oinSMV.jpg",
+    "backdrop_path": "/9z9SwlbhlV1oaai2gPhyRE8xpIG.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-16",
+    "tmdb_genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "keywords": [
+      "drug dealer",
+      "new york city",
+      "corruption",
+      "undercover agent",
+      "police",
+      "undercover",
+      "presidential election",
+      "war on drugs",
+      "mayor",
+      "investigation",
+      "mafia",
+      "city hall",
+      "mob hit",
+      "political corruption",
+      "corrupt mayor",
+      "corrupt judge",
+      "accidental shooting",
+      "suicide by gun",
+      "corrupt police officials",
+      "political ambition"
+    ],
+    "director": "Harold Becker",
+    "cast": [
+      "Al Pacino",
+      "John Cusack",
+      "Bridget Fonda",
+      "Danny Aiello",
+      "Martin Landau",
+      "David Paymer",
+      "Anthony Franciosa",
+      "Lindsay Duncan",
+      "Luna Lauren Vélez",
+      "Richard Schiff"
+    ],
+    "production_companies": [
+      "Castle Rock Entertainment"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Bottle Rocket",
+    "year": 1996,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.78,
+      "count": 23,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 13685,
+    "imdb_id": "tt0115734",
+    "original_title": "Bottle Rocket",
+    "overview": "Três jovens amigos em busca de um lugar ao sol acabam tornando-se foragidos. Mas cada um tem seu sonho particular: Anthony, o de encontrar um amor verdadeiro; Bob, o de ter uma família; e Dignam, o de ser um gângster respeitado.",
+    "tagline": "",
+    "runtime": 92,
+    "vote_average": 6.694,
+    "vote_count": 1141,
+    "popularity": 2.3117,
+    "poster_path": "/zoMyTTiVloNBMHe9dco2CrewraQ.jpg",
+    "backdrop_path": "/yTDwyUEYHZTK35z7Iyp4QHxvVj9.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-21",
+    "tmdb_genres": [
+      "Comédia",
+      "Crime",
+      "Drama"
+    ],
+    "keywords": [
+      "robbery",
+      "sibling relationship",
+      "burglar",
+      "motel",
+      "language barrier",
+      "heist",
+      "psychiatric hospital",
+      "maid",
+      "theft",
+      "nervous breakdown",
+      "escapade",
+      "laundry room",
+      "based on short film",
+      "joyous",
+      "absurd"
+    ],
+    "director": "Wes Anderson",
+    "cast": [
+      "Luke Wilson",
+      "Owen Wilson",
+      "Robert Musgrave",
+      "Lumi Cavazos",
+      "James Caan",
+      "Andrew Wilson",
+      "Teddy Wilson",
+      "Donny Caicedo",
+      "Ned Dowd",
+      "Jenni Tooley"
+    ],
+    "production_companies": [
+      "Gracie Films",
+      "Columbia Pictures",
+      "Boyle-Taylor Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Happy Gilmore",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "rating_stats": {
+      "average": 3.44,
+      "count": 99,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 9614,
+    "imdb_id": "tt0116483",
+    "original_title": "Happy Gilmore",
+    "overview": "Happy Gilmore quer ser um jogador profissional de hóquei, mas acaba descobrindo que tem um talento muito especial para jogar golfe. O satírico e desbocado atleta acaba ganhando dinheiro suficiente para poder ajudar a sua avó, que está prestes a perder a casa por falta de pagamento de impostos. O problema é que esse maluco se torna um herói improvável para o esporte, o que desagrada bastante os golfistas, tão educados e elegantes.",
+    "tagline": "Ele não joga golfe... ele destrói o jogo.",
+    "runtime": 91,
+    "vote_average": 6.674,
+    "vote_count": 3205,
+    "popularity": 5.1963,
+    "poster_path": "/cCY0t6CcGqueGFyT2xSEUXaggXb.jpg",
+    "backdrop_path": "/As7NuiDRM4EO7LlJn2u8JWWsABp.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-16",
+    "tmdb_genres": [
+      "Comédia"
+    ],
+    "keywords": [
+      "sports",
+      "loss of loved one",
+      "golf",
+      "taxes",
+      "class differences",
+      "prize money",
+      "driving range",
+      "rich snob",
+      "anger issues",
+      "old-age home",
+      "boy meets girl",
+      "loss of home",
+      "grandmother grandson relationship",
+      "winner takes all",
+      "hockey player",
+      "child raised by grandmother",
+      "putting",
+      "joyful",
+      "golf tournament",
+      "sports comedy"
+    ],
+    "director": "Dennis Dugan",
+    "cast": [
+      "Adam Sandler",
+      "Christopher McDonald",
+      "Julie Bowen",
+      "Frances Bay",
+      "Carl Weathers",
+      "Allen Covert",
+      "Robert Smigel",
+      "Bob Barker",
+      "Richard Kiel",
+      "Dennis Dugan"
+    ],
+    "production_companies": [
+      "Universal Pictures",
+      "Brillstein-Grey Entertainment",
+      "Robert Simonds Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Bridges of Madison County, The",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating_stats": {
+      "average": 3.28,
+      "count": 23,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 688,
+    "imdb_id": "tt0112579",
+    "original_title": "The Bridges of Madison County",
+    "overview": "Após a morte de Francesca Johnson (Meryl Streep), uma proprietária rural do interior do Iowa, seus filhos descobrem, através de cartas que a mãe deixou, do forte envolvimento que ela teve com um fotógrafo (Clint Eastwood) da National Geographic, quando a família se ausentou de casa por quatro dias. Estas revelações fazem os filhos questionarem seus próprios casamentos.",
+    "tagline": "O caminho do futuro de Francesca Johnson parece destinado a uma bifurcação inesperada na estrada...",
+    "runtime": 135,
+    "vote_average": 7.705,
+    "vote_count": 2305,
+    "popularity": 4.0626,
+    "poster_path": "/ahC9ZWvPMXnQhKY8prrS1eq8Gpl.jpg",
+    "backdrop_path": "/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-06-02",
+    "tmdb_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "keywords": [
+      "adultery",
+      "secret love",
+      "husband wife relationship",
+      "based on novel or book",
+      "love of one's life",
+      "unsociability",
+      "marriage crisis",
+      "photographer",
+      "love at first sight",
+      "photography",
+      "peasant",
+      "mother role",
+      "iowa",
+      "bridge",
+      "housewife",
+      "love letter",
+      "romantic"
+    ],
+    "director": "Clint Eastwood",
+    "cast": [
+      "Meryl Streep",
+      "Clint Eastwood",
+      "Annie Corley",
+      "Victor Slezak",
+      "Jim Haynie",
+      "Sarah Zahn",
+      "Christopher Kroon",
+      "Phyllis Lyons",
+      "Debra Monk",
+      "Richard Lage"
+    ],
+    "production_companies": [
+      "Malpaso Productions",
+      "Warner Bros. Pictures",
+      "Amblin Entertainment"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Muppet Treasure Island",
+    "year": 1996,
+    "genres": [
+      "Adventure",
+      "Children",
+      "Comedy",
+      "Musical"
+    ],
+    "rating_stats": {
+      "average": 3.33,
+      "count": 26,
+      "min": 1.0,
+      "max": 5.0
+    },
+    "tmdb_id": 10874,
+    "imdb_id": "tt0117110",
+    "original_title": "Muppet Treasure Island",
+    "overview": "\"A Ilha do Tesouro\", um clássico de Robert Louis Stevenson, ganha vida própria nas mãos dos divertidos Muppets. A história começa quando Jim Hawkins herda de um pirata um mapa do tesouro perdido. Ele aluga um grande barco e parte em busca do ouro. Nessa viagem, encontra com o capitão Smollet (Caco, o Sapo), o terrível Long John Silver (Tim Cury) e a temível Benjamina Gunn (Miss Piggy). \"Os Muppets na Ilha do Tesouro\" é uma aventura superdivertida para toda a família.",
+    "tagline": "Os Muppets enfrentam o perigoso pirata de uma perna só, Long John Silver.",
+    "runtime": 99,
+    "vote_average": 6.676,
+    "vote_count": 446,
+    "popularity": 8.805,
+    "poster_path": "/p5SS99cIFwX4Xubg8yJ9svNqquX.jpg",
+    "backdrop_path": "/3RfNxQhvseerf9dNlo1dmL09RLr.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1996-02-16",
+    "tmdb_genres": [
+      "Família",
+      "Comédia",
+      "Aventura"
+    ],
+    "keywords": [
+      "island",
+      "pirate gang",
+      "puppet",
+      "treasure hunt",
+      "puppetry",
+      "pirate",
+      "duringcreditsstinger",
+      "anthropomorphic puppets",
+      "lighthearted"
+    ],
+    "director": "Brian Henson",
+    "cast": [
+      "Tim Curry",
+      "Billy Connolly",
+      "Jennifer Saunders",
+      "Kevin Bishop",
+      "Dave Goelz",
+      "Steve Whitmire",
+      "Jerry Nelson",
+      "Kevin Clash",
+      "Bill Barretta",
+      "Frank Oz"
+    ],
+    "production_companies": [
+      "Walt Disney Pictures",
+      "Jim Henson Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Braveheart",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "rating_stats": {
+      "average": 4.03,
+      "count": 237,
+      "min": 0.5,
+      "max": 5.0
+    },
+    "tmdb_id": 197,
+    "imdb_id": "tt0112573",
+    "original_title": "Braveheart",
+    "overview": "No século XIII, soldados ingleses matam a mulher do escocês William Wallace, bem na sua noite de núpcias. Para vingar a amada, ele resolve liderar seu povo em uma luta contra o cruel Rei inglês Edward I. Com a ajuda de Robert e Bruce, ele vai deflagrar uma violenta batalha com o objetivo de libertar a Escócia de uma vez por todas.",
+    "tagline": "Vida sem liberdade não é vida.",
+    "runtime": 178,
+    "vote_average": 7.941,
+    "vote_count": 10813,
+    "popularity": 11.1353,
+    "poster_path": "/cfnhpDzEV5zTsuaa4dCHFRzPHXx.jpg",
+    "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1995-05-24",
+    "tmdb_genres": [
+      "Ação",
+      "Drama",
+      "História",
+      "Guerra"
+    ],
+    "keywords": [
+      "england",
+      "scotland",
+      "loss of loved one",
+      "idealism",
+      "based on true story",
+      "catholic",
+      "medieval",
+      "war"
+    ],
+    "director": "Mel Gibson",
+    "cast": [
+      "Mel Gibson",
+      "Catherine McCormack",
+      "Sophie Marceau",
+      "Patrick McGoohan",
+      "Angus Macfadyen",
+      "Brendan Gleeson",
+      "James Robinson",
+      "James Cosmo",
+      "Sean McGinley",
+      "Gerda Stevenson"
+    ],
+    "production_companies": [
+      "The Ladd Company",
+      "Icon Productions"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Taxi Driver",
+    "year": 1976,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "rating_stats": {
+      "average": 4.11,
+      "count": 104,
+      "min": 2.0,
+      "max": 5.0
+    },
+    "tmdb_id": 103,
+    "imdb_id": "tt0075314",
+    "original_title": "Taxi Driver",
+    "overview": "Veterano de guerra mentalmente instável trabalha como taxista em Nova York. Decadência e desprezo alimentam seu desejo de ação violenta.",
+    "tagline": "Os dias continuam e nunca terminam",
+    "runtime": 114,
+    "vote_average": 8.129,
+    "vote_count": 13101,
+    "popularity": 11.9004,
+    "poster_path": "/hvJvOYRrF9xxvNzg2Jd9PYWu7c3.jpg",
+    "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+    "original_language": "en",
+    "adult": false,
+    "video": false,
+    "release_date": "1976-02-09",
+    "tmdb_genres": [
+      "Crime",
+      "Drama"
+    ],
+    "keywords": [
+      "drug dealer",
+      "vietnam veteran",
+      "new york city",
+      "taxi",
+      "pornography",
+      "obsession",
+      "taxi driver",
+      "1970s",
+      "pimp",
+      "observer",
+      "firearm",
+      "politician",
+      "alienation",
+      "junk food",
+      "misanthrophy",
+      "vigilante",
+      "political campaign",
+      "cynical",
+      "illegal prostitution",
+      "urban decay"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Cybill Shepherd",
+      "Harvey Keitel",
+      "Peter Boyle",
+      "Leonard Harris",
+      "Albert Brooks",
+      "Diahnne Abbott",
+      "Frank Adu",
+      "Victor Argo"
+    ],
+    "production_companies": [
+      "Italo/Judeo Productions",
+      "Bill/Phillips",
+      "Columbia Pictures"
+    ],
+    "production_countries": [
+      "United States of America"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Rumble in the Bronx (Hont faan kui)",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "rating_stats": {
+      "average": 3.54,
+      "count": 46,
+      "min": 1.0,
+      "max": 5.0
+    }
+  }
+]
