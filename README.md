@@ -1,233 +1,262 @@
-# 🎬 Recomendador de Filmes - Sistema Inteligente
+# 🎬 Movie Recommender
 
-Sistema completo de recomendação de filmes em **Português Brasileiro** com integração **TMDB + MovieLens** e design moderno com **Tailwind CSS**.
+Sistema de recomendação de filmes inteligente utilizando dados do TMDB (The Movie Database) e MovieLens, com interface web moderna e API REST.
 
-## ✨ Funcionalidades
+## 📋 Sobre o Projeto
 
-### 🎯 Dados Reais e Ricos
+O Movie Recommender é uma aplicação full-stack que oferece recomendações personalizadas de filmes baseadas em análise de conteúdo e preferências do usuário. O sistema utiliza algoritmos de machine learning para sugerir filmes similares aos que o usuário gostou.
 
-- **TMDB API**: Metadados completos (posters, sinopses, keywords, elenco)
-- **MovieLens**: Avaliações reais de 100k+ usuários
-- **Cache Inteligente**: Sistema de cache para performance
-- **100 Filmes**: Selecionados entre os mais populares e bem avaliados
+### Principais Funcionalidades
 
-### Frontend (React + TypeScript + Vite + Tailwind CSS)
-- 🎨 **Design Moderno**: Interface com Tailwind CSS e efeitos glass morphism
-- 🌓 **Tema Claro/Escuro**: Alterne entre temas com persistência de preferência
-- 📱 **Totalmente Responsivo**: Design mobile-first com 5 breakpoints (sm, md, lg, xl, 2xl)
-- 🔍 **Busca Avançada**: Pesquise por título, diretor, gênero ou ano
-- 🏷️ **Filtros Inteligentes**: Filtre por múltiplos gêneros e faixa de ano
-- ⭐ **Sistema de Avaliações**: Avalie filmes com 1-5 estrelas
-- 👍👎 **Like/Dislike**: Sistema rápido de feedback
-- 📊 **Estatísticas**: Veja suas métricas de uso em tempo real
-- 💾 **Persistência Local**: Suas preferências são salvas automaticamente
-- 🎯 **Ordenação**: Ordene por ano, título ou avaliação
-- ✨ **Animações Suaves**: Transições e animações com Tailwind
-- 🎨 **Scrollbars Customizadas**: Estilo personalizado para melhor experiência
+- 🎯 **Recomendações Personalizadas**: Sistema baseado em conteúdo que analisa características dos filmes
+- 👤 **Autenticação de Usuários**: Sistema completo de registro e login
+- ⭐ **Feedback de Filmes**: Avaliações com likes/dislikes e ratings
+- 📊 **Dados Enriquecidos**: Informações detalhadas dos filmes via API do TMDB
+- 🎨 **Interface Moderna**: UI responsiva construída com React e Tailwind CSS
+- 🚀 **API REST**: Backend robusto com FastAPI
 
-### Backend (FastAPI + Python + ML)
-- 🤖 **Algoritmo Avançado**: TF-IDF com keywords, elenco e sinopses
-- 📊 **TMDB Integration**: Metadados ricos de 58M+ filmes
-- 🎬 **MovieLens Dataset**: Avaliações reais para melhor precisão
-- 🎯 **Recomendações Explicáveis**: Entenda por que cada filme foi recomendado
-- 🌈 **Diversidade**: Evita recomendações repetitivas de gêneros/diretores
-- 📈 **Penalização de Dislikes**: Aprende com suas preferências negativas
-- 💾 **Cache Inteligente**: Performance otimizada com cache de 7 dias
-- 🔄 **API RESTful**: Endpoints bem documentados
+## 🏗️ Arquitetura
 
-## 🎨 Dataset Híbrido
-
-### Fontes de Dados
-
-1. **MovieLens** (Avaliações)
-   - 100,000+ avaliações de usuários reais
-   - 9,000+ filmes catalogados
-   - Scores confiáveis e validados
-
-2. **TMDB** (Metadados)
-   - Posters e imagens em alta qualidade
-   - Sinopses em português brasileiro
-   - Keywords/tags (até 2.000 por filme)
-   - Elenco completo e créditos
-   - Classificação etária, duração, popularidade
-
-### Dados Enriquecidos
-
-Cada filme contém:
-- ✅ Título original e traduzido
-- ✅ 16 gêneros em pt-BR
-- ✅ Diretor e top 5 atores
-- ✅ Keywords para recomendação precisa
-- ✅ Sinopse completa
-- ✅ Poster e backdrop
-- ✅ Avaliações reais do MovieLens
-- ✅ Popularidade e votos do TMDB
-
-## 🚀 Como Rodar
-
-### Setup Rápido (Recomendado)
-
-```bash
-# 1. Clone o repositório
-git clone <repo>
-cd movie-recommender
-
-# 2. Execute o setup automático
-chmod +x setup.sh
-./setup.sh
-
-# O script irá:
-# - Configurar ambiente Python
-# - Instalar dependências
-# - Solicitar chave API do TMDB
-# - (Opcional) Baixar MovieLens
-# - Popular banco de dados
+```
+movie-recommender/
+├── backend/                 # API FastAPI
+│   ├── app/
+│   │   ├── main.py         # Aplicação principal
+│   │   ├── recommender.py  # Algoritmo de recomendação
+│   │   ├── auth.py         # Sistema de autenticação
+│   │   ├── database.py     # Gerenciamento de banco de dados
+│   │   ├── models.py       # Modelos de dados
+│   │   ├── data.py         # Processamento de dados
+│   │   └── tmdb_client.py  # Cliente da API TMDB
+│   ├── data/               # Dados dos filmes e cache
+│   └── requirements.txt    # Dependências Python
+│
+└── frontend/               # Aplicação React
+    ├── src/
+    │   ├── App.tsx         # Componente principal
+    │   ├── api.ts          # Cliente da API
+    │   └── components/     # Componentes React
+    ├── package.json
+    └── vite.config.ts
 ```
 
-### Setup Manual
+## 🚀 Instalação e Configuração
 
-#### 1) Configurar Backend
+### Pré-requisitos
+
+- Python 3.8 ou superior
+- Node.js 16+ e npm
+- API Key do TMDB ([obtenha aqui](https://www.themoviedb.org/settings/api))
+
+### Configuração Rápida
+
+O projeto inclui scripts automatizados para facilitar a configuração:
+
+```bash
+# Dar permissão de execução aos scripts
+chmod +x quickstart.sh setup.sh validate.sh
+
+# Executar configuração completa
+./quickstart.sh
+```
+
+Este script irá:
+
+1. Configurar o ambiente Python
+2. Instalar dependências do backend
+3. Configurar o ambiente Node.js
+4. Instalar dependências do frontend
+5. Iniciar ambos os servidores
+
+### Configuração Manual
+
+#### Backend
 
 ```bash
 cd backend
 
 # Criar ambiente virtual
-python3 -m venv .venv
+python -m venv .venv
+
+# Ativar ambiente virtual
 source .venv/bin/activate  # Linux/macOS
-# .venv\Scripts\activate  # Windows
+# ou
+.venv\Scripts\activate     # Windows
 
 # Instalar dependências
 pip install -r requirements.txt
 
-# Configurar .env
-cp .env.example .env
-# Edite .env e adicione TMDB_API_KEY
-# Obtenha em: https://www.themoviedb.org/settings/api
-
-# Popular dados (TMDB + MovieLens)
-python -m app.setup_data
+# Configurar variável de ambiente (opcional)
+export TMDB_API_KEY="sua_chave_api_aqui"
 
 # Iniciar servidor
 uvicorn app.main:app --reload --port 8000
 ```
 
-#### 2) Configurar Frontend
+#### Frontend
 
 ```bash
 cd frontend
+
+# Instalar dependências
 npm install
+
+# Iniciar servidor de desenvolvimento
 npm run dev
 ```
 
-**Acesse:** `http://localhost:5173`
+O frontend estará disponível em `http://localhost:5173`
 
----
+## 🔧 API Endpoints
 
-## 🔑 Obtendo Chave TMDB API
+### Autenticação
 
-1. Acesse: https://www.themoviedb.org/signup
-2. Crie uma conta gratuita
-3. Vá em Settings → API
-4. Solicite uma API Key (escolha "Developer")
-5. Copie a "API Key (v3 auth)"
-6. Cole no arquivo `backend/.env`
+- `POST /register` - Registrar novo usuário
+- `POST /login` - Fazer login
+- `GET /me` - Obter dados do usuário atual
 
-**Ver guia completo:** [GUIA_TMDB_MOVIELENS.md](GUIA_TMDB_MOVIELENS.md)
+### Filmes
 
----
+- `GET /movies` - Listar todos os filmes
+- `GET /movies/{movie_id}` - Obter detalhes de um filme
 
-## 📡 Endpoints da API
+### Recomendações
 
-- `GET /health` - Status da API
-- `GET /movies` - Lista todos os filmes
-- `GET /state` - Estado atual (likes/dislikes)
-- `POST /feedback` - Enviar like/dislike
-  ```json
-  { "movie_id": 1, "action": "like" | "dislike" }
-  ```
 - `GET /recommendations?k=10` - Obter recomendações personalizadas
+  - `k`: número de recomendações (padrão: 10)
 
-## 🎯 Como Usar
+### Feedback
 
-1. **Explore o catálogo** de filmes na parte inferior
-2. **Curta** (👍) ou **não curta** (👎) filmes que você conhece
-3. **Avalie** filmes com estrelas (1-5) para melhor precisão
-4. **Veja recomendações personalizadas** no topo da página
-5. **Use filtros** para refinar sua busca por gênero e ano
-6. **Alterne o tema** entre claro e escuro
+- `POST /feedback` - Registrar like/dislike
 
-## 🔬 Melhorias Implementadas
+  ```json
+  {
+    "movie_id": 1,
+    "action": "like" // ou "dislike"
+  }
+  ```
 
-### Algoritmo de Recomendação
-- ✅ Re-ranking com diversidade de gêneros e diretores
-- ✅ Penalização forte de filmes não curtidos (90% redução)
-- ✅ Boost para diversidade de diretores (+15%)
-- ✅ Explicações detalhadas com emojis
-- ✅ Fallback inteligente para novos usuários
+- `POST /rate` - Avaliar filme com nota
+  ```json
+  {
+    "movie_id": 1,
+    "rating": 4.5
+  }
+  ```
 
-### Interface do Usuário
-- ✅ Sistema completo de temas (claro/escuro)
-- ✅ Filtros por gênero com seleção múltipla
-- ✅ Filtro de faixa de ano com sliders
-- ✅ Ordenação por ano, título ou avaliação
-- ✅ Sistema de avaliação por estrelas
-- ✅ Estatísticas de uso (curtidas, avaliações, média)
-- ✅ Persistência automática no localStorage
-- ✅ Design moderno com gradientes e animações
-- ✅ Estados vazios informativos
+## 🧪 Testes
 
-### Experiência do Usuário
-- ✅ Totalmente traduzido para pt-BR
-- ✅ Tooltips e mensagens descritivas
-- ✅ Feedback visual imediato
-- ✅ Layout responsivo mobile-first
-- ✅ Carregamento otimizado
-- ✅ Design moderno com Tailwind CSS
-- ✅ Animações e transições suaves
+### Backend
 
-## 🛠️ Tecnologias
+```bash
+cd backend
+source .venv/bin/activate
 
-**Backend:**
-- FastAPI 0.115.0
-- scikit-learn 1.5.2 (TF-IDF, Cosine Similarity)
-- Pydantic 2.8.2
-- Uvicorn 0.30.6
-- python-dotenv 1.0.0
-- requests 2.31.0
+# Testar conexão com TMDB
+python test_tmdb.py
 
-**Frontend:**
-- React 18.3.1
-- TypeScript 5.5.4
-- Vite 5.4.2
-- **Tailwind CSS 3.x** (Novo!)
-- PostCSS + Autoprefixer
+# Testar sistema de recomendação
+python test_recommender.py
+```
 
-**APIs:**
-- TMDB API (The Movie Database)
-- MovieLens Dataset (ml-latest-small)
+### Validação Completa
 
-## 📚 Documentação
+```bash
+./validate.sh
+```
 
-- [MIGRACAO_TAILWIND.md](./MIGRACAO_TAILWIND.md) - Detalhes da migração para Tailwind CSS
-- [MELHORIAS.md](./MELHORIAS.md) - Melhorias técnicas implementadas
-- [GUIA_DE_USO.md](./GUIA_DE_USO.md) - Guia completo para o usuário
-- [INTEGRACAO_TMDB.md](./INTEGRACAO_TMDB.md) - Documentação da integração TMDB
-- [RESUMO_MELHORIAS.md](./RESUMO_MELHORIAS.md) - Resumo executivo
+## 📊 Dados
 
-## 📈 Próximos Passos
+O projeto utiliza:
 
-- [x] Integração com TMDB API
-- [x] Integração com MovieLens
-- [x] Design responsivo moderno
-- [x] Migração para Tailwind CSS
-- [ ] Persistência em banco de dados (SQLite/PostgreSQL)
-- [ ] Sistema de usuários múltiplos
-- [ ] Filtro colaborativo (usuários similares)
-- [ ] Sistema de listas personalizadas
-- [ ] Compartilhamento de recomendações
-- [ ] PWA support
-- [ ] Lazy loading de imagens
+- **MovieLens Dataset**: Base de dados com milhares de filmes e avaliações
+- **TMDB API**: Metadados enriquecidos, posters, sinopses e informações detalhadas
+- **Cache Local**: Sistema de cache para otimizar requisições à API do TMDB
 
-## 📝 Licença
+### Scripts de Dados
 
-Projeto educacional de sistema de recomendação.
+- `setup_data.py` - Configurar dataset inicial
+- `collect_from_tmdb.py` - Coletar dados da API do TMDB
+- `enrich_financial_data.py` - Enriquecer dados com informações financeiras
+
+## 🤖 Algoritmo de Recomendação
+
+O sistema utiliza **Content-Based Filtering**, analisando:
+
+- 🎭 Gêneros dos filmes
+- 📝 Palavras-chave e tags
+- 👥 Diretores e atores
+- 📅 Ano de lançamento
+- ⭐ Avaliações médias
+
+O algoritmo:
+
+1. Extrai features TF-IDF dos metadados
+2. Calcula similaridade de cosseno entre filmes
+3. Pondera baseado no feedback do usuário
+4. Retorna top-K recomendações com explicações
+
+## 🛠️ Tecnologias Utilizadas
+
+### Backend
+
+- **FastAPI** - Framework web moderno e rápido
+- **Scikit-learn** - Algoritmos de machine learning
+- **Pandas** - Manipulação de dados
+- **HTTPX** - Cliente HTTP assíncrono
+
+### Frontend
+
+- **React** - Biblioteca UI
+- **TypeScript** - Type safety
+- **Vite** - Build tool
+- **Tailwind CSS** - Framework CSS utility-first
+- **Axios** - Cliente HTTP
+
+## 📝 Configuração de Desenvolvimento
+
+### Variables de Ambiente
+
+Backend (`backend/.env`):
+
+```env
+TMDB_API_KEY=sua_chave_aqui
+DATABASE_URL=sqlite:///./data/app.db
+SECRET_KEY=chave_secreta_para_jwt
+```
+
+Frontend (`frontend/.env`):
+
+```env
+VITE_API_URL=http://localhost:8000
+```
+
+### Proxy do Vite
+
+O frontend já está configurado para fazer proxy das requisições `/api/*` para o backend em `http://localhost:8000/*`.
+
+## 🤝 Contribuindo
+
+1. Fork o projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/NovaFeature`)
+3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
+4. Push para a branch (`git push origin feature/NovaFeature`)
+5. Abra um Pull Request
+
+## 📄 Licença
+
+Este projeto é de código aberto e está disponível sob a licença MIT.
+
+## 👥 Autores
+
+Desenvolvido como projeto de sistema de recomendação de filmes.
+
+## 🙏 Agradecimentos
+
+- [TMDB](https://www.themoviedb.org/) pelos dados de filmes
+- [MovieLens](https://movielens.org/) pelo dataset
+- Comunidade open source
+
+---
+
+⭐ Se este projeto foi útil, considere dar uma estrela no repositório!
