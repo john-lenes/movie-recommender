@@ -76,72 +76,44 @@ const MovieCard = memo(function MovieCard({
   onRate,
   onVote,
 }: MovieCardProps) {
-  const [isImageExpanded, setIsImageExpanded] = useState(false);
-  const [isExpanded, setIsExpanded] = useState(false);
   const posterUrl = m.poster_path
     ? `https://image.tmdb.org/t/p/w500${m.poster_path}`
     : null;
 
   return (
-    <div
-      className="glass rounded-xl p-4 space-y-3 transition-all duration-300 shadow-lg hover:shadow-2xl flex flex-col group relative overflow-hidden"
-      onMouseEnter={() => setIsExpanded(true)}
-      onMouseLeave={() => setIsExpanded(false)}
-    >
+    <div className="glass rounded-xl p-4 space-y-3 transition-all duration-300 shadow-lg hover:shadow-2xl flex flex-col">
       <div className="flex items-start gap-3">
         {posterUrl && (
           <img
             src={posterUrl}
             alt={m.title}
             loading="lazy"
-            className={`object-cover rounded-lg shadow-md flex-shrink-0 cursor-pointer transition-all duration-300 ${
-              isImageExpanded ? "w-40 h-56" : "w-20 h-28"
-            }`}
-            onMouseEnter={() => setIsImageExpanded(true)}
-            onMouseLeave={() => setIsImageExpanded(false)}
+            className="object-cover rounded-lg shadow-md flex-shrink-0 w-24 h-36"
           />
         )}
         <div className="flex-1 min-w-0">
-          {m.original_title && m.original_title !== m.title ? (
-            <>
-              <h3 className="text-base sm:text-lg font-bold text-gray-900 dark:text-white">
-                {m.original_title}
-              </h3>
-              <p className="text-xs text-gray-600 dark:text-gray-400 italic">
-                {m.title}
-              </p>
-            </>
-          ) : (
-            <h3 className="text-base sm:text-lg font-bold text-gray-900 dark:text-white">
-              {m.title}
-            </h3>
-          )}
+          <h3 className="text-base sm:text-lg font-bold text-gray-900 dark:text-white mb-1">
+            {m.title}
+          </h3>
           <div className="flex items-center gap-2 mt-1 flex-wrap">
             <span className="text-sm text-gray-600 dark:text-gray-400">
               {m.year}
             </span>
-            {m.runtime && (
-              <span className="text-sm text-gray-600 dark:text-gray-400">
-                • {m.runtime} min
-              </span>
-            )}
             {m.vote_average && (
               <div className="flex items-center gap-1">
                 <span className="text-yellow-400">★</span>
                 <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">
-                  {m.vote_average.toFixed(1)}
+                  {m.vote_average.toFixed(1)}/10
                 </span>
+                {m.vote_count && (
+                  <span className="text-xs text-gray-500 dark:text-gray-500">
+                    ({m.vote_count})
+                  </span>
+                )}
               </div>
             )}
           </div>
         </div>
-      </div>
-
-      <div className="text-sm text-gray-700 dark:text-gray-300">
-        <span className="font-medium text-gray-600 dark:text-gray-400">
-          Diretor:
-        </span>{" "}
-        {m.director}
       </div>
 
       <div className="flex flex-wrap gap-1.5">
@@ -152,292 +124,30 @@ const MovieCard = memo(function MovieCard({
         ))}
       </div>
 
-      {/* Sinopse fixa */}
       <div className="pt-2 border-t border-gray-200 dark:border-gray-700">
-        <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-          Sinopse:
-        </p>
         <p className="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
-          {m.description}
+          {m.description || m.overview || "Sem sinopse disponível"}
         </p>
       </div>
 
-      {/* Informações expansíveis */}
-      <div
-        className={`transition-all duration-300 overflow-hidden ${
-          isExpanded ? "max-h-[1200px] opacity-100" : "max-h-0 opacity-0"
-        }`}
-      >
-        {/* Tagline */}
-        {m.tagline && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-sm italic text-primary-600 dark:text-primary-400">
-              "{m.tagline}"
-            </p>
-          </div>
-        )}
-
-        {/* Métricas principais */}
-        <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-          <div className="grid grid-cols-2 gap-2">
-            {m.score_composite && (
-              <div className="bg-green-100 dark:bg-green-900/30 rounded-lg p-2">
-                <p className="text-xs text-gray-600 dark:text-gray-400">
-                  Score Composto
-                </p>
-                <p className="text-lg font-bold text-green-700 dark:text-green-400">
-                  {m.score_composite.toFixed(1)}/10
-                </p>
-              </div>
-            )}
-
-            {m.popularity_tier && (
-              <div
-                className={`rounded-lg p-2 ${
-                  m.popularity_tier === "Viral"
-                    ? "bg-red-100 dark:bg-red-900/30"
-                    : m.popularity_tier === "High"
-                      ? "bg-orange-100 dark:bg-orange-900/30"
-                      : m.popularity_tier === "Medium"
-                        ? "bg-blue-100 dark:bg-blue-900/30"
-                        : "bg-gray-100 dark:bg-gray-800"
-                }`}
+      {/* Keywords/Tags */}
+      {m.keywords && m.keywords.length > 0 && (
+        <div className="pt-2 border-t border-gray-200 dark:border-gray-700">
+          <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
+            Tags:
+          </p>
+          <div className="flex flex-wrap gap-1">
+            {m.keywords.slice(0, 8).map((kw, idx) => (
+              <span
+                key={idx}
+                className="text-xs px-2 py-0.5 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded"
               >
-                <p className="text-xs text-gray-600 dark:text-gray-400">
-                  Popularidade
-                </p>
-                <p
-                  className={`text-lg font-bold ${
-                    m.popularity_tier === "Viral"
-                      ? "text-red-700 dark:text-red-400"
-                      : m.popularity_tier === "High"
-                        ? "text-orange-700 dark:text-orange-400"
-                        : m.popularity_tier === "Medium"
-                          ? "text-blue-700 dark:text-blue-400"
-                          : "text-gray-700 dark:text-gray-400"
-                  }`}
-                >
-                  {m.popularity_tier}
-                </p>
-              </div>
-            )}
-
-            {m.certification && (
-              <div className="bg-purple-100 dark:bg-purple-900/30 rounded-lg p-2">
-                <p className="text-xs text-gray-600 dark:text-gray-400">
-                  Classificação
-                </p>
-                <p className="text-lg font-bold text-purple-700 dark:text-purple-400">
-                  {m.certification}
-                </p>
-              </div>
-            )}
-
-            {m.trending_score && (
-              <div className="bg-yellow-100 dark:bg-yellow-900/30 rounded-lg p-2">
-                <p className="text-xs text-gray-600 dark:text-gray-400">
-                  Trending
-                </p>
-                <p className="text-lg font-bold text-yellow-700 dark:text-yellow-400">
-                  {m.trending_score.toFixed(1)}
-                </p>
-              </div>
-            )}
+                {kw}
+              </span>
+            ))}
           </div>
         </div>
-
-        {/* Dados financeiros */}
-        {(m.budget || m.revenue || m.roi !== undefined) && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-2">
-              💰 Finanças
-            </p>
-            <div className="grid grid-cols-3 gap-2 text-xs">
-              {m.budget && (
-                <div>
-                  <p className="text-gray-500 dark:text-gray-500">Orçamento</p>
-                  <p className="font-semibold text-gray-700 dark:text-gray-300">
-                    ${(m.budget / 1_000_000).toFixed(1)}M
-                  </p>
-                </div>
-              )}
-              {m.revenue && (
-                <div>
-                  <p className="text-gray-500 dark:text-gray-500">Receita</p>
-                  <p className="font-semibold text-gray-700 dark:text-gray-300">
-                    ${(m.revenue / 1_000_000).toFixed(1)}M
-                  </p>
-                </div>
-              )}
-              {m.roi !== undefined && m.roi !== null && (
-                <div>
-                  <p className="text-gray-500 dark:text-gray-500">ROI</p>
-                  <p
-                    className={`font-bold ${m.roi > 0 ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"}`}
-                  >
-                    {m.roi > 0 ? "+" : ""}
-                    {m.roi}%
-                  </p>
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
-        {/* Coleção/Franquia */}
-        {m.belongs_to_collection && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-              📚 Franquia
-            </p>
-            <div className="flex items-center gap-2 bg-gradient-to-r from-primary-100 to-primary-50 dark:from-primary-900/30 dark:to-primary-800/20 rounded-lg p-2">
-              {m.belongs_to_collection.poster_path && (
-                <img
-                  src={`https://image.tmdb.org/t/p/w92${m.belongs_to_collection.poster_path}`}
-                  alt={m.belongs_to_collection.name}
-                  className="w-10 h-14 object-cover rounded shadow-sm"
-                />
-              )}
-              <p className="text-sm font-medium text-primary-700 dark:text-primary-300">
-                {m.belongs_to_collection.name}
-              </p>
-            </div>
-          </div>
-        )}
-
-        {/* Elenco */}
-        {m.cast && m.cast.length > 0 && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-              🎭 Elenco principal
-            </p>
-            <p className="text-xs text-gray-600 dark:text-gray-400">
-              {m.cast.slice(0, 5).join(", ")}
-              {m.cast.length > 5 && ` (+${m.cast.length - 5} mais)`}
-            </p>
-          </div>
-        )}
-
-        {/* Production Companies */}
-        {m.production_companies && m.production_companies.length > 0 && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-              🏢 Estúdios
-            </p>
-            <div className="flex flex-wrap gap-1">
-              {m.production_companies.map((company, idx) => (
-                <span
-                  key={idx}
-                  className="text-xs px-2 py-0.5 bg-indigo-100 dark:bg-indigo-900/30 text-indigo-700 dark:text-indigo-300 rounded-full"
-                >
-                  {company}
-                </span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {/* Keywords */}
-        {m.keywords && m.keywords.length > 0 && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-              🏷️ Keywords
-            </p>
-            <div className="flex flex-wrap gap-1">
-              {m.keywords.slice(0, 10).map((kw, idx) => (
-                <span
-                  key={idx}
-                  className="text-xs px-2 py-0.5 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded"
-                >
-                  {kw}
-                </span>
-              ))}
-              {m.keywords.length > 10 && (
-                <span className="text-xs text-gray-500 dark:text-gray-500">
-                  +{m.keywords.length - 10} mais
-                </span>
-              )}
-            </div>
-          </div>
-        )}
-
-        {/* Idiomas */}
-        {m.spoken_languages && m.spoken_languages.length > 0 && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-              🗣️ Idiomas
-            </p>
-            <p className="text-xs text-gray-600 dark:text-gray-400">
-              {m.spoken_languages.map((l) => l.name).join(", ")}
-            </p>
-          </div>
-        )}
-
-        {/* Rating Stats (MovieLens) */}
-        {m.rating_stats && m.rating_stats.average && (
-          <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-            <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-              📊 Stats MovieLens
-            </p>
-            <div className="grid grid-cols-4 gap-2 text-xs">
-              <div>
-                <p className="text-gray-500 dark:text-gray-500">Média</p>
-                <p className="font-semibold text-gray-700 dark:text-gray-300">
-                  {m.rating_stats.average.toFixed(2)}/5
-                </p>
-              </div>
-              <div>
-                <p className="text-gray-500 dark:text-gray-500">Votos</p>
-                <p className="font-semibold text-gray-700 dark:text-gray-300">
-                  {m.rating_stats.count}
-                </p>
-              </div>
-              {m.rating_stats.min !== undefined && (
-                <div>
-                  <p className="text-gray-500 dark:text-gray-500">Min</p>
-                  <p className="font-semibold text-gray-700 dark:text-gray-300">
-                    {m.rating_stats.min}
-                  </p>
-                </div>
-              )}
-              {m.rating_stats.max !== undefined && (
-                <div>
-                  <p className="text-gray-500 dark:text-gray-500">Max</p>
-                  <p className="font-semibold text-gray-700 dark:text-gray-300">
-                    {m.rating_stats.max}
-                  </p>
-                </div>
-              )}
-            </div>
-          </div>
-        )}
-
-        {/* Links externos */}
-        <div className="mt-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-          <div className="flex gap-2">
-            {m.imdb_id && (
-              <a
-                href={`https://www.imdb.com/title/${m.imdb_id}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs px-3 py-1 bg-yellow-500 text-white rounded-full hover:bg-yellow-600 transition-colors font-medium"
-              >
-                IMDb
-              </a>
-            )}
-            {m.tmdb_id && (
-              <a
-                href={`https://www.themoviedb.org/movie/${m.tmdb_id}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs px-3 py-1 bg-blue-500 text-white rounded-full hover:bg-blue-600 transition-colors font-medium"
-              >
-                TMDB
-              </a>
-            )}
-          </div>
-        </div>
-      </div>
+      )}
 
       <div className="space-y-2 pt-2 border-t border-gray-200 dark:border-gray-700">
         <StarRating rating={userRating} onRate={onRate} />

@@ -27,7 +27,7 @@ CACHE_DIR = DATA_DIR / "cache"
 CACHE_DIR.mkdir(exist_ok=True)
 
 # Configurações
-MOVIES_PER_CATEGORY = 20  # Filmes por categoria
+MOVIES_PER_CATEGORY = 200  # Filmes por categoria
 RATE_LIMIT_DELAY = 0.25  # 4 requisições por segundo
 
 
@@ -317,60 +317,82 @@ def main():
         print("⚠️  Erro ao determinar próximo ID, iniciando de 1")
         next_id = 1
 
-    # Categorias para coletar
+    # Categorias para coletar - múltiplas páginas para alcançar 5000 filmes
     categories = [
-        ("popular", "Filmes Populares"),
-        ("top_rated", "Mais Bem Avaliados"),
-        ("now_playing", "Em Cartaz"),
-        # Gêneros específicos
-        ("28", "Ação"),
-        ("35", "Comédia"),
-        ("18", "Drama"),
-        ("27", "Terror"),
-        ("878", "Ficção Científica"),
-        ("53", "Suspense"),
-        ("10749", "Romance"),
-        ("16", "Animação"),
+        ("popular", "Filmes Populares", 15),
+        ("top_rated", "Mais Bem Avaliados", 15),
+        ("now_playing", "Em Cartaz", 5),
+        ("upcoming", "Em Breve", 5),
+        # Gêneros específicos - mais páginas
+        ("28", "Ação", 15),
+        ("35", "Comédia", 15),
+        ("18", "Drama", 15),
+        ("27", "Terror", 10),
+        ("878", "Ficção Científica", 10),
+        ("53", "Suspense", 10),
+        ("10749", "Romance", 10),
+        ("16", "Animação", 8),
+        ("80", "Crime", 10),
+        ("14", "Fantasia", 10),
+        ("36", "História", 5),
+        ("10752", "Guerra", 5),
+        ("12", "Aventura", 15),
+        ("9648", "Mistério", 8),
+        ("10751", "Família", 8),
+        ("37", "Western", 3),
+        ("10770", "Filme de TV", 3),
+        ("99", "Documentário", 5),
+        ("10402", "Música", 5),
     ]
 
     new_movies = []
 
-    for category_id, category_name in categories:
-        print(f"📂 Categoria: {category_name}")
+    for category_data in categories:
+        if len(category_data) == 3:
+            category_id, category_name, max_pages = category_data
+        else:
+            category_id, category_name = category_data
+            max_pages = 1
+        
+        print(f"📂 Categoria: {category_name} ({max_pages} página(s))")
 
-        # Buscar filmes da categoria
-        results = discover_movies(category_id, page=1)
+        for page in range(1, max_pages + 1):
+            # Buscar filmes da categoria
+            results = discover_movies(category_id, page=page)
 
-        collected_count = 0
-        for movie_data in results:
-            if collected_count >= MOVIES_PER_CATEGORY:
-                break
+            collected_count = 0
+            for movie_data in results:
+                if collected_count >= MOVIES_PER_CATEGORY:
+                    break
 
-            tmdb_id = movie_data.get("id")
-            if not tmdb_id or tmdb_id in existing_tmdb_ids:
-                continue
+                tmdb_id = movie_data.get("id")
+                if not tmdb_id or tmdb_id in existing_tmdb_ids:
+                    continue
 
-            print(f"  🎬 {movie_data.get('title', 'Sem título')} (TMDB ID: {tmdb_id})")
+                print(f"  🎬 {movie_data.get('title', 'Sem título')} (TMDB ID: {tmdb_id})")
 
-            # Buscar detalhes completos
-            full_data = get_movie_full_details(tmdb_id)
+                # Buscar detalhes completos
+                full_data = get_movie_full_details(tmdb_id)
 
-            if full_data:
-                movie = parse_movie_data(full_data, next_id)
+                if full_data:
+                    movie = parse_movie_data(full_data, next_id)
 
-                if movie:
-                    new_movies.append(movie)
-                    existing_tmdb_ids.add(tmdb_id)
-                    next_id += 1
-                    collected_count += 1
+                    if movie:
+                        new_movies.append(movie)
+                        existing_tmdb_ids.add(tmdb_id)
+                        next_id += 1
+                        collected_count += 1
 
-                    # Mostrar info
-                    if movie.get("vote_average"):
-                        print(f"     ⭐ {movie['vote_average']:.1f}/10")
-                    if movie.get("budget"):
-                        print(f"     💰 ${movie['budget']:,}")
+                        # Mostrar info
+                        if movie.get("vote_average"):
+                            print(f"     ⭐ {movie['vote_average']:.1f}/10")
+                        if movie.get("budget"):
+                            print(f"     💰 ${movie['budget']:,}")
 
-        print(f"  ✅ {collected_count} novos filmes coletados\n")
+            if collected_count > 0:
+                print(f"  ✅ Página {page}: {collected_count} novos filmes")
+        
+        print(f"  📦 Total da categoria: {len([m for m in new_movies if any(category_name.lower() in g.lower() for g in m.get('genres', []))])} filmes\n")
 
     # Combinar filmes existentes com novos
     all_movies = existing_movies + new_movies

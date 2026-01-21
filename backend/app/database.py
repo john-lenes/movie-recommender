@@ -4,10 +4,7 @@ Para produção, substituir por SQLite/PostgreSQL
 """
 from typing import Dict, List, Optional
 from datetime import datetime
-from passlib.context import CryptContext
-
-# Configuração segura de hash de senha
-pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+import bcrypt
 
 
 class User:
@@ -49,11 +46,13 @@ class InMemoryDatabase:
     
     def _hash_password(self, password: str) -> str:
         """Hash seguro de senha usando bcrypt"""
-        return pwd_context.hash(password)
+        password_bytes = password.encode('utf-8')
+        salt = bcrypt.gensalt()
+        return bcrypt.hashpw(password_bytes, salt).decode('utf-8')
     
     def _verify_password(self, plain_password: str, hashed_password: str) -> bool:
         """Verifica se a senha corresponde ao hash"""
-        return pwd_context.verify(plain_password, hashed_password)
+        return bcrypt.checkpw(plain_password.encode('utf-8'), hashed_password.encode('utf-8'))
     
     def create_user(self, username: str, email: str, password: str) -> Optional[User]:
         """Cria novo usuário"""
