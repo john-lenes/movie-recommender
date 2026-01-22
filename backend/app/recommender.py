@@ -1,83 +1,130 @@
-from typing import Dict, List, Tuple
+from typing import Dict, List, Set, Tuple
 
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+# Constantes para pesos de features
+WEIGHT_GENRES = 5
+WEIGHT_KEYWORDS = 6
+WEIGHT_DIRECTOR = 3
+WEIGHT_CAST = 2
+WEIGHT_CERTIFICATION = 2
+
+# Constantes para limites e thresholds
+MAX_OVERVIEW_WORDS = 150
+MAX_CAST_MEMBERS = 5
+MAX_COMPANIES = 3
+MAX_COUNTRIES = 2
+MIN_VOTES_FOR_QUALITY = 50
+CURRENT_YEAR = 2026
+
+# Constantes para boosts
+BOOST_POPULARITY_SCALE = 40
+BOOST_RATING_EXCELLENT = 1.3
+BOOST_RATING_VERY_GOOD = 1.2
+BOOST_RATING_GOOD = 1.15
+BOOST_RATING_DECENT = 1.1
+PENALTY_RATING_POOR = 0.8
+BOOST_RECENT_MOVIES = 1.05
+BOOST_MODERN_MOVIES = 1.02
+BOOST_CLASSICS = 1.01
+BOOST_COLLECTION = 1.1
+BOOST_SAME_FRANCHISE = 1.3
+
+# Constantes para diversidade
+DIVERSITY_BOOST_NEW_DIRECTOR = 1.2
+DIVERSITY_BOOST_NEW_COMPANY = 1.15
+DIVERSITY_BOOST_SOME_OVERLAP = 1.05
+DIVERSITY_BOOST_NEW_KEYWORDS = 1.1
+DIVERSITY_PENALTY_KEYWORD_OVERLAP = 0.85
+DIVERSITY_BOOST_NEW_DECADE = 1.08
+GENRE_PENALTY_HIGH_OVERLAP = 0.8
+GENRE_PENALTY_MEDIUM_OVERLAP = 0.9
+GENRE_PENALTY_LOW_OVERLAP = 0.95
+
+# Thresholds
+RATING_THRESHOLD_EXCELLENT = 8.0
+RATING_THRESHOLD_VERY_GOOD = 7.5
+RATING_THRESHOLD_GOOD = 7.0
+RATING_THRESHOLD_DECENT = 6.5
+RATING_THRESHOLD_POOR = 5.0
+AGE_RECENT = 3
+AGE_MODERN = 10
+AGE_CLASSIC = 40
+KEYWORD_OVERLAP_LOW = 0.3
+KEYWORD_OVERLAP_HIGH = 0.7
+
+
+def _normalize_text(text: str) -> str:
+    """Normaliza texto removendo pontos e convertendo para lowercase"""
+    return text.strip().lower().replace(".", "")
+
+
+def _extract_overview(movie: Dict) -> str:
+    """Extrai e limita overview do filme"""
+    overview = movie.get("overview", movie.get("description", ""))
+    if overview:
+        words = overview.lower().split()[:MAX_OVERVIEW_WORDS]
+        return " ".join(words)
+    return ""
+
+
+def _repeat_text(text: str, weight: int) -> str:
+    """Repete texto n vezes para amplificar importância no TF-IDF"""
+    return " ".join([text] * weight)
+
 
 def _movie_to_text(movie: Dict) -> str:
     """
-    Conteúdo usado para similaridade: algoritmo melhorado com características precisas
-    Utiliza múltiplos fatores com pesos balanceados para recomendações mais assertivas
+    Converte filme em texto para análise de similaridade usando TF-IDF.
+    Utiliza múltiplos fatores com pesos balanceados para recomendações precisas.
     """
-    # Gêneros (peso muito alto - fundamental para similaridade)
+    # Extrair características com pesos específicos
     genres = " ".join([g.strip().lower() for g in movie.get("genres", [])])
-
-    # Diretor (peso alto - estilo único de cada diretor)
-    director = movie.get("director", "").strip().lower().replace(".", "")
-
-    # Keywords do TMDB (peso altíssimo - características mais precisas)
+    director = _normalize_text(movie.get("director", ""))
     keywords = " ".join([k.strip().lower() for k in movie.get("keywords", [])])
-
-    # Elenco principal (top 5 atores mais relevantes)
-    cast = " ".join([c.strip().lower() for c in movie.get("cast", [])[:5]])
-
-    # Production companies (estúdios tem identidade visual e temática)
+    cast = " ".join([c.strip().lower() for c in movie.get("cast", [])[:MAX_CAST_MEMBERS]])
     companies = " ".join(
-        [c.strip().lower() for c in movie.get("production_companies", [])[:3]]
+        [c.strip().lower() for c in movie.get("production_companies", [])[:MAX_COMPANIES]]
     )
-
-    # Certification/Classificação (público-alvo similar)
-    certification = (movie.get("certification") or "").lower().replace("-", "")
-
-    # Década (contexto temporal e estilo)
+    certification = _normalize_text(movie.get("certification") or "")
     decade = (movie.get("decade") or "").lower()
-
-    # Idioma original (indica tipo de produção)
     original_language = (movie.get("original_language") or "").lower()
-
-    # Países de produção (estilo regional)
     countries = " ".join(
-        [c.strip().lower() for c in movie.get("production_countries", [])[:2]]
+        [c.strip().lower() for c in movie.get("production_countries", [])[:MAX_COUNTRIES]]
     )
-
-    # Overview/descrição (primeiras 150 palavras - reduzido para não dominar)
-    overview = movie.get("overview", movie.get("description", ""))
-    if overview:
-        words = overview.lower().split()[:150]
-        overview_text = " ".join(words)
-    else:
-        overview_text = ""
-
-    # Tagline (frases de efeito são muito descritivas)
+    overview_text = _extract_overview(movie)
     tagline = (movie.get("tagline") or "").lower()
-
-    # Tier de popularidade (contexto de alcance)
     popularity_tier = (movie.get("popularity_tier") or "").lower()
 
-    # Combinar tudo com pesos estratégicos (repetindo para amplificar importância)
+    # Combinar com pesos estratégicos (repetindo para amplificar importância)
     parts = [
-        f"generos:{genres} {genres} {genres} {genres} {genres}",  # Peso 5x - Essencial
-        f"keywords:{keywords} {keywords} {keywords} {keywords} {keywords} {keywords}",  # Peso 6x - Mais preciso
-        f"diretor:{director} {director} {director}",  # Peso 3x - Estilo único
-        f"elenco:{cast} {cast}",  # Peso 2x - Atores reconhecíveis
-        f"empresas:{companies}",  # Peso 1x
-        f"certificacao:{certification} {certification}",  # Peso 2x - Público-alvo
-        f"decada:{decade}",  # Peso 1x
-        f"idioma:{original_language}",  # Peso 1x
-        f"paises:{countries}",  # Peso 1x
-        f"popularidade:{popularity_tier}",  # Peso 1x
-        f"tagline:{tagline}",  # Peso 1x
-        f"sinopse:{overview_text}",  # Peso 1x
+        f"generos:{_repeat_text(genres, WEIGHT_GENRES)}",
+        f"keywords:{_repeat_text(keywords, WEIGHT_KEYWORDS)}",
+        f"diretor:{_repeat_text(director, WEIGHT_DIRECTOR)}",
+        f"elenco:{_repeat_text(cast, WEIGHT_CAST)}",
+        f"empresas:{companies}",
+        f"certificacao:{_repeat_text(certification, WEIGHT_CERTIFICATION)}",
+        f"decada:{decade}",
+        f"idioma:{original_language}",
+        f"paises:{countries}",
+        f"popularidade:{popularity_tier}",
+        f"tagline:{tagline}",
+        f"sinopse:{overview_text}",
     ]
 
     return " ".join(parts)
 
 
 class ContentBasedRecommender:
+    """
+    Sistema de recomendação baseado em conteúdo usando TF-IDF e similaridade de cosseno.
+    Analisa características dos filmes para sugerir títulos similares aos gostos do usuário.
+    """
+
     def __init__(self, movies: List[Dict]):
         self.movies = movies
-        # Criar mapa de ID do filme para índice na lista (necessário porque IDs não são sequenciais)
         self._id_to_idx = {m["id"]: idx for idx, m in enumerate(movies)}
         self._vectorizer = TfidfVectorizer()
         corpus = [_movie_to_text(m) for m in movies]
@@ -93,29 +140,7 @@ class ContentBasedRecommender:
         candidates = [
             m
             for m in self.movies
-            if m["id"] not in liked_set and m["id"] not in disliked_set
-        ]
-
-        if not liked_ids:
-            # Se nada curtido ainda, retorna filmes populares e bem avaliados
-            # Priorizar filmes com dados TMDB completos
-            candidates_sorted = sorted(
-                candidates,
-                key=lambda x: (
-                    -(x.get("popularity", 0) or 0),  # Popularidade TMDB
-                    -(x.get("vote_average", 0) or 0),  # Avaliação TMDB
-                    -x["year"],  # Mais recentes
-                ),
-            )
-            out = []
-            for m in candidates_sorted[:k]:
-                rating = m.get("vote_average")
-                popularity = m.get("popularity")
-
-                reason_parts = ["💡 Filme popular e bem avaliado"]
-                if rating:
-                    reason_parts.append(f"⭐ {rating:.1f}/10 TMDB")
-                if popularity:
+            return self._get_cold_start_recommendations(candidates, k)ularity:
                     reason_parts.append(f"🔥 {popularity:.0f} popularidade")
 
                 out.append((m, 0.0, " · ".join(reason_parts)))
@@ -155,55 +180,10 @@ class ContentBasedRecommender:
                 rating = m["vote_average"]
                 if rating >= 8.0:
                     quality_boost = 1.3
-                elif rating >= 7.5:
-                    quality_boost = 1.2
-                elif rating >= 7.0:
-                    quality_boost = 1.15
-                elif rating >= 6.5:
-                    quality_boost = 1.1
-                elif rating < 5.0:
-                    quality_boost = 0.8  # Penalidade para filmes mal avaliados
+        self._apply_dislike_penalty(sims, disliked_ids)
 
-            # Boost temporal: filmes muito antigos ou muito recentes podem ter boost
-            year_boost = 1.0
-            if m.get("year"):
-                year = m["year"]
-                current_year = 2026
-                age = current_year - year
-                if age <= 3:  # Filmes muito recentes
-                    year_boost = 1.05
-                elif age <= 10:  # Filmes modernos
-                    year_boost = 1.02
-                elif age > 40:  # Clássicos podem ser valorizados
-                    year_boost = 1.01
-
-            # Boost para filmes de coleções/franquias (tendem a ser apreciados por fãs)
-            collection_boost = 1.0
-            if m.get("belongs_to_collection"):
-                collection_boost = 1.1
-
-            # Aplicar todos os boosts
-            sims[idx] *= (
-                popularity_boost * quality_boost * year_boost * collection_boost
-            )
-
-        # Ranquear candidatos
-        ranked = sorted(
-            ((m, float(sims[self._id_to_idx[m["id"]]])) for m in candidates),
-            key=lambda t: t[1],
-            reverse=True,
-        )
-
-        # Aplicar re-ranking para diversidade e relevância
-        diverse_recs = []
-        seen_directors = set()
-        seen_companies = set()
-        recommended_genres = set()
-        seen_keywords = set()  # Evitar keywords muito repetidas
-        seen_decades = set()  # Diversidade temporal
-
-        for m, score in ranked:
-            # Boost para diretores ainda não vistos (diversidade)
+        # Aplicar boosts de popularidade, qualidade e contexto temporal
+        self._apply_boosts(sims# Boost para diretores ainda não vistos (diversidade)
             diversity_boost = 1.0
             if m.get("director") and m["director"] not in seen_directors:
                 diversity_boost *= 1.2
@@ -262,87 +242,7 @@ class ContentBasedRecommender:
             if m.get("director"):
                 seen_directors.add(m["director"])
             if m.get("production_companies"):
-                seen_companies.update(m["production_companies"][:2])
-            if m.get("keywords"):
-                seen_keywords.update(m["keywords"][:5])
-            if m.get("decade"):
-                seen_decades.add(m["decade"])
-            recommended_genres.update(m.get("genres", []))
-
-            if (
-                len(diverse_recs) >= k * 3
-            ):  # Pegar 3x mais para ter boa margem de escolha
-                break
-
-        # Re-ordenar com scores ajustados
-        diverse_recs.sort(key=lambda t: t[1], reverse=True)
-
-        # Criar explicações ricas com dados TMDB
-        out: List[Tuple[Dict, float, str]] = []
-        for m, adjusted_score, original_score in diverse_recs[:k]:
-            reason = self._build_reason(m, liked_ids)
-            out.append((m, original_score, reason))
-        return out
-
-    def _build_reason(self, movie: Dict, liked_ids: List[int]) -> str:
-        """Cria explicação rica e precisa usando características dos filmes curtidos"""
-        midx = self._id_to_idx[movie["id"]]
-        liked_idx = [
-            self._id_to_idx[lid] for lid in liked_ids if lid in self._id_to_idx
-        ]
-        if not liked_idx:
-            return "✨ Recomendado por similaridade de conteúdo."
-
-        sims = cosine_similarity(self._tfidf[midx], self._tfidf[liked_idx]).ravel()
-        best_pos = int(sims.argmax())
-        best_movie = self.movies[liked_idx[best_pos]]
-
-        # Analisar características compartilhadas com precisão
-        shared_genres = sorted(
-            list(set(movie.get("genres", [])) & set(best_movie.get("genres", [])))
-        )
-        same_director = movie.get("director") == best_movie.get(
-            "director"
-        ) and movie.get("director")
-
-        # Keywords compartilhadas (mais preciso)
-        shared_keywords = set(movie.get("keywords", [])) & set(
-            best_movie.get("keywords", [])
-        )
-
-        # Elenco em comum (top 5 atores principais)
-        shared_cast = set(movie.get("cast", [])[:5]) & set(
-            best_movie.get("cast", [])[:5]
-        )
-
-        # Production companies em comum
-        shared_companies = set(movie.get("production_companies", [])) & set(
-            best_movie.get("production_companies", [])
-        )
-
-        # Certificação similar (mesmo público-alvo)
-        same_certification = (
-            movie.get("certification")
-            and best_movie.get("certification")
-            and movie["certification"] == best_movie["certification"]
-        )
-
-        # Mesma década
-        same_decade = (
-            movie.get("decade")
-            and best_movie.get("decade")
-            and movie["decade"] == best_movie["decade"]
-        )
-
-        # Mesma coleção/franquia
-        same_collection = (
-            movie.get("belongs_to_collection")
-            and best_movie.get("belongs_to_collection")
-            and movie["belongs_to_collection"]["id"]
-            == best_movie["belongs_to_collection"]["id"]
-        )
-
-        parts = []
+                seen_coself._apply_diversity_reranking(ranked, liked_ids, k
 
         # Título de referência
         parts.append(f"🎬 Baseado em '{best_movie['title']}'")
@@ -410,6 +310,177 @@ class ContentBasedRecommender:
             if rating >= 8.0:
                 parts.append(f" · ⭐ {rating:.1f}/10 ({vote_count} votos)")
             elif rating >= 7.0:
-                parts.append(f" · ⭐ {rating:.1f}/10")
+                parts.appendetalhada usando características compartilhadas com filmes curtidos"""
+        midx = self._id_to_idx[movie["id"]]
+        liked_idx = [self._id_to_idx[lid] for lid in liked_ids if lid in self._id_to_idx]
+        
+        if not liked_idx:
+            return "✨ Recomendado por similaridade de conteúdo."
+
+        # Encontrar filme curtido mais similar
+        sims = cosine_similarity(self._tfidf[midx], self._tfidf[liked_idx]).ravel()
+        best_movie = self.movies[liked_idx[int(sims.argmax())]]
+
+        # Analisar características compartilhadas
+        shared_features = self._analyze_shared_features(movie, best_movie)
+        
+        # Construir explicação
+        parts = [f"🎬 Baseado em '{best_movie['title']}'"]
+        
+        # Adicionar razões priorizadas
+        if reasons := self._build_reason_list(movie, shared_features):
+            parts.append(f" · {' | '.join(reasons[:4])}")
+
+        # Adicionar qualidade do filme
+        if quality_info := self._format_quality_info(movie):
+            parts.append(f" · {quality_info}")
 
         return "".join(parts)
+
+    def _analyze_shared_features(self, movie: Dict, reference: Dict) -> Dict:
+        """Analisa características compartilhadas entre dois filmes"""
+        return {
+            "genres": sorted(set(movie.get("genres", [])) & set(reference.get("genres", []))),
+            "same_director": movie.get("director") == reference.get("director") and movie.get("director"),
+            "keywords": set(movie.get("keywords", [])) & set(reference.get("keywords", [])),
+            "cast": set(movie.get("cast", [])[:5]) & set(reference.get("cast", [])[:5]),
+            "companies": set(movie.get("production_companies", [])) & set(reference.get("production_companies", [])),
+            "same_certification": (
+                movie.get("certification") and reference.get("certification") 
+                and movie["certification"] == reference["certification"]
+            ),
+            "same_decade": (
+                movie.get("decade") and reference.get("decade") 
+                and movie["decade"] == reference["decade"]
+            ),
+            "same_collection": (
+                movie.get("belongs_to_collection") and reference.get("belongs_to_collection")
+                and movie["belongs_to_collection"]["id"] == reference["belongs_to_collection"]["id"]
+            ),
+        }
+
+    def _build_reason_list(self, movie: Dict, features: Dict) -> List[str]:
+        """Constrói lista de razões priorizadas para a recomendação"""
+        reasons = []
+
+        # Prioridade 1: Mesma franquia
+        if features["same_collection"]:
+            reasons.append(f"mesma franquia ({movie['belongs_to_collection']['name']})")
+
+        # Prioridade 2: Mesmo diretor
+        if features["same_director"]:
+            reasons.append(f"diretor: {movie['director']}")
+
+        # Prioridade 3: Keywords compartilhadas
+        if features["keywords"]:
+            kw_count = len(features["keywords"])
+            if kw_count >= 3:
+                reasons.append(f"temas: {', '.join(list(features['keywords'])[:3])}")
+            elif kw_count >= 2:
+                reasons.append(f"temas: {', '.join(list(features['keywords'])[:2])}")
+            else:
+                reasons.append(f"tema: {list(features['keywords'])[0]}")
+
+        # Prioridade 4: Elenco em comum
+        if features["cast"]:
+            cast_count = len(features["cast"])
+            if cast_count >= 2:
+                reasons.append(f"elenco: {', '.join(list(features['cast'])[:2])}")
+            else:
+                reasons.append(f"ator: {list(features['cast'])[0]}")
+
+        # Prioridade 5: Gêneros
+        if features["genres"]:
+            if len(features["genres"]) >= 2:
+                reasons.append(f"gêneros: {', '.join(features['genres'][:2])}")
+            else:
+                reasons.append(f"gênero: {features['genres'][0]}")
+
+        # Prioridade 6: Mesma certificação
+        if features["same_certification"]:
+            reasons.append(f"classificação: {movie['certification']}")
+
+        # Prioridade 7: Mesma década
+        if features["same_decade"]:
+            reasons.append(f"época: {movie['decade']}")
+
+        # Prioridade 8: Estúdio
+        if features["companies"]:
+            reasons.append(f"estúdio: {list(features['companies'])[0]}")
+
+        return reasons
+
+    def _format_quality_info(self, movie: Dict) -> str:
+        """Formata informações de qualidade do filme"""
+        if not (rating := movie.get("vote_average")):
+            return ""
+        if movie.get("vote_count", 0) <= MIN_VOTES_FOR_QUALITY:
+            return ""
+
+        vote_count = movie["vote_count"]
+        if rating >= RATING_THRESHOLD_EXCELLENT:
+            return f"⭐ {rating:.1f}/10 ({vote_count} votos)"
+        elif rating >= RATING_THRESHOLD_GOOD:
+            return f"⭐ {rating:.1f}/10"
+        return ""lty(
+        self, movie: Dict, recommended_genres: Set[str]
+    ) -> float:
+        """Calcula penalidade para gêneros muito repetidos"""
+        common_genres = set(movie.get("genres", [])) & recommended_genres
+        if len(common_genres) > 2:
+            return GENRE_PENALTY_HIGH_OVERLAP
+        elif len(common_genres) == 2:
+            return GENRE_PENALTY_MEDIUM_OVERLAP
+        elif len(common_genres) == 1:
+            return GENRE_PENALTY_LOW_OVERLAP
+        return 1.0
+
+    def _calculate_franchise_boost(self, movie: Dict, liked_ids: List[int]) -> float:
+        """Calcula boost para filmes da mesma franquia dos curtidos"""
+        if not (collection := movie.get("belongs_to_collection")):
+            return 1.0
+
+        for lid in liked_ids:
+            if liked_movie := next((m for m in self.movies if m["id"] == lid), None):
+                if liked_collection := liked_movie.get("belongs_to_collection"):
+                    if collection["id"] == liked_collection["id"]:
+                        return BOOST_SAME_FRANCHISE
+        return 1.0
+
+    def _apply_diversity_reranking(
+        self, ranked: List[Tuple[Dict, float]], liked_ids: List[int], k: int
+    ) -> List[Tuple[Dict, float, float]]:
+        """Aplica re-ranking para garantir diversidade nas recomendações"""
+        diverse_recs = []
+        seen_directors: Set[str] = set()
+        seen_companies: Set[str] = set()
+        recommended_genres: Set[str] = set()
+        seen_keywords: Set[str] = set()
+        seen_decades: Set[str] = set()
+
+        for m, score in ranked:
+            diversity_boost = self._calculate_diversity_boost(
+                m, seen_directors, seen_companies, seen_keywords, seen_decades
+            )
+            genre_penalty = self._calculate_genre_penalty(m, recommended_genres)
+            franchise_boost = self._calculate_franchise_boost(m, liked_ids)
+
+            adjusted_score = score * diversity_boost * genre_penalty * franchise_boost
+            diverse_recs.append((m, adjusted_score, score))
+
+            # Atualizar conjuntos vistos
+            if director := m.get("director"):
+                seen_directors.add(director)
+            if companies := m.get("production_companies"):
+                seen_companies.update(companies[:2])
+            if keywords := m.get("keywords"):
+                seen_keywords.update(keywords[:5])
+            if decade := m.get("decade"):
+                seen_decades.add(decade)
+            recommended_genres.update(m.get("genres", []))
+
+            if len(diverse_recs) >= k * 3:
+                break
+
+        diverse_recs.sort(key=lambda t: t[1], reverse=True)
+        return diverse_recs
