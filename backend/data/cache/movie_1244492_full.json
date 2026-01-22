@@ -1,0 +1,2060 @@
+{
+  "adult": false,
+  "backdrop_path": "/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1244492,
+  "imdb_id": "tt31711040",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ルックバック",
+  "overview": "Esta é a história de Fujino e Kyomoto. Enquanto uma tem confiança absoluta em seu talento, a outra é uma reclusa que nunca sai de casa. Mas o amor e a dedicação que ambas possuem por desenhar mangá acaba unindo essas duas jovens de uma pequena cidade do interior. Um fantástico conto sobre a juventude feito a partir de um olhar único e especial.",
+  "popularity": 5.2912,
+  "poster_path": "/uawgC9JOtbBGXwWygb3lon8SaEL.jpg",
+  "production_companies": [
+    {
+      "id": 136998,
+      "logo_path": "/4Gw6jh3aUoJArMECqQ8ZXV7OjB8.png",
+      "name": "Studio Durian",
+      "origin_country": "JP"
+    },
+    {
+      "id": 55938,
+      "logo_path": "/ku5PUEwBjUx8XaYikgaXRVLIMbb.png",
+      "name": "avex pictures",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-06-28",
+  "revenue": 12648664,
+  "runtime": 62,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "O Mangá as uniu. A vida fez delas, melhores amigas.",
+  "title": "Look Back",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 464,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2797433,
+        "known_for_department": "Acting",
+        "name": "Yuumi Kawai",
+        "original_name": "河合優実",
+        "popularity": 1.2588,
+        "profile_path": "/qDJUUlqjhsRBpLYPfm0xVFNbBTY.jpg",
+        "cast_id": 5,
+        "character": "Fujino (voice)",
+        "credit_id": "65f2e2a22fdec601892396ec",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2762775,
+        "known_for_department": "Acting",
+        "name": "Mizuki Yoshida",
+        "original_name": "吉田美月喜",
+        "popularity": 0.6218,
+        "profile_path": "/7bMv0ajEYjp70AKHxH63Xfng2ga.jpg",
+        "cast_id": 6,
+        "character": "Kyomoto (voice)",
+        "credit_id": "65f2e3c6d64ac2018761a3b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20708,
+        "known_for_department": "Acting",
+        "name": "斉藤陽一郎",
+        "original_name": "斉藤陽一郎",
+        "popularity": 0.6995,
+        "profile_path": "/1pU5WwEE3DtV4M9nhtUt4p3wrwa.jpg",
+        "cast_id": 34,
+        "character": "Homeroom Teacher (voice)",
+        "credit_id": "6715f8809943637ce5829e52",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5012790,
+        "known_for_department": "Acting",
+        "name": "岡幸太",
+        "original_name": "岡幸太",
+        "popularity": 0.09,
+        "profile_path": "/a97rszQiJzCi4hD3kJa23ZfXalM.jpg",
+        "cast_id": 35,
+        "character": "Man (voice)",
+        "credit_id": "6715f89d9943637ce5829e68",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4980600,
+        "known_for_department": "Acting",
+        "name": "牧紅葉",
+        "original_name": "牧紅葉",
+        "popularity": 0.1348,
+        "profile_path": "/lsFHrk5De0KsZ9VP30vQu013NqH.jpg",
+        "cast_id": 36,
+        "character": "Fujino's Sister (voice)",
+        "credit_id": "6715f8b1cef14628fef620c6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5050432,
+        "known_for_department": "Acting",
+        "name": "吉橋航也",
+        "original_name": "吉橋航也",
+        "popularity": 0.1181,
+        "profile_path": "/jKD5vwVwYWteRo9bpzkhvvG6W4H.jpg",
+        "cast_id": 62,
+        "character": "Editor (voice)",
+        "credit_id": "67307d2cabe8a0d994a2503e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3985900,
+        "known_for_department": "Acting",
+        "name": "Takeshi Miyajima",
+        "original_name": "宮島岳史",
+        "popularity": 0.3186,
+        "profile_path": "/webfozdOnWN4xuyQcZYptiH9Xex.jpg",
+        "cast_id": 37,
+        "character": "Newscaster (voice)",
+        "credit_id": "6715f8c54bf37c883cb6f584",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1517732,
+        "known_for_department": "Acting",
+        "name": "高橋大輔",
+        "original_name": "高橋大輔",
+        "popularity": 0.6213,
+        "profile_path": "/sDuT3eITAUxkJ5tTjxGxokC19pH.jpg",
+        "cast_id": 52,
+        "character": "Announcer (voice)",
+        "credit_id": "6718ceaaa4ac8a432c5bd421",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5046123,
+        "known_for_department": "Acting",
+        "name": "伊東潤",
+        "original_name": "伊東潤",
+        "popularity": 0.171,
+        "profile_path": "/2vtTHj0xY20QwwGkYusZ8I38elO.jpg",
+        "cast_id": 61,
+        "character": "Teacher (voice)",
+        "credit_id": "672d32d0f2880d1004f6a24c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5012792,
+        "known_for_department": "Acting",
+        "name": "竹内芳織",
+        "original_name": "竹内芳織",
+        "popularity": 0.053,
+        "profile_path": "/cW6wIQixLWB3c2XYZ2MdU6hssqT.jpg",
+        "cast_id": 40,
+        "character": "Friend's Mother (voice)",
+        "credit_id": "6715f9039943637ce5829ea8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2915788,
+        "known_for_department": "Acting",
+        "name": "平ますみ",
+        "original_name": "平ますみ",
+        "popularity": 0.3403,
+        "profile_path": "/taJHxw80xbblGacgUlA2vWABJ8g.jpg",
+        "cast_id": 41,
+        "character": "Grandmother (voice)",
+        "credit_id": "6715f90ecef14628fef6210d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1647369,
+        "known_for_department": "Acting",
+        "name": "遠藤璃菜",
+        "original_name": "遠藤璃菜",
+        "popularity": 0.5978,
+        "profile_path": "/9oGq5B9lboNCanUakyZP2LRnO7G.jpg",
+        "cast_id": 42,
+        "character": "Classmate (voice)",
+        "credit_id": "6715f9329943637ce5829eb9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5012794,
+        "known_for_department": "Acting",
+        "name": "宮岸泰成",
+        "original_name": "宮岸泰成",
+        "popularity": 0.0738,
+        "profile_path": "/1KHrrDSIId08J6GjFHKokGZ5BJ2.jpg",
+        "cast_id": 43,
+        "character": "Classmate (voice)",
+        "credit_id": "6715f9406dca71e109d4cc15",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5012795,
+        "known_for_department": "Acting",
+        "name": "髙浪実里",
+        "original_name": "髙浪実里",
+        "popularity": 0.0581,
+        "profile_path": "/m6Usi9xZDoiVxnoEhXJBihnftMJ.jpg",
+        "cast_id": 44,
+        "character": "Classmate (voice)",
+        "credit_id": "6715f94a4bf37c883cb6f5cb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3457321,
+        "known_for_department": "Acting",
+        "name": "Shinnosuke Tokudome",
+        "original_name": "徳留慎乃佑",
+        "popularity": 0.3644,
+        "profile_path": "/nt57RoIE4SuAslb4BNIXVoYxGwO.jpg",
+        "cast_id": 45,
+        "character": "Classmate (voice)",
+        "credit_id": "6715f9534bf37c883cb6f5d0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5012796,
+        "known_for_department": "Acting",
+        "name": "正垣那々花",
+        "original_name": "正垣那々花",
+        "popularity": 0.0836,
+        "profile_path": "/s7eAKOeC6siJhJpImnNeRb4S9jM.jpg",
+        "cast_id": 46,
+        "character": "Classmate (voice)",
+        "credit_id": "6715f9676dca71e109d4cc35",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5012797,
+        "known_for_department": "Acting",
+        "name": "嶋陽大",
+        "original_name": "嶋陽大",
+        "popularity": 0.1072,
+        "profile_path": "/roSCVncCuldcf3xNyApz5HgQBJd.jpg",
+        "cast_id": 47,
+        "character": "Classmate (voice)",
+        "credit_id": "6715f9726dca71e109d4cc46",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5012798,
+        "known_for_department": "Acting",
+        "name": "堤咲良",
+        "original_name": "堤咲良",
+        "popularity": 0.0963,
+        "profile_path": "/wVGGxzfvFG4rPeFVjPVzENkgddG.jpg",
+        "cast_id": 48,
+        "character": "Classmate (voice)",
+        "credit_id": "6715f97b4bf37c883cb6f5e5",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3113424,
+        "known_for_department": "Acting",
+        "name": "伊奈聖嵐",
+        "original_name": "伊奈聖嵐",
+        "popularity": 0.0989,
+        "profile_path": "/3Sk2iZCIkhGYjGS4ZdUsyQyGU71.jpg",
+        "cast_id": 49,
+        "character": "Live Announcer (voice)",
+        "credit_id": "6715f9876dca71e109d4cc50",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9706,
+        "known_for_department": "Acting",
+        "name": "Toshiyuki Morikawa",
+        "original_name": "森川智之",
+        "popularity": 2.258,
+        "profile_path": "/hrzGBe4nokgkBNFekNo5hlXB2Bv.jpg",
+        "cast_id": 50,
+        "character": "Man from 4-Frame Manga (voice)",
+        "credit_id": "6715f9999943637ce5829eea",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9711,
+        "known_for_department": "Acting",
+        "name": "Maaya Sakamoto",
+        "original_name": "坂本真綾",
+        "popularity": 1.5864,
+        "profile_path": "/hPz2oEQui8a4q9aXdBugQf93ONq.jpg",
+        "cast_id": 51,
+        "character": "Woman from 4-Frame Manga (voice)",
+        "credit_id": "6715f9aa6dca71e109d4cc5f",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456621,
+        "known_for_department": "Directing",
+        "name": "押山清高",
+        "original_name": "押山清高",
+        "popularity": 0.6124,
+        "profile_path": "/vAvvzl7p1019S44K8SiF4m4GPBl.jpg",
+        "credit_id": "65cb91478c0a480163b783e9",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456621,
+        "known_for_department": "Directing",
+        "name": "押山清高",
+        "original_name": "押山清高",
+        "popularity": 0.6124,
+        "profile_path": "/vAvvzl7p1019S44K8SiF4m4GPBl.jpg",
+        "credit_id": "65cb91158c0a48017cb83654",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456621,
+        "known_for_department": "Directing",
+        "name": "押山清高",
+        "original_name": "押山清高",
+        "popularity": 0.6124,
+        "profile_path": "/vAvvzl7p1019S44K8SiF4m4GPBl.jpg",
+        "credit_id": "65cb913389b5610184697bcd",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970923,
+        "known_for_department": "Art",
+        "name": "鮫島潔",
+        "original_name": "鮫島潔",
+        "popularity": 0.3525,
+        "profile_path": null,
+        "credit_id": "662132cde640d60186c355f8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4660116,
+        "known_for_department": "Visual Effects",
+        "name": "楠本麻耶",
+        "original_name": "楠本麻耶",
+        "popularity": 0.0521,
+        "profile_path": null,
+        "credit_id": "662133608a88b20185ca5af8",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1570184,
+        "known_for_department": "Editing",
+        "name": "廣瀬清志",
+        "original_name": "廣瀬清志",
+        "popularity": 0.308,
+        "profile_path": null,
+        "credit_id": "66213398ae38430187298353",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1555482,
+        "known_for_department": "Sound",
+        "name": "木村絵理子",
+        "original_name": "木村絵理子",
+        "popularity": 0.4784,
+        "profile_path": null,
+        "credit_id": "662133a4ccde04018805bdf0",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2468215,
+        "known_for_department": "Sound",
+        "name": "haruka nakamura",
+        "original_name": "haruka nakamura",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "6621343678570e017e10712d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632175,
+        "known_for_department": "Camera",
+        "name": "出水田和人",
+        "original_name": "出水田和人",
+        "popularity": 0.4403,
+        "profile_path": null,
+        "credit_id": "6621338f0d11f201640172fd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2468215,
+        "known_for_department": "Sound",
+        "name": "haruka nakamura",
+        "original_name": "haruka nakamura",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "6681538ead819263cec80ee7",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129512,
+        "known_for_department": "Visual Effects",
+        "name": "北田勝彦",
+        "original_name": "北田勝彦",
+        "popularity": 0.2429,
+        "profile_path": null,
+        "credit_id": "667eab64831418833fa243ca",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456621,
+        "known_for_department": "Directing",
+        "name": "押山清高",
+        "original_name": "押山清高",
+        "popularity": 0.6124,
+        "profile_path": "/vAvvzl7p1019S44K8SiF4m4GPBl.jpg",
+        "credit_id": "667eab35c233b1d99adcf90f",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2159513,
+        "known_for_department": "Visual Effects",
+        "name": "秦綾子",
+        "original_name": "秦綾子",
+        "popularity": 0.4074,
+        "profile_path": "/7dYilK3rBZGe47qVqjSe2Jc6dTj.jpg",
+        "credit_id": "667eab93f4c52b378bc4cd9f",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2933503,
+        "known_for_department": "Visual Effects",
+        "name": "新沼拓也",
+        "original_name": "新沼拓也",
+        "popularity": 0.2529,
+        "profile_path": null,
+        "credit_id": "667eab5f18201f23232a7381",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456828,
+        "known_for_department": "Visual Effects",
+        "name": "井上俊之",
+        "original_name": "井上俊之",
+        "popularity": 0.4556,
+        "profile_path": "/A4gAXumKex9rPGOPJ1qz3KqRK5z.jpg",
+        "credit_id": "667eab559ef5763bd8dcf9f4",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2100197,
+        "known_for_department": "Visual Effects",
+        "name": "下司祐也",
+        "original_name": "下司祐也",
+        "popularity": 0.2377,
+        "profile_path": null,
+        "credit_id": "667eab5ab86ea89b56c29d07",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240775,
+        "known_for_department": "Visual Effects",
+        "name": "小原秀一",
+        "original_name": "小原秀一",
+        "popularity": 0.238,
+        "profile_path": "/3eEpYYgDFkvBZ4BgeDideyy41Gm.jpg",
+        "credit_id": "667eab6a9020d3f11dc4cd49",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456621,
+        "known_for_department": "Directing",
+        "name": "押山清高",
+        "original_name": "押山清高",
+        "popularity": 0.6124,
+        "profile_path": "/vAvvzl7p1019S44K8SiF4m4GPBl.jpg",
+        "credit_id": "667eab3ad8f39e20316e5703",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2980560,
+        "known_for_department": "Visual Effects",
+        "name": "タサン",
+        "original_name": "タサン",
+        "popularity": 0.1617,
+        "profile_path": null,
+        "credit_id": "668751bf7f5ee970b4936064",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1590939,
+        "known_for_department": "Art",
+        "name": "大森崇",
+        "original_name": "大森崇",
+        "popularity": 0.2711,
+        "profile_path": null,
+        "credit_id": "66cb5a4c94e59c8441d3ee15",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1841985,
+        "known_for_department": "Art",
+        "name": "針崎義士",
+        "original_name": "針崎義士",
+        "popularity": 0.2926,
+        "profile_path": null,
+        "credit_id": "66cb5a477932cb9fa8328a7f",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4903959,
+        "known_for_department": "Sound",
+        "name": "urara",
+        "original_name": "urara",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "66cb59f08f2b8bf61e1d5f29",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456621,
+        "known_for_department": "Directing",
+        "name": "押山清高",
+        "original_name": "押山清高",
+        "popularity": 0.6124,
+        "profile_path": "/vAvvzl7p1019S44K8SiF4m4GPBl.jpg",
+        "credit_id": "670429e4508dfa7ba3796c91",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1848327,
+        "known_for_department": "Production",
+        "name": "大藪芳広",
+        "original_name": "大藪芳広",
+        "popularity": 0.223,
+        "profile_path": null,
+        "credit_id": "672d30cd599da28980957f16",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3751576,
+        "known_for_department": "Production",
+        "name": "櫛田優予",
+        "original_name": "櫛田優予",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "672d30dfa818713bdf4936e3",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3027414,
+        "known_for_department": "Production",
+        "name": "鈴木麻里",
+        "original_name": "鈴木麻里",
+        "popularity": 0.3683,
+        "profile_path": null,
+        "credit_id": "672d30e4de511ed7da6a5d50",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5046113,
+        "known_for_department": "Production",
+        "name": "細川謙介",
+        "original_name": "細川謙介",
+        "popularity": 0.1907,
+        "profile_path": null,
+        "credit_id": "672d3101f2880d1004f69e8a",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5046119,
+        "known_for_department": "Sound",
+        "name": "南会知",
+        "original_name": "南会知",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "672d31d0de511ed7da6a5da2",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3470015,
+        "known_for_department": "Sound",
+        "name": "太田泰明",
+        "original_name": "太田泰明",
+        "popularity": 0.166,
+        "profile_path": null,
+        "credit_id": "672d31dfebe21def08c8e00d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3470015,
+        "known_for_department": "Sound",
+        "name": "太田泰明",
+        "original_name": "太田泰明",
+        "popularity": 0.166,
+        "profile_path": null,
+        "credit_id": "672d31e5ebe21def08c8e016",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2285493,
+        "known_for_department": "Sound",
+        "name": "八十正太",
+        "original_name": "八十正太",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "credit_id": "672d31fffc658fd33c29fbeb",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1906214,
+        "known_for_department": "Production",
+        "name": "松村一人",
+        "original_name": "松村一人",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "credit_id": "6770a8d7cfe62644df12fc93",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5191022,
+        "known_for_department": "Sound",
+        "name": "小林蒼",
+        "original_name": "小林蒼",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "credit_id": "678e0dfdd8a5b0d00c435ad2",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3516018,
+        "known_for_department": "Editing",
+        "name": "入山真二",
+        "original_name": "入山真二",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "689da1da017d0bc9ecc70752",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2887554,
+        "known_for_department": "Writing",
+        "name": "Tatsuki Fujimoto",
+        "original_name": "藤本タツキ",
+        "popularity": 0.2381,
+        "profile_path": null,
+        "credit_id": "692f681afd7f09f420512b04",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1847874,
+        "known_for_department": "Production",
+        "name": "大山良",
+        "original_name": "大山良",
+        "popularity": 0.2849,
+        "profile_path": "/qCXoqCmqgFlV0lGiS1o8GfKV6ZW.jpg",
+        "credit_id": "696d3cc5ad92d99e3c36b1b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1937906,
+        "known_for_department": "Production",
+        "name": "篠崎真哉",
+        "original_name": "篠崎真哉",
+        "popularity": 0.1893,
+        "profile_path": null,
+        "credit_id": "696d3ccb673d90fa8a36b057",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3989714,
+        "known_for_department": "Production",
+        "name": "木田和哉",
+        "original_name": "木田和哉",
+        "popularity": 0.1085,
+        "profile_path": null,
+        "credit_id": "696d3ccf9e0295c8088fc9da",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3493062,
+        "known_for_department": "Art",
+        "name": "牟田いずみ",
+        "original_name": "牟田いずみ",
+        "popularity": 0.1441,
+        "profile_path": null,
+        "credit_id": "696d3fb53f6de5a4fff94c4f",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2159526,
+        "known_for_department": "Art",
+        "name": "中島理",
+        "original_name": "中島理",
+        "popularity": 0.1875,
+        "profile_path": null,
+        "credit_id": "696d3fb66897fd6c1b20d119",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1456677,
+        "known_for_department": "Art",
+        "name": "園田由貴",
+        "original_name": "園田由貴",
+        "popularity": 0.2344,
+        "profile_path": null,
+        "credit_id": "696d3fb6b45f35883f689eb1",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3357304,
+        "known_for_department": "Art",
+        "name": "小野寺由惟",
+        "original_name": "小野寺由惟",
+        "popularity": 0.174,
+        "profile_path": null,
+        "credit_id": "696d3fb73023789f1920cf8f",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044676,
+        "known_for_department": "Art",
+        "name": "岩原史織",
+        "original_name": "岩原史織",
+        "popularity": 0.1396,
+        "profile_path": null,
+        "credit_id": "696d3fb7bed723460736af5a",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3152636,
+        "known_for_department": "Art",
+        "name": "安味香織",
+        "original_name": "安味香織",
+        "popularity": 0.1499,
+        "profile_path": null,
+        "credit_id": "696d3fb8742c136ece36acb0",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456774,
+        "known_for_department": "Art",
+        "name": "伊奈涼子",
+        "original_name": "伊奈涼子",
+        "popularity": 0.2137,
+        "profile_path": null,
+        "credit_id": "696d3fb817cda064c67fa3d3",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2159516,
+        "known_for_department": "Art",
+        "name": "石井弓",
+        "original_name": "石井弓",
+        "popularity": 0.1921,
+        "profile_path": null,
+        "credit_id": "696d3fb8c75dfc939520d246",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044662,
+        "known_for_department": "Art",
+        "name": "齋藤緋沙子",
+        "original_name": "齋藤緋沙子",
+        "popularity": 0.1323,
+        "profile_path": null,
+        "credit_id": "696d3fb985728aa36720d2e2",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77936,
+        "known_for_department": "Art",
+        "name": "串田達也",
+        "original_name": "串田達也",
+        "popularity": 0.4377,
+        "profile_path": null,
+        "credit_id": "696d3fb92a7a456c4136af8b",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2032150,
+        "known_for_department": "Art",
+        "name": "岩熊茜",
+        "original_name": "岩熊茜",
+        "popularity": 0.2213,
+        "profile_path": null,
+        "credit_id": "696d3fbac75dfc939520d249",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2428882,
+        "known_for_department": "Art",
+        "name": "劉雨軒",
+        "original_name": "劉雨軒",
+        "popularity": 0.1084,
+        "profile_path": null,
+        "credit_id": "696d3fba742c136ece36acb3",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3288422,
+        "known_for_department": "Art",
+        "name": "森あかね",
+        "original_name": "森あかね",
+        "popularity": 0.1728,
+        "profile_path": null,
+        "credit_id": "696d3fbaf0ebf39d927fa434",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1297533,
+        "known_for_department": "Art",
+        "name": "本間禎章",
+        "original_name": "本間禎章",
+        "popularity": 0.0982,
+        "profile_path": null,
+        "credit_id": "696d3fbb5e27d9fe4d7fa1f3",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3699850,
+        "known_for_department": "Art",
+        "name": "皆谷透",
+        "original_name": "皆谷透",
+        "popularity": 0.1835,
+        "profile_path": null,
+        "credit_id": "696d3fbb17cda064c67fa3d8",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2159778,
+        "known_for_department": "Art",
+        "name": "宍戸太一",
+        "original_name": "宍戸太一",
+        "popularity": 0.1816,
+        "profile_path": null,
+        "credit_id": "696d3fbc3ec6cbdd55aaacb9",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3393874,
+        "known_for_department": "Art",
+        "name": "田中春奈",
+        "original_name": "田中春奈",
+        "popularity": 0.2765,
+        "profile_path": null,
+        "credit_id": "696d3fbc19252d2a9a7fa30b",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3500394,
+        "known_for_department": "Art",
+        "name": "矢須田綾",
+        "original_name": "矢須田綾",
+        "popularity": 0.1042,
+        "profile_path": null,
+        "credit_id": "696d3fbde3900670eeaaabd2",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044673,
+        "known_for_department": "Art",
+        "name": "松本実希子",
+        "original_name": "松本実希子",
+        "popularity": 0.1253,
+        "profile_path": null,
+        "credit_id": "696d3fbdf588fb49dff94ab4",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2160897,
+        "known_for_department": "Art",
+        "name": "湯澤康之",
+        "original_name": "湯澤康之",
+        "popularity": 0.2689,
+        "profile_path": null,
+        "credit_id": "696d3fbec75dfc939520d255",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044660,
+        "known_for_department": "Art",
+        "name": "北原絵美",
+        "original_name": "北原絵美",
+        "popularity": 0.3681,
+        "profile_path": null,
+        "credit_id": "696d3fbebed723460736af5d",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5720691,
+        "known_for_department": "Art",
+        "name": "柿本八起",
+        "original_name": "柿本八起",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "696d3fbe17cda064c67fa3db",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3519925,
+        "known_for_department": "Art",
+        "name": "吉澤直也",
+        "original_name": "吉澤直也",
+        "popularity": 0.2205,
+        "profile_path": null,
+        "credit_id": "696d3fbf2a7a456c4136af8e",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489988,
+        "known_for_department": "Art",
+        "name": "鈴木俊輔",
+        "original_name": "鈴木俊輔",
+        "popularity": 0.2013,
+        "profile_path": null,
+        "credit_id": "696d3fbf742c136ece36acb6",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3217065,
+        "known_for_department": "Art",
+        "name": "山田竜馬",
+        "original_name": "山田竜馬",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "696d3fbfb45f35883f689eb4",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1971488,
+        "known_for_department": "Art",
+        "name": "植田竜太郎",
+        "original_name": "植田竜太郎",
+        "popularity": 0.2955,
+        "profile_path": null,
+        "credit_id": "696d3fc05b00c16523aaaa74",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1520822,
+        "known_for_department": "Art",
+        "name": "貴志泰臣",
+        "original_name": "貴志泰臣",
+        "popularity": 0.2437,
+        "profile_path": null,
+        "credit_id": "696d3fc043e339ddfdf94b37",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315688,
+        "known_for_department": "Art",
+        "name": "金子雄司",
+        "original_name": "金子雄司",
+        "popularity": 0.301,
+        "profile_path": "/ztwHr7wjPCSHAlmChWiQaTLBuoU.jpg",
+        "credit_id": "696d3fc1a1c9757415f941de",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3111174,
+        "known_for_department": "Art",
+        "name": "박정아",
+        "original_name": "박정아",
+        "popularity": 0.2691,
+        "profile_path": null,
+        "credit_id": "696d3fc13ec6cbdd55aaacbc",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3111175,
+        "known_for_department": "Art",
+        "name": "이미진",
+        "original_name": "이미진",
+        "popularity": 0.2982,
+        "profile_path": null,
+        "credit_id": "696d3fc22a7a456c4136af91",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3149345,
+        "known_for_department": "Art",
+        "name": "박나은",
+        "original_name": "박나은",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "696d3fc217cda064c67fa3de",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3250881,
+        "known_for_department": "Art",
+        "name": "이초이",
+        "original_name": "이초이",
+        "popularity": 0.1611,
+        "profile_path": null,
+        "credit_id": "696d3fc3bed723460736af63",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970923,
+        "known_for_department": "Art",
+        "name": "鮫島潔",
+        "original_name": "鮫島潔",
+        "popularity": 0.3525,
+        "profile_path": null,
+        "credit_id": "696d3fc319252d2a9a7fa30f",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1841985,
+        "known_for_department": "Art",
+        "name": "針崎義士",
+        "original_name": "針崎義士",
+        "popularity": 0.2926,
+        "profile_path": null,
+        "credit_id": "696d3fc4e28dc9cffef94f15",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1590939,
+        "known_for_department": "Art",
+        "name": "大森崇",
+        "original_name": "大森崇",
+        "popularity": 0.2711,
+        "profile_path": null,
+        "credit_id": "696d3fc443e339ddfdf94b3a",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5947782,
+        "known_for_department": "Art",
+        "name": "山寄涼奈",
+        "original_name": "山寄涼奈",
+        "popularity": 0.0527,
+        "profile_path": null,
+        "credit_id": "696d3fda8cd0614020689ff8",
+        "department": "Art",
+        "job": "Background Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 8102,
+        "name": "elementary school"
+      },
+      {
+        "id": 9713,
+        "name": "friends"
+      },
+      {
+        "id": 10873,
+        "name": "school"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 207826,
+        "name": "shounen"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 259917,
+        "name": "mangaka"
+      },
+      {
+        "id": 292719,
+        "name": "manga artist"
+      },
+      {
+        "id": 323809,
+        "name": "depressing"
+      },
+      {
+        "id": 325804,
+        "name": "earnest"
+      },
+      {
+        "id": 325854,
+        "name": "tragic"
+      },
+      {
+        "id": 357999,
+        "name": "akita, japan"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Japannual Japanese Film Festival Vienna",
+            "release_date": "2024-10-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Violence",
+              "Sensitive Themes"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantoche",
+            "release_date": "2024-09-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shanghai International Film Festival",
+            "release_date": "2024-06-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing",
+            "release_date": "2024-10-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "National Alliance of Arthouse Cinemas",
+            "release_date": "2024-10-26T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Violence",
+              "Language"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Annecy International Animation Film Festival",
+            "release_date": "2024-06-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Scotland Loves Animation",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Summer International Film Festival",
+            "release_date": "2024-08-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "IIA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-07-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-25T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo International Film Festival",
+            "release_date": "2024-11-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-06-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-05T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Leiden International Film Festival",
+            "release_date": "2024-10-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "6",
+            "descriptors": [
+              "Violence",
+              "Fear"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festiwal Hikari",
+            "release_date": "2024-08-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "16+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2024-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "JAPAN CUTS",
+            "release_date": "2024-07-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Anime Expo",
+            "release_date": "2024-07-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City, New York and Los Angeles, California",
+            "release_date": "2024-10-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

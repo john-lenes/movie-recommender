@@ -1,0 +1,640 @@
+{
+  "adult": false,
+  "backdrop_path": "/imRVEUDwJdISrfckUllkBQHUkc8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 520777,
+  "imdb_id": "tt8132700",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Behind the Curve",
+  "overview": "Séculos atrás, muitas culturas acreditavam que a Terra era um disco plano. À medida que o pensamento científico e a tecnologia evoluíram, a Terra revelou-se um globo, uma visão amplamente aceita hoje - mas não por todos. O movimento da Terra plana tem visto um recente ressurgimento. Esses teóricos da conspiração negam o modelo científico do globo e se juntam através de convenções, fóruns e plataformas online para discutir seu sistema de crenças. No outro extremo do espectro, a comunidade científica visa combater esse mito ressuscitado, resultando em uma batalha pública cada vez maior de conspirações e anti-intelectualismo. Dando uma olhada completa em todos os lados do debate, Behind the Curve mostra que não importa onde você esteja sobre esta questão, as conversas e as pessoas ao redor são tudo, menos planas.",
+  "popularity": 7.4624,
+  "poster_path": "/cbkysmOcQJ2DKa5nffhr6m7g3yx.jpg",
+  "production_companies": [
+    {
+      "id": 110973,
+      "logo_path": null,
+      "name": "Delta-v Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-04-30",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Veja o mundo de uma forma totalmente nova.",
+  "title": "A Terra é Plana",
+  "video": false,
+  "vote_average": 6.297,
+  "vote_count": 305,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268386,
+        "known_for_department": "Acting",
+        "name": "Mark K. Sargent",
+        "original_name": "Mark K. Sargent",
+        "popularity": 0.0629,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "5c9093969251410feda546f9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268387,
+        "known_for_department": "Acting",
+        "name": "Jeran Campanella",
+        "original_name": "Jeran Campanella",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "5c9093a1c3a36861114fcb55",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2116220,
+        "known_for_department": "Directing",
+        "name": "Robbie Davidson",
+        "original_name": "Robbie Davidson",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "5c9093b29251410feaa55e28",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268388,
+        "known_for_department": "Acting",
+        "name": "Hannalore Gerling-Dunsmore",
+        "original_name": "Hannalore Gerling-Dunsmore",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "5c9093c09251410ff4a579fc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268389,
+        "known_for_department": "Acting",
+        "name": "Lamar Glover",
+        "original_name": "Lamar Glover",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "5c9093cd0e0a2612f55a5f20",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268390,
+        "known_for_department": "Acting",
+        "name": "Stephen Hagberg",
+        "original_name": "Stephen Hagberg",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "5c9093d9c3a3682ece4cfc3d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1828515,
+        "known_for_department": "Acting",
+        "name": "Brian Hickey",
+        "original_name": "Brian Hickey",
+        "popularity": 0.2603,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "5c9093f39251410ffca54cff",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1608712,
+        "known_for_department": "Acting",
+        "name": "Scott Kelly",
+        "original_name": "Scott Kelly",
+        "popularity": 0.1592,
+        "profile_path": "/4OYteKYbgGsGsoz1Dk74r8iyftA.jpg",
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "5c909420c3a3682ece4cfc6d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78303,
+        "known_for_department": "Acting",
+        "name": "Jimmy Kimmel",
+        "original_name": "Jimmy Kimmel",
+        "popularity": 0.8192,
+        "profile_path": "/wVVvvIwDtCgArdp0fsmjcM2tYyr.jpg",
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "5c9094309251410fe7a54334",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268392,
+        "known_for_department": "Acting",
+        "name": "Bob Knodel",
+        "original_name": "Bob Knodel",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "5c9094449251410f939dd36e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268394,
+        "known_for_department": "Acting",
+        "name": "Darryle Marble",
+        "original_name": "Darryle Marble",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "5c9094510e0a2612fc5a2d5d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2110692,
+        "known_for_department": "Acting",
+        "name": "Spiros Michalakis",
+        "original_name": "Spiros Michalakis",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "5c9094729251410ffca54d69",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218795,
+        "known_for_department": "Acting",
+        "name": "Bill Nye",
+        "original_name": "Bill Nye",
+        "popularity": 0.4952,
+        "profile_path": "/HfEBnQuiCMPjcsONf9FCpnEyJL.jpg",
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "5c909483c3a36874064a1864",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268395,
+        "known_for_department": "Acting",
+        "name": "Joe Pierre",
+        "original_name": "Joe Pierre",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "5c9094a19251410feaa55ee5",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2268396,
+        "known_for_department": "Acting",
+        "name": "Eva Pilgrim",
+        "original_name": "Eva Pilgrim",
+        "popularity": 0.0945,
+        "profile_path": "/u7pTNSVMCiRud1VT6xgKMIL5zxv.jpg",
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "5c9094ae9251410feaa55ef3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268397,
+        "known_for_department": "Acting",
+        "name": "Chris Pontius",
+        "original_name": "Chris Pontius",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "5c9094c69251410ff4a57ae4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268399,
+        "known_for_department": "Acting",
+        "name": "Math Powerland",
+        "original_name": "Math Powerland",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "5c9094d6c3a36861114fcc09",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268400,
+        "known_for_department": "Acting",
+        "name": "Odd Reality",
+        "original_name": "Odd Reality",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "5c9094e20e0a266237579e15",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268401,
+        "known_for_department": "Acting",
+        "name": "Patricia Steere",
+        "original_name": "Patricia Steere",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "5c9094f19251410fe7a5438e",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268402,
+        "known_for_department": "Acting",
+        "name": "Per Espen Stoknes",
+        "original_name": "Per Espen Stoknes",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "5c9095010e0a2612ef5a6f44",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1081432,
+        "known_for_department": "Acting",
+        "name": "Allen Jones",
+        "original_name": "Allen Jones",
+        "popularity": 0.4344,
+        "profile_path": "/uTt4HdkBGP02WfCRHwsYcsbTPBP.jpg",
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "5c9095c60e0a2612fc5a2e5a",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268406,
+        "known_for_department": "Acting",
+        "name": "Nathan Thompson",
+        "original_name": "Nathan Thompson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "5c9095f10e0a2613045a9d63",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2268409,
+        "known_for_department": "Acting",
+        "name": "Marcus Wiley",
+        "original_name": "Marcus Wiley",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "5c90969b0e0a2612ef5a711d",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154091,
+        "known_for_department": "Acting",
+        "name": "Larry Wilmore",
+        "original_name": "Larry Wilmore",
+        "popularity": 0.4616,
+        "profile_path": "/6Z55cIMHa50Wy3EEP8uCaK2sVGM.jpg",
+        "cast_id": 33,
+        "character": "Self (archive footage)",
+        "credit_id": "604b96fdfa4046004504f4f5",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040341,
+        "known_for_department": "Directing",
+        "name": "Daniel J. Clark",
+        "original_name": "Daniel J. Clark",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "5af4b8d4c3a3684729002371",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040341,
+        "known_for_department": "Directing",
+        "name": "Daniel J. Clark",
+        "original_name": "Daniel J. Clark",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "5af4b8e79251412b810018df",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040342,
+        "known_for_department": "Production",
+        "name": "Caroline Clark",
+        "original_name": "Caroline Clark",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "5af4b8fdc3a36847070018d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2040343,
+        "known_for_department": "Editing",
+        "name": "Nick Andert",
+        "original_name": "Nick Andert",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "credit_id": "5af4b90d9251412b810018f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 116332,
+        "known_for_department": "Writing",
+        "name": "Christine O'Malley",
+        "original_name": "Christine O'Malley",
+        "popularity": 0.1598,
+        "profile_path": null,
+        "credit_id": "5af4b926c3a368470300323d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116330,
+        "known_for_department": "Directing",
+        "name": "Patrick Creadon",
+        "original_name": "Patrick Creadon",
+        "popularity": 0.2043,
+        "profile_path": "/iQUrgMt8OaUpkFFuMBGasWqxNwp.jpg",
+        "credit_id": "5af4b9390e0a265e3a001e1b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2040343,
+        "known_for_department": "Editing",
+        "name": "Nick Andert",
+        "original_name": "Nick Andert",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "credit_id": "5af4b94b0e0a265e44001d1a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1627929,
+        "known_for_department": "Crew",
+        "name": "Terrance Stewart",
+        "original_name": "Terrance Stewart",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "credit_id": "5af4b9769251412b98001f9c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040345,
+        "known_for_department": "Sound",
+        "name": "Bryan Ricker",
+        "original_name": "Bryan Ricker",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "credit_id": "5af4b985c3a368470f001c68",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2800,
+        "name": "psychology"
+      },
+      {
+        "id": 11208,
+        "name": "conspiracy theory"
+      },
+      {
+        "id": 181914,
+        "name": "science vs religion"
+      },
+      {
+        "id": 246948,
+        "name": "flat earth"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-28T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Netflix",
+            "release_date": "2019-03-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "14A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hot Docs",
+            "release_date": "2018-04-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-01-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-04-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-04-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-01-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

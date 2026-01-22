@@ -1,0 +1,684 @@
+{
+  "adult": false,
+  "backdrop_path": "/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 16,
+      "name": "Animação"
+    }
+  ],
+  "homepage": "https://sololeveling-anime.net/ReAwakening/",
+  "id": 1357633,
+  "imdb_id": "tt33428606",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "俺だけレベルアップな件 -ReAwakening-",
+  "overview": "Mais de uma década após o surgimento dos “portões” que ligam os mundos, despertando “caçadores” com superpoderes, o caçador mais fraco, Sung Jinwoo, encontra uma masmorra dupla e aceita uma missão misteriosa, tornando-se o único capaz de subir de nível, mudando seu destino. Uma recapitulação da primeira temporada, juntamente com uma prévia exclusiva dos dois primeiros episódios da tão esperada segunda temporada, em uma experiência teatral memorável para os fãs.",
+  "popularity": 13.0455,
+  "poster_path": "/iU1fG893IXb8wdV70D23YTJDrjR.jpg",
+  "production_companies": [
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 13113,
+      "logo_path": "/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png",
+      "name": "A-1 Pictures",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-11-26",
+  "revenue": 6331827,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Solo Leveling -Segundo Despertar-",
+  "video": false,
+  "vote_average": 7.058,
+  "vote_count": 251,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2106489,
+        "known_for_department": "Acting",
+        "name": "Taito Ban",
+        "original_name": "坂泰斗",
+        "popularity": 0.9326,
+        "profile_path": "/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg",
+        "cast_id": 1,
+        "character": "Shun Mizushino (voice) (archive footage)",
+        "credit_id": "66ec855919e6f27f0546cd63",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2784795,
+        "known_for_department": "Acting",
+        "name": "Genta Nakamura",
+        "original_name": "中村源太",
+        "popularity": 0.7389,
+        "profile_path": "/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg",
+        "cast_id": 2,
+        "character": "Kenta Morobishi (voice) (archive footage)",
+        "credit_id": "66ec856619e6f27f0546cd90",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3279626,
+        "known_for_department": "Acting",
+        "name": "Haruna Mikawa",
+        "original_name": "三川華月",
+        "popularity": 0.7047,
+        "profile_path": "/nsrFjmDDzo4FDMhxyvuVk4mPEH3.jpg",
+        "cast_id": 3,
+        "character": "Aoi Mizushino (voice) (archive footage)",
+        "credit_id": "66ec8572373c0ccc9cfa90f1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1452028,
+        "known_for_department": "Acting",
+        "name": "Reina Ueda",
+        "original_name": "上田麗奈",
+        "popularity": 2.3349,
+        "profile_path": "/cddK6dQtVCg6ToQRpETbRYRJK4G.jpg",
+        "cast_id": 4,
+        "character": "Shizuku Kousaka (voice) (archive footage)",
+        "credit_id": "66ec857ce08b18d3aafa8d82",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1096528,
+        "known_for_department": "Acting",
+        "name": "Daisuke Hirakawa",
+        "original_name": "平川大輔",
+        "popularity": 1.1448,
+        "profile_path": "/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg",
+        "cast_id": 5,
+        "character": "Shin Mogami (voice) (archive footage)",
+        "credit_id": "66ec858619e6f27f0546cdc5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89832,
+        "known_for_department": "Acting",
+        "name": "Hiroki Touchi",
+        "original_name": "東地宏樹",
+        "popularity": 1.3954,
+        "profile_path": "/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg",
+        "cast_id": 6,
+        "character": "Taiga Shirakawa (voice) (archive footage)",
+        "credit_id": "66ec8593065b70b542326e61",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122481,
+        "known_for_department": "Acting",
+        "name": "Banjo Ginga",
+        "original_name": "銀河万丈",
+        "popularity": 1.3461,
+        "profile_path": "/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg",
+        "cast_id": 7,
+        "character": "Kiyoomi Goto (voice) (archive footage)",
+        "credit_id": "66ec859e373c0ccc9cfa90f6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1319218,
+        "known_for_department": "Acting",
+        "name": "Makoto Furukawa",
+        "original_name": "古川慎",
+        "popularity": 1.5457,
+        "profile_path": "/inLmBZhrqXeE9wlViyK28ocKJSw.jpg",
+        "cast_id": 8,
+        "character": "Akira Inukai (voice) (archive footage)",
+        "credit_id": "66ec85aa3d29e1389646cd7e",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1627340,
+        "known_for_department": "Directing",
+        "name": "中重俊祐",
+        "original_name": "中重俊祐",
+        "popularity": 0.6586,
+        "profile_path": "/6HX5nrn8uClBQpgqvtm3V3KzmVb.jpg",
+        "credit_id": "672307b8003c4b5b5b644005",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1025557,
+        "known_for_department": "Writing",
+        "name": "추공",
+        "original_name": "추공",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "677a8174816b2810d166e82a",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972284,
+        "known_for_department": "Writing",
+        "name": "장성락",
+        "original_name": "장성락",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "677a817e38d26a2a6372aef7",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3972281,
+        "known_for_department": "Writing",
+        "name": "현군",
+        "original_name": "현군",
+        "popularity": 0.1508,
+        "profile_path": null,
+        "credit_id": "677a818982cce15a7674f4f5",
+        "department": "Writing",
+        "job": "Comic Book"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 9717,
+        "name": "based on comic"
+      },
+      {
+        "id": 12197,
+        "name": "compilation"
+      },
+      {
+        "id": 194008,
+        "name": "edited from tv series"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 288474,
+        "name": "based on webcomic or webtoon"
+      },
+      {
+        "id": 364081,
+        "name": "dungeon crawling"
+      },
+      {
+        "id": 364185,
+        "name": "modern dungeon"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "MA 15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-12T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-13T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

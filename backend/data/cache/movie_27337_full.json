@@ -1,0 +1,823 @@
+{
+  "adult": false,
+  "backdrop_path": "/xSwyEYimb59e8Xcxvd3yZgR4249.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 27337,
+  "imdb_id": "tt0468795",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "リンダ リンダ リンダ",
+  "overview": "",
+  "popularity": 5.1801,
+  "poster_path": "/fiUyBiV2AWiz2XJLmZRoCJKGn2j.jpg",
+  "production_companies": [
+    {
+      "id": 4667,
+      "logo_path": "/kW2HfJ2R3xBfXRW6jdevcSGavHT.png",
+      "name": "Bitters End",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4668,
+      "logo_path": "/wI9tnCc4DbBIJKpQw70OLzuUcYv.png",
+      "name": "Cave",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4669,
+      "logo_path": null,
+      "name": "Covers & Co.",
+      "origin_country": ""
+    },
+    {
+      "id": 11725,
+      "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+      "name": "VAP",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2005-07-23",
+  "revenue": 11187,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As meninas do ensino médio tocam The Blue Hearts!",
+  "title": "リンダ リンダ リンダ",
+  "video": false,
+  "vote_average": 7.507,
+  "vote_count": 137,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21688,
+        "known_for_department": "Acting",
+        "name": "배두나",
+        "original_name": "배두나",
+        "popularity": 1.9767,
+        "profile_path": "/owMv65TuU4thBBJCpv3uWr1bWfc.jpg",
+        "cast_id": 7,
+        "character": "Son",
+        "credit_id": "52fe4543c3a368484e0500c3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31079,
+        "known_for_department": "Acting",
+        "name": "前田亜季",
+        "original_name": "前田亜季",
+        "popularity": 0.6785,
+        "profile_path": "/WLSYOzH7WxyVmW0gx3qJ9fndAu.jpg",
+        "cast_id": 2,
+        "character": "Kyoko Yamada",
+        "credit_id": "52fe4543c3a368484e0500ad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97563,
+        "known_for_department": "Acting",
+        "name": "香椎由宇",
+        "original_name": "香椎由宇",
+        "popularity": 0.6965,
+        "profile_path": "/rKAxA4yklT0kmGX8KQ9N3kIPrqZ.jpg",
+        "cast_id": 3,
+        "character": "Kei Tachibana",
+        "credit_id": "52fe4543c3a368484e0500b1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97564,
+        "known_for_department": "Acting",
+        "name": "関根史織",
+        "original_name": "関根史織",
+        "popularity": 0.1523,
+        "profile_path": "/1ip8zjJe8p8wBHJlV07BpkJnAEB.jpg",
+        "cast_id": 4,
+        "character": "Nozomi Shirakawa",
+        "credit_id": "52fe4543c3a368484e0500b5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97565,
+        "known_for_department": "Acting",
+        "name": "三村恭代",
+        "original_name": "三村恭代",
+        "popularity": 0.4656,
+        "profile_path": "/z8zkY0RWqoc30cOr1q2VqDQ8MU1.jpg",
+        "cast_id": 5,
+        "character": "Rinko",
+        "credit_id": "52fe4543c3a368484e0500b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3108409,
+        "known_for_department": "Acting",
+        "name": "湯川潮音",
+        "original_name": "湯川潮音",
+        "popularity": 0.1543,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Moe",
+        "credit_id": "60b33907458199004004a528",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379797,
+        "known_for_department": "Acting",
+        "name": "山崎優子",
+        "original_name": "山崎優子",
+        "popularity": 0.2498,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Nakajima",
+        "credit_id": "54c3d074c3a36878fb00576d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226829,
+        "known_for_department": "Acting",
+        "name": "甲本雅裕",
+        "original_name": "甲本雅裕",
+        "popularity": 0.6936,
+        "profile_path": "/4JkKaQG7rbA4AYQ3sOMzEOxwnHv.jpg",
+        "cast_id": 9,
+        "character": "Koyama sensei",
+        "credit_id": "54c3d07a9251412446005de5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79037,
+        "known_for_department": "Acting",
+        "name": "松山ケンイチ",
+        "original_name": "松山ケンイチ",
+        "popularity": 1.0432,
+        "profile_path": "/sMrWJWLM5xJVtHfSqxArh5k61PS.jpg",
+        "cast_id": 10,
+        "character": "Makihara",
+        "credit_id": "54c3d082925141243200609d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146455,
+        "known_for_department": "Acting",
+        "name": "小林且弥",
+        "original_name": "小林且弥",
+        "popularity": 0.5103,
+        "profile_path": "/31cewSMwAnKrpNW36IvWxp8gibp.jpg",
+        "cast_id": 11,
+        "character": "Kazuya",
+        "credit_id": "54c3d08cc3a36878d000629d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107106,
+        "known_for_department": "Acting",
+        "name": "近藤公園",
+        "original_name": "近藤公園",
+        "popularity": 0.4192,
+        "profile_path": "/rU67cYxVbJDVYZ3LhG3eXdar9Rm.jpg",
+        "cast_id": 16,
+        "character": "Kyoko's Brother",
+        "credit_id": "54c3d0b69251412489005fca",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107105,
+        "known_for_department": "Acting",
+        "name": "三浦アキフミ",
+        "original_name": "三浦アキフミ",
+        "popularity": 0.5557,
+        "profile_path": "/7VJv6SqY3fzm7MK8StKj1Om73ms.jpg",
+        "cast_id": 20,
+        "character": "Ishikawa",
+        "credit_id": "54c3d20292514124320060c4",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84725,
+        "known_for_department": "Acting",
+        "name": "小出恵介",
+        "original_name": "小出恵介",
+        "popularity": 0.4661,
+        "profile_path": "/xe1dV0KVXlpmi7QocRCZnGM4qC7.jpg",
+        "cast_id": 12,
+        "character": "Abe",
+        "credit_id": "54c3d09ac3a36878fb005774",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1014998,
+        "known_for_department": "Acting",
+        "name": "三浦誠己",
+        "original_name": "三浦誠己",
+        "popularity": 0.8088,
+        "profile_path": "/7s42GpmTNLWe8r3MSafDebGa5wK.jpg",
+        "cast_id": 13,
+        "character": "Maezono",
+        "credit_id": "54c3d0a09251412489005fbd",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63701,
+        "known_for_department": "Acting",
+        "name": "りりィ",
+        "original_name": "りりィ",
+        "popularity": 0.3405,
+        "profile_path": "/2z4GplkhF0NgF548JQ90zt0E5bH.jpg",
+        "cast_id": 14,
+        "character": "Kei's Mother",
+        "credit_id": "54c3d0a792514124ed005f08",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053788,
+        "known_for_department": "Acting",
+        "name": "藤井かほり",
+        "original_name": "藤井かほり",
+        "popularity": 0.5452,
+        "profile_path": "/97JcSxroxgpTPaEFka3TJffJANW.jpg",
+        "cast_id": 15,
+        "character": "Nakayama",
+        "credit_id": "54c3d0ae92514124c8005b37",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120434,
+        "known_for_department": "Acting",
+        "name": "ピエール瀧",
+        "original_name": "ピエール瀧",
+        "popularity": 1.8108,
+        "profile_path": "/nIgFcU0smYH7FdzUt96d685uU1h.jpg",
+        "cast_id": 17,
+        "character": "Pierre",
+        "credit_id": "54c3d0c892514124ed005f0c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132935,
+        "known_for_department": "Acting",
+        "name": "山本浩司",
+        "original_name": "山本浩司",
+        "popularity": 0.6489,
+        "profile_path": "/w1ywYvhyoQ45244n1Bm1iPtmG6n.jpg",
+        "cast_id": 18,
+        "character": "Studio Employee",
+        "credit_id": "54c3d10d9251416eae00eba3",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122581,
+        "known_for_department": "Acting",
+        "name": "山本剛史",
+        "original_name": "山本剛史",
+        "popularity": 0.5467,
+        "profile_path": "/1QcQE09KgyLigZfy3CQpuM7rlOv.jpg",
+        "cast_id": 19,
+        "character": "Karaoke Employee",
+        "credit_id": "54c3d14d92514124c8005b48",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1393920,
+        "known_for_department": "Production",
+        "name": "Jason Gray",
+        "original_name": "Jason Gray",
+        "popularity": 0.3546,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Ramones Member",
+        "credit_id": "622dab68e04aca001b82d341",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583881,
+        "known_for_department": "Directing",
+        "name": "山下敦弘",
+        "original_name": "山下敦弘",
+        "popularity": 0.7365,
+        "profile_path": "/g4yJWbaA0scDMqFHJjSU6G3Ho8Q.jpg",
+        "credit_id": "52fe4543c3a368484e0500bf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1880432,
+        "known_for_department": "Writing",
+        "name": "宮下和雅子",
+        "original_name": "宮下和雅子",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "59a95f9cc3a3683c7a03084f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583881,
+        "known_for_department": "Directing",
+        "name": "山下敦弘",
+        "original_name": "山下敦弘",
+        "popularity": 0.7365,
+        "profile_path": "/g4yJWbaA0scDMqFHJjSU6G3Ho8Q.jpg",
+        "credit_id": "59a95fa6c3a3683ce60299b0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115641,
+        "known_for_department": "Editing",
+        "name": "Ryuji Miyajima",
+        "original_name": "宮島竜治",
+        "popularity": 0.177,
+        "profile_path": "/6byGshsPfd9mP4ZqbyJW07nnPRq.jpg",
+        "credit_id": "59a967fac3a36874d50154e2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87052,
+        "known_for_department": "Sound",
+        "name": "James Iha",
+        "original_name": "James Iha",
+        "popularity": 0.3251,
+        "profile_path": "/sX0qFY0ZKCT0cDoj6whzKgMbXc2.jpg",
+        "credit_id": "5a0766a09251414c19002e3e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237310,
+        "known_for_department": "Production",
+        "name": "定井勇二",
+        "original_name": "定井勇二",
+        "popularity": 0.5113,
+        "profile_path": "/mS4KShKSu1iAJCegKModuyrRqYl.jpg",
+        "credit_id": "5a0766a8c3a36833440036cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041473,
+        "known_for_department": "Production",
+        "name": "根岸洋之",
+        "original_name": "根岸洋之",
+        "popularity": 0.2339,
+        "profile_path": null,
+        "credit_id": "5a0766b09251414bd200300b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1716881,
+        "known_for_department": "Camera",
+        "name": "池内義浩",
+        "original_name": "池内義浩",
+        "popularity": 0.4284,
+        "profile_path": null,
+        "credit_id": "5a0766b6c3a368341c003450",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1681818,
+        "known_for_department": "Art",
+        "name": "Ayako Matsuo",
+        "original_name": "Ayako Matsuo",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "credit_id": "5a0766c09251414c23003146",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082700,
+        "known_for_department": "Writing",
+        "name": "向井康介",
+        "original_name": "向井康介",
+        "popularity": 0.6069,
+        "profile_path": "/nOg5PRUc1uTISEFagf7AjkwUAGb.jpg",
+        "credit_id": "5cf747e1c3a36833de214984",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 115642,
+        "known_for_department": "Sound",
+        "name": "郡弘道",
+        "original_name": "郡弘道",
+        "popularity": 0.37,
+        "profile_path": null,
+        "credit_id": "68544620dedc4ba23a5508ae",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066151,
+        "known_for_department": "Directing",
+        "name": "佐藤英明",
+        "original_name": "佐藤英明",
+        "popularity": 0.2208,
+        "profile_path": null,
+        "credit_id": "68889e3438bd91079155fb5c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2316355,
+        "known_for_department": "Production",
+        "name": "岡本東郎",
+        "original_name": "岡本東郎",
+        "popularity": 0.1194,
+        "profile_path": null,
+        "credit_id": "69121457a4a1c96cc831b776",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1116978,
+        "known_for_department": "Production",
+        "name": "大里俊博",
+        "original_name": "大里俊博",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6912404a3174b11fc0c062a1",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2083988,
+        "known_for_department": "Lighting",
+        "name": "大坂章夫",
+        "original_name": "大坂章夫",
+        "popularity": 0.1918,
+        "profile_path": null,
+        "credit_id": "691241322b99e7c7694c84ba",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2052711,
+        "known_for_department": "Sound",
+        "name": "北原京子",
+        "original_name": "北原京子",
+        "popularity": 0.2282,
+        "profile_path": null,
+        "credit_id": "6912416ddc7b73f47c31b6d6",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115643,
+        "known_for_department": "Sound",
+        "name": "齋藤昌利",
+        "original_name": "齋藤昌利",
+        "popularity": 0.1343,
+        "profile_path": null,
+        "credit_id": "6912417d6cb3e5b8574c85ea",
+        "department": "Sound",
+        "job": "Sound Effects"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 10873,
+        "name": "school"
+      },
+      {
+        "id": 18001,
+        "name": "rock band"
+      },
+      {
+        "id": 41172,
+        "name": "schoolgirl"
+      },
+      {
+        "id": 164060,
+        "name": "girl band"
+      },
+      {
+        "id": 214532,
+        "name": "school club"
+      },
+      {
+        "id": 235790,
+        "name": "japanese high school"
+      },
+      {
+        "id": 238675,
+        "name": "high school girl"
+      },
+      {
+        "id": 296608,
+        "name": "teenager"
+      },
+      {
+        "id": 325782,
+        "name": "cheerful"
+      },
+      {
+        "id": 325807,
+        "name": "enchant"
+      },
+      {
+        "id": 344584,
+        "name": "bukatsu"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Aranya Waves Film Festival",
+            "release_date": "2025-09-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "13+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jakarta World Cinema",
+            "release_date": "2025-09-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Japanese Film Festival",
+            "release_date": "2025-11-09T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jogja-NETPAC Asian Film Festival",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Special Screening",
+            "release_date": "2026-01-17T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "2025-11-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-07-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4k re-screening",
+            "release_date": "2025-08-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-04-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2025-09-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Screening of Japanese films in State Museum of the East (Moscow)",
+            "release_date": "2011-05-10T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "Kaohsiung Film Festival (4K Restoration)",
+            "release_date": "2025-10-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2007-04-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tribeca Festival",
+            "release_date": "2025-06-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-11-10T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-05T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2007-05-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

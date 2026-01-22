@@ -1,0 +1,1083 @@
+{
+  "adult": false,
+  "backdrop_path": "/lyHmhoRj3zXSdeCYbs2oOXLCF4K.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "",
+  "id": 459003,
+  "imdb_id": "tt6685538",
+  "origin_country": [
+    "UA"
+  ],
+  "original_language": "uk",
+  "original_title": "Мавка: Лісова пісня",
+  "overview": "Mavka é uma Alma da Floresta e foi escolhida como a nova guardiã do reino, sendo sua principal missão proteger a floresta. Mas quando Mavka se apaixona pelo jovem Lucas, a avarenta Kylina decide assumir o controle da floresta.",
+  "popularity": 7.4515,
+  "poster_path": "/adyriBXnBuhdRgAllYAurnDQtQb.jpg",
+  "production_companies": [
+    {
+      "id": 106008,
+      "logo_path": "/lxEXqPBVaruHI6VtuVzwMLZnfHb.png",
+      "name": "Animagrad Animation Studio",
+      "origin_country": "UA"
+    },
+    {
+      "id": 116025,
+      "logo_path": null,
+      "name": "3Beep",
+      "origin_country": "US"
+    },
+    {
+      "id": 21652,
+      "logo_path": "/o5qeK1nhECoVkuIxMO4T6yBYqwX.png",
+      "name": "FILM.UA Group",
+      "origin_country": "UA"
+    },
+    {
+      "id": 61460,
+      "logo_path": "/3yPCkEWvnabeiF8l3sjUBHlRq0j.png",
+      "name": "Ukrainian State Film Agency",
+      "origin_country": "UA"
+    },
+    {
+      "id": 130164,
+      "logo_path": "/loxu9PYDDAxhyhNZWcR4Hs7P3n0.png",
+      "name": "B-Water Animation Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "release_date": "2023-03-02",
+  "revenue": 17974964,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Amor ou Dever.",
+  "title": "Mavka: Aventura na Floresta",
+  "video": false,
+  "vote_average": 7.144,
+  "vote_count": 831,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1975746,
+        "known_for_department": "Acting",
+        "name": "Наталка Денисенко",
+        "original_name": "Наталка Денисенко",
+        "popularity": 0.3555,
+        "profile_path": "/1YwB560OyNerNFkac9uUPy9XwYM.jpg",
+        "cast_id": 12,
+        "character": "Mavka (voice)",
+        "credit_id": "63cfa51bcf9ba30080b49984",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3888631,
+        "known_for_department": "Acting",
+        "name": "Artem Pyvovarov",
+        "original_name": "Artem Pyvovarov",
+        "popularity": 0.1046,
+        "profile_path": "/sSRRRzGwR4LV6PKOn8leGXjk3CA.jpg",
+        "cast_id": 13,
+        "character": "Lucas (voice)",
+        "credit_id": "63cfa5e51b157d0082ddca76",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2143247,
+        "known_for_department": "Acting",
+        "name": "Назар Задніпровський",
+        "original_name": "Назар Задніпровський",
+        "popularity": 0.3974,
+        "profile_path": "/tbBYf4afl7qTu2Jwk6onvrSZZZw.jpg",
+        "cast_id": 14,
+        "character": "Lesh (voice)",
+        "credit_id": "63cfa8161b157d00a2dd72b3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 927727,
+        "known_for_department": "Acting",
+        "name": "Олег Скрипка",
+        "original_name": "Олег Скрипка",
+        "popularity": 0.3608,
+        "profile_path": "/xIaeO5IibTfh9oOwVXoUTgIQ6Pl.jpg",
+        "cast_id": 15,
+        "character": "The One, Who Sits in the Rock (voice)",
+        "credit_id": "63cfa874cf9ba300b1df31eb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1722846,
+        "known_for_department": "Acting",
+        "name": "Олена Кравець",
+        "original_name": "Олена Кравець",
+        "popularity": 0.223,
+        "profile_path": "/z3YPcVr3shmS0GWllcOuw2E8qCq.jpg",
+        "cast_id": 16,
+        "character": "Kylina (voice)",
+        "credit_id": "63cfa8cbcf9ba30080b49b75",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1261201,
+        "known_for_department": "Acting",
+        "name": "Сергій Притула",
+        "original_name": "Сергій Притула",
+        "popularity": 0.1546,
+        "profile_path": "/oOT672i6Y28EvvunHoWeeOIB8xS.jpg",
+        "cast_id": 17,
+        "character": "Frol (voice)",
+        "credit_id": "63cfa9eeb6cff100e91fb7bc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2048236,
+        "known_for_department": "Sound",
+        "name": "Олег “Фагот” Михайлюта",
+        "original_name": "Олег “Фагот” Михайлюта",
+        "popularity": 0.2225,
+        "profile_path": "/oaGycFdFAvvwu9Fkk7sercWlzjV.jpg",
+        "cast_id": 18,
+        "character": "Uncle Leo (voice)",
+        "credit_id": "63cfaa620d2f5301d1efc9d8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532837,
+        "known_for_department": "Acting",
+        "name": "Наталія Сумська",
+        "original_name": "Наталія Сумська",
+        "popularity": 0.4517,
+        "profile_path": "/vgCFjUeec2Wx8rfDqqtN9miYfIT.jpg",
+        "cast_id": 19,
+        "character": "The Healer (voice)",
+        "credit_id": "63cfab0f0d2f5301d1efca3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3650445,
+        "known_for_department": "Acting",
+        "name": "Юлія Саніна",
+        "original_name": "Юлія Саніна",
+        "popularity": 0.2245,
+        "profile_path": "/rOhBJuloIOhoORONKm20Tx1tfAs.jpg",
+        "cast_id": 20,
+        "character": "Ondina (voice)",
+        "credit_id": "63cfac8b91745b00c0152b9b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1818893,
+        "known_for_department": "Acting",
+        "name": "Михайло Хома",
+        "original_name": "Михайло Хома",
+        "popularity": 0.1753,
+        "profile_path": "/99MNJvjYLDk5wpBXG3KGiyF2cpb.jpg",
+        "cast_id": 21,
+        "character": "Hush (voice)",
+        "credit_id": "63cfe95d0d2f53022e45fd59",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532836,
+        "known_for_department": "Acting",
+        "name": "Ніна Матвієнко",
+        "original_name": "Ніна Матвієнко",
+        "popularity": 0.208,
+        "profile_path": "/ze44zftVu50Or8zCBRJJHfo7zPd.jpg",
+        "cast_id": 22,
+        "character": "Narrator of the story at the beginning of the movie (voice)",
+        "credit_id": "63cfe9800d2f5301d9a5c581",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3888856,
+        "known_for_department": "Acting",
+        "name": "Катерина Осадча",
+        "original_name": "Катерина Осадча",
+        "popularity": 0.2188,
+        "profile_path": "/e926zDPL9A3XUO0ziPdzROz5KbA.jpg",
+        "cast_id": 23,
+        "character": "Ukrainian women (voice)",
+        "credit_id": "63cfe9fab6cff100b9363ebe",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2039497,
+        "known_for_department": "Acting",
+        "name": "Андрій Мостренко",
+        "original_name": "Андрій Мостренко",
+        "popularity": 0.3847,
+        "profile_path": "/ovCSFuWwBqgb42uPOxxbIaKttce.jpg",
+        "cast_id": 24,
+        "character": "Eric and Derek (voice)",
+        "credit_id": "6404f94439271200a9f3c680",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3694874,
+        "known_for_department": "Acting",
+        "name": "Khrystyna Soloviy",
+        "original_name": "Khrystyna Soloviy",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Mavka’s songs (voice)",
+        "credit_id": "6404fe6943999b0084288a1e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2482143,
+        "known_for_department": "Acting",
+        "name": "Kateryna Kukhar",
+        "original_name": "Kateryna Kukhar",
+        "popularity": 0.1693,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Mavka’s plastics and gestures",
+        "credit_id": "6404fe9539271200e507470d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5017660,
+        "known_for_department": "Sound",
+        "name": "Олена Цибульська",
+        "original_name": "Олена Цибульська",
+        "popularity": 0.1639,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Village Musician (voice)",
+        "credit_id": "671928b227bd57d91f622e64",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5017658,
+        "known_for_department": "Sound",
+        "name": "Ніна Гаренецька",
+        "original_name": "Ніна Гаренецька",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Village Musician (voice)",
+        "credit_id": "671928b62685cb6563c086a9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5017656,
+        "known_for_department": "Sound",
+        "name": "Марко Галаневич",
+        "original_name": "Марко Галаневич",
+        "popularity": 0.1356,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Village Musician (voice)",
+        "credit_id": "671928b9a4ac8a432c5be8cf",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5017667,
+        "known_for_department": "Sound",
+        "name": "Ірина Коваленко",
+        "original_name": "Ірина Коваленко",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Village Musician (voice)",
+        "credit_id": "671928bca4ac8a432c5be8d4",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1837958,
+        "known_for_department": "Directing",
+        "name": "Oleg Malamuzh",
+        "original_name": "Oleg Malamuzh",
+        "popularity": 0.3111,
+        "profile_path": "/uBlhOVRkIwgGSt10rZnzVyDAS9U.jpg",
+        "credit_id": "628794890d5d853e87f5e4d6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4257879,
+        "known_for_department": "Directing",
+        "name": "Yevhen Yermak",
+        "original_name": "Yevhen Yermak",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "credit_id": "64f908f2e0ca7f012eb5b819",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270308,
+        "known_for_department": "Writing",
+        "name": "Леся Українка",
+        "original_name": "Леся Українка",
+        "popularity": 0.0865,
+        "profile_path": "/mB6yUszRdVM4Qfu4mkyCWm0TYEa.jpg",
+        "credit_id": "638c95a10e64af009e8f8aef",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1823439,
+        "known_for_department": "Directing",
+        "name": "Олександра Рубан",
+        "original_name": "Олександра Рубан",
+        "popularity": 0.1667,
+        "profile_path": "/gWgWigjbeMqGzTYmYTMxyBjax6I.jpg",
+        "credit_id": "5926dfee9251413b410247dc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2232061,
+        "known_for_department": "Writing",
+        "name": "Yaroslav Voytseshek",
+        "original_name": "Yaroslav Voytseshek",
+        "popularity": 0.2014,
+        "profile_path": "/eWXKUXGLm10jEZT0MGDG2KonRYY.jpg",
+        "credit_id": "5d0b887dc3a36865b01e96cf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2566940,
+        "known_for_department": "Sound",
+        "name": "Maksym Berezhnyak",
+        "original_name": "Maksym Berezhnyak",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "5e6e0cac459ad6001163b66e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1952216,
+        "known_for_department": "Writing",
+        "name": "Jeffrey Hylton",
+        "original_name": "Jeffrey Hylton",
+        "popularity": 0.2853,
+        "profile_path": null,
+        "credit_id": "5e6e0bc7cedac400174c891f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2143250,
+        "known_for_department": "Production",
+        "name": "Iryna Kostiuk",
+        "original_name": "Iryna Kostiuk",
+        "popularity": 0.1643,
+        "profile_path": "/whgxtHHDQRnREmpIex4kiVP5uNx.jpg",
+        "credit_id": "5e6e0c39a9b9a40016a154bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2566933,
+        "known_for_department": "Production",
+        "name": "Anna Eliseyeva",
+        "original_name": "Anna Eliseyeva",
+        "popularity": 0.1203,
+        "profile_path": "/dPx4y7XIpc8kT1hY3B762tPA9HF.jpg",
+        "credit_id": "5e6e0c04cabfe400131486e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1461680,
+        "known_for_department": "Production",
+        "name": "Єгор Олесов",
+        "original_name": "Єгор Олесов",
+        "popularity": 0.5156,
+        "profile_path": "/AcCxfWkmCdcXDtB3qAlvee8HfEh.jpg",
+        "credit_id": "5e6e0c69a9b9a40012a1c150",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2566939,
+        "known_for_department": "Art",
+        "name": "Kristian Koskinen",
+        "original_name": "Kristian Koskinen",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "5e6e0c84cedac400134be6fd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5017660,
+        "known_for_department": "Sound",
+        "name": "Олена Цибульська",
+        "original_name": "Олена Цибульська",
+        "popularity": 0.1639,
+        "profile_path": null,
+        "credit_id": "67192899fefd1e0510ffce86",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5017658,
+        "known_for_department": "Sound",
+        "name": "Ніна Гаренецька",
+        "original_name": "Ніна Гаренецька",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "credit_id": "6719289f27bd57d91f622e54",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5017656,
+        "known_for_department": "Sound",
+        "name": "Марко Галаневич",
+        "original_name": "Марко Галаневич",
+        "popularity": 0.1356,
+        "profile_path": null,
+        "credit_id": "671928a3a4ac8a432c5be8c5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5017667,
+        "known_for_department": "Sound",
+        "name": "Ірина Коваленко",
+        "original_name": "Ірина Коваленко",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "credit_id": "671928a8fefd1e0510ffce9b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3096075,
+        "known_for_department": "Sound",
+        "name": "Dario Vero",
+        "original_name": "Dario Vero",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "6928fde379a48b40f724943b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 2710,
+        "name": "fairy"
+      },
+      {
+        "id": 18330,
+        "name": "nature"
+      },
+      {
+        "id": 178856,
+        "name": "folklore"
+      },
+      {
+        "id": 185343,
+        "name": "based on myths, legends or folklore"
+      },
+      {
+        "id": 235607,
+        "name": "mavka"
+      },
+      {
+        "id": 235608,
+        "name": "ukrainian folklore"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 296736,
+        "name": "love vs duty"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2023-04-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2023-09-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-07-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-06-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-09-15T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-09-29T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2024-01-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "Ai",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-04-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kinopalatsi, Helsinki",
+            "release_date": "2023-11-18T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "K-7",
+            "descriptors": [],
+            "iso_639_1": "fi",
+            "note": "",
+            "release_date": "2024-08-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-07-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-09-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-07-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "he",
+            "note": "",
+            "release_date": "2024-01-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "he",
+            "note": "",
+            "release_date": "2024-02-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Partner TV",
+            "release_date": "2024-08-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-04-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-10-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "N-7",
+            "descriptors": [],
+            "iso_639_1": "lt",
+            "note": "",
+            "release_date": "2023-07-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [
+              "Violence",
+              "Fear"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-04-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-10-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "OM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-08-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-05-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-07-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-08-15T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-08-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-06-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

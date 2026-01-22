@@ -1,0 +1,1025 @@
+{
+  "adult": false,
+  "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+  "belongs_to_collection": null,
+  "budget": 120000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1398,
+  "imdb_id": "tt0079944",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Сталкер",
+  "overview": "Um misterioso acidente deixou um lugar inabitável. Para evitar a aproximação de curiosos o lugar foi isolado e é protegido por soldados o tempo todo, sendo conhecido como A Zona. Existe a promessa de que em algum lugar da Zona há um quarto onde o desejo de qualquer pessoa será realizado, mas o caminho até ele está cheio de armadilhas, e apenas os homens conhecidos como Stalkers são capazes de guiar outros homens até lá.",
+  "popularity": 3.9973,
+  "poster_path": "/ftyrhQS0Kedc55ev4IgBlKSF0ez.jpg",
+  "production_companies": [
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1979-05-25",
+  "revenue": 0,
+  "runtime": 162,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Não precisa falar. Você só precisa... se concentrar e relembrar toda a sua vida passada. Quando um homem pensa no passado, ele se torna mais gentil.",
+  "title": "Stalker",
+  "video": false,
+  "vote_average": 8.111,
+  "vote_count": 2418,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28079,
+        "known_for_department": "Acting",
+        "name": "Алиса Фрейндлих",
+        "original_name": "Алиса Фрейндлих",
+        "popularity": 0.5647,
+        "profile_path": "/6r90VxIyPWE63DnBS91xeomZmIP.jpg",
+        "cast_id": 15,
+        "character": "Stalker's Wife",
+        "credit_id": "52fe42f3c3a36847f802f17b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28078,
+        "known_for_department": "Acting",
+        "name": "Александр Кайдановский",
+        "original_name": "Александр Кайдановский",
+        "popularity": 0.5614,
+        "profile_path": "/yHYfkxQu3GVKxx5ibFmEom8qAS6.jpg",
+        "cast_id": 6,
+        "character": "Stalker",
+        "credit_id": "52fe42f3c3a36847f802f15f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8475,
+        "known_for_department": "Acting",
+        "name": "Анатолий Солоницын",
+        "original_name": "Анатолий Солоницын",
+        "popularity": 0.6924,
+        "profile_path": "/37Vb7vNMHAz1s2WI5kW4BHt0X0N.jpg",
+        "cast_id": 16,
+        "character": "Writer",
+        "credit_id": "52fe42f3c3a36847f802f17f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1190992,
+        "known_for_department": "Acting",
+        "name": "Микола Гринько",
+        "original_name": "Микола Гринько",
+        "popularity": 0.5634,
+        "profile_path": "/n8lxXQbLYOed7AeowxA49yB2jyS.jpg",
+        "cast_id": 20,
+        "character": "Professor",
+        "credit_id": "52fe42f3c3a36847f802f187",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28080,
+        "known_for_department": "Acting",
+        "name": "Наталья Абрамова",
+        "original_name": "Наталья Абрамова",
+        "popularity": 0.1716,
+        "profile_path": "/iJOfkfk0MT3rW1iVrzp8t4pKotr.jpg",
+        "cast_id": 18,
+        "character": "Marta",
+        "credit_id": "52fe42f3c3a36847f802f183",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1073948,
+        "known_for_department": "Acting",
+        "name": "Faime Jürno",
+        "original_name": "Faime Jürno",
+        "popularity": 0.5351,
+        "profile_path": "/kx04DJQeV2v3fdU23MeudKyTuBm.jpg",
+        "cast_id": 40,
+        "character": "Writer's Companion",
+        "credit_id": "5aee45ed0e0a261038002206",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1626954,
+        "known_for_department": "Acting",
+        "name": "Евгений Костин",
+        "original_name": "Евгений Костин",
+        "popularity": 0.1206,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Lyuger, Owner of Cafe",
+        "credit_id": "5aee4749c3a368078c001fdf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2037109,
+        "known_for_department": "Acting",
+        "name": "Raimo Rendi",
+        "original_name": "Raimo Rendi",
+        "popularity": 0.1283,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Police Patrol",
+        "credit_id": "5aee47819251411983002a07",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85219,
+        "known_for_department": "Acting",
+        "name": "Владимир Заманский",
+        "original_name": "Владимир Заманский",
+        "popularity": 0.384,
+        "profile_path": "/r5xiJE30c6gTd6Ps2Z5oLKAszM9.jpg",
+        "cast_id": 54,
+        "character": "Professor's Telephone Interlocutor (voice) (uncredited)",
+        "credit_id": "67d680aa31678cc3f80160c5",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28081,
+        "known_for_department": "Production",
+        "name": "Александра Демидова",
+        "original_name": "Александра Демидова",
+        "popularity": 0.1588,
+        "profile_path": null,
+        "credit_id": "52fe42f3c3a36847f802f165",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8463,
+        "known_for_department": "Editing",
+        "name": "Людмила Фейгинова",
+        "original_name": "Людмила Фейгинова",
+        "popularity": 0.1457,
+        "profile_path": "/RKVyuvv5ZqGf9rjIkRWepJywcy.jpg",
+        "credit_id": "52fe42f3c3a36847f802f171",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8452,
+        "known_for_department": "Directing",
+        "name": "Andrei Tarkovsky",
+        "original_name": "Андрей Тарковский",
+        "popularity": 1.3224,
+        "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+        "credit_id": "52fe42f3c3a36847f802f143",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28082,
+        "known_for_department": "Camera",
+        "name": "Александр Княжинский",
+        "original_name": "Александр Княжинский",
+        "popularity": 0.1113,
+        "profile_path": "/hpk4rRd2EVVBc68LbncDqKBsZb3.jpg",
+        "credit_id": "52fe42f3c3a36847f802f16b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 28083,
+        "known_for_department": "Sound",
+        "name": "Раиса Лукина",
+        "original_name": "Раиса Лукина",
+        "popularity": 0.1669,
+        "profile_path": "/6dWApHm1Ul7apYoHEMJNn9MHwfk.jpg",
+        "credit_id": "52fe42f3c3a36847f802f177",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150634,
+        "known_for_department": "Writing",
+        "name": "Аркадий Стругацкий",
+        "original_name": "Аркадий Стругацкий",
+        "popularity": 0.2065,
+        "profile_path": "/dVqqW6CzTSTGnUUr9I74wOKhy9y.jpg",
+        "credit_id": "535189710e0a2655fe0018a8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092909,
+        "known_for_department": "Production",
+        "name": "Вилли Геллер",
+        "original_name": "Вилли Геллер",
+        "popularity": 0.1026,
+        "profile_path": null,
+        "credit_id": "61ae509baafebd009518a35a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794161,
+        "known_for_department": "Art",
+        "name": "Александр Бойм",
+        "original_name": "Александр Бойм",
+        "popularity": 0.2603,
+        "profile_path": "/9dG9TXrckyDeX5H1ezs1TDZ3izA.jpg",
+        "credit_id": "633becd6cf48a10082245dc2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1584743,
+        "known_for_department": "Directing",
+        "name": "Мария Чугунова",
+        "original_name": "Мария Чугунова",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "56d4ff55c3a3681e4a0155db",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584741,
+        "known_for_department": "Art",
+        "name": "Рашит Сафиуллин",
+        "original_name": "Рашит Сафиуллин",
+        "popularity": 0.0421,
+        "profile_path": null,
+        "credit_id": "56d4ff2a9251413932002315",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8471,
+        "known_for_department": "Acting",
+        "name": "Лариса Тарковская",
+        "original_name": "Лариса Тарковская",
+        "popularity": 0.2486,
+        "profile_path": null,
+        "credit_id": "56d4ff4dc3a3682cef004762",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8467,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Нелли Фомина",
+        "original_name": "Нелли Фомина",
+        "popularity": 0.1381,
+        "profile_path": "/hJ8WExzL6x3sVpq1H6cGNLHNit4.jpg",
+        "credit_id": "56d4ff33c3a3682cef004753",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584742,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Виталий Львов",
+        "original_name": "Виталий Львов",
+        "popularity": 0.1131,
+        "profile_path": null,
+        "credit_id": "56d4ff3ac3a3682cef004756",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584740,
+        "known_for_department": "Art",
+        "name": "Шавкат Абдусаламов",
+        "original_name": "Шавкат Абдусаламов",
+        "popularity": 0.2059,
+        "profile_path": null,
+        "credit_id": "56d4ff23c3a36870ac0024d1",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 591945,
+        "known_for_department": "Directing",
+        "name": "Евгений Цымбал",
+        "original_name": "Евгений Цымбал",
+        "popularity": 0.1695,
+        "profile_path": "/1cHODRwYLcRWatSG2JrOLGnAyvi.jpg",
+        "credit_id": "56d4ff459251410bd1003f5e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1086268,
+        "known_for_department": "Directing",
+        "name": "Arvo Iho",
+        "original_name": "Arvo Iho",
+        "popularity": 0.3705,
+        "profile_path": "/gexJWdQbtpMhwqXTAnp3MgG7ZU1.jpg",
+        "credit_id": "639c265f075288008c9692d1",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47917,
+        "known_for_department": "Camera",
+        "name": "Леонид Калашников",
+        "original_name": "Леонид Калашников",
+        "popularity": 0.1459,
+        "profile_path": "/A5ZqBnmMPvDjLMDRWDB0mNTnGTs.jpg",
+        "credit_id": "599a08739251414a21005ae4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8452,
+        "known_for_department": "Directing",
+        "name": "Andrei Tarkovsky",
+        "original_name": "Андрей Тарковский",
+        "popularity": 1.3224,
+        "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+        "credit_id": "599a08469251414a0d005c83",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1585388,
+        "known_for_department": "Art",
+        "name": "Aleksan",
+        "original_name": "Aleksan",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "credit_id": "599a08959251414a0600592f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8452,
+        "known_for_department": "Directing",
+        "name": "Andrei Tarkovsky",
+        "original_name": "Андрей Тарковский",
+        "popularity": 1.3224,
+        "profile_path": "/mytn9s5kc6CqzKZtbuJ73oA6ujy.jpg",
+        "credit_id": "599a089dc3a3683978005899",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584739,
+        "known_for_department": "Sound",
+        "name": "Владимир Шарун",
+        "original_name": "Владимир Шарун",
+        "popularity": 0.1525,
+        "profile_path": null,
+        "credit_id": "599a08be92514149cc005d6f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88782,
+        "known_for_department": "Directing",
+        "name": "Константин Лопушанский",
+        "original_name": "Константин Лопушанский",
+        "popularity": 0.1576,
+        "profile_path": "/znz4T3wzZP0Ayodh2lSwX4imPa3.jpg",
+        "credit_id": "6676c1f2f3bdd57b80bdea17",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560802,
+        "known_for_department": "Sound",
+        "name": "Эдуард Артемьев",
+        "original_name": "Эдуард Артемьев",
+        "popularity": 0.2297,
+        "profile_path": "/yFRPDiSJcYkNLBzDjlS6xdBmP7S.jpg",
+        "credit_id": "5afdb0b40e0a267ede000578",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2353458,
+        "known_for_department": "Crew",
+        "name": "Арсений Тарковский",
+        "original_name": "Арсений Тарковский",
+        "popularity": 0.2321,
+        "profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+        "credit_id": "6494c90ed236e6011e098ddd",
+        "department": "Crew",
+        "job": "Poem"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150635,
+        "known_for_department": "Writing",
+        "name": "Борис Стругацкий",
+        "original_name": "Борис Стругацкий",
+        "popularity": 0.3499,
+        "profile_path": "/oXXFL4yQuJaVPklkWlZwiDpCMCo.jpg",
+        "credit_id": "5babec64c3a3683aa202bab2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150635,
+        "known_for_department": "Writing",
+        "name": "Борис Стругацкий",
+        "original_name": "Борис Стругацкий",
+        "popularity": 0.3499,
+        "profile_path": "/oXXFL4yQuJaVPklkWlZwiDpCMCo.jpg",
+        "credit_id": "66feef07e84eeb35a0f7ebab",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150634,
+        "known_for_department": "Writing",
+        "name": "Аркадий Стругацкий",
+        "original_name": "Аркадий Стругацкий",
+        "popularity": 0.2065,
+        "profile_path": "/dVqqW6CzTSTGnUUr9I74wOKhy9y.jpg",
+        "credit_id": "66feef1c67c6fb09fff7e675",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2353458,
+        "known_for_department": "Crew",
+        "name": "Арсений Тарковский",
+        "original_name": "Арсений Тарковский",
+        "popularity": 0.2321,
+        "profile_path": "/2AsxBK9pa9TMkcVXrQtOr2qLYJ6.jpg",
+        "credit_id": "66feef3ac9a10d46ea7ca94a",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55518,
+        "known_for_department": "Camera",
+        "name": "Георгий Рерберг",
+        "original_name": "Георгий Рерберг",
+        "popularity": 0.3447,
+        "profile_path": "/9ausnjqac0MVwVMuPIkK6Edq5t9.jpg",
+        "credit_id": "6887500a7b01f1092616c688",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 5369,
+        "name": "guard"
+      },
+      {
+        "id": 4896,
+        "name": "wish"
+      },
+      {
+        "id": 6844,
+        "name": "stalker"
+      },
+      {
+        "id": 9951,
+        "name": "alien"
+      },
+      {
+        "id": 10128,
+        "name": "strugatsky"
+      },
+      {
+        "id": 13028,
+        "name": "writer"
+      },
+      {
+        "id": 13065,
+        "name": "soldier"
+      },
+      {
+        "id": 181324,
+        "name": "existentialism"
+      },
+      {
+        "id": 199047,
+        "name": "zone"
+      },
+      {
+        "id": 311138,
+        "name": "beautifully filmed"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ciclo grandes clásicos europeos",
+            "release_date": "2001-01-27T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-11-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Gent",
+            "release_date": "1980-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-12-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD CPC-UMES BR",
+            "release_date": "2010-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Projekt 100",
+            "release_date": "1999-04-15T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "1981-02-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "East Germany",
+            "release_date": "1981-05-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Das Erste",
+            "release_date": "1987-04-17T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CPH: PIX (Restored Version)",
+            "release_date": "2017-09-30T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-08-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-11-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-08-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival",
+            "release_date": "1980-05-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-11-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2009-09-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release (Restored Version)",
+            "release_date": "2016-06-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release (Restored Version)",
+            "release_date": "2017-07-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2005-03-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-04-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival (Digitally Restored Version)",
+            "release_date": "2016-09-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Trieste Science+Fiction Festival (Digitally Restored Version)",
+            "release_date": "2018-11-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Livorno",
+            "release_date": "1980-12-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "B",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinética Nacional ",
+            "release_date": "2018-08-03T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2002-10-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Architecture Film Festival Rotterdam",
+            "release_date": "2023-10-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-04-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Digitally Restored Version",
+            "release_date": "2018-10-04T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2016-08-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2011-01-11T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-04-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-03-11T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mosfilm Studio",
+            "release_date": "1979-05-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-05-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Montclair Film Festival (Digitally Restored Version)",
+            "release_date": "2017-04-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Digitally Restored Version",
+            "release_date": "2017-05-05T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Harvard Film Archive",
+            "release_date": "2014-01-17T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City, New York",
+            "release_date": "1982-10-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

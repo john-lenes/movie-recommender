@@ -1,0 +1,642 @@
+{
+  "adult": false,
+  "backdrop_path": "/vRgTxWUHK3MKDUr43CaxfCem4rS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 642121,
+  "imdb_id": "tt11193002",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "海辺のエトランゼ",
+  "overview": "Shun Hashimoto é um aspirante a romancista abertamente gay que vive em Okinawa e foi abandonado por seus pais depois de se assumir para eles. Mio Chibana é um estudante do ensino médio órfão e reservado, muitas vezes encontrado passando seu tempo à beira-mar. Um dia, os dois se encontram na praia, e Shun é instantaneamente cativado por Mio. Os dias voam enquanto eles lentamente começam a se aproximar até que Mio de repente anuncia que ele tem que partir para o continente.  Três anos se passam antes que Mio, de 20 anos, retorne a Okinawa para confessar seu amor a Shun. No entanto, nesses três anos, a vida de Shun mudou. Ele será capaz de aceitar os sentimentos de Mio e assumir tal compromisso?",
+  "popularity": 7.6879,
+  "poster_path": "/sicuN045m5DJmn2Kwdq3HlsMiS0.jpg",
+  "production_companies": [
+    {
+      "id": 78802,
+      "logo_path": "/1S4IJs06T5Twxq3qWdt4lAcIGbJ.png",
+      "name": "Studio Hibari",
+      "origin_country": "JP"
+    },
+    {
+      "id": 249175,
+      "logo_path": "/kAsLr1tqACZk9o8A3Lj52851oVw.png",
+      "name": "HALF H･P STUDIO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 192,
+      "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+      "name": "Shochiku",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3341,
+      "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+      "name": "Fuji Television Network",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2020-09-11",
+  "revenue": 0,
+  "runtime": 59,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Stranger by the Shore",
+  "video": false,
+  "vote_average": 7.931,
+  "vote_count": 153,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1325953,
+        "known_for_department": "Acting",
+        "name": "村田太志",
+        "original_name": "村田太志",
+        "popularity": 0.7471,
+        "profile_path": "/eVs2Ow2CyiFfoN02EUNyhmSYALE.jpg",
+        "cast_id": 6,
+        "character": "Shun Hashimoto (voice)",
+        "credit_id": "5e818723ce4ddc00137493d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233590,
+        "known_for_department": "Acting",
+        "name": "Yoshitsugu Matsuoka",
+        "original_name": "松岡禎丞",
+        "popularity": 3.063,
+        "profile_path": "/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg",
+        "cast_id": 5,
+        "character": "Mio Chibana (voice)",
+        "credit_id": "5e8186f50bc5290016f09132",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253896,
+        "known_for_department": "Acting",
+        "name": "Yu Shimamura",
+        "original_name": "嶋村侑",
+        "popularity": 0.8765,
+        "profile_path": "/uwfGYR10w70RLH8z00eqWIx5YOY.jpg",
+        "cast_id": 14,
+        "character": "Sakurako (voice)",
+        "credit_id": "5ee77d3aa217c0001fd5450c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1245089,
+        "known_for_department": "Acting",
+        "name": "Kanae Ito",
+        "original_name": "伊藤かな恵",
+        "popularity": 2.0781,
+        "profile_path": "/te4l0fzbfhtKWqNHPYdGZBXMmxt.jpg",
+        "cast_id": 15,
+        "character": "Eri (voice)",
+        "credit_id": "5f5261e3d705940031c86399",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1257112,
+        "known_for_department": "Acting",
+        "name": "仲谷明香",
+        "original_name": "仲谷明香",
+        "popularity": 0.4956,
+        "profile_path": "/oEYxyES8i4kWYDo0RxjoUGDtRso.jpg",
+        "cast_id": 16,
+        "character": "Suzu (voice)",
+        "credit_id": "5f52621dec18790036f8b85f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1717126,
+        "known_for_department": "Acting",
+        "name": "Hana Sato",
+        "original_name": "佐藤はな",
+        "popularity": 1.2522,
+        "profile_path": "/4npLYfxrVK5EwuipOvFKCXA0XmA.jpg",
+        "cast_id": 17,
+        "character": "Auntie (voice)",
+        "credit_id": "5f526239848eb900345bb368",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2933145,
+        "known_for_department": "Visual Effects",
+        "name": "ヘイン",
+        "original_name": "ヘイン",
+        "popularity": 0.2002,
+        "profile_path": null,
+        "credit_id": "620eb1a13f4833001c8b2052",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2584538,
+        "known_for_department": "Sound",
+        "name": "林淑恭",
+        "original_name": "林淑恭",
+        "popularity": 0.2544,
+        "profile_path": null,
+        "credit_id": "620eb204396e970042bf1c7b",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2167256,
+        "known_for_department": "Directing",
+        "name": "大橋明代",
+        "original_name": "大橋明代",
+        "popularity": 0.3434,
+        "profile_path": null,
+        "credit_id": "620ebe79e0ca7f006ac77fe1",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3493075,
+        "known_for_department": "Art",
+        "name": "空閑由美子",
+        "original_name": "空閑由美子",
+        "popularity": 0.264,
+        "profile_path": "/lEpJ2TDJsPenbEdTIfKiy6ChmbO.jpg",
+        "credit_id": "624b415ca3b5e6004fb6bc4b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1448740,
+        "known_for_department": "Visual Effects",
+        "name": "渡辺真由美",
+        "original_name": "渡辺真由美",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "6253fc19d8e22500506d55eb",
+        "department": "Visual Effects",
+        "job": "Supervising Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2440169,
+        "known_for_department": "Visual Effects",
+        "name": "紀伊カンナ",
+        "original_name": "紀伊カンナ",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "60af49378ee49c003fde3ff4",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2167256,
+        "known_for_department": "Directing",
+        "name": "大橋明代",
+        "original_name": "大橋明代",
+        "popularity": 0.3434,
+        "profile_path": null,
+        "credit_id": "60af496a30f79c0040bc2c23",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2167256,
+        "known_for_department": "Directing",
+        "name": "大橋明代",
+        "original_name": "大橋明代",
+        "popularity": 0.3434,
+        "profile_path": null,
+        "credit_id": "60bda546dbad5000299dd8d9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2440169,
+        "known_for_department": "Visual Effects",
+        "name": "紀伊カンナ",
+        "original_name": "紀伊カンナ",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "655fd8be24418200ad5d0b6d",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2584532,
+        "known_for_department": "Visual Effects",
+        "name": "柳澤久美子",
+        "original_name": "柳澤久美子",
+        "popularity": 0.2144,
+        "profile_path": null,
+        "credit_id": "5e82b54604b5960013924efa",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1845348,
+        "known_for_department": "Camera",
+        "name": "美濃部朋子",
+        "original_name": "美濃部朋子",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "5e82b56504b596001592540f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1630885,
+        "known_for_department": "Editing",
+        "name": "坂本雅紀",
+        "original_name": "坂本雅紀",
+        "popularity": 0.1674,
+        "profile_path": null,
+        "credit_id": "5e82b584cb6db50018b115eb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1491330,
+        "known_for_department": "Sound",
+        "name": "藤田亜紀子",
+        "original_name": "藤田亜紀子",
+        "popularity": 0.4458,
+        "profile_path": null,
+        "credit_id": "5e82b5b6cb6db50012b1173e",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 144665,
+        "known_for_department": "Sound",
+        "name": "森川永子",
+        "original_name": "森川永子",
+        "popularity": 0.4677,
+        "profile_path": null,
+        "credit_id": "5e82b6183344c600182ae719",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3964989,
+        "known_for_department": "Production",
+        "name": "御手洗絵里",
+        "original_name": "御手洗絵里",
+        "popularity": 0.1085,
+        "profile_path": null,
+        "credit_id": "67c8c95f0a00576143c2c4ed",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1831941,
+        "known_for_department": "Production",
+        "name": "飯塚寿雄",
+        "original_name": "飯塚寿雄",
+        "popularity": 0.2844,
+        "profile_path": "/2rjEiOkAV4OFnZFYSJGiVP3uCP1.jpg",
+        "credit_id": "67c8c9cf9264aa58666e52c9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1847507,
+        "known_for_department": "Production",
+        "name": "岡安由夏",
+        "original_name": "岡安由夏",
+        "popularity": 0.2527,
+        "profile_path": null,
+        "credit_id": "67c8c9dd9264aa58666e52da",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1898698,
+        "known_for_department": "Production",
+        "name": "村松裕基",
+        "original_name": "村松裕基",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "67c8c9ed395b736565e71b4b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3703909,
+        "known_for_department": "Production",
+        "name": "菅原花",
+        "original_name": "菅原花",
+        "popularity": 0.1069,
+        "profile_path": null,
+        "credit_id": "67c8c9f673b7f95da9c2b6b2",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2584538,
+        "known_for_department": "Sound",
+        "name": "林淑恭",
+        "original_name": "林淑恭",
+        "popularity": 0.2544,
+        "profile_path": null,
+        "credit_id": "67c8ca7b0c65ee9abae7248c",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1136047,
+        "known_for_department": "Sound",
+        "name": "窪田ミナ",
+        "original_name": "窪田ミナ",
+        "popularity": 0.459,
+        "profile_path": "/9l9OpfkuUbLSBk8kXS2dFk38jmt.jpg",
+        "credit_id": "67c8ca8a0c65ee9abae72491",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5762916,
+        "known_for_department": "Production",
+        "name": "中島茉莉花",
+        "original_name": "中島茉莉花",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "6900cc2971259089ce3c01f4",
+        "department": "Production",
+        "job": "Publicist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 128,
+        "name": "love triangle"
+      },
+      {
+        "id": 6733,
+        "name": "bullying"
+      },
+      {
+        "id": 8676,
+        "name": "okinawa"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 9914,
+        "name": "slice of life"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 156630,
+        "name": "remote island"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 244663,
+        "name": "time skip"
+      },
+      {
+        "id": 258533,
+        "name": "gay theme"
+      },
+      {
+        "id": 289844,
+        "name": "boys' love (bl)"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Crunchyroll",
+            "release_date": "2022-08-11T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-01-13T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Wakanim",
+            "release_date": "2021-07-09T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Crunchyroll",
+            "release_date": "2022-08-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "PG-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-09-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray & DVD",
+            "release_date": "2021-02-24T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-02-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-07-09T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Crunchyroll",
+            "release_date": "2022-08-11T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2023-01-24T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

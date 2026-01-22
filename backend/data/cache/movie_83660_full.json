@@ -1,0 +1,497 @@
+{
+  "adult": false,
+  "backdrop_path": "/lNfCPWJnFppNThDVZBcPgrsJBoS.jpg",
+  "belongs_to_collection": {
+    "id": 105629,
+    "name": "Paradise Lost Collection",
+    "poster_path": "/lj7rDHdscgcYjYOzGk2WchDcIjz.jpg",
+    "backdrop_path": "/vEejyJqJvi429uGJ7uMJ9Wr1N2V.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 83660,
+  "imdb_id": "tt2028530",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Paradise Lost 3: Purgatory",
+  "overview": "Documentário conta a história de três jovens condenados por um crime que não cometeram e a luta para provar que a Justiça também pode errar.",
+  "popularity": 4.4789,
+  "poster_path": "/5Ix8SvMu5MllsXLtD0dvZR0vDi2.jpg",
+  "production_companies": [
+    {
+      "id": 14914,
+      "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-10-13",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Paraíso Perdido 3: Purgatório",
+  "video": false,
+  "vote_average": 7.366,
+  "vote_count": 142,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81448,
+        "known_for_department": "Acting",
+        "name": "Jason Baldwin",
+        "original_name": "Jason Baldwin",
+        "popularity": 0.29,
+        "profile_path": "/nNGfY9ViDR7kmA8x5CcCTXGnmmo.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c91095297",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81449,
+        "known_for_department": "Acting",
+        "name": "Damien Echols",
+        "original_name": "Damien Echols",
+        "popularity": 0.3363,
+        "profile_path": "/hYkUq0l4SMJ5TGgDe4kZwhiiaq7.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c9109529b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81447,
+        "known_for_department": "Acting",
+        "name": "Jessie Misskelley Jr.",
+        "original_name": "Jessie Misskelley Jr.",
+        "popularity": 0.1494,
+        "profile_path": "/yHPWyD53DhA4GlEivXO8HrYBy9N.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c9109529f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81454,
+        "known_for_department": "Acting",
+        "name": "John Mark Byers",
+        "original_name": "John Mark Byers",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c910952c1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1130242,
+        "known_for_department": "Acting",
+        "name": "Gary Gitchell",
+        "original_name": "Gary Gitchell",
+        "popularity": 0.049,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c910952c5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 196874,
+        "known_for_department": "Acting",
+        "name": "Terry Hobbs",
+        "original_name": "Terry Hobbs",
+        "popularity": 0.0672,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c910952c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1069641,
+        "known_for_department": "Acting",
+        "name": "Lorri Davis",
+        "original_name": "Lorri Davis",
+        "popularity": 0.0771,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c910952cd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1130243,
+        "known_for_department": "Acting",
+        "name": "Don Horgan",
+        "original_name": "Don Horgan",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "52fe48b19251416c910952d1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85,
+        "known_for_department": "Acting",
+        "name": "Johnny Depp",
+        "original_name": "Johnny Depp",
+        "popularity": 6.3896,
+        "profile_path": "/drl9qDZoxPHhUbDamYcOQEhlHzW.jpg",
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "5c769d490e0a260b521d7aad",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69238,
+        "known_for_department": "Directing",
+        "name": "Bruce Sinofsky",
+        "original_name": "Bruce Sinofsky",
+        "popularity": 0.2361,
+        "profile_path": "/1q3XNj3QSLgthnmZKX8lXIhyxIB.jpg",
+        "credit_id": "52fe48b19251416c910952b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 984625,
+        "known_for_department": "Production",
+        "name": "Jonathan Silberberg",
+        "original_name": "Jonathan Silberberg",
+        "popularity": 0.2069,
+        "profile_path": null,
+        "credit_id": "52fe48b19251416c910952ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69238,
+        "known_for_department": "Directing",
+        "name": "Bruce Sinofsky",
+        "original_name": "Bruce Sinofsky",
+        "popularity": 0.2361,
+        "profile_path": "/1q3XNj3QSLgthnmZKX8lXIhyxIB.jpg",
+        "credit_id": "52fe48b19251416c91095293",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69246,
+        "known_for_department": "Camera",
+        "name": "Robert Richman",
+        "original_name": "Robert Richman",
+        "popularity": 0.1471,
+        "profile_path": null,
+        "credit_id": "52fe48b19251416c910952bd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 545376,
+        "known_for_department": "Sound",
+        "name": "Wendy Blackstone",
+        "original_name": "Wendy Blackstone",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "52fe48b19251416c910952b7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69237,
+        "known_for_department": "Directing",
+        "name": "Joe Berlinger",
+        "original_name": "Joe Berlinger",
+        "popularity": 0.4048,
+        "profile_path": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg",
+        "credit_id": "52fe48b19251416c910952a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69237,
+        "known_for_department": "Directing",
+        "name": "Joe Berlinger",
+        "original_name": "Joe Berlinger",
+        "popularity": 0.4048,
+        "profile_path": "/yvCTSlShNLmaq9NNlFKpFOLrVeJ.jpg",
+        "credit_id": "52fe48b19251416c9109528d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928952,
+        "known_for_department": "Sound",
+        "name": "Eric Milano",
+        "original_name": "Eric Milano",
+        "popularity": 0.2839,
+        "profile_path": null,
+        "credit_id": "68753cf2528b9f61f18e4d10",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2501,
+        "name": "death row"
+      },
+      {
+        "id": 2562,
+        "name": "press conference"
+      },
+      {
+        "id": 5521,
+        "name": "arkansas"
+      },
+      {
+        "id": 10909,
+        "name": "lawyer"
+      },
+      {
+        "id": 161982,
+        "name": "murder investigation"
+      },
+      {
+        "id": 326293,
+        "name": "forensic evidence"
+      },
+      {
+        "id": 326294,
+        "name": "legal appeal"
+      },
+      {
+        "id": 332771,
+        "name": "west memphis three"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-10-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2011-09-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Munich Film Festival",
+            "release_date": "2012-07-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-03-01T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Thessaloniki Documentary Festival",
+            "release_date": "2012-03-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-12-20T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "IDFA Festival",
+            "release_date": "2011-11-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 2",
+            "release_date": "2012-11-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Oslo International Film Festival",
+            "release_date": "2011-11-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Watch Docs Film Festival",
+            "release_date": "2014-12-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-12-11T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Film Festival",
+            "release_date": "2011-10-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-10-13T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

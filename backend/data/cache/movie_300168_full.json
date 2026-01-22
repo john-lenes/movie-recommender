@@ -1,0 +1,1194 @@
+{
+  "adult": false,
+  "backdrop_path": "/rnNkUJlo03a8D0utxiOrADstaMT.jpg",
+  "belongs_to_collection": null,
+  "budget": 65000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 36,
+      "name": "História"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "",
+  "id": 300168,
+  "imdb_id": "tt3672840",
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "天將雄師",
+  "overview": "No ano 48 a.C., o general romano Lucius foge com seu pelotão e o herdeiro do Cônsul Romano, Publius, para escapar do imperador Tiberius que deseja tomar o trono e matar Publius. Em um forte na fronteira da Rota da Seda, o grupo conhece o huno Huo An que é responsável por proteger o local. Quando descobre que o imperador está à caminho, Huo An recruta um exército e se une aos romanos em uma épica batalha.",
+  "popularity": 6.8,
+  "poster_path": "/h7eFL7CZh0ejPNic6QPxxpVbOfv.jpg",
+  "production_companies": [
+    {
+      "id": 74459,
+      "logo_path": null,
+      "name": "Visualizer Film Company",
+      "origin_country": ""
+    },
+    {
+      "id": 3407,
+      "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+      "name": "Shanghai Film Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 19658,
+      "logo_path": null,
+      "name": "Jackie & JJ Productions",
+      "origin_country": "HK"
+    },
+    {
+      "id": 36958,
+      "logo_path": null,
+      "name": "Sparkle Roll Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 69484,
+      "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+      "name": "Alibaba Pictures Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 74456,
+      "logo_path": null,
+      "name": "Home Media & Entertainment Fund",
+      "origin_country": ""
+    },
+    {
+      "id": 74457,
+      "logo_path": "/mPsCbXC5k20bpKErrbOQd1fG0L7.png",
+      "name": "Tencent Video",
+      "origin_country": "CN"
+    },
+    {
+      "id": 74458,
+      "logo_path": null,
+      "name": "China Film & TV Capital",
+      "origin_country": ""
+    },
+    {
+      "id": 3393,
+      "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+      "name": "Huayi Brothers Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2015-02-19",
+  "revenue": 121545703,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Quando a Águia encontra o Dragão",
+  "title": "Batalha dos Impérios",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 612,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 19.2501,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "cast_id": 2,
+        "character": "Huo Han",
+        "credit_id": "54535dcb0e0a2648d6000e95",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3036,
+        "known_for_department": "Acting",
+        "name": "John Cusack",
+        "original_name": "John Cusack",
+        "popularity": 2.7771,
+        "profile_path": "/aCwCx6JU7Jxbg6Q1ygcnLY750le.jpg",
+        "cast_id": 0,
+        "character": "Lucius",
+        "credit_id": "54535db6c3a368148d000ef9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3490,
+        "known_for_department": "Acting",
+        "name": "Adrien Brody",
+        "original_name": "Adrien Brody",
+        "popularity": 3.4097,
+        "profile_path": "/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg",
+        "cast_id": 1,
+        "character": "Tiberius",
+        "credit_id": "54535dc0c3a368147c000e65",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 138010,
+        "known_for_department": "Acting",
+        "name": "Sharni Vinson",
+        "original_name": "Sharni Vinson",
+        "popularity": 0.7824,
+        "profile_path": "/vy5c6P2S3kOA9iDg8OOagWo850t.jpg",
+        "cast_id": 3,
+        "character": "The Queen",
+        "credit_id": "54535dd60e0a2648c8000edb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17991,
+        "known_for_department": "Acting",
+        "name": "Kevin Lee",
+        "original_name": "Kevin Lee",
+        "popularity": 0.3933,
+        "profile_path": "/569jeEGzXEdoTBJww26IpcmQ1uR.jpg",
+        "cast_id": 5,
+        "character": "Roman Soldier",
+        "credit_id": "54535dfd0e0a2648d9000ef4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1298706,
+        "known_for_department": "Acting",
+        "name": "Robert Peoples",
+        "original_name": "Robert Peoples",
+        "popularity": 0.3518,
+        "profile_path": "/ueeeZ5R9bcCBzIG0mf5A9bkb6O3.jpg",
+        "cast_id": 6,
+        "character": "Roman Soldier",
+        "credit_id": "54535e090e0a2648c2000f56",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1358975,
+        "known_for_department": "Acting",
+        "name": "Tomer Oz",
+        "original_name": "Tomer Oz",
+        "popularity": 0.3157,
+        "profile_path": "/9y3grtvYq8JMpzawlBAzs4rTsSA.jpg",
+        "cast_id": 7,
+        "character": "Huo An General",
+        "credit_id": "54535e18c3a368148d000f03",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1110537,
+        "known_for_department": "Acting",
+        "name": "Alfred Hsing",
+        "original_name": "Alfred Hsing",
+        "popularity": 0.3298,
+        "profile_path": "/b1cXnVypaxUzj7bq7GpyNAE6rCt.jpg",
+        "cast_id": 8,
+        "character": "Han Soldier",
+        "credit_id": "54535e27c3a368147c000e73",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1358974,
+        "known_for_department": "Acting",
+        "name": "Max Huang",
+        "original_name": "Max Huang",
+        "popularity": 0.4665,
+        "profile_path": "/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg",
+        "cast_id": 11,
+        "character": "Shou Xia",
+        "credit_id": "54535e540e0a2648d9000efe",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2602681,
+        "known_for_department": "Acting",
+        "name": "洪天照",
+        "original_name": "洪天照",
+        "popularity": 0.9679,
+        "profile_path": "/rf2o9Z3HM6vyO4VufwRYz71KvkX.jpg",
+        "cast_id": 60,
+        "character": "Red Sun",
+        "credit_id": "63e25f4dc8a2d400ab2ba254",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1102423,
+        "known_for_department": "Acting",
+        "name": "Paul Philip Clark",
+        "original_name": "Paul Philip Clark",
+        "popularity": 0.3414,
+        "profile_path": "/nXpD3UvpCBsfmFVOZRgrKEBOUAa.jpg",
+        "cast_id": 12,
+        "character": "General Doramis",
+        "credit_id": "54535e64c3a3681488001019",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1379939,
+        "known_for_department": "Acting",
+        "name": "Lorie Pester",
+        "original_name": "Lorie Pester",
+        "popularity": 0.7065,
+        "profile_path": "/rojuzjvu695rwALgkyL6MU7ugay.jpg",
+        "cast_id": 13,
+        "character": "Persian Queen",
+        "credit_id": "54535e750e0a2648c8000eee",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379940,
+        "known_for_department": "Crew",
+        "name": "Joel Adrian",
+        "original_name": "Joel Adrian",
+        "popularity": 0.4736,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "General Statius",
+        "credit_id": "54535e890e0a2648cf000ed4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379940,
+        "known_for_department": "Crew",
+        "name": "Joel Adrian",
+        "original_name": "Joel Adrian",
+        "popularity": 0.4736,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "General Sertor",
+        "credit_id": "54535ea40e0a2648c5000ee7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379941,
+        "known_for_department": "Acting",
+        "name": "Harry Oram",
+        "original_name": "Harry Oram",
+        "popularity": 0.2066,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "General Statius",
+        "credit_id": "54535eb30e0a2648c5000eee",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379942,
+        "known_for_department": "Acting",
+        "name": "Kyle Shapiro",
+        "original_name": "Kyle Shapiro",
+        "popularity": 0.3568,
+        "profile_path": "/5LlX1DyMuJxGfWU5T6V5Smm28AL.jpg",
+        "cast_id": 17,
+        "character": "Roman Captain",
+        "credit_id": "54535ebe0e0a2648d9000f0c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379943,
+        "known_for_department": "Acting",
+        "name": "Jonathan Paulson",
+        "original_name": "Jonathan Paulson",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Roman Soldier",
+        "credit_id": "54535ecc0e0a2648d9000f12",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379944,
+        "known_for_department": "Acting",
+        "name": "Vander McLeod",
+        "original_name": "Vander McLeod",
+        "popularity": 0.5319,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Scar Face Centurion",
+        "credit_id": "54535edbc3a3681480000f22",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379945,
+        "known_for_department": "Acting",
+        "name": "Philippe Joly",
+        "original_name": "Philippe Joly",
+        "popularity": 0.4889,
+        "profile_path": "/bnm6kVfTmAn0p4igz3X7pFnnFSE.jpg",
+        "cast_id": 20,
+        "character": "Lucius' deputy Paullus",
+        "credit_id": "54535ef40e0a2648c2000f75",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355273,
+        "known_for_department": "Acting",
+        "name": "Faith Ugurlu",
+        "original_name": "Faith Ugurlu",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Roman General",
+        "credit_id": "54535f020e0a2648c5000efe",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379946,
+        "known_for_department": "Acting",
+        "name": "Danny Salay",
+        "original_name": "Danny Salay",
+        "popularity": 0.0598,
+        "profile_path": "/7b6Fmc5BaHw2PtMA7iguqh5U8Kh.jpg",
+        "cast_id": 22,
+        "character": "Roman General",
+        "credit_id": "54535f0f0e0a2648cf000ee5",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1102422,
+        "known_for_department": "Acting",
+        "name": "Pierre Bourdaud",
+        "original_name": "Pierre Bourdaud",
+        "popularity": 0.3408,
+        "profile_path": "/ipyYBewPm5FWgfr4Rax6aX9x5gx.jpg",
+        "cast_id": 23,
+        "character": "Roman Soldier",
+        "credit_id": "54535f1dc3a3681473000ec1",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222881,
+        "known_for_department": "Acting",
+        "name": "Jai Day",
+        "original_name": "Jai Day",
+        "popularity": 0.2988,
+        "profile_path": "/n5HebMiaMU05RJXrEB4Rsp4snAe.jpg",
+        "cast_id": 24,
+        "character": "Deputy Gaius",
+        "credit_id": "54535f300e0a2648c8000f02",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276625,
+        "known_for_department": "Acting",
+        "name": "Murray Clive Walker",
+        "original_name": "Murray Clive Walker",
+        "popularity": 0.1673,
+        "profile_path": "/qp5QH7tCbI2wRKHJgO34LVNbHTy.jpg",
+        "cast_id": 25,
+        "character": "Patrick",
+        "credit_id": "54535f40c3a3681473000ec8",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379948,
+        "known_for_department": "Acting",
+        "name": "Emrah Yilmaz",
+        "original_name": "Emrah Yilmaz",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Kroraina",
+        "credit_id": "54535f4d0e0a2648c8000f06",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 576170,
+        "known_for_department": "Acting",
+        "name": "Danny Cameron",
+        "original_name": "Danny Cameron",
+        "popularity": 0.1066,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Roman Soldier",
+        "credit_id": "54535f570e0a2648c5000f09",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1171057,
+        "known_for_department": "Acting",
+        "name": "Kyle Cameron",
+        "original_name": "Kyle Cameron",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Roman Soldier",
+        "credit_id": "54535f610e0a2648c5000f0c",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379949,
+        "known_for_department": "Acting",
+        "name": "Kyle Andrew MacNeil",
+        "original_name": "Kyle Andrew MacNeil",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Roman Soldier",
+        "credit_id": "54535f7fc3a3681484000f4d",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379950,
+        "known_for_department": "Acting",
+        "name": "Daniel P. Cameron",
+        "original_name": "Daniel P. Cameron",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Ruthless Roman Soldier",
+        "credit_id": "54535f8e0e0a2648d9000f2e",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379951,
+        "known_for_department": "Acting",
+        "name": "Miroslav Karel",
+        "original_name": "Miroslav Karel",
+        "popularity": 0.1829,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Roman Soldier",
+        "credit_id": "54535f9dc3a368146f000e9a",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379952,
+        "known_for_department": "Acting",
+        "name": "J.J. Demiannay",
+        "original_name": "J.J. Demiannay",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Roman Soldier",
+        "credit_id": "54535faa0e0a2648c8000f13",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379953,
+        "known_for_department": "Acting",
+        "name": "Alexander Corne",
+        "original_name": "Alexander Corne",
+        "popularity": 0.3464,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Roman Soldier",
+        "credit_id": "54535fb60e0a2648cf000efe",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379954,
+        "known_for_department": "Acting",
+        "name": "James Lee Guy",
+        "original_name": "James Lee Guy",
+        "popularity": 0.2716,
+        "profile_path": "/fEUkmT40Kux8rz8fuxTtXRz9K8J.jpg",
+        "cast_id": 34,
+        "character": "Eugene",
+        "credit_id": "54535fc30e0a2648d9000f36",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379955,
+        "known_for_department": "Acting",
+        "name": "Will Lefebvre",
+        "original_name": "Will Lefebvre",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Roman Soldier",
+        "credit_id": "54535fd10e0a2648c2000f93",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113789,
+        "known_for_department": "Acting",
+        "name": "林鹏",
+        "original_name": "林鹏",
+        "popularity": 0.4941,
+        "profile_path": "/gqP0iVIn5k4MGw6vI521qfk21vF.jpg",
+        "cast_id": 43,
+        "character": "Cold Moon",
+        "credit_id": "559aa3b792514155d6003c98",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113788,
+        "known_for_department": "Acting",
+        "name": "유승준",
+        "original_name": "유승준",
+        "popularity": 0.7996,
+        "profile_path": "/6MTahGpEIdD4u8ACcJsWr7fyJE2.jpg",
+        "cast_id": 48,
+        "character": "Cougar",
+        "credit_id": "5743cb9ec3a3685c45000f4f",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77318,
+        "known_for_department": "Acting",
+        "name": "Choi Si Won",
+        "original_name": "최시원",
+        "popularity": 0.93,
+        "profile_path": "/9NWbnMRKDa6HV2OeoNw0wTeyl6t.jpg",
+        "cast_id": 49,
+        "character": "Yin Po",
+        "credit_id": "5a7884480e0a2659850151f4",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2141,
+        "known_for_department": "Acting",
+        "name": "Ned Bellamy",
+        "original_name": "Ned Bellamy",
+        "popularity": 1.0466,
+        "profile_path": "/9qj6thu0g6iUc2hvfoEYlO4GSbY.jpg",
+        "cast_id": 50,
+        "character": "Octavius",
+        "credit_id": "5a78847492514177660124f4",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115293,
+        "known_for_department": "Acting",
+        "name": "Jozef Waite",
+        "original_name": "Jozef Waite",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Publius",
+        "credit_id": "5b81f103c3a3686551019c5b",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234990,
+        "known_for_department": "Acting",
+        "name": "Brahim Achabbakhe",
+        "original_name": "Brahim Achabbakhe",
+        "popularity": 0.5453,
+        "profile_path": "/vmvgvldLCBOPASWJbrWcEcvDrAZ.jpg",
+        "cast_id": 56,
+        "character": "Titus",
+        "credit_id": "606ee5b1cd2046006f3530b8",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87841,
+        "known_for_department": "Acting",
+        "name": "Benny Urquidez",
+        "original_name": "Benny Urquidez",
+        "popularity": 1.4302,
+        "profile_path": "/bCzckCiAvKvnI0yVD6vkqVObsa8.jpg",
+        "cast_id": 4,
+        "character": "Extra (uncredited)",
+        "credit_id": "54535ddec3a3681478000e8b",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3148944,
+        "known_for_department": "Acting",
+        "name": "Mohetaer",
+        "original_name": "Mohetaer",
+        "popularity": 0.3695,
+        "profile_path": "/oOsTWYSWb2RwNrcmvvzrms6lPm3.jpg",
+        "cast_id": 57,
+        "character": "Extra (uncredited)",
+        "credit_id": "60e58c6d6ee3d70046c334cf",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379938,
+        "known_for_department": "Acting",
+        "name": "Temur Mamisashvili",
+        "original_name": "Temur Mamisashvili",
+        "popularity": 0.5999,
+        "profile_path": "/9gBUlvH0q2IhW3zqkEk5Vbao4Qf.jpg",
+        "cast_id": 58,
+        "character": "Roman Soldier (uncredited)",
+        "credit_id": "61f6b97459e8a900c3a521a7",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2595100,
+        "known_for_department": "Acting",
+        "name": "Li Zhenqi",
+        "original_name": "Li Zhenqi",
+        "popularity": 0.2427,
+        "profile_path": "/hMap5WCLR823uuOfjggppYs5T4d.jpg",
+        "cast_id": 59,
+        "character": "",
+        "credit_id": "6242f9f00f3655004a1273ed",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 126345,
+        "known_for_department": "Acting",
+        "name": "林嘉欣",
+        "original_name": "林嘉欣",
+        "popularity": 1.1688,
+        "profile_path": "/vAVVDVf9NZC88rnRRFg0FqayXEH.jpg",
+        "cast_id": 61,
+        "character": "",
+        "credit_id": "64609ac8a67254018587eca7",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83633,
+        "known_for_department": "Acting",
+        "name": "吳建豪",
+        "original_name": "吳建豪",
+        "popularity": 1.4839,
+        "profile_path": "/9dwsdvRcMnXzCO3Oj0zQNnBEZH4.jpg",
+        "cast_id": 62,
+        "character": "",
+        "credit_id": "65d52dd10e4fc8016383fbfa",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3212989,
+        "known_for_department": "Acting",
+        "name": "Mika Wang",
+        "original_name": "Mika Wang",
+        "popularity": 0.348,
+        "profile_path": "/kDqb4Kfq7ObS5Ia3z8IL2EXVjpR.jpg",
+        "cast_id": 64,
+        "character": "Xiu Qing",
+        "credit_id": "684f930ae9853a7c1ebb535f",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5818347,
+        "known_for_department": "Acting",
+        "name": "苏杭",
+        "original_name": "苏杭",
+        "popularity": 0.0899,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Mongolian Warrior",
+        "credit_id": "694fb6f91bcaa8f889073301",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5890509,
+        "known_for_department": "Acting",
+        "name": "Scotty Cox",
+        "original_name": "Scotty Cox",
+        "popularity": 0.0673,
+        "profile_path": "/peqOkp4VQsRR2MPYrgZbCUWw591.jpg",
+        "cast_id": 66,
+        "character": "Falco",
+        "credit_id": "696b7142e131550d637f98c4",
+        "order": 48
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234990,
+        "known_for_department": "Acting",
+        "name": "Brahim Achabbakhe",
+        "original_name": "Brahim Achabbakhe",
+        "popularity": 0.5453,
+        "profile_path": "/vmvgvldLCBOPASWJbrWcEcvDrAZ.jpg",
+        "credit_id": "606ee5a268929c0079763d6c",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 936441,
+        "known_for_department": "Production",
+        "name": "Susanna Tsang Pui-San",
+        "original_name": "曾珮珊",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "credit_id": "5453677cc3a368146f000f99",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140487,
+        "known_for_department": "Sound",
+        "name": "黎允文",
+        "original_name": "黎允文",
+        "popularity": 0.4703,
+        "profile_path": "/vsogG39U6bd8tELGHX60otKZTqT.jpg",
+        "credit_id": "545367b60e0a2648c8001027",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379982,
+        "known_for_department": "Art",
+        "name": "Jia Neng Huang",
+        "original_name": "Jia Neng Huang",
+        "popularity": 0.0584,
+        "profile_path": null,
+        "credit_id": "545367cfc3a3681484001043",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 19.2501,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "credit_id": "54536744c3a368148d00103d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57832,
+        "known_for_department": "Directing",
+        "name": "李仁港",
+        "original_name": "李仁港",
+        "popularity": 0.4514,
+        "profile_path": "/krh7BlbDEov6T1EC7eoBJGAm5dw.jpg",
+        "credit_id": "545367150e0a2648c2001080",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57832,
+        "known_for_department": "Directing",
+        "name": "李仁港",
+        "original_name": "李仁港",
+        "popularity": 0.4514,
+        "profile_path": "/krh7BlbDEov6T1EC7eoBJGAm5dw.jpg",
+        "credit_id": "54b42b0192514174720070a7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1593246,
+        "known_for_department": "Camera",
+        "name": "Tony Cheng",
+        "original_name": "Tony Cheng",
+        "popularity": 0.1157,
+        "profile_path": null,
+        "credit_id": "56ee83709251412f260035f5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593248,
+        "known_for_department": "Visual Effects",
+        "name": "Charles Chao-Hua Lee",
+        "original_name": "Charles Chao-Hua Lee",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "credit_id": "56ee84969251415d06000825",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593249,
+        "known_for_department": "Crew",
+        "name": "何钧",
+        "original_name": "何钧",
+        "popularity": 0.3588,
+        "profile_path": null,
+        "credit_id": "56ee84c09251415d0600083e",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1593247,
+        "known_for_department": "Sound",
+        "name": "Phyllis Cheng",
+        "original_name": "Phyllis Cheng",
+        "popularity": 0.1483,
+        "profile_path": null,
+        "credit_id": "56ee84789251412b33003595",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2773912,
+        "known_for_department": "Production",
+        "name": "Sunny Sun",
+        "original_name": "Sunny Sun",
+        "popularity": 0.2819,
+        "profile_path": null,
+        "credit_id": "5f5bd3c3cfe48f0039cf8de7",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2773902,
+        "known_for_department": "Production",
+        "name": "Zhao Lei",
+        "original_name": "Zhao Lei",
+        "popularity": 0.1727,
+        "profile_path": null,
+        "credit_id": "5f5bcf0e7314a10034dc1638",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2773902,
+        "known_for_department": "Production",
+        "name": "Zhao Lei",
+        "original_name": "Zhao Lei",
+        "popularity": 0.1727,
+        "profile_path": null,
+        "credit_id": "5f5bcf21629b2c0038c5ce73",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1358974,
+        "known_for_department": "Acting",
+        "name": "Max Huang",
+        "original_name": "Max Huang",
+        "popularity": 0.4665,
+        "profile_path": "/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg",
+        "credit_id": "67abd9e109b8551a04b0ba3c",
+        "department": "Crew",
+        "job": "Stunts"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-02-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "15+",
+            "descriptors": [],
+            "iso_639_1": "cs",
+            "note": "",
+            "release_date": "2016-04-13T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2015-12-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-12-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-12-04T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Ciné+ Frisson",
+            "release_date": "2025-11-27T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2016-03-14T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2016-05-17T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "PG12",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "2016-02-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-03-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu ray",
+            "release_date": "2015-12-10T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-ray release",
+            "release_date": "2017-05-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

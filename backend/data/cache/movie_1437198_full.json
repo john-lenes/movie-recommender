@@ -1,0 +1,507 @@
+{
+  "adult": false,
+  "backdrop_path": "/lboPYPg7fj4YltvOWmj4sShnweh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    }
+  ],
+  "homepage": "",
+  "id": 1437198,
+  "imdb_id": "tt9612976",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Tafiti - Ab durch die Wüste",
+  "overview": "",
+  "popularity": 6.9864,
+  "poster_path": "/lLJgzLhKjUjGVIfY6MTyCJQzD9t.jpg",
+  "production_companies": [
+    {
+      "id": 90695,
+      "logo_path": "/fLsRino2YfQ0LwYjbYrbFsUMZCe.png",
+      "name": "Little Dream Entertainment",
+      "origin_country": "DE"
+    },
+    {
+      "id": 260666,
+      "logo_path": null,
+      "name": "Red Parrot Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 4589,
+      "logo_path": "/KSdQ5qXyrYio755x6beTmzRiUu.png",
+      "name": "Tradewind Pictures",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 1367522,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tafiti - Ab durch die Wüste",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1324043,
+        "known_for_department": "Acting",
+        "name": "Cosima Henman",
+        "original_name": "Cosima Henman",
+        "popularity": 0.8848,
+        "profile_path": "/3idZ7c2uNN6wiqdA8QuLUq6oK4k.jpg",
+        "cast_id": 6,
+        "character": "Tafiti (voice)",
+        "credit_id": "68e40ff8e1736b9e9d9cb0e5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5885185,
+        "known_for_department": "Acting",
+        "name": "Steve Hudson",
+        "original_name": "Steve Hudson",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Bristles(voice)",
+        "credit_id": "694438675eca7d060036aa9a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120687,
+        "known_for_department": "Acting",
+        "name": "Bürger Lars Dietrich",
+        "original_name": "Bürger Lars Dietrich",
+        "popularity": 0.3188,
+        "profile_path": "/dK7iAQkWk2MQr1NbWPdCkHFspGg.jpg",
+        "cast_id": 7,
+        "character": "Pinsel (voice)",
+        "credit_id": "68e41026039d42b270bd9d34",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672534,
+        "known_for_department": "Acting",
+        "name": "Thomas Schmuckert",
+        "original_name": "Thomas Schmuckert",
+        "popularity": 0.2442,
+        "profile_path": "/gvLiykB3DKWNUDLWlveUIn1hgyC.jpg",
+        "cast_id": 8,
+        "character": "Opa (voice)",
+        "credit_id": "68e4103dd810a6b46fbd9b17",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2209501,
+        "known_for_department": "Acting",
+        "name": "Dela Dabulamanzi",
+        "original_name": "Dela Dabulamanzi",
+        "popularity": 0.3548,
+        "profile_path": "/bMft4GCc7wuZy6J541WriyQRhmv.jpg",
+        "cast_id": 9,
+        "character": "Oma (voice)",
+        "credit_id": "68e41063e1736b9e9d9cb0ec",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1538091,
+        "known_for_department": "Acting",
+        "name": "Simon Werner",
+        "original_name": "Simon Werner",
+        "popularity": 0.1546,
+        "profile_path": "/4zcvVYM0r9NQCW66VuOdgN1VPCX.jpg",
+        "cast_id": 10,
+        "character": "Adler (voice)",
+        "credit_id": "68e41083d810a6b46fbd9b20",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24066,
+        "known_for_department": "Acting",
+        "name": "Dustin Semmelrogge",
+        "original_name": "Dustin Semmelrogge",
+        "popularity": 0.2278,
+        "profile_path": "/of9VQj2ouLYR1nPOH3lOLerNbXT.jpg",
+        "cast_id": 11,
+        "character": "Baba (voice)",
+        "credit_id": "68e41099f2f33241f6bd9b76",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1813606,
+        "known_for_department": "Acting",
+        "name": "Simone Cohn-Vossen",
+        "original_name": "Simone Cohn-Vossen",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Tutu/Pelikan Baby/Käfer (voice)",
+        "credit_id": "68e410cadd68fcfd46f82020",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1344237,
+        "known_for_department": "Acting",
+        "name": "Cathlen Gawlich",
+        "original_name": "Cathlen Gawlich",
+        "popularity": 0.1876,
+        "profile_path": "/fOClMUvd8LwzKqQUFaFjkGSlffO.jpg",
+        "cast_id": 13,
+        "character": "Pelikan Mama / Elefantin / Eidechse   (voice)",
+        "credit_id": "68e410fd28db88a8ea961b70",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1822394,
+        "known_for_department": "Acting",
+        "name": "Thorsten Giese",
+        "original_name": "Thorsten Giese",
+        "popularity": 0.0327,
+        "profile_path": "/b8HSsVoGvQHN1biBkZuOiZiWpER.jpg",
+        "cast_id": 14,
+        "character": "Käfer (voice)",
+        "credit_id": "68e41139d810a6b46fbd9b29",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1206119,
+        "known_for_department": "Directing",
+        "name": "Nina Wels",
+        "original_name": "Nina Wels",
+        "popularity": 0.1367,
+        "profile_path": null,
+        "credit_id": "680fb6e0a90acaf6eeeae319",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5402786,
+        "known_for_department": "Writing",
+        "name": "Julia Boehme",
+        "original_name": "Julia Boehme",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "680fb6e9ba241d8aea81106c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134022,
+        "known_for_department": "Writing",
+        "name": "Nicholas Hause",
+        "original_name": "Nicholas Hause",
+        "popularity": 0.201,
+        "profile_path": null,
+        "credit_id": "680fb6f0a90acaf6eeeae32b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39913,
+        "known_for_department": "Sound",
+        "name": "Carsten Rocker",
+        "original_name": "Carsten Rocker",
+        "popularity": 0.1141,
+        "profile_path": null,
+        "credit_id": "68e1e8f9f5912f69589ca8f6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 18153,
+        "name": "meerkat"
+      },
+      {
+        "id": 167982,
+        "name": "unlikely friendship"
+      },
+      {
+        "id": 315709,
+        "name": "jungle adventure"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "AA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmfest München",
+            "release_date": "2025-06-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "lv",
+            "note": "",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

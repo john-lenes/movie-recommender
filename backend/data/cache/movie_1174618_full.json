@@ -1,0 +1,435 @@
+{
+  "adult": false,
+  "backdrop_path": "/xKJTWGvheOMMlTHgrjN18KaD9Ra.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1174618,
+  "imdb_id": "tt22398528",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Alice in Terrorland",
+  "overview": "Após a morte de seus pais, a jovem Alice vai morar com a avó em uma casa isolada na floresta, sem saber que forças sinistras se escondem por lá.",
+  "popularity": 7.2211,
+  "poster_path": "/uVIMSSGdcBJZaaBbJaYuql9CH5x.jpg",
+  "production_companies": [
+    {
+      "id": 143001,
+      "logo_path": null,
+      "name": "Hello Princess",
+      "origin_country": ""
+    },
+    {
+      "id": 158108,
+      "logo_path": null,
+      "name": "Lytton Bros. Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-12-26",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alice no País das Trevas",
+  "video": false,
+  "vote_average": 5.872,
+  "vote_count": 196,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4256365,
+        "known_for_department": "Acting",
+        "name": "Lizzy Willis",
+        "original_name": "Lizzy Willis",
+        "popularity": 0.1157,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Alice",
+        "credit_id": "64f81a5c5f2b8d0139d00d4c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 69467,
+        "known_for_department": "Acting",
+        "name": "Rula Lenska",
+        "original_name": "Rula Lenska",
+        "popularity": 2.2251,
+        "profile_path": "/4lgQ8AIVaQQxgLnl097PRMu8pp8.jpg",
+        "cast_id": 2,
+        "character": "Beth",
+        "credit_id": "64f81a655f2b8d00fef5a608",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232417,
+        "known_for_department": "Acting",
+        "name": "Jon-Paul Gates",
+        "original_name": "Jon-Paul Gates",
+        "popularity": 0.3138,
+        "profile_path": "/5hmJ8mg8kKLoJd2RRbDNybfBvh9.jpg",
+        "cast_id": 3,
+        "character": "The Mad Hatter",
+        "credit_id": "64f81a734ccc501865b20071",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2065303,
+        "known_for_department": "Acting",
+        "name": "Steve Wraith",
+        "original_name": "Steve Wraith",
+        "popularity": 0.1086,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "The Rabbit",
+        "credit_id": "64f81a7d4ccc501867e95143",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4256368,
+        "known_for_department": "Acting",
+        "name": "Lila Sarner",
+        "original_name": "Lila Sarner",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "The Twins",
+        "credit_id": "64f81a8ae0ca7f00cbe76332",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4256369,
+        "known_for_department": "Acting",
+        "name": "Nigel Troup",
+        "original_name": "Nigel Troup",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "The Smoking Man",
+        "credit_id": "64f81a98a8b2ca00e158d51c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4256371,
+        "known_for_department": "Acting",
+        "name": "Nikol Atanasova",
+        "original_name": "Nikol Atanasova",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "The Cheshire Ripper",
+        "credit_id": "64f81aa65f2b8d00e12da445",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4228317,
+        "known_for_department": "Acting",
+        "name": "Rikki Kimpton",
+        "original_name": "Rikki Kimpton",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "The Walrus",
+        "credit_id": "64f81ab05f2b8d00e12da449",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3175153,
+        "known_for_department": "Sound",
+        "name": "Ed Hutcheson",
+        "original_name": "Ed Hutcheson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64f81b5ae0ca7f00cbe7639c",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1933266,
+        "known_for_department": "Directing",
+        "name": "Richard John Taylor",
+        "original_name": "Richard John Taylor",
+        "popularity": 0.1853,
+        "profile_path": null,
+        "credit_id": "64f81abeffc9de00ac4f6ed3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3175143,
+        "known_for_department": "Production",
+        "name": "Arthur Leslie Lytton",
+        "original_name": "Arthur Leslie Lytton",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64f81ae38e20c50cd50c3a2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3175152,
+        "known_for_department": "Sound",
+        "name": "Glenn Griffin",
+        "original_name": "Glenn Griffin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64f81b4fffc9de011be9419f",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1933266,
+        "known_for_department": "Directing",
+        "name": "Richard John Taylor",
+        "original_name": "Richard John Taylor",
+        "popularity": 0.1853,
+        "profile_path": null,
+        "credit_id": "64f81ac8a8b2ca00c4acfdb3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3175147,
+        "known_for_department": "Production",
+        "name": "Jude William Lytton",
+        "original_name": "Jude William Lytton",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "64f81afb5f2b8d00abcc543a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2599892,
+        "known_for_department": "Production",
+        "name": "Jeremy Rothwell",
+        "original_name": "Jeremy Rothwell",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "64f81b12ffc9de00e133343f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3175144,
+        "known_for_department": "Production",
+        "name": "Beckett Charlie Lytton",
+        "original_name": "Beckett Charlie Lytton",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64f81af04ccc501867e95182",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2599888,
+        "known_for_department": "Production",
+        "name": "May Monteiro",
+        "original_name": "May Monteiro",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "64f81b075f2b8d011b4ff849",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3192473,
+        "known_for_department": "Production",
+        "name": "Charlotte Smeulders",
+        "original_name": "Charlotte Smeulders",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64f81b434ccc501865b200d5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 577604,
+        "known_for_department": "Acting",
+        "name": "Craig Gannon",
+        "original_name": "Craig Gannon",
+        "popularity": 0.1636,
+        "profile_path": "/bAFmsHZowbZYacmFctOXkE2dkLl.jpg",
+        "credit_id": "64f81b2a4ccc501868da1a09",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3730292,
+        "known_for_department": "Acting",
+        "name": "Ryan Noire",
+        "original_name": "Ryan Noire",
+        "popularity": 0.0784,
+        "profile_path": "/b8y5zRlNRAj5BLVhpXBOwKqmacB.jpg",
+        "credit_id": "64f81b66a8b2ca00e158d577",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1933266,
+        "known_for_department": "Directing",
+        "name": "Richard John Taylor",
+        "original_name": "Richard John Taylor",
+        "popularity": 0.1853,
+        "profile_path": null,
+        "credit_id": "64f81ad45f2b8d011b4ff823",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3175150,
+        "known_for_department": "Crew",
+        "name": "Harry Tali Cord",
+        "original_name": "Harry Tali Cord",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "69279309788274846fd9ccb5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9928,
+        "name": "bereavement"
+      },
+      {
+        "id": 10809,
+        "name": "teenage girl"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "MA 15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-06-05T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-03-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DvD",
+            "release_date": "2024-07-26T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2023-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

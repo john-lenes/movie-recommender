@@ -1,0 +1,973 @@
+{
+  "adult": false,
+  "backdrop_path": "/1MUfnjzUBTTEEZKaWWmIruh03Ke.jpg",
+  "belongs_to_collection": {
+    "id": 1408738,
+    "name": "As It Is In Heaven - Collection",
+    "poster_path": "/gvIqNZ7tLCLkYq40rVStyfTIOPm.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    }
+  ],
+  "homepage": "",
+  "id": 464,
+  "imdb_id": "tt0382330",
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Så som i himmelen",
+  "overview": "",
+  "popularity": 4.6702,
+  "poster_path": "/qtPUrODebW2L8JJSWGIWXjs1tOw.jpg",
+  "production_companies": [
+    {
+      "id": 242,
+      "logo_path": null,
+      "name": "GF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 1929,
+      "logo_path": null,
+      "name": "Sonet Film",
+      "origin_country": "SE"
+    },
+    {
+      "id": 228,
+      "logo_path": "/zT2bcTDEbBkfZi2APB8DYJKLIQ3.png",
+      "name": "Filmpool Nord",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 113441,
+      "logo_path": null,
+      "name": "K. Pollak Film",
+      "origin_country": "SE"
+    },
+    {
+      "id": 3676,
+      "logo_path": "/mel4PnFPw1LuxgzUJzoh7VxpIRq.png",
+      "name": "ASA Film Production",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2004-09-03",
+  "revenue": 0,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Så som i himmelen",
+  "video": false,
+  "vote_average": 7.115,
+  "vote_count": 182,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6283,
+        "known_for_department": "Acting",
+        "name": "Michael Nyqvist",
+        "original_name": "Michael Nyqvist",
+        "popularity": 1.0169,
+        "profile_path": "/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+        "cast_id": 1,
+        "character": "Daniel Daréus",
+        "credit_id": "52fe4246c3a36847f80119f3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6285,
+        "known_for_department": "Acting",
+        "name": "Frida Hallgren",
+        "original_name": "Frida Hallgren",
+        "popularity": 0.5885,
+        "profile_path": "/4N6haOFsCJZnsXt0KDOitWj0ZfW.jpg",
+        "cast_id": 3,
+        "character": "Lena",
+        "credit_id": "52fe4246c3a36847f80119fd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6286,
+        "known_for_department": "Acting",
+        "name": "Helen Sjöholm",
+        "original_name": "Helen Sjöholm",
+        "popularity": 0.3668,
+        "profile_path": "/5t5km94atZiDzsxez23S0SoJ7mb.jpg",
+        "cast_id": 4,
+        "character": "Gabriella",
+        "credit_id": "52fe4246c3a36847f8011a01",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6287,
+        "known_for_department": "Acting",
+        "name": "Lennart Jähkel",
+        "original_name": "Lennart Jähkel",
+        "popularity": 0.3299,
+        "profile_path": "/heM3lOkyEIanHgdbYPOghvRY59u.jpg",
+        "cast_id": 5,
+        "character": "Arne",
+        "credit_id": "52fe4246c3a36847f8011a05",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6288,
+        "known_for_department": "Acting",
+        "name": "Ingela Olsson",
+        "original_name": "Ingela Olsson",
+        "popularity": 0.3731,
+        "profile_path": "/aMVVTN2Cq8C1s1L87bMLy1AelXm.jpg",
+        "cast_id": 6,
+        "character": "Inger",
+        "credit_id": "52fe4246c3a36847f8011a09",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6289,
+        "known_for_department": "Acting",
+        "name": "Verena Buratti",
+        "original_name": "Verena Buratti",
+        "popularity": 0.2526,
+        "profile_path": "/yuauzvkee0BanUsUkh146mB7jco.jpg",
+        "cast_id": 7,
+        "character": "Loredana",
+        "credit_id": "52fe4246c3a36847f8011a0d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6290,
+        "known_for_department": "Acting",
+        "name": "Ulla-Britt Norrman-Olsson",
+        "original_name": "Ulla-Britt Norrman-Olsson",
+        "popularity": 0.2341,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Amanda",
+        "credit_id": "52fe4246c3a36847f8011a11",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6291,
+        "known_for_department": "Acting",
+        "name": "Per Morberg",
+        "original_name": "Per Morberg",
+        "popularity": 0.4256,
+        "profile_path": "/e10ZK0Le0fGwh3gTCTYlwzknNQZ.jpg",
+        "cast_id": 9,
+        "character": "Conny",
+        "credit_id": "52fe4246c3a36847f8011a15",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6292,
+        "known_for_department": "Acting",
+        "name": "Barbro Kollberg",
+        "original_name": "Barbro Kollberg",
+        "popularity": 0.2713,
+        "profile_path": "/zVsPHDjDjAj1zizhBk5D6HDW7sC.jpg",
+        "cast_id": 10,
+        "character": "Olga",
+        "credit_id": "52fe4246c3a36847f8011a19",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6294,
+        "known_for_department": "Acting",
+        "name": "Niklas Falk",
+        "original_name": "Niklas Falk",
+        "popularity": 0.2663,
+        "profile_path": "/1NqPIBlo9dpZJ075UzciE2TWq2b.jpg",
+        "cast_id": 11,
+        "character": "Stig",
+        "credit_id": "52fe4246c3a36847f8011a1d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6296,
+        "known_for_department": "Acting",
+        "name": "Axelle Axell",
+        "original_name": "Axelle Axell",
+        "popularity": 0.1677,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Florence",
+        "credit_id": "52fe4246c3a36847f8011a21",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6298,
+        "known_for_department": "Acting",
+        "name": "Ylva Lööf",
+        "original_name": "Ylva Lööf",
+        "popularity": 0.2101,
+        "profile_path": "/vnh2BOt9tIb70exxevGuhVT2UB2.jpg",
+        "cast_id": 14,
+        "character": "Siv",
+        "credit_id": "52fe4246c3a36847f8011a29",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6301,
+        "known_for_department": "Acting",
+        "name": "Mikael Rahm",
+        "original_name": "Mikael Rahm",
+        "popularity": 0.1625,
+        "profile_path": "/ja41mCo28Jj8UqlaOOFdxcwyoEU.jpg",
+        "cast_id": 15,
+        "character": "Holmfrid",
+        "credit_id": "52fe4246c3a36847f8011a2d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6327,
+        "known_for_department": "Acting",
+        "name": "André Sjöberg",
+        "original_name": "André Sjöberg",
+        "popularity": 0.2326,
+        "profile_path": "/mWtHuiUTPJsTX9hTR8dfDkBAobl.jpg",
+        "cast_id": 21,
+        "character": "Tore",
+        "credit_id": "52fe4246c3a36847f8011a4f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1317713,
+        "known_for_department": "Acting",
+        "name": "Mircea Krishan",
+        "original_name": "Mircea Krishan",
+        "popularity": 0.2543,
+        "profile_path": "/uU3CrPopJ6U8d06v1pA94LJ7ULd.jpg",
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "6017ced3ea39490040277729",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64973,
+        "known_for_department": "Acting",
+        "name": "Kristina Törnqvist",
+        "original_name": "Kristina Törnqvist",
+        "popularity": 0.3496,
+        "profile_path": "/hpE419fOlkJKXSkfapox4JeMrYv.jpg",
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "6017cee79d592c00405630f6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544577,
+        "known_for_department": "Acting",
+        "name": "Alexandra Hummingson",
+        "original_name": "Alexandra Hummingson",
+        "popularity": 0.0943,
+        "profile_path": "/gusBL6PvUejc2AiN0NyqRXWpffr.jpg",
+        "cast_id": 45,
+        "character": "Medlem i Stora kören (uncredited)",
+        "credit_id": "626b0bb541465c009e83f40f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1882609,
+        "known_for_department": "Acting",
+        "name": "Lasse Pettersson",
+        "original_name": "Lasse Pettersson",
+        "popularity": 0.1254,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Erik",
+        "credit_id": "64063b9f85c0a20084343496",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6284,
+        "known_for_department": "Directing",
+        "name": "Kay Pollak",
+        "original_name": "Kay Pollak",
+        "popularity": 0.2754,
+        "profile_path": "/vAfZhm41hQ8BRhdamyDQiw0BUzG.jpg",
+        "credit_id": "52fe4246c3a36847f8011a3f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323,
+        "known_for_department": "Writing",
+        "name": "Carin Pollak",
+        "original_name": "Carin Pollak",
+        "popularity": 0.0807,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a45",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6320,
+        "known_for_department": "Writing",
+        "name": "Anders Nyberg",
+        "original_name": "Anders Nyberg",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a33",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6330,
+        "known_for_department": "Production",
+        "name": "Anders Birkeland",
+        "original_name": "Anders Birkeland",
+        "popularity": 0.0666,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6284,
+        "known_for_department": "Directing",
+        "name": "Kay Pollak",
+        "original_name": "Kay Pollak",
+        "popularity": 0.2754,
+        "profile_path": "/vAfZhm41hQ8BRhdamyDQiw0BUzG.jpg",
+        "credit_id": "52fe4246c3a36847f80119f9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6325,
+        "known_for_department": "Writing",
+        "name": "Margaretha Pollak",
+        "original_name": "Margaretha Pollak",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a4b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6322,
+        "known_for_department": "Writing",
+        "name": "Ola Olsson",
+        "original_name": "Ola Olsson",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a39",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6335,
+        "known_for_department": "Sound",
+        "name": "Stefan Nilsson",
+        "original_name": "Stefan Nilsson",
+        "popularity": 0.1279,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a79",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6336,
+        "known_for_department": "Camera",
+        "name": "Harald Gunnar Paalgard",
+        "original_name": "Harald Gunnar Paalgard",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a7f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6331,
+        "known_for_department": "Production",
+        "name": "Göran Lindström",
+        "original_name": "Göran Lindström",
+        "popularity": 0.271,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a5b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333,
+        "known_for_department": "Production",
+        "name": "Henrik Møller-Sørensen",
+        "original_name": "Henrik Møller-Sørensen",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a67",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5987,
+        "known_for_department": "Production",
+        "name": "Per-Erik Svensson",
+        "original_name": "Per-Erik Svensson",
+        "popularity": 0.0648,
+        "profile_path": "/gA1mZkUG1OW0DK6yPjOXsq7NpEp.jpg",
+        "credit_id": "52fe4246c3a36847f8011a6d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6334,
+        "known_for_department": "Production",
+        "name": "Peter Possne",
+        "original_name": "Peter Possne",
+        "popularity": 0.1799,
+        "profile_path": "/alG32CO5aTn18hy7hRi3DbdjFHx.jpg",
+        "credit_id": "52fe4246c3a36847f8011a73",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6339,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hedvig Andér",
+        "original_name": "Hedvig Andér",
+        "popularity": 0.155,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a91",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6332,
+        "known_for_department": "Production",
+        "name": "Gunnar Carlsson",
+        "original_name": "Gunnar Carlsson",
+        "popularity": 0.2211,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6338,
+        "known_for_department": "Production",
+        "name": "Imor Hermann",
+        "original_name": "Imor Hermann",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "52fe4246c3a36847f8011a8b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6337,
+        "known_for_department": "Editing",
+        "name": "Thomas Täng",
+        "original_name": "Thomas Täng",
+        "popularity": 0.1753,
+        "profile_path": "/ijsaCJ2lt7u3PW7qXcDmvt05kaj.jpg",
+        "credit_id": "52fe4246c3a36847f8011a85",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1545278,
+        "known_for_department": "Sound",
+        "name": "Fredrik Jonsäter",
+        "original_name": "Fredrik Jonsäter",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "credit_id": "626b0b0541465c00654472f0",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1884219,
+        "known_for_department": "Sound",
+        "name": "Magnus Andersson",
+        "original_name": "Magnus Andersson",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "626b0af8394a870069fc1501",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3528063,
+        "known_for_department": "Sound",
+        "name": "Erik Olhester",
+        "original_name": "Erik Olhester",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "626b0b289824c8004faaa61d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1770442,
+        "known_for_department": "Sound",
+        "name": "Oscar Lovnér",
+        "original_name": "Oscar Lovnér",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "626b0b1101757f0052c763e9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3528062,
+        "known_for_department": "Sound",
+        "name": "Bernard Löhr",
+        "original_name": "Bernard Löhr",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "626b0b1d8258fc00a535dafa",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640416,
+        "known_for_department": "Sound",
+        "name": "Bo Persson",
+        "original_name": "Bo Persson",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "626b0b3541465c009e83f1ef",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3528066,
+        "known_for_department": "Sound",
+        "name": "Håkan Wollgård",
+        "original_name": "Håkan Wollgård",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "626b0b5acd2f0f0ebeedfaf6",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568611,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kjell Gustavsson",
+        "original_name": "Kjell Gustavsson",
+        "popularity": 0.1407,
+        "profile_path": null,
+        "credit_id": "626b0b6c2d531a09c10530a5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1092614,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mona Theresia Forsén",
+        "original_name": "Mona Theresia Forsén",
+        "popularity": 0.1207,
+        "profile_path": null,
+        "credit_id": "626b0b7b90dde0005064ada0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2120074,
+        "known_for_department": "Sound",
+        "name": "Jonas Rudels",
+        "original_name": "Jonas Rudels",
+        "popularity": 0.0685,
+        "profile_path": null,
+        "credit_id": "626b0b4e532acb009c1373f7",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 240,
+        "name": "underdog"
+      },
+      {
+        "id": 3737,
+        "name": "dying and death"
+      },
+      {
+        "id": 791,
+        "name": "mentally disabled"
+      },
+      {
+        "id": 30,
+        "name": "individual"
+      },
+      {
+        "id": 7879,
+        "name": "secret love"
+      },
+      {
+        "id": 6029,
+        "name": "concert"
+      },
+      {
+        "id": 1786,
+        "name": "heart attack"
+      },
+      {
+        "id": 697,
+        "name": "loss of loved one"
+      },
+      {
+        "id": 1660,
+        "name": "suppressed past"
+      },
+      {
+        "id": 1499,
+        "name": "pastor"
+      },
+      {
+        "id": 5331,
+        "name": "village"
+      },
+      {
+        "id": 1192,
+        "name": "sweden"
+      },
+      {
+        "id": 2317,
+        "name": "conductor"
+      },
+      {
+        "id": 2318,
+        "name": "choir"
+      },
+      {
+        "id": 2320,
+        "name": "violent husband"
+      },
+      {
+        "id": 2409,
+        "name": "church choir"
+      },
+      {
+        "id": 2410,
+        "name": "choirmaster"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-10-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-10-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-09-03T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-09-03T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-04-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2007-02-09T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-07-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-12-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-08-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [
+              "Violence",
+              "Fear"
+            ],
+            "iso_639_1": "",
+            "note": "20th anniversary re-release",
+            "release_date": "2025-08-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 2",
+            "release_date": "2009-01-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-09-03T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-09-03T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD release",
+            "release_date": "2005-04-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1310 @@
+{
+  "adult": false,
+  "backdrop_path": "/4LmNLvXP5SZ5TrZEkNhC7dbjUNV.jpg",
+  "belongs_to_collection": null,
+  "budget": 1800000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10752,
+      "name": "Guerra"
+    }
+  ],
+  "homepage": "",
+  "id": 935,
+  "imdb_id": "tt0057012",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "overview": "Depois que o insano General Jack D. Ripper ordena um ataque nuclear contra a União Soviética, uma sala de guerra cheia de políticos, generais e um diplomata russo tentam freneticamente impedir o ataque de se concretizar.",
+  "popularity": 3.9143,
+  "poster_path": "/lFcwVewzDwmJjIIjNIWwST4ctaC.jpg",
+  "production_companies": [
+    {
+      "id": 88,
+      "logo_path": null,
+      "name": "Hawk Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1964-01-29",
+  "revenue": 9500000,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ou Como Aprendi a Parar de Me Preocupar e Amar a Bomba",
+  "title": "Dr. Fantástico",
+  "video": false,
+  "vote_average": 8.125,
+  "vote_count": 5996,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12446,
+        "known_for_department": "Acting",
+        "name": "Peter Sellers",
+        "original_name": "Peter Sellers",
+        "popularity": 1.8669,
+        "profile_path": "/sCVIv2DGoC9U16anTjLwMxKBPZ.jpg",
+        "cast_id": 13,
+        "character": "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove",
+        "credit_id": "52fe4290c3a36847f80287ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 862,
+        "known_for_department": "Acting",
+        "name": "George C. Scott",
+        "original_name": "George C. Scott",
+        "popularity": 1.3379,
+        "profile_path": "/bYIY4S6yfbBsngerOicQbzPgmFr.jpg",
+        "cast_id": 14,
+        "character": "General \"Buck\" Turgidson",
+        "credit_id": "52fe4290c3a36847f80287b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3088,
+        "known_for_department": "Acting",
+        "name": "Sterling Hayden",
+        "original_name": "Sterling Hayden",
+        "popularity": 0.9811,
+        "profile_path": "/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg",
+        "cast_id": 15,
+        "character": "Brigadier General Jack D. Ripper",
+        "credit_id": "52fe4290c3a36847f80287b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4966,
+        "known_for_department": "Acting",
+        "name": "Keenan Wynn",
+        "original_name": "Keenan Wynn",
+        "popularity": 1.0554,
+        "profile_path": "/bO88300vMddcIXuRZvMm5QLXdr.jpg",
+        "cast_id": 17,
+        "character": "Colonel Bat Guano",
+        "credit_id": "52fe4290c3a36847f80287bd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14253,
+        "known_for_department": "Acting",
+        "name": "Slim Pickens",
+        "original_name": "Slim Pickens",
+        "popularity": 1.0683,
+        "profile_path": "/8UwvsZe0frSzCoyC8KGSfjAaZBf.jpg",
+        "cast_id": 16,
+        "character": "Major \"King\" Kong",
+        "credit_id": "52fe4290c3a36847f80287b9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6600,
+        "known_for_department": "Acting",
+        "name": "Peter Bull",
+        "original_name": "Peter Bull",
+        "popularity": 0.3583,
+        "profile_path": "/187FadUt4kYNbrRfWp1sHynmGWW.jpg",
+        "cast_id": 18,
+        "character": "Botschafter De Sadesky",
+        "credit_id": "52fe4290c3a36847f80287c1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15152,
+        "known_for_department": "Acting",
+        "name": "James Earl Jones",
+        "original_name": "James Earl Jones",
+        "popularity": 2.3406,
+        "profile_path": "/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg",
+        "cast_id": 23,
+        "character": "Lt. Lothar Zogg",
+        "credit_id": "52fe4290c3a36847f80287d3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 126354,
+        "known_for_department": "Acting",
+        "name": "Tracy Reed",
+        "original_name": "Tracy Reed",
+        "popularity": 0.4684,
+        "profile_path": "/ts9KswPwZfhJQFdp4WBhzPfVJOQ.jpg",
+        "cast_id": 21,
+        "character": "Miss Scott",
+        "credit_id": "52fe4290c3a36847f80287c9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12485,
+        "known_for_department": "Acting",
+        "name": "Jack Creley",
+        "original_name": "Jack Creley",
+        "popularity": 0.6147,
+        "profile_path": "/269fKAcaZaTJtOXOrKv84LDBVAI.jpg",
+        "cast_id": 20,
+        "character": "Mr. Staines",
+        "credit_id": "52fe4290c3a36847f80287c5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1332529,
+        "known_for_department": "Acting",
+        "name": "Frank Berry",
+        "original_name": "Frank Berry",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Lt. Dietrich",
+        "credit_id": "53a570800e0a26143c0010fc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1236452,
+        "known_for_department": "Acting",
+        "name": "Robert O'Neil",
+        "original_name": "Robert O'Neil",
+        "popularity": 0.1287,
+        "profile_path": "/fnDJp50Y1Wd1XareVU5QlgAVsDj.jpg",
+        "cast_id": 25,
+        "character": "Adm. Randolph",
+        "credit_id": "53a570ae0e0a2614450010ce",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 948173,
+        "known_for_department": "Acting",
+        "name": "Glenn Beck",
+        "original_name": "Glenn Beck",
+        "popularity": 0.3253,
+        "profile_path": "/9QeeMaBYTPSQYxm6GlMSuowu3GE.jpg",
+        "cast_id": 36,
+        "character": "Lt. Kivel",
+        "credit_id": "53e0a47a0e0a265a860068bf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332531,
+        "known_for_department": "Acting",
+        "name": "Roy Stephens",
+        "original_name": "Roy Stephens",
+        "popularity": 0.0715,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Frank",
+        "credit_id": "53a571170e0a26143c00110b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10657,
+        "known_for_department": "Acting",
+        "name": "Shane Rimmer",
+        "original_name": "Shane Rimmer",
+        "popularity": 0.5961,
+        "profile_path": "/morFcla0R2Bv3vu3B1HgCmm0eiv.jpg",
+        "cast_id": 28,
+        "character": "Capt. 'Ace' Owens",
+        "credit_id": "53a571330e0a2614420011a7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 186212,
+        "known_for_department": "Acting",
+        "name": "Hal Galili",
+        "original_name": "Hal Galili",
+        "popularity": 0.5276,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Burpelson AFB Defense Team Member",
+        "credit_id": "53a571490e0a2614320010de",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 185044,
+        "known_for_department": "Acting",
+        "name": "Paul Tamarin",
+        "original_name": "Paul Tamarin",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Lt. Goldberg",
+        "credit_id": "53a5715b0e0a2614390010db",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332532,
+        "known_for_department": "Acting",
+        "name": "Laurence Herder",
+        "original_name": "Laurence Herder",
+        "popularity": 0.2606,
+        "profile_path": "/yGMUCHjjCSC90WwAZU3UiuXkJ6y.jpg",
+        "cast_id": 31,
+        "character": "Burpelson AFB Defense Team Member",
+        "credit_id": "53a571750e0a26143600107f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1063405,
+        "known_for_department": "Acting",
+        "name": "John McCarthy",
+        "original_name": "John McCarthy",
+        "popularity": 0.2891,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Burpelson AFB Defense Team Member",
+        "credit_id": "5685cec59251417e1500492b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117301,
+        "known_for_department": "Acting",
+        "name": "Gordon Tanner",
+        "original_name": "Gordon Tanner",
+        "popularity": 0.2558,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Gen. Faceman",
+        "credit_id": "53e0a40e0e0a265a83006a66",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184980,
+        "known_for_department": "Acting",
+        "name": "Burnell Tucker",
+        "original_name": "Burnell Tucker",
+        "popularity": 0.5641,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Mandrake' aide (uncredited)",
+        "credit_id": "53a572130e0a261436001097",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556340,
+        "known_for_department": "Acting",
+        "name": "Victor Harrington",
+        "original_name": "Victor Harrington",
+        "popularity": 0.3705,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "War Room Aide (uncredited)",
+        "credit_id": "5685ce589251412e5201b809",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2574550,
+        "known_for_department": "Acting",
+        "name": "Peter Evans",
+        "original_name": "Peter Evans",
+        "popularity": 0.12,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "War Room Aide (uncredited)",
+        "credit_id": "68d2a5d4eef2f2daa0cd827b",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4290c3a36847f8028773",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7753,
+        "known_for_department": "Camera",
+        "name": "Gilbert Taylor",
+        "original_name": "Gilbert Taylor",
+        "popularity": 2.0704,
+        "profile_path": "/6UTOEFYo95wF35X0i86HNLDl40a.jpg",
+        "credit_id": "52fe4290c3a36847f802879d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4290c3a36847f8028785",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14252,
+        "known_for_department": "Sound",
+        "name": "Laurie Johnson",
+        "original_name": "Laurie Johnson",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "credit_id": "52fe4290c3a36847f8028797",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12009,
+        "known_for_department": "Directing",
+        "name": "Anthony Harvey",
+        "original_name": "Anthony Harvey",
+        "popularity": 0.3288,
+        "profile_path": "/6J1er4JMI4byhHGE7LRVsmDYrvM.jpg",
+        "credit_id": "52fe4290c3a36847f80287a3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8950,
+        "known_for_department": "Writing",
+        "name": "Terry Southern",
+        "original_name": "Terry Southern",
+        "popularity": 0.4123,
+        "profile_path": "/zvaYee6lkHqjLE47IHPZfUWijSS.jpg",
+        "credit_id": "52fe4290c3a36847f8028779",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14250,
+        "known_for_department": "Writing",
+        "name": "Peter George",
+        "original_name": "Peter George",
+        "popularity": 0.0784,
+        "profile_path": "/2BXNZWnxTux7cC4wdfLUwFbGY4i.jpg",
+        "credit_id": "52fe4290c3a36847f80287cf",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14251,
+        "known_for_department": "Production",
+        "name": "Leon Minoff",
+        "original_name": "Leon Minoff",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "52fe4290c3a36847f8028791",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 257,
+        "known_for_department": "Production",
+        "name": "Victor Lyndon",
+        "original_name": "Victor Lyndon",
+        "popularity": 0.0872,
+        "profile_path": null,
+        "credit_id": "52fe4290c3a36847f802878b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9869,
+        "known_for_department": "Art",
+        "name": "Ken Adam",
+        "original_name": "Ken Adam",
+        "popularity": 0.2611,
+        "profile_path": "/eRUuXpalQGuY3KAXPrn54c390dX.jpg",
+        "credit_id": "52fe4290c3a36847f80287a9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14250,
+        "known_for_department": "Writing",
+        "name": "Peter George",
+        "original_name": "Peter George",
+        "popularity": 0.0784,
+        "profile_path": "/2BXNZWnxTux7cC4wdfLUwFbGY4i.jpg",
+        "credit_id": "52fe4290c3a36847f802877f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4290c3a36847f802876d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378368,
+        "known_for_department": "Art",
+        "name": "Pablo Ferro",
+        "original_name": "Pablo Ferro",
+        "popularity": 0.3922,
+        "profile_path": "/dkXthjgSvx24L5tVEsGI1U2CRJM.jpg",
+        "credit_id": "657462b0cadb6b08112752ca",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 244,
+        "known_for_department": "Editing",
+        "name": "Ray Lovejoy",
+        "original_name": "Ray Lovejoy",
+        "popularity": 0.4921,
+        "profile_path": null,
+        "credit_id": "5686bfa8c3a368607501f456",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556557,
+        "known_for_department": "Camera",
+        "name": "Kelvin Pike",
+        "original_name": "Kelvin Pike",
+        "popularity": 0.1764,
+        "profile_path": null,
+        "credit_id": "5686bf10c3a368607501f43c",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378839,
+        "known_for_department": "Camera",
+        "name": "Bob Penn",
+        "original_name": "Bob Penn",
+        "popularity": 0.2372,
+        "profile_path": null,
+        "credit_id": "5686bf54c3a36860e901fe7a",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1206210,
+        "known_for_department": "Crew",
+        "name": "Alan Bryce",
+        "original_name": "Alan Bryce",
+        "popularity": 0.2022,
+        "profile_path": null,
+        "credit_id": "5686bd84c3a368227b015506",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 958468,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Ritchie",
+        "original_name": "Barbara Ritchie",
+        "popularity": 0.2202,
+        "profile_path": null,
+        "credit_id": "5686bac09251414ecb0113c3",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9918,
+        "known_for_department": "Art",
+        "name": "Peter Murton",
+        "original_name": "Peter Murton",
+        "popularity": 0.3337,
+        "profile_path": null,
+        "credit_id": "5686ba6192514132db01df85",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556555,
+        "known_for_department": "Production",
+        "name": "Clifton Brandon",
+        "original_name": "Clifton Brandon",
+        "popularity": 0.1595,
+        "profile_path": null,
+        "credit_id": "5686bb08c3a3684bcc021824",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13494,
+        "known_for_department": "Crew",
+        "name": "Wally Veevers",
+        "original_name": "Wally Veevers",
+        "popularity": 0.6199,
+        "profile_path": null,
+        "credit_id": "5686bd3a92514131df01d0eb",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11837,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stuart Freeborn",
+        "original_name": "Stuart Freeborn",
+        "popularity": 0.2123,
+        "profile_path": null,
+        "credit_id": "5686ba8c92514132db01df8c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1532767,
+        "known_for_department": "Crew",
+        "name": "Garth Inns",
+        "original_name": "Garth Inns",
+        "popularity": 0.2513,
+        "profile_path": null,
+        "credit_id": "5686be5d9251417e150077ce",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1201088,
+        "known_for_department": "Directing",
+        "name": "Arthur 'Weegee' Fellig",
+        "original_name": "Arthur 'Weegee' Fellig",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "credit_id": "5686bddf92514169d000b583",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556556,
+        "known_for_department": "Sound",
+        "name": "John Aldred",
+        "original_name": "John Aldred",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "credit_id": "5686bb9cc3a368227b01548e",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12246,
+        "known_for_department": "Sound",
+        "name": "John Cox",
+        "original_name": "John Cox",
+        "popularity": 0.2482,
+        "profile_path": null,
+        "credit_id": "5686bca59251417e6300794c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12681,
+        "known_for_department": "Production",
+        "name": "Eric Rattray",
+        "original_name": "Eric Rattray",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "5686bb5392514132db01dfbd",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1189045,
+        "known_for_department": "Sound",
+        "name": "Leslie Hodgson",
+        "original_name": "Leslie Hodgson",
+        "popularity": 0.1299,
+        "profile_path": null,
+        "credit_id": "5686bd08c3a3684bcc021874",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2202099,
+        "known_for_department": "Camera",
+        "name": "Michael Walter",
+        "original_name": "Michael Walter",
+        "popularity": 0.2128,
+        "profile_path": null,
+        "credit_id": "5c2644ddc3a368730ac31f68",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2237962,
+        "known_for_department": "Camera",
+        "name": "Jim Body",
+        "original_name": "Jim Body",
+        "popularity": 0.114,
+        "profile_path": null,
+        "credit_id": "5c9a1ff29251417760f614aa",
+        "department": "Visual Effects",
+        "job": "Visual Effects Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1697244,
+        "known_for_department": "Acting",
+        "name": "Alan Stuart",
+        "original_name": "Alan Stuart",
+        "popularity": 0.2222,
+        "profile_path": null,
+        "credit_id": "5dc722527d2bc1001143b3ca",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1535412,
+        "known_for_department": "Directing",
+        "name": "Pamela Carlton",
+        "original_name": "Pamela Carlton",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "5dc722e26c0e4f00133892e6",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 89541,
+        "known_for_department": "Sound",
+        "name": "Richard Bird",
+        "original_name": "Richard Bird",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "credit_id": "5ff349337aecc6003ffe71cc",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 840,
+        "name": "usa president"
+      },
+      {
+        "id": 1402,
+        "name": "general"
+      },
+      {
+        "id": 2106,
+        "name": "cold war"
+      },
+      {
+        "id": 2531,
+        "name": "strategic air command"
+      },
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 3312,
+        "name": "nuclear missile"
+      },
+      {
+        "id": 8201,
+        "name": "satire"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 33424,
+        "name": "cynical"
+      },
+      {
+        "id": 160370,
+        "name": "war room"
+      },
+      {
+        "id": 160377,
+        "name": "bomber pilot"
+      },
+      {
+        "id": 160381,
+        "name": "nuclear weapons"
+      },
+      {
+        "id": 160387,
+        "name": "ex-nazi"
+      },
+      {
+        "id": 165431,
+        "name": "anti war"
+      },
+      {
+        "id": 194825,
+        "name": "doomsday device"
+      },
+      {
+        "id": 214655,
+        "name": "absurdism"
+      },
+      {
+        "id": 225012,
+        "name": "satirical"
+      },
+      {
+        "id": 259376,
+        "name": "playful"
+      },
+      {
+        "id": 309974,
+        "name": "absurd"
+      },
+      {
+        "id": 315053,
+        "name": "critical"
+      },
+      {
+        "id": 320420,
+        "name": "hilarious"
+      },
+      {
+        "id": 325773,
+        "name": "audacious"
+      },
+      {
+        "id": 325815,
+        "name": "farcical"
+      },
+      {
+        "id": 325846,
+        "name": "sardonic"
+      },
+      {
+        "id": 360808,
+        "name": "quirky comedy"
+      },
+      {
+        "id": 364573,
+        "name": "everyone dies"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-06-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-04-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-01-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD/VHS",
+            "release_date": "2006-03-13T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing International Film Festival（4K）",
+            "release_date": "2024-04-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Projekt 100",
+            "release_date": "2001-01-15T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-04-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-04-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1966-06-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-05-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-04-10T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2019-06-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2009-06-10T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2021-03-15T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1992-12-01T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "1999-08-11T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-Ray",
+            "release_date": "2009-06-10T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K UHD",
+            "release_date": "2021-07-07T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-04-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-05-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-07-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-05-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-05-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-04-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2008-02-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu ray",
+            "release_date": "2012-04-18T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Net 5",
+            "release_date": "2003-03-15T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-07-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-04-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2009-06-24T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K Ultra HD",
+            "release_date": "2021-07-19T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2005-05-04T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "SVT",
+            "release_date": "1987-02-15T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

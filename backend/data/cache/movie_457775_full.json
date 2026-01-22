@@ -1,0 +1,263 @@
+{
+  "adult": false,
+  "backdrop_path": "/xW4zzuSXKfchPTWDAI4N5ptHmYz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    }
+  ],
+  "homepage": "",
+  "id": 457775,
+  "imdb_id": "tt6883152",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Devil and Father Amorth",
+  "overview": "",
+  "popularity": 2.2249,
+  "poster_path": "/de5VAk2YiONqmoXzyOO80QyM0Xa.jpg",
+  "production_companies": [
+    {
+      "id": 8533,
+      "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+      "name": "LD Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-04-20",
+  "revenue": 0,
+  "runtime": 68,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Devil and Father Amorth",
+  "video": false,
+  "vote_average": 5.081,
+  "vote_count": 105,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15175,
+        "known_for_department": "Directing",
+        "name": "William Friedkin",
+        "original_name": "William Friedkin",
+        "popularity": 1.4586,
+        "profile_path": "/c70AdZsqOsSjEuUp37W5HPYeeKw.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "5919fe87c3a36842d605feb6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2036408,
+        "known_for_department": "Acting",
+        "name": "Gabriele Amorth",
+        "original_name": "Gabriele Amorth",
+        "popularity": 0.1115,
+        "profile_path": "/kuA5NnyzmEFKaPw6S0nJCHQ7u8R.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "5aed787c0e0a2635be005d45",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15175,
+        "known_for_department": "Directing",
+        "name": "William Friedkin",
+        "original_name": "William Friedkin",
+        "popularity": 1.4586,
+        "profile_path": "/c70AdZsqOsSjEuUp37W5HPYeeKw.jpg",
+        "credit_id": "5919fe55c3a36842c105fb81",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15175,
+        "known_for_department": "Directing",
+        "name": "William Friedkin",
+        "original_name": "William Friedkin",
+        "popularity": 1.4586,
+        "profile_path": "/c70AdZsqOsSjEuUp37W5HPYeeKw.jpg",
+        "credit_id": "5ad5afdf9251415dc9010560",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 204962,
+        "known_for_department": "Acting",
+        "name": "Mark Kermode",
+        "original_name": "Mark Kermode",
+        "popularity": 0.5609,
+        "profile_path": "/ynkrNxzs50tXNGDPpkgO4PUWejS.jpg",
+        "credit_id": "5ad5afd5c3a3680c09010c7c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1186631,
+        "known_for_department": "Production",
+        "name": "Pete Shilaimon",
+        "original_name": "Pete Shilaimon",
+        "popularity": 0.1968,
+        "profile_path": null,
+        "credit_id": "5aed779c0e0a263591006bd7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2036403,
+        "known_for_department": "Production",
+        "name": "Francesco Zippel",
+        "original_name": "Francesco Zippel",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "5aed77c40e0a26359d007cf9",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223388,
+        "known_for_department": "Directing",
+        "name": "Gary Leva",
+        "original_name": "Gary Leva",
+        "popularity": 0.3783,
+        "profile_path": "/dc81JTKO4CxgoQ0dzSKHd4YOeAB.jpg",
+        "credit_id": "5aed782d9251411d2a0063bd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48498,
+        "known_for_department": "Production",
+        "name": "Mickey Liddell",
+        "original_name": "Mickey Liddell",
+        "popularity": 0.2985,
+        "profile_path": null,
+        "credit_id": "5aed777fc3a368345200af31",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2036404,
+        "known_for_department": "Sound",
+        "name": "Christopher Rouse",
+        "original_name": "Christopher Rouse",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5aed77f1c3a368346c003fbc",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 131,
+        "name": "italy"
+      },
+      {
+        "id": 186,
+        "name": "christianity"
+      },
+      {
+        "id": 2626,
+        "name": "exorcism"
+      },
+      {
+        "id": 157008,
+        "name": "roman catholic church"
+      },
+      {
+        "id": 161207,
+        "name": "catholicism"
+      },
+      {
+        "id": 172391,
+        "name": "catholic priest"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2017-08-31T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2018-04-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

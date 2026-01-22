@@ -1,0 +1,783 @@
+{
+  "adult": false,
+  "backdrop_path": "/shS6buEDnEDoHTdLbGzCoDIZ9ur.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 16,
+      "name": "Animação"
+    }
+  ],
+  "homepage": "",
+  "id": 840889,
+  "imdb_id": "tt14852624",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Stopmotion",
+  "overview": "Lutando para controlar seus demônios após perder a mãe, a animadora stopmotion Ella Blake embarca na criação de um filme que se torna o campo de batalha de sua sanidade. Conforme a mente de Ella começa a se fragmentar, os personagens em seu projeto ganham vida própria.",
+  "popularity": 7.9902,
+  "poster_path": "/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+  "production_companies": [
+    {
+      "id": 107356,
+      "logo_path": null,
+      "name": "BlueLight",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-02-22",
+  "revenue": 778500,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Stopmotion",
+  "video": false,
+  "vote_average": 6.207,
+  "vote_count": 205,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1323109,
+        "known_for_department": "Acting",
+        "name": "Aisling Franciosi",
+        "original_name": "Aisling Franciosi",
+        "popularity": 1.8174,
+        "profile_path": "/pE5GpcsMbFd3ZFGeiaTIvfapV6m.jpg",
+        "cast_id": 3,
+        "character": "Ella Blake",
+        "credit_id": "60c960b01130bd003fbe7c91",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134699,
+        "known_for_department": "Acting",
+        "name": "Stella Gonet",
+        "original_name": "Stella Gonet",
+        "popularity": 1.1742,
+        "profile_path": "/cUmDfX4fNvtAl5199HUc29ZDsAc.jpg",
+        "cast_id": 4,
+        "character": "Suzanne Blake",
+        "credit_id": "6519b7af072166011c019f82",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1446005,
+        "known_for_department": "Acting",
+        "name": "Tom York",
+        "original_name": "Tom York",
+        "popularity": 0.6229,
+        "profile_path": "/1v4akqB3PctvyptKPxs2gI2BlBV.jpg",
+        "cast_id": 5,
+        "character": "Tom",
+        "credit_id": "6519b7c0c50ad200c91ba4dc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1725141,
+        "known_for_department": "Acting",
+        "name": "Therica Wilson-Read",
+        "original_name": "Therica Wilson-Read",
+        "popularity": 0.9197,
+        "profile_path": "/7Q03ooAeqdDk1vOS0yFY5aCBvM3.jpg",
+        "cast_id": 37,
+        "character": "Polly",
+        "credit_id": "65f94dbe4b9bae01607e2e04",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3402928,
+        "known_for_department": "Acting",
+        "name": "Bridgitta Roy",
+        "original_name": "Bridgitta Roy",
+        "popularity": 0.2387,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Doctor Rai",
+        "credit_id": "6519b7f1a199a600fe76a665",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2424535,
+        "known_for_department": "Acting",
+        "name": "Caoilinn Springall",
+        "original_name": "Caoilinn Springall",
+        "popularity": 0.2459,
+        "profile_path": "/uZNtbPHowlBYo74U1qlTaRlrdiY.jpg",
+        "cast_id": 6,
+        "character": "Little Girl",
+        "credit_id": "6519b7ca74507d00e20e7285",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418609,
+        "known_for_department": "Acting",
+        "name": "Alex Freeborn",
+        "original_name": "Alex Freeborn",
+        "popularity": 0.1529,
+        "profile_path": "/eH5pCtfpQ5gCLH2QYjbnf5T1oal.jpg",
+        "cast_id": 38,
+        "character": "Stack",
+        "credit_id": "65f94dcfc8113d017db40980",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2215526,
+        "known_for_department": "Acting",
+        "name": "James Swanton",
+        "original_name": "James Swanton",
+        "popularity": 0.3686,
+        "profile_path": "/n7FXBEY2B56wiCR9IgqGOSNZjn1.jpg",
+        "cast_id": 7,
+        "character": "Ash Man",
+        "credit_id": "6519b7d2ea84c700eb99cbad",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4602285,
+        "known_for_department": "Acting",
+        "name": "James Harris",
+        "original_name": "James Harris",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Waiter",
+        "credit_id": "65f94e24223e20016079c933",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1678751,
+        "known_for_department": "Acting",
+        "name": "Jaz Hutchins",
+        "original_name": "Jaz Hutchins",
+        "popularity": 0.3067,
+        "profile_path": "/Ala3Jt5ny3G5X4stI7X4SPJG2cz.jpg",
+        "cast_id": 8,
+        "character": "Brett",
+        "credit_id": "6519b7dc07216600ff361d27",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3921843,
+        "known_for_department": "Acting",
+        "name": "Joshua J. Parker",
+        "original_name": "Joshua J. Parker",
+        "popularity": 0.3801,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Will",
+        "credit_id": "6519b7e69d592c00e5eff264",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2486314,
+        "known_for_department": "Acting",
+        "name": "Nicola Alexis",
+        "original_name": "Nicola Alexis",
+        "popularity": 0.2025,
+        "profile_path": "/jPynKGMPaArRB4SAr6OIGHWQRl.jpg",
+        "cast_id": 40,
+        "character": "Nurse",
+        "credit_id": "65f94e49223e20016079c96f",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137762,
+        "known_for_department": "Directing",
+        "name": "Robert Morgan",
+        "original_name": "Robert Morgan",
+        "popularity": 0.2027,
+        "profile_path": "/19GRuNljz917vHMZwSJKZ47fOEs.jpg",
+        "credit_id": "60c960881130bd0057bd13f2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137762,
+        "known_for_department": "Directing",
+        "name": "Robert Morgan",
+        "original_name": "Robert Morgan",
+        "popularity": 0.2027,
+        "profile_path": "/19GRuNljz917vHMZwSJKZ47fOEs.jpg",
+        "credit_id": "60c9607c1130bd00798262eb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1719408,
+        "known_for_department": "Production",
+        "name": "Noémie Devide",
+        "original_name": "Noémie Devide",
+        "popularity": 0.1122,
+        "profile_path": null,
+        "credit_id": "65c54bfa41eee1017a94c62c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4525770,
+        "known_for_department": "Art",
+        "name": "Ben Andrews",
+        "original_name": "Ben Andrews",
+        "popularity": 0.1617,
+        "profile_path": null,
+        "credit_id": "65c54c722d531a0163c53279",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4525766,
+        "known_for_department": "Sound",
+        "name": "Lola de la Mata",
+        "original_name": "Lola de la Mata",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65c54c0512197e017d07966c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525767,
+        "known_for_department": "Art",
+        "name": "Solomon Cuming",
+        "original_name": "Solomon Cuming",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "65c54c601b70ae0184a24036",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46294,
+        "known_for_department": "Production",
+        "name": "Christopher Granier-Deferre",
+        "original_name": "Christopher Granier-Deferre",
+        "popularity": 0.2106,
+        "profile_path": "/xvVlNRdf1mQjJav4TcPL4WluNnn.jpg",
+        "credit_id": "65c54bf08e20c5017d32ade4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1017245,
+        "known_for_department": "Camera",
+        "name": "Léo Hinstin",
+        "original_name": "Léo Hinstin",
+        "popularity": 0.1698,
+        "profile_path": null,
+        "credit_id": "65c54c0c8e20c5017d32adf2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2727148,
+        "known_for_department": "Production",
+        "name": "Amy Kate Dolan",
+        "original_name": "Amy Kate Dolan",
+        "popularity": 0.0543,
+        "profile_path": null,
+        "credit_id": "65c54c2daa659e0164ed866a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1459862,
+        "known_for_department": "Art",
+        "name": "Felicity Hickson",
+        "original_name": "Felicity Hickson",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "65c54c59fd7aa401829778c3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3501,
+        "known_for_department": "Production",
+        "name": "Dan Hubbard",
+        "original_name": "Dan Hubbard",
+        "popularity": 0.2933,
+        "profile_path": "/1lu2KM4WgcT2W950iYnzLTizJP7.jpg",
+        "credit_id": "65c54c412d531a0163c53264",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2451819,
+        "known_for_department": "Editing",
+        "name": "Aurora Vögeli",
+        "original_name": "Aurora Vögeli",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "65c54c202d531a0184c54850",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 956711,
+        "known_for_department": "Production",
+        "name": "Alain de la Mata",
+        "original_name": "Alain de la Mata",
+        "popularity": 0.1193,
+        "profile_path": null,
+        "credit_id": "65c54be6bd588b018444915a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1486269,
+        "known_for_department": "Art",
+        "name": "Jo Berglund",
+        "original_name": "Jo Berglund",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "65c54c792d531a0184c5487e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1586166,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Saffron Cullane",
+        "original_name": "Saffron Cullane",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "65c54c8312197e014b077fb7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1499110,
+        "known_for_department": "Visual Effects",
+        "name": "Katharina Bormann",
+        "original_name": "Katharina Bormann",
+        "popularity": 0.1735,
+        "profile_path": null,
+        "credit_id": "65e362029ee0ef01856f8fcf",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1935531,
+        "known_for_department": "Lighting",
+        "name": "Tim Wiley",
+        "original_name": "Tim Wiley",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "65e361da9979d2017cb0833a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143389,
+        "known_for_department": "Sound",
+        "name": "Ben Baird",
+        "original_name": "Ben Baird",
+        "popularity": 0.1561,
+        "profile_path": null,
+        "credit_id": "65e3627f2e2b2c0185b63118",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4013565,
+        "known_for_department": "Sound",
+        "name": "Archie Lamont",
+        "original_name": "Archie Lamont",
+        "popularity": 0.1753,
+        "profile_path": null,
+        "credit_id": "65e3628dfe077a01850f2108",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2307756,
+        "known_for_department": "Sound",
+        "name": "Aris Anastassopoulos",
+        "original_name": "Aris Anastassopoulos",
+        "popularity": 0.0389,
+        "profile_path": "/oq7eZIsOx5ykJuz9ZGKbYFFADXV.jpg",
+        "credit_id": "65e3626c278d8a0162bde49e",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1973268,
+        "known_for_department": "Sound",
+        "name": "Stuart Bagshaw",
+        "original_name": "Stuart Bagshaw",
+        "popularity": 0.1645,
+        "profile_path": null,
+        "credit_id": "65e362752ac4990186ee558d",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4568717,
+        "known_for_department": "Crew",
+        "name": "Charlotte Lewis",
+        "original_name": "Charlotte Lewis",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "65e36253fe077a01620e3e71",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1538770,
+        "known_for_department": "Crew",
+        "name": "Guiomar Alonso",
+        "original_name": "Guiomar Alonso",
+        "popularity": 0.2671,
+        "profile_path": null,
+        "credit_id": "65e361f51ad93b01860678df",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1622215,
+        "known_for_department": "Directing",
+        "name": "Howard Arundel",
+        "original_name": "Howard Arundel",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "65e36299b7a154018678f43f",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3046442,
+        "known_for_department": "Visual Effects",
+        "name": "Daniel Karlsson",
+        "original_name": "Daniel Karlsson",
+        "popularity": 0.1605,
+        "profile_path": null,
+        "credit_id": "65e36211a672540185a95e93",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1767629,
+        "known_for_department": "Crew",
+        "name": "Laura Moloney",
+        "original_name": "Laura Moloney",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "65e362a7db72c0017cf5fe59",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2842092,
+        "known_for_department": "Camera",
+        "name": "Malcolm Hadley",
+        "original_name": "Malcolm Hadley",
+        "popularity": 0.0566,
+        "profile_path": null,
+        "credit_id": "669dd901df0005effd98cb9e",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279177,
+        "known_for_department": "Acting",
+        "name": "Robin King",
+        "original_name": "Robin King",
+        "popularity": 0.0785,
+        "profile_path": "/3omackIiEdrzBXJ56cycsKVroh6.jpg",
+        "credit_id": "68f009f08611eb6f8b2beb7e",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10121,
+        "name": "stop motion"
+      },
+      {
+        "id": 161919,
+        "name": "adult animation"
+      },
+      {
+        "id": 209220,
+        "name": "live action and animation"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "MA 15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-07-17T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "18A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto",
+            "release_date": "2024-02-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Fantasmagoría - Festival de Cine Fantástico y de Terror de Medellín",
+            "release_date": "2024-10-10T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "PIFFF Paris International Fantastic Film Festival",
+            "release_date": "2023-12-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shadowz",
+            "release_date": "2025-09-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BFI London Film Festival",
+            "release_date": "2023-10-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray & DVD",
+            "release_date": "2024-07-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bucheon International Fantastic Film Festival",
+            "release_date": "2024-07-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-02-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Golden Horse Fantastic Film Festival",
+            "release_date": "2024-04-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantastic Fest",
+            "release_date": "2023-09-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-02-23T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-03-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

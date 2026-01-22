@@ -1,0 +1,436 @@
+{
+  "adult": false,
+  "backdrop_path": "/1Bmx197oS7RELUYfgT2Alhroo1o.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 324325,
+  "imdb_id": "tt2980626",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Twinsters",
+  "overview": "",
+  "popularity": 4.3654,
+  "poster_path": "/zU6hCAaOXj55xjJR6BeSZu3iWBo.jpg",
+  "production_companies": [
+    {
+      "id": 48370,
+      "logo_path": null,
+      "name": "Small Package Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2015-07-17",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Twinsters",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 140,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541022,
+        "known_for_department": "Acting",
+        "name": "Anais Bordier",
+        "original_name": "Anais Bordier",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "56560813c3a368198d004e5d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19859,
+        "known_for_department": "Acting",
+        "name": "Samantha Futerman",
+        "original_name": "Samantha Futerman",
+        "popularity": 0.3999,
+        "profile_path": "/wanhVp1STQBURywGl0CX11AEgEl.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "56560936c3a368196e005362",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541024,
+        "known_for_department": "Acting",
+        "name": "Kanoa Goo",
+        "original_name": "Kanoa Goo",
+        "popularity": 0.9679,
+        "profile_path": "/xKZ3ESOOEi9LWqRz4jrcHoCJJTN.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "5656082f9251414864000a5e",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2872262,
+        "known_for_department": "Art",
+        "name": "Adam Rosette",
+        "original_name": "Adam Rosette",
+        "popularity": 0.206,
+        "profile_path": null,
+        "credit_id": "62894fede004a66f33a349b7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19859,
+        "known_for_department": "Acting",
+        "name": "Samantha Futerman",
+        "original_name": "Samantha Futerman",
+        "popularity": 0.3999,
+        "profile_path": "/wanhVp1STQBURywGl0CX11AEgEl.jpg",
+        "credit_id": "54d6ad3fc3a368439a00318a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1424434,
+        "known_for_department": "Camera",
+        "name": "Ryan Miyamoto",
+        "original_name": "Ryan Miyamoto",
+        "popularity": 0.0989,
+        "profile_path": null,
+        "credit_id": "54d6ad4dc3a3683b92003a44",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19859,
+        "known_for_department": "Acting",
+        "name": "Samantha Futerman",
+        "original_name": "Samantha Futerman",
+        "popularity": 0.3999,
+        "profile_path": "/wanhVp1STQBURywGl0CX11AEgEl.jpg",
+        "credit_id": "565608b9c3a368198d004e8c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19859,
+        "known_for_department": "Acting",
+        "name": "Samantha Futerman",
+        "original_name": "Samantha Futerman",
+        "popularity": 0.3999,
+        "profile_path": "/wanhVp1STQBURywGl0CX11AEgEl.jpg",
+        "credit_id": "565608ebc3a36819920054da",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 221609,
+        "known_for_department": "Acting",
+        "name": "Jenna Ushkowitz",
+        "original_name": "Jenna Ushkowitz",
+        "popularity": 0.5096,
+        "profile_path": "/p60eXWfXk1JLQQqZqOi6IvZdBfd.jpg",
+        "credit_id": "5713eb569251414a71002938",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1396242,
+        "known_for_department": "Sound",
+        "name": "Mark degli Antoni",
+        "original_name": "Mark degli Antoni",
+        "popularity": 0.2361,
+        "profile_path": null,
+        "credit_id": "5fe0f3a4eb09320042551215",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2903743,
+        "known_for_department": "Sound",
+        "name": "Martin Molin",
+        "original_name": "Martin Molin",
+        "popularity": 0.0322,
+        "profile_path": null,
+        "credit_id": "5fe0f3aef706de003e828ffa",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1424434,
+        "known_for_department": "Camera",
+        "name": "Ryan Miyamoto",
+        "original_name": "Ryan Miyamoto",
+        "popularity": 0.0989,
+        "profile_path": null,
+        "credit_id": "5fe0f3b5764841003d71a6ec",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22294,
+        "known_for_department": "Editing",
+        "name": "Jeff Consiglio",
+        "original_name": "Jeff Consiglio",
+        "popularity": 0.1755,
+        "profile_path": "/lLjjPJ2F906VysjfnRJc5jEl4Zm.jpg",
+        "credit_id": "5fe0f3baa0b690003ea3e712",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1301177,
+        "known_for_department": "Production",
+        "name": "James J. Yi",
+        "original_name": "James J. Yi",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "credit_id": "5fe0f4befd4a96003e319f89",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1424434,
+        "known_for_department": "Camera",
+        "name": "Ryan Miyamoto",
+        "original_name": "Ryan Miyamoto",
+        "popularity": 0.0989,
+        "profile_path": null,
+        "credit_id": "5fe0f4cfd70594003c2f0510",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541024,
+        "known_for_department": "Acting",
+        "name": "Kanoa Goo",
+        "original_name": "Kanoa Goo",
+        "popularity": 0.9679,
+        "profile_path": "/xKZ3ESOOEi9LWqRz4jrcHoCJJTN.jpg",
+        "credit_id": "5fe0f4d65545ca003edf989d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2903751,
+        "known_for_department": "Production",
+        "name": "Eileen DeNobile",
+        "original_name": "Eileen DeNobile",
+        "popularity": 0.066,
+        "profile_path": null,
+        "credit_id": "5fe0f4df764841003d71a910",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22294,
+        "known_for_department": "Editing",
+        "name": "Jeff Consiglio",
+        "original_name": "Jeff Consiglio",
+        "popularity": 0.1755,
+        "profile_path": "/lLjjPJ2F906VysjfnRJc5jEl4Zm.jpg",
+        "credit_id": "5fe0f4e6d70594003e2c8205",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1599373,
+        "known_for_department": "Writing",
+        "name": "Yamato Cibulka",
+        "original_name": "Yamato Cibulka",
+        "popularity": 0.0686,
+        "profile_path": "/qqTEZ0hHe7iiONSFtPgN06k6MuH.jpg",
+        "credit_id": "5fe0f4eefb52990040af8f34",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65225,
+        "known_for_department": "Acting",
+        "name": "Justin Chon",
+        "original_name": "Justin Chon",
+        "popularity": 0.9579,
+        "profile_path": "/fGgdkJO7SAPHNo3siSyaYUpguyj.jpg",
+        "credit_id": "5fe0f4fef706de003e8291a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1214543,
+        "known_for_department": "Production",
+        "name": "Robert Breech",
+        "original_name": "Robert Breech",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "credit_id": "5fe0f5071b157d003ec6cbf1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2903755,
+        "known_for_department": "Production",
+        "name": "Lisa Arendarski",
+        "original_name": "Lisa Arendarski",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5fe0f510e7c097003e19b0e7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503147,
+        "known_for_department": "Acting",
+        "name": "Michael Scott Allen",
+        "original_name": "Michael Scott Allen",
+        "popularity": 0.1183,
+        "profile_path": "/ad6fGiWncyMfiycxVrIk96Zov95.jpg",
+        "credit_id": "5fe0f5181b157d0041c7eb10",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1608,
+        "name": "twin sister"
+      },
+      {
+        "id": 2393,
+        "name": "adoption"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 210281,
+        "name": "sisterhood"
+      },
+      {
+        "id": 231520,
+        "name": "international adoption"
+      },
+      {
+        "id": 272877,
+        "name": "korean"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2016-03-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-07-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

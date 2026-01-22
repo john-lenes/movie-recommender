@@ -1,0 +1,821 @@
+{
+  "adult": false,
+  "backdrop_path": "/aLulOrEbBua5D5lsTlo3a204dih.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 284470,
+  "imdb_id": "tt3715406",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Atari: Game Over",
+  "overview": "O documentário narra a queda da Atari Corporation através da lente de um dos maiores mistérios de todos os tempos, apelidado de \"O Grande Enterro de 1983\". Segundo a história, a Atari Corporation, confrontada com uma esmagadora resposta negativa ao jogo para o Atari 2600 \"E.T.\", se livrou de centenas de milhares de cartuchos de jogos não vendidos os enterrando na pequena cidade de Alamogordo, Novo México.",
+  "popularity": 7.0044,
+  "poster_path": "/69VCXTki2gDutUhndJgU8UHlvxA.jpg",
+  "production_companies": [
+    {
+      "id": 46526,
+      "logo_path": "/PHcO0gVU7JvEp39NaflWtnNp9X.png",
+      "name": "Xbox Entertainment Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 15285,
+      "logo_path": "/wvM3yt9OZwmAYzYWE4RWn45eZeh.png",
+      "name": "Lightbox Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 205495,
+      "logo_path": null,
+      "name": "Fuel Entertainment USA",
+      "origin_country": ""
+    },
+    {
+      "id": 83194,
+      "logo_path": null,
+      "name": "GRAiNEY Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 12840,
+      "logo_path": null,
+      "name": "Red Box Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-11-19",
+  "revenue": 0,
+  "runtime": 66,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Atari: Game Over",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 230,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189255,
+        "known_for_department": "Acting",
+        "name": "Nolan Bushnell",
+        "original_name": "Nolan Bushnell",
+        "popularity": 0.1631,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "54de63d8c3a368454b001c74",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1204915,
+        "known_for_department": "Directing",
+        "name": "Howard Scott Warshaw",
+        "original_name": "Howard Scott Warshaw",
+        "popularity": 0.6,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "54de63e5c3a368537a00199b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1426996,
+        "known_for_department": "Acting",
+        "name": "Manny Gerard",
+        "original_name": "Manny Gerard",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "54de6571c3a3684555001ebd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1426998,
+        "known_for_department": "Acting",
+        "name": "Joe Lewandowski",
+        "original_name": "Joe Lewandowski",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "54de659092514103bb0019b1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1426999,
+        "known_for_department": "Acting",
+        "name": "Paul Sanchez",
+        "original_name": "Paul Sanchez",
+        "popularity": 0.0786,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "54de65ca92514103bb0019b8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427000,
+        "known_for_department": "Acting",
+        "name": "Ernest Cline",
+        "original_name": "Ernest Cline",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "54de660cc3a36845410023f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427001,
+        "known_for_department": "Acting",
+        "name": "Seamus Blackley",
+        "original_name": "Seamus Blackley",
+        "popularity": 0.2252,
+        "profile_path": "/vMp0wsK0yjN6qYHwWNQ5hk6vftZ.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "54de66e39251411953001eaa",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427002,
+        "known_for_department": "Acting",
+        "name": "Raiford Guins",
+        "original_name": "Raiford Guins",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "54de67019251417feb001c19",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427003,
+        "known_for_department": "Acting",
+        "name": "Mike Mika",
+        "original_name": "Mike Mika",
+        "popularity": 0.1087,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "54de671bc3a368454b001cad",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427004,
+        "known_for_department": "Acting",
+        "name": "Andrew Reinhard",
+        "original_name": "Andrew Reinhard",
+        "popularity": 0.0463,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "54de673fc3a3684541002412",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237053,
+        "known_for_department": "Writing",
+        "name": "George R. R. Martin",
+        "original_name": "George R. R. Martin",
+        "popularity": 1.5278,
+        "profile_path": "/1A7W0L9dZz0rCN1oj6h8YUvusdN.jpg",
+        "cast_id": 45,
+        "character": "Self",
+        "credit_id": "6751d44272d1a8a59c298aa2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 1.8554,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "cast_id": 46,
+        "character": "Self (archival)",
+        "credit_id": "6751d455ab37fcd3e8850d9b",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11011,
+        "known_for_department": "Writing",
+        "name": "Zak Penn",
+        "original_name": "Zak Penn",
+        "popularity": 0.6688,
+        "profile_path": "/5Zx3o1Fmlu4sIYq4xn5WLyK2GNM.jpg",
+        "credit_id": "53d9e03a0e0a2652e2001635",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11011,
+        "known_for_department": "Writing",
+        "name": "Zak Penn",
+        "original_name": "Zak Penn",
+        "popularity": 0.6688,
+        "profile_path": "/5Zx3o1Fmlu4sIYq4xn5WLyK2GNM.jpg",
+        "credit_id": "5515f0679251413ec4000197",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21276,
+        "known_for_department": "Sound",
+        "name": "Stephen Endelman",
+        "original_name": "Stephen Endelman",
+        "popularity": 0.2722,
+        "profile_path": "/sXwaktgsQQSKrdyqW8pceHdvXA1.jpg",
+        "credit_id": "64cd3ef4d64ac200ac8f4a6e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2132343,
+        "known_for_department": "Camera",
+        "name": "Justin Jeung",
+        "original_name": "Justin Jeung",
+        "popularity": 0.1153,
+        "profile_path": null,
+        "credit_id": "64cd41d8196757011c40c033",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197442,
+        "known_for_department": "Camera",
+        "name": "Kevin St John",
+        "original_name": "Kevin St John",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64cd41e960c51d00aca8addc",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1181321,
+        "known_for_department": "Production",
+        "name": "Simon Chinn",
+        "original_name": "Simon Chinn",
+        "popularity": 0.1743,
+        "profile_path": "/7FYUMJrnRLRpvRPsagvkNEnAwdR.jpg",
+        "credit_id": "64cd3e89813cb600ae0f97ba",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541010,
+        "known_for_department": "Production",
+        "name": "Jada Miranda",
+        "original_name": "Jada Miranda",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "64cd3eaae18b970144767f4e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1213524,
+        "known_for_department": "Production",
+        "name": "Stuart Schwartz",
+        "original_name": "Stuart Schwartz",
+        "popularity": 0.1774,
+        "profile_path": null,
+        "credit_id": "64cd3ed7196757011c40bf0e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1115250,
+        "known_for_department": "Editing",
+        "name": "Andrew Seklir",
+        "original_name": "Andrew Seklir",
+        "popularity": 0.3785,
+        "profile_path": null,
+        "credit_id": "64cd409960c51d00c82b1924",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1407710,
+        "known_for_department": "Camera",
+        "name": "Lewis Jacobs",
+        "original_name": "Lewis Jacobs",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "credit_id": "64cd41c7e18b9700e7adad11",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197416,
+        "known_for_department": "Production",
+        "name": "Megan Raney Aarons",
+        "original_name": "Megan Raney Aarons",
+        "popularity": 0.0529,
+        "profile_path": null,
+        "credit_id": "64cd3e44813cb600ae0f97a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2349124,
+        "known_for_department": "Camera",
+        "name": "Eric Zimmerman",
+        "original_name": "Eric Zimmerman",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "64cd40138289a000e7bdd37b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2219536,
+        "known_for_department": "Sound",
+        "name": "Carlos Corral",
+        "original_name": "Carlos Corral",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "64cd40bc196757011c40bfcb",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2853275,
+        "known_for_department": "Editing",
+        "name": "Jeremy Diller",
+        "original_name": "Jeremy Diller",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "64cd423120af7700e27a6952",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770915,
+        "known_for_department": "Production",
+        "name": "Ari Mark",
+        "original_name": "Ari Mark",
+        "popularity": 0.1539,
+        "profile_path": "/oPqepoJSLjsfT07OO9Qul3oHpUS.jpg",
+        "credit_id": "64cd3e9c20af770139f54554",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197444,
+        "known_for_department": "Camera",
+        "name": "Ash Wagers",
+        "original_name": "Ash Wagers",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "64cd420fd64ac2011c5378f4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217258,
+        "known_for_department": "Writing",
+        "name": "Francis Gasparini",
+        "original_name": "Francis Gasparini",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "credit_id": "64cd3e25e18b970125ebc9de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865686,
+        "known_for_department": "Sound",
+        "name": "Darryl L. Frank",
+        "original_name": "Darryl L. Frank",
+        "popularity": 0.208,
+        "profile_path": null,
+        "credit_id": "64cd40cfe18b970125ebcaa4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1244034,
+        "known_for_department": "Production",
+        "name": "Jonathan Chinn",
+        "original_name": "Jonathan Chinn",
+        "popularity": 0.1922,
+        "profile_path": null,
+        "credit_id": "64cd3e78813cb60101187dd2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197440,
+        "known_for_department": "Sound",
+        "name": "Isabel Shaw",
+        "original_name": "Isabel Shaw",
+        "popularity": 0.0521,
+        "profile_path": null,
+        "credit_id": "64cd419060c51d0106e10049",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2425834,
+        "known_for_department": "Camera",
+        "name": "David Y. Chung",
+        "original_name": "David Y. Chung",
+        "popularity": 0.0714,
+        "profile_path": null,
+        "credit_id": "64cd41a18289a001250e602f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1579001,
+        "known_for_department": "Camera",
+        "name": "Daniel Zollinger",
+        "original_name": "Daniel Zollinger",
+        "popularity": 0.0957,
+        "profile_path": null,
+        "credit_id": "64cd421fe18b97010665bb79",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197447,
+        "known_for_department": "Editing",
+        "name": "Sasha Esfahani",
+        "original_name": "Sasha Esfahani",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "64cd423d813cb60101187ef5",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 90575,
+        "known_for_department": "Writing",
+        "name": "Daniel Schechter",
+        "original_name": "Daniel Schechter",
+        "popularity": 0.2911,
+        "profile_path": null,
+        "credit_id": "64cd3e5f8289a001250e5f1a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 166235,
+        "known_for_department": "Sound",
+        "name": "Andy Hay",
+        "original_name": "Andy Hay",
+        "popularity": 0.2228,
+        "profile_path": null,
+        "credit_id": "64cd4112e18b97014476803a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1203456,
+        "known_for_department": "Directing",
+        "name": "Colin K. Gray",
+        "original_name": "Colin K. Gray",
+        "popularity": 0.2083,
+        "profile_path": "/2DrGjyNPeYQpS0v4HG0ak3kmVg.jpg",
+        "credit_id": "64cd3e341967570139f42db2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2774785,
+        "known_for_department": "Lighting",
+        "name": "Myke Groves",
+        "original_name": "Myke Groves",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "64cd41b360c51d00e7f61b72",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 939541,
+        "known_for_department": "Camera",
+        "name": "Daniel Marracino",
+        "original_name": "Daniel Marracino",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "credit_id": "64cd41fe20af7700c524b668",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459849,
+        "known_for_department": "Visual Effects",
+        "name": "James Honaker",
+        "original_name": "James Honaker",
+        "popularity": 0.1795,
+        "profile_path": null,
+        "credit_id": "64cd424b8289a000aed38d09",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197420,
+        "known_for_department": "Production",
+        "name": "Catherine Pasciak",
+        "original_name": "Catherine Pasciak",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64cd3ec6e18b9700e7adabf5",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2219536,
+        "known_for_department": "Sound",
+        "name": "Carlos Corral",
+        "original_name": "Carlos Corral",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "64cd40ac196757011c40bfc4",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197450,
+        "known_for_department": "Editing",
+        "name": "Bryce Patingre",
+        "original_name": "Bryce Patingre",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "64cd426ad64ac200e27ca378",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197412,
+        "known_for_department": "Production",
+        "name": "Mike A. Burns",
+        "original_name": "Mike A. Burns",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "64cd3e17e18b970144767f17",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197417,
+        "known_for_department": "Production",
+        "name": "Gerhard Runken",
+        "original_name": "Gerhard Runken",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "credit_id": "64cd3e531967570139f42dc4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 938428,
+        "known_for_department": "Sound",
+        "name": "Zed Starkovich",
+        "original_name": "Zed Starkovich",
+        "popularity": 0.1905,
+        "profile_path": null,
+        "credit_id": "64cd42838289a00106f52d74",
+        "department": "Sound",
+        "job": "Music Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 282,
+        "name": "video game"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 163828,
+        "name": "landfill"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Xbox Video",
+            "release_date": "2014-11-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2015-04-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Xbox Video",
+            "release_date": "2014-11-19T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Showtime",
+            "release_date": "2015-04-16T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Xbox Video",
+            "release_date": "2014-11-19T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2015-04-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Showtime",
+            "release_date": "2015-04-16T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

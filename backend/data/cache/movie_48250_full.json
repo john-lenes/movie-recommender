@@ -1,0 +1,568 @@
+{
+  "adult": false,
+  "backdrop_path": "/wLEGgP8JzTsALFNObh3np7tWcJy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    }
+  ],
+  "homepage": "",
+  "id": 48250,
+  "imdb_id": "tt0888496",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Fascisti su Marte",
+  "overview": "",
+  "popularity": 7.4501,
+  "poster_path": "/b67LzCHxL7lAk3tun8XYNOQpe1e.jpg",
+  "production_companies": [
+    {
+      "id": 82005,
+      "logo_path": null,
+      "name": "Studio Uno",
+      "origin_country": "IT"
+    },
+    {
+      "id": 2441,
+      "logo_path": "/7Vutdea75apwXkRyfQ4Ne6j0KcN.png",
+      "name": "Fandango",
+      "origin_country": "IT"
+    },
+    {
+      "id": 176257,
+      "logo_path": null,
+      "name": "Kipli Entertainment",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2006-10-27",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fascisti su Marte",
+  "video": false,
+  "vote_average": 6.679,
+  "vote_count": 184,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134219,
+        "known_for_department": "Acting",
+        "name": "Corrado Guzzanti",
+        "original_name": "Corrado Guzzanti",
+        "popularity": 0.2938,
+        "profile_path": "/z2bW9vBzWIMUMfacJn6NgjYOugb.jpg",
+        "cast_id": 1,
+        "character": "Gerarca Barbagli",
+        "credit_id": "52fe475cc3a36847f813165f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140107,
+        "known_for_department": "Acting",
+        "name": "Marco Marzocca",
+        "original_name": "Marco Marzocca",
+        "popularity": 0.3509,
+        "profile_path": "/tk51cw85ucwNTP7g6zsWuVDvy6y.jpg",
+        "cast_id": 2,
+        "character": "Freghieri",
+        "credit_id": "52fe475cc3a36847f8131663",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78713,
+        "known_for_department": "Acting",
+        "name": "Caterina Guzzanti",
+        "original_name": "Caterina Guzzanti",
+        "popularity": 0.4211,
+        "profile_path": "/hhzgOoBFkIexBWGXqxyP3jRwIWc.jpg",
+        "cast_id": 3,
+        "character": "Prima Amazzone",
+        "credit_id": "52fe475cc3a36847f8131667",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687981,
+        "known_for_department": "Acting",
+        "name": "Andrea Blarzino",
+        "original_name": "Andrea Blarzino",
+        "popularity": 0.0468,
+        "profile_path": "/4hgWuN21SdHfT0TljS0L10MX91M.jpg",
+        "cast_id": 6,
+        "character": "Santodio",
+        "credit_id": "57f0e913c3a3683ea90093a4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229572,
+        "known_for_department": "Acting",
+        "name": "Lillo",
+        "original_name": "Lillo",
+        "popularity": 0.2651,
+        "profile_path": "/8PbWSjZ1pv6iA1j6JVgSsPOu2ED.jpg",
+        "cast_id": 10,
+        "character": "Pini",
+        "credit_id": "5d545b3a00bfe80017315e2c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131663,
+        "known_for_department": "Writing",
+        "name": "Andrea Purgatori",
+        "original_name": "Andrea Purgatori",
+        "popularity": 0.1825,
+        "profile_path": "/1iMZSj4RpYpVqqrvDwhQwqkRMtr.jpg",
+        "cast_id": 8,
+        "character": "Fecchia",
+        "credit_id": "57f0e92dc3a368593c000605",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687982,
+        "known_for_department": "Production",
+        "name": "Andrea Salerno",
+        "original_name": "Andrea Salerno",
+        "popularity": 0.1385,
+        "profile_path": "/6vP09QcBJNW8kEVsshxLjRP8Nym.jpg",
+        "cast_id": 9,
+        "character": "Balilla Bruno Caorso",
+        "credit_id": "57f0e941c3a368593f0005ff",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 234717,
+        "known_for_department": "Acting",
+        "name": "Irene Ferri",
+        "original_name": "Irene Ferri",
+        "popularity": 0.2598,
+        "profile_path": "/ogv9qdvkc2GDpdUbHHm6uit97zM.jpg",
+        "cast_id": 14,
+        "character": "Capo Amazzone",
+        "credit_id": "5e218bdacf4b8b0017f0cfd9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512504,
+        "known_for_department": "Acting",
+        "name": "Simona Banchi",
+        "original_name": "Simona Banchi",
+        "popularity": 0.0533,
+        "profile_path": "/fmCD24KZAZmdPeqGhTu4ahKfjZi.jpg",
+        "cast_id": 15,
+        "character": "Madonna del Manganello",
+        "credit_id": "5e218c13bfeb8b0013ce5620",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 124625,
+        "known_for_department": "Acting",
+        "name": "Paola Minaccioni",
+        "original_name": "Paola Minaccioni",
+        "popularity": 0.3605,
+        "profile_path": "/n7RsnZJ2k9eCRZzK0OgnfA4eUr4.jpg",
+        "cast_id": 16,
+        "character": "Befana fascista",
+        "credit_id": "5e218c34bfeb8b0013ce566f",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134219,
+        "known_for_department": "Acting",
+        "name": "Corrado Guzzanti",
+        "original_name": "Corrado Guzzanti",
+        "popularity": 0.2938,
+        "profile_path": "/z2bW9vBzWIMUMfacJn6NgjYOugb.jpg",
+        "credit_id": "52fe475cc3a36847f813166d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236069,
+        "known_for_department": "Directing",
+        "name": "Igor Skofic",
+        "original_name": "Igor Skofic",
+        "popularity": 0.1375,
+        "profile_path": null,
+        "credit_id": "52fe475cc3a36847f8131673",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512516,
+        "known_for_department": "Production",
+        "name": "Chiara Capparella",
+        "original_name": "Chiara Capparella",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "62952ef5eee186006797712b",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 373757,
+        "known_for_department": "Production",
+        "name": "Laura Paolucci",
+        "original_name": "Laura Paolucci",
+        "popularity": 0.3496,
+        "profile_path": "/z7kV6BLJqXOaVPJMef8YOr25Jc.jpg",
+        "credit_id": "62952f2ca44d090067b97f0a",
+        "department": "Production",
+        "job": "Delegated Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2593205,
+        "known_for_department": "Production",
+        "name": "Valeria Licurgo",
+        "original_name": "Valeria Licurgo",
+        "popularity": 0.0933,
+        "profile_path": null,
+        "credit_id": "62952f39a410c815a36003ea",
+        "department": "Production",
+        "job": "Delegated Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1169251,
+        "known_for_department": "Production",
+        "name": "Giovanni Di Pasquale",
+        "original_name": "Giovanni Di Pasquale",
+        "popularity": 0.1459,
+        "profile_path": null,
+        "credit_id": "62952f49cddbbc130cbcca0f",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2212149,
+        "known_for_department": "Acting",
+        "name": "Paola Cannatello",
+        "original_name": "Paola Cannatello",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "62952f6476eecf75b1ee6b95",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 932540,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Veronica Fragola",
+        "original_name": "Veronica Fragola",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "62952ff41e922500641486cd",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134219,
+        "known_for_department": "Acting",
+        "name": "Corrado Guzzanti",
+        "original_name": "Corrado Guzzanti",
+        "popularity": 0.2938,
+        "profile_path": "/z2bW9vBzWIMUMfacJn6NgjYOugb.jpg",
+        "credit_id": "6295306c0a517c0051c6f3fc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2736576,
+        "known_for_department": "Production",
+        "name": "Valerio Terenzio",
+        "original_name": "Valerio Terenzio",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "629530755507e9009af4e88f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72051,
+        "known_for_department": "Production",
+        "name": "Domenico Procacci",
+        "original_name": "Domenico Procacci",
+        "popularity": 0.2043,
+        "profile_path": "/zZYhgBDgVc39Jmjz11vajaWW06b.jpg",
+        "credit_id": "629530810e597b009e4eadc4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3570344,
+        "known_for_department": "Directing",
+        "name": "Massimiliano De Nicola",
+        "original_name": "Massimiliano De Nicola",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "629530dc5a4690510ef00f12",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3570347,
+        "known_for_department": "Editing",
+        "name": "Maria Cristina Marra",
+        "original_name": "Maria Cristina Marra",
+        "popularity": 0.1206,
+        "profile_path": null,
+        "credit_id": "629530fba410c815a405149e",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3570350,
+        "known_for_department": "Camera",
+        "name": "Fabio Petocchi",
+        "original_name": "Fabio Petocchi",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "6295311a5507e90066b8f867",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1630070,
+        "known_for_department": "Visual Effects",
+        "name": "Rodolfo Migliari",
+        "original_name": "Rodolfo Migliari",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "6295312cdf86a834e230f005",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3518297,
+        "known_for_department": "Visual Effects",
+        "name": "Francesco Paglia",
+        "original_name": "Francesco Paglia",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "629531400f21c615394ce787",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1573580,
+        "known_for_department": "Sound",
+        "name": "Gabriele Gubbini",
+        "original_name": "Gabriele Gubbini",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "credit_id": "62953165ca8354009a5b0e2e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2216196,
+        "known_for_department": "Directing",
+        "name": "Lucille Cristaldi",
+        "original_name": "Lucille Cristaldi",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "63160a0b1d3143007dcfc0ea",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134219,
+        "known_for_department": "Acting",
+        "name": "Corrado Guzzanti",
+        "original_name": "Corrado Guzzanti",
+        "popularity": 0.2938,
+        "profile_path": "/z2bW9vBzWIMUMfacJn6NgjYOugb.jpg",
+        "credit_id": "5e218b9e8f26bc0015736642",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134219,
+        "known_for_department": "Acting",
+        "name": "Corrado Guzzanti",
+        "original_name": "Corrado Guzzanti",
+        "popularity": 0.2938,
+        "profile_path": "/z2bW9vBzWIMUMfacJn6NgjYOugb.jpg",
+        "credit_id": "5e218bb4397df0001498272a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236069,
+        "known_for_department": "Directing",
+        "name": "Igor Skofic",
+        "original_name": "Igor Skofic",
+        "popularity": 0.1375,
+        "profile_path": null,
+        "credit_id": "5e218cb2397df000149828fb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034125,
+        "known_for_department": "Editing",
+        "name": "Cristiano Travaglioli",
+        "original_name": "Cristiano Travaglioli",
+        "popularity": 0.4118,
+        "profile_path": null,
+        "credit_id": "5e218ccb8f26bc0015736980",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512511,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Isabella Melloni",
+        "original_name": "Isabella Melloni",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e218ce0cf4b8b0017f0d15f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2512504,
+        "known_for_department": "Acting",
+        "name": "Simona Banchi",
+        "original_name": "Simona Banchi",
+        "popularity": 0.0533,
+        "profile_path": "/fmCD24KZAZmdPeqGhTu4ahKfjZi.jpg",
+        "credit_id": "5e218cfdcf4b8b0014f0ad67",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1755,
+        "name": "fascism"
+      },
+      {
+        "id": 169086,
+        "name": "political satire"
+      },
+      {
+        "id": 214548,
+        "name": "1930s"
+      },
+      {
+        "id": 362545,
+        "name": "mars"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-10-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

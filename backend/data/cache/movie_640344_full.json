@@ -1,0 +1,602 @@
+{
+  "adult": false,
+  "backdrop_path": "/wooZWiC4NWH0ahCSUOogEmVejHo.jpg",
+  "belongs_to_collection": {
+    "id": 733985,
+    "name": "Me contro Te - Saga",
+    "poster_path": "/dn1GBteS1CxaGAjvXLWDGYweQYo.jpg",
+    "backdrop_path": null
+  },
+  "budget": 75000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "",
+  "id": 640344,
+  "imdb_id": "tt11559652",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Me contro Te: Il film - La vendetta del Signor S",
+  "overview": "Um jovem casal que faz vídeos populares no YouTube para crianças se propõe a ganhar um prêmio, mas um gênio do mal impede seu sucesso.",
+  "popularity": 0.7344,
+  "poster_path": "/sfeQTIRkJjWt8IPDSBcPqkrcaas.jpg",
+  "production_companies": [
+    {
+      "id": 12923,
+      "logo_path": null,
+      "name": "Warner Bros Pictures Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 124339,
+      "logo_path": "/2BRGgfgM7ZbVCD97N2CEh0AhTn9.png",
+      "name": "Me contro Te",
+      "origin_country": ""
+    },
+    {
+      "id": 2534,
+      "logo_path": "/6aizJC0RRO5oprJMYf2PBAB7lyZ.png",
+      "name": "Colorado Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2020-01-17",
+  "revenue": 9500000,
+  "runtime": 64,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Eu Contra Você: A Vingança do Sr. S",
+  "video": false,
+  "vote_average": 8.05,
+  "vote_count": 471,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2436933,
+        "known_for_department": "Acting",
+        "name": "Sofia Scalia",
+        "original_name": "Sofia Scalia",
+        "popularity": 0.1568,
+        "profile_path": "/9kalg3lWQoYV9hCXeXyi0C3FvIv.jpg",
+        "cast_id": 1,
+        "character": "Sofì",
+        "credit_id": "5dac68deae3668001298f39a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436934,
+        "known_for_department": "Acting",
+        "name": "Luigi Calagna",
+        "original_name": "Luigi Calagna",
+        "popularity": 0.102,
+        "profile_path": "/9JFtQGfnac7lkt5e0rVpRP237dN.jpg",
+        "cast_id": 2,
+        "character": "Luì",
+        "credit_id": "5dac68e93d3557001271751e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1328360,
+        "known_for_department": "Acting",
+        "name": "Antonella Carone",
+        "original_name": "Antonella Carone",
+        "popularity": 0.187,
+        "profile_path": "/9w7ektL7qbPZGn4BkkResnW7AGC.jpg",
+        "cast_id": 15,
+        "character": "Perfidia",
+        "credit_id": "5e1c6d646a300b00165e4c2a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2508882,
+        "known_for_department": "Acting",
+        "name": "Michele Savoia",
+        "original_name": "Michele Savoia",
+        "popularity": 0.2862,
+        "profile_path": "/kV24k4gDPpBnpI8aV9yBT2DCTe.jpg",
+        "cast_id": 16,
+        "character": "Pongo",
+        "credit_id": "5e1c6d85e194b00016b7d351",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1749081,
+        "known_for_department": "Acting",
+        "name": "Giustina Buonomo",
+        "original_name": "Giustina Buonomo",
+        "popularity": 0.0883,
+        "profile_path": "/kF9s61VpPSxyJdqTmD1P5VuAX1J.jpg",
+        "cast_id": 18,
+        "character": "Signora Marisa",
+        "credit_id": "5e22ecb6bfeb8b0015d16211",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2513541,
+        "known_for_department": "Acting",
+        "name": "Maria Protomastro",
+        "original_name": "Maria Protomastro",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Presentatrice",
+        "credit_id": "5e22ecca397df000149af341",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2439759,
+        "known_for_department": "Acting",
+        "name": "Fernando Di Virgilio",
+        "original_name": "Fernando Di Virgilio",
+        "popularity": 0.0843,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Vecchio saggio",
+        "credit_id": "60c535067a97ab0059513f61",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3122996,
+        "known_for_department": "Acting",
+        "name": "Paolo Di Caprio",
+        "original_name": "Paolo Di Caprio",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Signor S (voce)",
+        "credit_id": "60c530ab29383500293b9491",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3030550,
+        "known_for_department": "Production",
+        "name": "Giusy Marrone",
+        "original_name": "Giusy Marrone",
+        "popularity": 0.1131,
+        "profile_path": null,
+        "credit_id": "60c530df5a46900040279da4",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540932,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cristina Audisio",
+        "original_name": "Cristina Audisio",
+        "popularity": 0.1131,
+        "profile_path": null,
+        "credit_id": "63cd585fe24b93009b9d15bd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1574472,
+        "known_for_department": "Sound",
+        "name": "Roberto Sestito",
+        "original_name": "Roberto Sestito",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "63cd589f9a64350082545e2b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2745350,
+        "known_for_department": "Art",
+        "name": "Mario Torre",
+        "original_name": "Mario Torre",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "63cd58bd09dda400959220da",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436934,
+        "known_for_department": "Acting",
+        "name": "Luigi Calagna",
+        "original_name": "Luigi Calagna",
+        "popularity": 0.102,
+        "profile_path": "/9JFtQGfnac7lkt5e0rVpRP237dN.jpg",
+        "credit_id": "63cd5db7d363e5008e8f50db",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2436933,
+        "known_for_department": "Acting",
+        "name": "Sofia Scalia",
+        "original_name": "Sofia Scalia",
+        "popularity": 0.1568,
+        "profile_path": "/9kalg3lWQoYV9hCXeXyi0C3FvIv.jpg",
+        "credit_id": "63cd5db06d97e600b74dcec1",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4024836,
+        "known_for_department": "Directing",
+        "name": "Laura Orrù",
+        "original_name": "Laura Orrù",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "64454dddad87f7044e72a7f4",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4024862,
+        "known_for_department": "Visual Effects",
+        "name": "Carla Di Ilio",
+        "original_name": "Carla Di Ilio",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "64454e1fd35dea0481fc5a71",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4024863,
+        "known_for_department": "Art",
+        "name": "Melissa Fasolino",
+        "original_name": "Melissa Fasolino",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "64454eb2651fcf05069dbf2f",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3833353,
+        "known_for_department": "Crew",
+        "name": "Nuccio Canino",
+        "original_name": "Nuccio Canino",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "64454e0bb3f6f502fc9f2bbc",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3112242,
+        "known_for_department": "Production",
+        "name": "Elisabetta Ariemma",
+        "original_name": "Elisabetta Ariemma",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "64454e7e058224053d3359c6",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3162773,
+        "known_for_department": "Production",
+        "name": "Gaia Antifora",
+        "original_name": "Gaia Antifora",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "credit_id": "64454e8ca06efe05c4a59911",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1482068,
+        "known_for_department": "Production",
+        "name": "Antonio Tacchia",
+        "original_name": "Antonio Tacchia",
+        "popularity": 0.1328,
+        "profile_path": null,
+        "credit_id": "64454e96d35dea0481fc5a9a",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1118300,
+        "known_for_department": "Production",
+        "name": "Maurizio Totti",
+        "original_name": "Maurizio Totti",
+        "popularity": 0.2048,
+        "profile_path": null,
+        "credit_id": "64454ea0651fcf5b8a9da184",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3059427,
+        "known_for_department": "Production",
+        "name": "Flavia Scardini",
+        "original_name": "Flavia Scardini",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "64454e63058224053d3359ba",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3030552,
+        "known_for_department": "Production",
+        "name": "Simone Tacchia",
+        "original_name": "Simone Tacchia",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "credit_id": "64454e51b3f6f502fc9f2bd3",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2048378,
+        "known_for_department": "Crew",
+        "name": "Elio Terribili",
+        "original_name": "Elio Terribili",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "64454e2e2811a1047f42e39f",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2313545,
+        "known_for_department": "Sound",
+        "name": "Giovanni Arcadu",
+        "original_name": "Giovanni Arcadu",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "64454df2d35dea0505fc2ab5",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017853,
+        "known_for_department": "Crew",
+        "name": "Alessandro Baragli",
+        "original_name": "Alessandro Baragli",
+        "popularity": 0.1602,
+        "profile_path": null,
+        "credit_id": "64454e6fa06efe0552a59455",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4024836,
+        "known_for_department": "Directing",
+        "name": "Laura Orrù",
+        "original_name": "Laura Orrù",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "64454de4651fcf04dc9db848",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436936,
+        "known_for_department": "Directing",
+        "name": "Gianluca Leuzzi",
+        "original_name": "Gianluca Leuzzi",
+        "popularity": 0.0847,
+        "profile_path": "/yqVoTlUaqzVeqOkf9YAO9iXyH5f.jpg",
+        "credit_id": "5dac69773876510010dd1ae6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2207412,
+        "known_for_department": "Writing",
+        "name": "Emanuela Canonico",
+        "original_name": "Emanuela Canonico",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "5de4ece40cd44600143abbc8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570156,
+        "known_for_department": "Crew",
+        "name": "Davide Crippa",
+        "original_name": "Davide Crippa",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5de4ed613faba000130e8a41",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2436933,
+        "known_for_department": "Acting",
+        "name": "Sofia Scalia",
+        "original_name": "Sofia Scalia",
+        "popularity": 0.1568,
+        "profile_path": "/9kalg3lWQoYV9hCXeXyi0C3FvIv.jpg",
+        "credit_id": "5de4ed813faba000190f925b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2473124,
+        "known_for_department": "Writing",
+        "name": "Andrea Boin",
+        "original_name": "Andrea Boin",
+        "popularity": 0.1171,
+        "profile_path": null,
+        "credit_id": "5de4ecf611386c0013512dee",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436934,
+        "known_for_department": "Acting",
+        "name": "Luigi Calagna",
+        "original_name": "Luigi Calagna",
+        "popularity": 0.102,
+        "profile_path": "/9JFtQGfnac7lkt5e0rVpRP237dN.jpg",
+        "credit_id": "5de4ed75a7e36300166d3425",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2436934,
+        "known_for_department": "Acting",
+        "name": "Luigi Calagna",
+        "original_name": "Luigi Calagna",
+        "popularity": 0.102,
+        "profile_path": "/9JFtQGfnac7lkt5e0rVpRP237dN.jpg",
+        "credit_id": "5de4ed060cd44600143abbfa",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2473126,
+        "known_for_department": "Editing",
+        "name": "Davide Cerfeda",
+        "original_name": "Davide Cerfeda",
+        "popularity": 0.1358,
+        "profile_path": null,
+        "credit_id": "5de4ed4a7646fd0011946506",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2436933,
+        "known_for_department": "Acting",
+        "name": "Sofia Scalia",
+        "original_name": "Sofia Scalia",
+        "popularity": 0.1568,
+        "profile_path": "/9kalg3lWQoYV9hCXeXyi0C3FvIv.jpg",
+        "credit_id": "5de4ed137646fd0011946497",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2473125,
+        "known_for_department": "Sound",
+        "name": "Stefano Della Casa",
+        "original_name": "Stefano Della Casa",
+        "popularity": 0.0516,
+        "profile_path": null,
+        "credit_id": "5e1ef8749f1be7001886383c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "2020-01-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

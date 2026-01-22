@@ -1,0 +1,4804 @@
+{
+  "adult": false,
+  "backdrop_path": "/2JeIqOdSM5nC1SQmuhUOfj3iB1U.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/br/title/80218455",
+  "id": 555604,
+  "imdb_id": "tt1488589",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Guillermo del Toro's Pinocchio",
+  "overview": "Uma versão mais sombria do clássico conto de fadas infantil, onde um boneco de madeira se transforma em um menino vivo de verdade.",
+  "popularity": 5.0352,
+  "poster_path": "/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg",
+  "production_companies": [
+    {
+      "id": 6254,
+      "logo_path": "/dHfP8fUyykmTsMXbtXO0kSsYz5E.png",
+      "name": "The Jim Henson Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 81667,
+      "logo_path": "/Am06MBFNH0OLe3m5MEhdyIFeYWh.png",
+      "name": "ShadowMachine",
+      "origin_country": "US"
+    },
+    {
+      "id": 101082,
+      "logo_path": "/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png",
+      "name": "Double Dare You",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-09",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "O amor lhe dará vida.",
+  "title": "Pinóquio por Guillermo del Toro",
+  "video": false,
+  "vote_average": 8.032,
+  "vote_count": 3229,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3061,
+        "known_for_department": "Acting",
+        "name": "Ewan McGregor",
+        "original_name": "Ewan McGregor",
+        "popularity": 4.605,
+        "profile_path": "/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg",
+        "cast_id": 21,
+        "character": "Cricket (voice)",
+        "credit_id": "5e474cc0676ce2001afcb571",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11180,
+        "known_for_department": "Acting",
+        "name": "David Bradley",
+        "original_name": "David Bradley",
+        "popularity": 2.1047,
+        "profile_path": "/znpkwHitb3pcaJbUmgDqG0YenYp.jpg",
+        "cast_id": 18,
+        "character": "Geppetto (voice)",
+        "credit_id": "5e474c84676ce20013fc969d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2099810,
+        "known_for_department": "Acting",
+        "name": "Gregory Mann",
+        "original_name": "Gregory Mann",
+        "popularity": 0.4158,
+        "profile_path": "/j2CUCIhS3N7JsVHOUXVxPQT0kxC.jpg",
+        "cast_id": 26,
+        "character": "Pinocchio / Carlo (voice)",
+        "credit_id": "5f3d4eb49ae6130035461a9f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39659,
+        "known_for_department": "Acting",
+        "name": "Burn Gorman",
+        "original_name": "Burn Gorman",
+        "popularity": 2.1194,
+        "profile_path": "/udgACYWqCSuu6nvtrSjmyU28B0V.jpg",
+        "cast_id": 28,
+        "character": "Priest (voice)",
+        "credit_id": "5f3d4ef235a61e0036f912b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2372,
+        "known_for_department": "Acting",
+        "name": "Ron Perlman",
+        "original_name": "Ron Perlman",
+        "popularity": 3.7332,
+        "profile_path": "/pOgMRdJhbBsvwGLRFXPRASTfcay.jpg",
+        "cast_id": 19,
+        "character": "Podesta (voice)",
+        "credit_id": "5e474ca22d93750017a525c8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1241,
+        "known_for_department": "Acting",
+        "name": "John Turturro",
+        "original_name": "John Turturro",
+        "popularity": 2.0148,
+        "profile_path": "/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg",
+        "cast_id": 27,
+        "character": "Dottore (voice)",
+        "credit_id": "5f3d4ee52da8460031c6e98e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1442069,
+        "known_for_department": "Acting",
+        "name": "Finn Wolfhard",
+        "original_name": "Finn Wolfhard",
+        "popularity": 16.6726,
+        "profile_path": "/dQ1Fj2gCwko0Jnt3QEj1GLseXSh.jpg",
+        "cast_id": 24,
+        "character": "Candlewick (voice)",
+        "credit_id": "5f3d3fbb9ae613003645819a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112,
+        "known_for_department": "Acting",
+        "name": "Cate Blanchett",
+        "original_name": "Cate Blanchett",
+        "popularity": 5.6821,
+        "profile_path": "/vq4vuAVhYngfzVNn8SbnG0JEy15.jpg",
+        "cast_id": 23,
+        "character": "Spazzatura (voice)",
+        "credit_id": "5f3d3f3f35a61e0035f79703",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1462,
+        "known_for_department": "Acting",
+        "name": "Tim Blake Nelson",
+        "original_name": "Tim Blake Nelson",
+        "popularity": 2.4466,
+        "profile_path": "/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg",
+        "cast_id": 25,
+        "character": "Black Rabbits (voice)",
+        "credit_id": "5f3d4249afe22400336f12a9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27319,
+        "known_for_department": "Acting",
+        "name": "Christoph Waltz",
+        "original_name": "Christoph Waltz",
+        "popularity": 3.6471,
+        "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg",
+        "cast_id": 22,
+        "character": "Count Volpe (voice)",
+        "credit_id": "5e474cd62d93750017a52674",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3063,
+        "known_for_department": "Acting",
+        "name": "Tilda Swinton",
+        "original_name": "Tilda Swinton",
+        "popularity": 2.6954,
+        "profile_path": "/dzjT4LKgs7eOma84GsPy78DsGNH.jpg",
+        "cast_id": 20,
+        "character": "Wood Sprite / Death (voice)",
+        "credit_id": "5e474cae2d93750017a525f2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78798,
+        "known_for_department": "Acting",
+        "name": "Tom Kenny",
+        "original_name": "Tom Kenny",
+        "popularity": 2.9286,
+        "profile_path": "/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg",
+        "cast_id": 57,
+        "character": "Mussolini / Right Hand Man / Sea Captain (voice)",
+        "credit_id": "638d28967d5db50fbf010a33",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3815640,
+        "known_for_department": "Acting",
+        "name": "Alfie Tempest",
+        "original_name": "Alfie Tempest",
+        "popularity": 0.4579,
+        "profile_path": "/4nkoNuusnc5cIwxlPnEQ9WmIYZZ.jpg",
+        "cast_id": 58,
+        "character": "Carlo / Pinocchio Additional Voices (voice)",
+        "credit_id": "638d28bb15376c3d9ae1892a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3815645,
+        "known_for_department": "Acting",
+        "name": "Anthea Greco",
+        "original_name": "Anthea Greco",
+        "popularity": 0.0398,
+        "profile_path": "/auBdznWStcdZwv7vNIstHduTzKf.jpg",
+        "cast_id": 59,
+        "character": "Podesta's Wife / Twin Daughter 1 / Parishioner Woman (voice)",
+        "credit_id": "638d29351283e900861f67ec",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1591205,
+        "known_for_department": "Acting",
+        "name": "Francesca Fanti",
+        "original_name": "Francesca Fanti",
+        "popularity": 0.2331,
+        "profile_path": "/8Kti1mECLgP1QYmkSiDl3EOsCxE.jpg",
+        "cast_id": 60,
+        "character": "Twin Daughter 2 / Old Woman / Street Sweep (voice)",
+        "credit_id": "638d297915376c3e0ff3f666",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3815647,
+        "known_for_department": "Acting",
+        "name": "Sandro Carotti",
+        "original_name": "Sandro Carotti",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Fruit Vendor / Butcher (voice)",
+        "credit_id": "638d299115376c3da2228caa",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1298900,
+        "known_for_department": "Acting",
+        "name": "Rio Mangini",
+        "original_name": "Rio Mangini",
+        "popularity": 0.5968,
+        "profile_path": "/qDW77edoCKRBzM3hH111RneRYB4.jpg",
+        "cast_id": 62,
+        "character": "Milliner / Soldier / Carnival Worker (voice)",
+        "credit_id": "638d29a20e64af00adab15cf",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2623517,
+        "known_for_department": "Acting",
+        "name": "Benjamin Valic",
+        "original_name": "Benjamin Valic",
+        "popularity": 0.3404,
+        "profile_path": "/vpedWcdmhA9Fa6SiRDD7IKwgDey.jpg",
+        "cast_id": 63,
+        "character": "Confident Boy / Laughing Boy (voice)",
+        "credit_id": "638d29b00e64af00c25e21a0",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2405433,
+        "known_for_department": "Acting",
+        "name": "Sky Alexis",
+        "original_name": "Sky Alexis",
+        "popularity": 0.2517,
+        "profile_path": "/huHnMGTD3KbYQjttAcagko2CQE4.jpg",
+        "cast_id": 64,
+        "character": "Young Girl (voice)",
+        "credit_id": "638d29d8c3aa3f007f35c42b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1393238,
+        "known_for_department": "Acting",
+        "name": "Ariana Molkara",
+        "original_name": "Ariana Molkara",
+        "popularity": 0.2125,
+        "profile_path": "/iiCKWn09sAziALHkE519xw3zyEe.jpg",
+        "cast_id": 65,
+        "character": "Older Girl (voice)",
+        "credit_id": "638d29e87d5db50fb78c55a9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3806714,
+        "known_for_department": "Acting",
+        "name": "Roy Halo",
+        "original_name": "Roy Halo",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "cast_id": 66,
+        "character": "Young Boy (voice)",
+        "credit_id": "638d2a1215376c3daaf94b31",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3815649,
+        "known_for_department": "Acting",
+        "name": "Luciano Palmeri",
+        "original_name": "Luciano Palmeri",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 67,
+        "character": "Barrel Man / Soldier / Carnival Worker (voice)",
+        "credit_id": "638d2a262dc9dc0084e70323",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1585749,
+        "known_for_department": "Acting",
+        "name": "Peter Arpesella",
+        "original_name": "Peter Arpesella",
+        "popularity": 0.1554,
+        "profile_path": "/7GuaSB2xa6m0DpBtaO6uGSlnZBh.jpg",
+        "cast_id": 68,
+        "character": "Carnival Worker (voice)",
+        "credit_id": "638d2a397d5db5101e5639d9",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453594,
+        "known_for_department": "Visual Effects",
+        "name": "Chuck Duke",
+        "original_name": "Chuck Duke",
+        "popularity": 0.2136,
+        "profile_path": null,
+        "credit_id": "624a59ada9117f00647c98f5",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453631,
+        "known_for_department": "Visual Effects",
+        "name": "Dan Ramsay",
+        "original_name": "Dan Ramsay",
+        "popularity": 1.0697,
+        "profile_path": null,
+        "credit_id": "624a59bccb71b8009f78eefa",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1448052,
+        "known_for_department": "Visual Effects",
+        "name": "Anthony Elworthy",
+        "original_name": "Anthony Elworthy",
+        "popularity": 0.1073,
+        "profile_path": "/hbpxgWBMbxFo1MwVbdhSxWzQg8Z.jpg",
+        "credit_id": "624a59975ff34e0063beb24c",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3140650,
+        "known_for_department": "Acting",
+        "name": "Georgina Hayns",
+        "original_name": "Georgina Hayns",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "62e1859a47c9fb016aa813bb",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 40289,
+        "known_for_department": "Production",
+        "name": "Gary Ungar",
+        "original_name": "Gary Ungar",
+        "popularity": 0.0712,
+        "profile_path": null,
+        "credit_id": "62e184fafe5c910054c23bb9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1331976,
+        "known_for_department": "Writing",
+        "name": "Gris Grimly",
+        "original_name": "Gris Grimly",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "62e18519bbcae0005579bf30",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1428471,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Charmaine Fuller",
+        "original_name": "Charmaine Fuller",
+        "popularity": 0.1051,
+        "profile_path": null,
+        "credit_id": "61c8ebabaaec71004029f336",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2194117,
+        "known_for_department": "Production",
+        "name": "Samantha Levine",
+        "original_name": "Samantha Levine",
+        "popularity": 0.1551,
+        "profile_path": "/e1kD0780tWsIsrBivAkkkKDBnZO.jpg",
+        "credit_id": "61c8eb3ebe2d49001cc16328",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3193,
+        "known_for_department": "Sound",
+        "name": "Scott Martin Gershin",
+        "original_name": "Scott Martin Gershin",
+        "popularity": 0.4103,
+        "profile_path": "/3UbacYnss8yrqtA2oqpAhTurbLQ.jpg",
+        "credit_id": "61c8ebcfbb1057001ac46e0f",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245934,
+        "known_for_department": "Directing",
+        "name": "Mark Gustafson",
+        "original_name": "Mark Gustafson",
+        "popularity": 0.2783,
+        "profile_path": "/84ASwEwmYzbV6Yqp8Y539G16tif.jpg",
+        "credit_id": "635c658ac9dbf900820a7f64",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634470,
+        "known_for_department": "Sound",
+        "name": "Steven Gizicki",
+        "original_name": "Steven Gizicki",
+        "popularity": 0.2368,
+        "profile_path": null,
+        "credit_id": "6375a91bc6006d00aab12253",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7903,
+        "known_for_department": "Production",
+        "name": "Mary Hidalgo",
+        "original_name": "Mary Hidalgo",
+        "popularity": 0.4446,
+        "profile_path": "/xk8nM6wXV0wdpvkCHeEcuvAlEQs.jpg",
+        "credit_id": "6375a92d11c066007b126bf6",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10828,
+        "known_for_department": "Directing",
+        "name": "Guillermo del Toro",
+        "original_name": "Guillermo del Toro",
+        "popularity": 3.5571,
+        "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+        "credit_id": "639567b49f5dfb00b6aed7a3",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67372,
+        "known_for_department": "Writing",
+        "name": "Carlo Collodi",
+        "original_name": "Carlo Collodi",
+        "popularity": 0.4585,
+        "profile_path": "/rDMX3LW7rAJbMlmbkT8ZSAKe8WF.jpg",
+        "credit_id": "6395677a9f5dfb00916d31ee",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 93021,
+        "known_for_department": "Production",
+        "name": "Jason Lust",
+        "original_name": "Jason Lust",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "639568b5a0f1a200c8809f6f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12677,
+        "known_for_department": "Writing",
+        "name": "Matthew Robbins",
+        "original_name": "Matthew Robbins",
+        "popularity": 0.7047,
+        "profile_path": "/abxZZtYWLhnliR572pJvhfyksnD.jpg",
+        "credit_id": "639567cf8a88b2008a2feb39",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1455651,
+        "known_for_department": "Art",
+        "name": "Tennessee Reid Norton",
+        "original_name": "Tennessee Reid Norton",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "6399bf8ece9e910094b38c26",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3836261,
+        "known_for_department": "Editing",
+        "name": "Holly Klein",
+        "original_name": "Holly Klein",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "credit_id": "639f5f2b223e2000835a036b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453551,
+        "known_for_department": "Writing",
+        "name": "Vera Brosgol",
+        "original_name": "Vera Brosgol",
+        "popularity": 0.0778,
+        "profile_path": null,
+        "credit_id": "639f5ed32f3b1700ba03f3f8",
+        "department": "Writing",
+        "job": "Head of Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1498181,
+        "known_for_department": "Directing",
+        "name": "Luis Téllez Ibarra",
+        "original_name": "Luis Téllez Ibarra",
+        "popularity": 0.0636,
+        "profile_path": "/9ya36tdPew76rq07riYFCe3G7Jk.jpg",
+        "credit_id": "640cacae323eba00a2a66709",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1287249,
+        "known_for_department": "Directing",
+        "name": "Karla Castañeda",
+        "original_name": "Karla Castañeda",
+        "popularity": 0.0887,
+        "profile_path": "/b0vYf251mbmbmHahHyQYp4JqH2C.jpg",
+        "credit_id": "640cb5111ac29200f630bb94",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1287249,
+        "known_for_department": "Directing",
+        "name": "Karla Castañeda",
+        "original_name": "Karla Castañeda",
+        "popularity": 0.0887,
+        "profile_path": "/b0vYf251mbmbmHahHyQYp4JqH2C.jpg",
+        "credit_id": "640cb51b2a09bc00f72c9eec",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687196,
+        "known_for_department": "Art",
+        "name": "Zach Sheehan",
+        "original_name": "Zach Sheehan",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "6634e00d470ead012511bf1a",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691707,
+        "known_for_department": "Art",
+        "name": "K.C. Englander",
+        "original_name": "K.C. Englander",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "6634dfa79590e30129bb919b",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2140216,
+        "known_for_department": "Crew",
+        "name": "Laura Savage",
+        "original_name": "Laura Savage",
+        "popularity": 0.0669,
+        "profile_path": null,
+        "credit_id": "6634dfb499d5c30123577273",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691708,
+        "known_for_department": "Art",
+        "name": "Mattie Bowden",
+        "original_name": "Mattie Bowden",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6634dfd8ad59b501256de6e3",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691709,
+        "known_for_department": "Art",
+        "name": "Molly Storey Light",
+        "original_name": "Molly Storey Light",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6634dff46611b4012a6724d4",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691711,
+        "known_for_department": "Art",
+        "name": "Jessica Ann Moretti",
+        "original_name": "Jessica Ann Moretti",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "6634e05083ee67012d40df0a",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4011366,
+        "known_for_department": "Acting",
+        "name": "Samantha Levy",
+        "original_name": "Samantha Levy",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "6634e000813cb6012187ab54",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2015717,
+        "known_for_department": "Art",
+        "name": "Jesse Gregg",
+        "original_name": "Jesse Gregg",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6634df92c9054f012a8f328f",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691710,
+        "known_for_department": "Art",
+        "name": "Alexandra Friedman",
+        "original_name": "Alexandra Friedman",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6634e03bc616ac012819e5a4",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2599181,
+        "known_for_department": "Art",
+        "name": "Merve Caydere Dobai",
+        "original_name": "Merve Caydere Dobai",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "6634e0619590e30126bb78dc",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10828,
+        "known_for_department": "Directing",
+        "name": "Guillermo del Toro",
+        "original_name": "Guillermo del Toro",
+        "popularity": 3.5571,
+        "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+        "credit_id": "5bcde463925141613e020c2e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10828,
+        "known_for_department": "Directing",
+        "name": "Guillermo del Toro",
+        "original_name": "Guillermo del Toro",
+        "popularity": 3.5571,
+        "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+        "credit_id": "5bcde46d9251416131023f7d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10828,
+        "known_for_department": "Directing",
+        "name": "Guillermo del Toro",
+        "original_name": "Guillermo del Toro",
+        "popularity": 3.5571,
+        "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+        "credit_id": "5bcde47b0e0a26016402481b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245729,
+        "known_for_department": "Writing",
+        "name": "Patrick McHale",
+        "original_name": "Patrick McHale",
+        "popularity": 0.5235,
+        "profile_path": "/LI52FbJ23GnsPz6NExUJmSi0XS.jpg",
+        "credit_id": "5bcde4be0e0a260162025dee",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674248,
+        "known_for_department": "Art",
+        "name": "Guy Davis",
+        "original_name": "Guy Davis",
+        "popularity": 0.1009,
+        "profile_path": null,
+        "credit_id": "5bce08a1c3a3683d63000e4b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1683328,
+        "known_for_department": "Production",
+        "name": "Blanca Lista",
+        "original_name": "Blanca Lista",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "5c02f7969251417e5504a256",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69089,
+        "known_for_department": "Production",
+        "name": "Alexander Bulkley",
+        "original_name": "Alexander Bulkley",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "credit_id": "5c02f7389251410b92097fba",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69092,
+        "known_for_department": "Production",
+        "name": "Corey Campodonico",
+        "original_name": "Corey Campodonico",
+        "popularity": 0.1616,
+        "profile_path": null,
+        "credit_id": "5c02f74ec3a36864760b8131",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79666,
+        "known_for_department": "Production",
+        "name": "Lisa Henson",
+        "original_name": "Lisa Henson",
+        "popularity": 0.3611,
+        "profile_path": "/A5usGJ4g7ppjWBB5VqOdJM6hC6z.jpg",
+        "credit_id": "5c02f7619251417e5504a220",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4901079,
+        "known_for_department": "Production",
+        "name": "Walt Perez",
+        "original_name": "Walt Perez",
+        "popularity": 0.2247,
+        "profile_path": "/olv6UjrvjhOBV4JADclRTL9ivyB.jpg",
+        "credit_id": "66d4d2889b26114fe101fb9d",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2949,
+        "known_for_department": "Sound",
+        "name": "Alexandre Desplat",
+        "original_name": "Alexandre Desplat",
+        "popularity": 0.4148,
+        "profile_path": "/tcSzPODyAu9kvLIEossR0laMgUu.jpg",
+        "credit_id": "5f3d50099590e3003571f6e5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1448061,
+        "known_for_department": "Visual Effects",
+        "name": "Brian Leif Hansen",
+        "original_name": "Brian Leif Hansen",
+        "popularity": 0.2595,
+        "profile_path": "/abTDthZhdt3rnghoBWiC6oYVDIW.jpg",
+        "credit_id": "5f3d8bf9afe2240033705cae",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2011320,
+        "known_for_department": "Art",
+        "name": "Robert DeSue",
+        "original_name": "Robert DeSue",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "5f3d8c28e295b40033a44dc7",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53332,
+        "known_for_department": "Camera",
+        "name": "Frank Passingham",
+        "original_name": "Frank Passingham",
+        "popularity": 0.29,
+        "profile_path": "/sRJqbXJiiNkqWzFmyl1fxLpSnUp.jpg",
+        "credit_id": "5f3d8c0f9715ae0036dfacab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1687190,
+        "known_for_department": "Art",
+        "name": "Curt Enderle",
+        "original_name": "Curt Enderle",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "5f3d8bce9715ae0034df60e3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1462578,
+        "known_for_department": "Visual Effects",
+        "name": "Sara Crowley",
+        "original_name": "Sara Crowley",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "credit_id": "5fe7c1b6cee48100402e0d35",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92735,
+        "known_for_department": "Production",
+        "name": "Melanie Coombs",
+        "original_name": "Melanie Coombs",
+        "popularity": 0.1057,
+        "profile_path": "/7p29wND9oPwrxlKLcPmBohe3ULH.jpg",
+        "credit_id": "5fe7c1a1c9dbf9003b47693f",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2015715,
+        "known_for_department": "Art",
+        "name": "Andy Berry",
+        "original_name": "Andy Berry",
+        "popularity": 0.078,
+        "profile_path": null,
+        "credit_id": "5fe7c11dcee48100432c3e5e",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8063,
+        "known_for_department": "Editing",
+        "name": "Ken Schretzmann",
+        "original_name": "Ken Schretzmann",
+        "popularity": 0.2416,
+        "profile_path": "/oI4qy2nUz8Bjd5LQp9NuHEoYz87.jpg",
+        "credit_id": "5fe7c0de07a80800408aba81",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293432,
+        "known_for_department": "Directing",
+        "name": "Nicholas D'Agostino",
+        "original_name": "Nicholas D'Agostino",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "6736254e29197b69875dce31",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2059759,
+        "known_for_department": "Sound",
+        "name": "Steve Pierson",
+        "original_name": "Steve Pierson",
+        "popularity": 0.1862,
+        "profile_path": null,
+        "credit_id": "68cd6a26a05348b8aecf4c9d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4721425,
+        "known_for_department": "Editing",
+        "name": "Roeban Katz",
+        "original_name": "Roeban Katz",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68e090800c25d33785c21a92",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10828,
+        "known_for_department": "Directing",
+        "name": "Guillermo del Toro",
+        "original_name": "Guillermo del Toro",
+        "popularity": 3.5571,
+        "profile_path": "/gldeyCtKcaqnK1v4Vu9vqayhzUQ.jpg",
+        "credit_id": "68e0909b848d40f34c36d9d4",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245729,
+        "known_for_department": "Writing",
+        "name": "Patrick McHale",
+        "original_name": "Patrick McHale",
+        "popularity": 0.5235,
+        "profile_path": "/LI52FbJ23GnsPz6NExUJmSi0XS.jpg",
+        "credit_id": "68e090a9f203abf7d7960b58",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92735,
+        "known_for_department": "Production",
+        "name": "Melanie Coombs",
+        "original_name": "Melanie Coombs",
+        "popularity": 0.1057,
+        "profile_path": "/7p29wND9oPwrxlKLcPmBohe3ULH.jpg",
+        "credit_id": "68e090e29fe962043936da74",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453490,
+        "known_for_department": "Visual Effects",
+        "name": "Charles Greenfield",
+        "original_name": "Charles Greenfield",
+        "popularity": 0.0939,
+        "profile_path": null,
+        "credit_id": "68e0910ee26788236d616e31",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453527,
+        "known_for_department": "Visual Effects",
+        "name": "Jan-Erik Maas",
+        "original_name": "Jan-Erik Maas",
+        "popularity": 0.0675,
+        "profile_path": null,
+        "credit_id": "68e0912100a86e4ddd960b64",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1453484,
+        "known_for_department": "Visual Effects",
+        "name": "Kristien Vanden Bussche",
+        "original_name": "Kristien Vanden Bussche",
+        "popularity": 0.0261,
+        "profile_path": "/rV6NWrrP9nby7EBsw7XlT4hrXw5.jpg",
+        "credit_id": "68e09133af06b97b32960ad1",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453618,
+        "known_for_department": "Visual Effects",
+        "name": "Ludovic Berardo",
+        "original_name": "Ludovic Berardo",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "68e09142c3f4a732bebd8b88",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 384204,
+        "known_for_department": "Visual Effects",
+        "name": "Anthony Scott",
+        "original_name": "Anthony Scott",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "68e09165cc96686ebd9ca0b2",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053243,
+        "known_for_department": "Visual Effects",
+        "name": "Cesar Diaz Melendez",
+        "original_name": "Cesar Diaz Melendez",
+        "popularity": 0.1269,
+        "profile_path": "/dUgerSekAPUJJQ282Tneh1IdH7R.jpg",
+        "credit_id": "68e091721e7f7201b29ca055",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448073,
+        "known_for_department": "Visual Effects",
+        "name": "Chris Tootell",
+        "original_name": "Chris Tootell",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "68e0917eb00e00eefaf80d5d",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453532,
+        "known_for_department": "Visual Effects",
+        "name": "Jeff Riley",
+        "original_name": "Jeff Riley",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "68e09188a61c881a81f80cc4",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453602,
+        "known_for_department": "Visual Effects",
+        "name": "Jody Meredith",
+        "original_name": "Jody Meredith",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "credit_id": "68e0919405abb64b85c21b0d",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1453601,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Keukeleire",
+        "original_name": "Kim Keukeleire",
+        "popularity": 0.0648,
+        "profile_path": "/t3IQwNiR7zzaCXHkmZ3B2twEEjA.jpg",
+        "credit_id": "68e091a1cc96686ebd9ca0b5",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1498181,
+        "known_for_department": "Directing",
+        "name": "Luis Téllez Ibarra",
+        "original_name": "Luis Téllez Ibarra",
+        "popularity": 0.0636,
+        "profile_path": "/9ya36tdPew76rq07riYFCe3G7Jk.jpg",
+        "credit_id": "68e091aea0f27065a525a7ca",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448063,
+        "known_for_department": "Visual Effects",
+        "name": "Malcolm Lamont",
+        "original_name": "Malcolm Lamont",
+        "popularity": 0.1761,
+        "profile_path": null,
+        "credit_id": "68e091c714ba9edbf836da39",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447370,
+        "known_for_department": "Visual Effects",
+        "name": "Tim Allen",
+        "original_name": "Tim Allen",
+        "popularity": 0.167,
+        "profile_path": "/t9OHqXlKR52DzMOtTCONAbW5rfC.jpg",
+        "credit_id": "68e091d4b00e00eefaf80d61",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453494,
+        "known_for_department": "Visual Effects",
+        "name": "Matias Liebrecht",
+        "original_name": "Matias Liebrecht",
+        "popularity": 0.133,
+        "profile_path": "/xOKKf5HFeAOIXyEgU6lWSJVD6Ti.jpg",
+        "credit_id": "68e091eec96d0af1b8c21aec",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448042,
+        "known_for_department": "Visual Effects",
+        "name": "Mike Cottee",
+        "original_name": "Mike Cottee",
+        "popularity": 0.0724,
+        "profile_path": null,
+        "credit_id": "68e091f9b00e00eefaf80d67",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453485,
+        "known_for_department": "Visual Effects",
+        "name": "Payton Curtis",
+        "original_name": "Payton Curtis",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "68e0920435a536877725a80e",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3388209,
+        "known_for_department": "Visual Effects",
+        "name": "René Castillo Rivera",
+        "original_name": "René Castillo Rivera",
+        "popularity": 0.0771,
+        "profile_path": null,
+        "credit_id": "68e09212801bd820ae25a806",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453609,
+        "known_for_department": "Visual Effects",
+        "name": "Steve Warne",
+        "original_name": "Steve Warne",
+        "popularity": 0.0819,
+        "profile_path": null,
+        "credit_id": "68e0921d1e7f7201b29ca05d",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453543,
+        "known_for_department": "Visual Effects",
+        "name": "Suzanne Twining",
+        "original_name": "Suzanne Twining",
+        "popularity": 0.0793,
+        "profile_path": null,
+        "credit_id": "68e0922baedc88c92336da33",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1584378,
+        "known_for_department": "Visual Effects",
+        "name": "Thiago Calçado",
+        "original_name": "Thiago Calçado",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "credit_id": "68e09245e26788236d616e51",
+        "department": "Visual Effects",
+        "job": "Senior Animator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7903,
+        "known_for_department": "Production",
+        "name": "Mary Hidalgo",
+        "original_name": "Mary Hidalgo",
+        "popularity": 0.4446,
+        "profile_path": "/xk8nM6wXV0wdpvkCHeEcuvAlEQs.jpg",
+        "credit_id": "68e093b2b00e00eefaf80d83",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 131,
+        "name": "italy"
+      },
+      {
+        "id": 1755,
+        "name": "fascism"
+      },
+      {
+        "id": 5332,
+        "name": "greed"
+      },
+      {
+        "id": 2720,
+        "name": "woodcutter"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 6300,
+        "name": "puppet"
+      },
+      {
+        "id": 8077,
+        "name": "benito mussolini"
+      },
+      {
+        "id": 10121,
+        "name": "stop motion"
+      },
+      {
+        "id": 177895,
+        "name": "dark fantasy"
+      },
+      {
+        "id": 179431,
+        "name": "duringcreditsstinger"
+      },
+      {
+        "id": 207883,
+        "name": "1940s"
+      },
+      {
+        "id": 210037,
+        "name": "wooden dummy"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AQ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mar del Plata Film Festival",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-23T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BJ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-11T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-23T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DJ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EG",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ER",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ET",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FJ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lumière Film Festival",
+            "release_date": "2022-10-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BFI London Film Festival",
+            "release_date": "2022-10-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K Ultra HD & Blu-ray (Criterion Collection)",
+            "release_date": "2023-12-18T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GQ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "K",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "K",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 7+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IQ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-12-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "PG12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-23T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Marrakech International Film Festival",
+            "release_date": "2022-11-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ME",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ML",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MQ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "9",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "9",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "9",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "9",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "OM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-17T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Red Sea International Film Festival",
+            "release_date": "2022-12-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ST",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TJ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "10+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Animation is Film Festival",
+            "release_date": "2022-10-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AFI Fest",
+            "release_date": "2022-11-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-09T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-17T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "WF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "WS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "YE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "YT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "10-12PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-12-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

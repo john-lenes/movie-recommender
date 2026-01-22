@@ -1,0 +1,735 @@
+{
+  "adult": false,
+  "backdrop_path": "/7UCuHP7UXMwRCoFd5j56dvLnDP6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 120301,
+  "imdb_id": "tt0044560",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Dos tipos de cuidado",
+  "overview": "",
+  "popularity": 5.2204,
+  "poster_path": "/3KP4lpfka3RoHEMQ8Hp43M9fxJl.jpg",
+  "production_companies": [
+    {
+      "id": 85096,
+      "logo_path": null,
+      "name": "Cinematográfica Atlántida",
+      "origin_country": "MX"
+    },
+    {
+      "id": 5153,
+      "logo_path": "/d4BySWBlcGBBY58FG78DWMi9nrs.png",
+      "name": "Estudios Churubusco Azteca",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1953-11-05",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dos tipos de cuidado",
+  "video": false,
+  "vote_average": 8.3,
+  "vote_count": 106,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 187176,
+        "known_for_department": "Acting",
+        "name": "Jorge Negrete",
+        "original_name": "Jorge Negrete",
+        "popularity": 0.8489,
+        "profile_path": "/7YqZRvCwfbKyETi8FdIr3LLrnxy.jpg",
+        "cast_id": 6,
+        "character": "Jorge Bueno",
+        "credit_id": "52fe4a45c3a368484e149d67",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106080,
+        "known_for_department": "Acting",
+        "name": "Pedro Infante",
+        "original_name": "Pedro Infante",
+        "popularity": 3.2929,
+        "profile_path": "/sfbbx0ZJiEdMPhSSK11qHMApD4H.jpg",
+        "cast_id": 12,
+        "character": "Pedro Malo",
+        "credit_id": "544e0b8e0e0a2608c500416a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1031916,
+        "known_for_department": "Acting",
+        "name": "Carmelita González",
+        "original_name": "Carmelita González",
+        "popularity": 0.3873,
+        "profile_path": "/bK3RoyHqSxcddVR5D7Us8RfwBaV.jpg",
+        "cast_id": 8,
+        "character": "Rosario",
+        "credit_id": "52fe4a45c3a368484e149d6f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1052818,
+        "known_for_department": "Acting",
+        "name": "Yolanda Varela",
+        "original_name": "Yolanda Varela",
+        "popularity": 0.7213,
+        "profile_path": "/obdrGezzd09xAWDLVvHxmlu4pus.jpg",
+        "cast_id": 9,
+        "character": "María",
+        "credit_id": "52fe4a45c3a368484e149d73",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013066,
+        "known_for_department": "Acting",
+        "name": "Carlos Orellana",
+        "original_name": "Carlos Orellana",
+        "popularity": 0.2,
+        "profile_path": "/ao1wCvwDDMm5lVAisXkOgRUF6B4.jpg",
+        "cast_id": 10,
+        "character": "Don Elías",
+        "credit_id": "52fe4a45c3a368484e149d77",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223079,
+        "known_for_department": "Acting",
+        "name": "José Elías Moreno",
+        "original_name": "José Elías Moreno",
+        "popularity": 0.3516,
+        "profile_path": "/7HBXZQ7j7wsjrnc1qD6HUGuNPvF.jpg",
+        "cast_id": 11,
+        "character": "El General",
+        "credit_id": "52fe4a45c3a368484e149d7b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1520751,
+        "known_for_department": "Acting",
+        "name": "Queta Lavat",
+        "original_name": "Queta Lavat",
+        "popularity": 0.349,
+        "profile_path": "/pgi7ncNXN7ZDvkNZM6LYLbVomaw.jpg",
+        "cast_id": 14,
+        "character": "Genoveva",
+        "credit_id": "59013c5192514155b5003cb1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30305,
+        "known_for_department": "Acting",
+        "name": "Arturo Soto Rangel",
+        "original_name": "Arturo Soto Rangel",
+        "popularity": 0.4438,
+        "profile_path": "/o9LAqiN0SYstzYDgl2uIZBcSYw2.jpg",
+        "cast_id": 15,
+        "character": "Doctor",
+        "credit_id": "59013c6792514155d2003ebb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31880,
+        "known_for_department": "Acting",
+        "name": "Mimí Derba",
+        "original_name": "Mimí Derba",
+        "popularity": 0.2041,
+        "profile_path": "/1YZfMSTNYmNtyl3tzS4so29ehQe.jpg",
+        "cast_id": 16,
+        "character": "Doña Josefa",
+        "credit_id": "59013c7e92514155b5003ccc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1458464,
+        "known_for_department": "Acting",
+        "name": "Manuel Noriega",
+        "original_name": "Manuel Noriega",
+        "popularity": 0.1961,
+        "profile_path": "/f6FlR5Jz0jMLtInIdD8nQq5aQx9.jpg",
+        "cast_id": 17,
+        "character": "Rosario's Doctor",
+        "credit_id": "59013c94c3a36810c6003d22",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11978,
+        "known_for_department": "Acting",
+        "name": "Jesús García Navarro",
+        "original_name": "Jesús García Navarro",
+        "popularity": 0.1354,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Chucho (uncredited)",
+        "credit_id": "59021943c3a3684066000d77",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 940920,
+        "known_for_department": "Acting",
+        "name": "Maruja Grifell",
+        "original_name": "Maruja Grifell",
+        "popularity": 0.412,
+        "profile_path": "/4VUV08Gdqxe1CsgKmbqdxHhGIqK.jpg",
+        "cast_id": 19,
+        "character": "Matilde (uncredited)",
+        "credit_id": "590219579251410aa3000e22",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1553918,
+        "known_for_department": "Acting",
+        "name": "Jesús Gómez",
+        "original_name": "Jesús Gómez",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Man in Canteen (uncredited)",
+        "credit_id": "5902197a9251410aa3000e36",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1514445,
+        "known_for_department": "Acting",
+        "name": "Leonor Gómez",
+        "original_name": "Leonor Gómez",
+        "popularity": 0.4088,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Anastasia (uncredited)",
+        "credit_id": "5902199bc3a36840ed000eaa",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1058994,
+        "known_for_department": "Acting",
+        "name": "Jaime Jiménez Pons",
+        "original_name": "Jaime Jiménez Pons",
+        "popularity": 0.2255,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Joven (uncredited)",
+        "credit_id": "590219bfc3a36840be000d97",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722583,
+        "known_for_department": "Acting",
+        "name": "José Luis Moreno",
+        "original_name": "José Luis Moreno",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Messenger (uncredited)",
+        "credit_id": "590219f69251410acb000d64",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 589792,
+        "known_for_department": "Acting",
+        "name": "Ana Bertha Lepe",
+        "original_name": "Ana Bertha Lepe",
+        "popularity": 0.1914,
+        "profile_path": "/7gYRVyyV6EVYK66C7ue1bjwu02X.jpg",
+        "cast_id": 24,
+        "character": "Party Guest (uncredited)",
+        "credit_id": "59021a21c3a36840db000f45",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671585,
+        "known_for_department": "Acting",
+        "name": "Concepción Martínez",
+        "original_name": "Concepción Martínez",
+        "popularity": 0.0791,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Party Guest (uncredited)",
+        "credit_id": "59021a379251410ab4000dda",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1673664,
+        "known_for_department": "Acting",
+        "name": "Carlos Robles Gil",
+        "original_name": "Carlos Robles Gil",
+        "popularity": 0.1161,
+        "profile_path": "/syYZhZ8J2MkEoKPjxPV4A3rIqCj.jpg",
+        "cast_id": 26,
+        "character": "Party Guest (uncredited)",
+        "credit_id": "59021a529251410ad0000ddd",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1721484,
+        "known_for_department": "Acting",
+        "name": "Kika Meyer",
+        "original_name": "Kika Meyer",
+        "popularity": 0.185,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Woman Dancing with Pedro (uncredited)",
+        "credit_id": "59021a779251410aa3000ef1",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52236,
+        "known_for_department": "Acting",
+        "name": "José Muñoz",
+        "original_name": "José Muñoz",
+        "popularity": 0.2358,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Tiburcio (uncredited)",
+        "credit_id": "59021a909251410a9b000e96",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1719359,
+        "known_for_department": "Acting",
+        "name": "Pepe Nava",
+        "original_name": "Pepe Nava",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Poker Player (uncredited)",
+        "credit_id": "59021aab9251410ad0000e25",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1696768,
+        "known_for_department": "Acting",
+        "name": "Manuel Sánchez Navarro",
+        "original_name": "Manuel Sánchez Navarro",
+        "popularity": 0.1042,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Poker Player (uncredited)",
+        "credit_id": "59021ac99251410acb000e04",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1514313,
+        "known_for_department": "Acting",
+        "name": "Humberto Rodríguez",
+        "original_name": "Humberto Rodríguez",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Eulalio (uncredited)",
+        "credit_id": "59021ae49251410a95000eac",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97967,
+        "known_for_department": "Directing",
+        "name": "Ismael Rodríguez",
+        "original_name": "Ismael Rodríguez",
+        "popularity": 1.1353,
+        "profile_path": "/eF1S9TOq8MxYGztz7U9Rwp5hjqH.jpg",
+        "credit_id": "52fe4a44c3a368484e149d4b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97967,
+        "known_for_department": "Directing",
+        "name": "Ismael Rodríguez",
+        "original_name": "Ismael Rodríguez",
+        "popularity": 1.1353,
+        "profile_path": "/eF1S9TOq8MxYGztz7U9Rwp5hjqH.jpg",
+        "credit_id": "52fe4a45c3a368484e149d51",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1013066,
+        "known_for_department": "Acting",
+        "name": "Carlos Orellana",
+        "original_name": "Carlos Orellana",
+        "popularity": 0.2,
+        "profile_path": "/ao1wCvwDDMm5lVAisXkOgRUF6B4.jpg",
+        "credit_id": "52fe4a45c3a368484e149d57",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1071756,
+        "known_for_department": "Production",
+        "name": "David Negrete",
+        "original_name": "David Negrete",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "52fe4a45c3a368484e149d5d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1066869,
+        "known_for_department": "Camera",
+        "name": "Ignacio Torres",
+        "original_name": "Ignacio Torres",
+        "popularity": 0.0649,
+        "profile_path": null,
+        "credit_id": "54509e1a0e0a263a10003c25",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1027100,
+        "known_for_department": "Sound",
+        "name": "Manuel Esperón",
+        "original_name": "Manuel Esperón",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "59021b1ac3a36840ed000fc5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31867,
+        "known_for_department": "Editing",
+        "name": "Gloria Schoemann",
+        "original_name": "Gloria Schoemann",
+        "popularity": 0.3788,
+        "profile_path": "/h9CmBSbhe19hfpsLocKefPmB6X1.jpg",
+        "credit_id": "59021b2d9251410ab4000e8d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12886,
+        "known_for_department": "Art",
+        "name": "José Rodríguez Granada",
+        "original_name": "José Rodríguez Granada",
+        "popularity": 0.1409,
+        "profile_path": null,
+        "credit_id": "59021b41c3a3684066000ecc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1664328,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Juana Lepe",
+        "original_name": "Juana Lepe",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "59021b539251410aa3000f94",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302496,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rosa Guerrero",
+        "original_name": "Rosa Guerrero",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "59021b759251410a91000f81",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31872,
+        "known_for_department": "Production",
+        "name": "Antonio Guerrero Tello",
+        "original_name": "Antonio Guerrero Tello",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "59021b99c3a3684090000f0a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077283,
+        "known_for_department": "Directing",
+        "name": "Mario Llorca",
+        "original_name": "Mario Llorca",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "credit_id": "59021bbcc3a36840ed001041",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31873,
+        "known_for_department": "Sound",
+        "name": "José B. Carles",
+        "original_name": "José B. Carles",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "59021bdac3a3684107000e1d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511311,
+        "known_for_department": "Sound",
+        "name": "James L. Fields",
+        "original_name": "James L. Fields",
+        "popularity": 0.1756,
+        "profile_path": null,
+        "credit_id": "59021be8c3a3684066000f43",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31874,
+        "known_for_department": "Sound",
+        "name": "Galdino R. Samperio",
+        "original_name": "Galdino R. Samperio",
+        "popularity": 0.1667,
+        "profile_path": null,
+        "credit_id": "59021bf99251410a9b000f9d",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302495,
+        "known_for_department": "Crew",
+        "name": "Jorge Benavides",
+        "original_name": "Jorge Benavides",
+        "popularity": 0.1185,
+        "profile_path": null,
+        "credit_id": "59021c29c3a3684066000f77",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1421191,
+        "known_for_department": "Lighting",
+        "name": "Daniel López",
+        "original_name": "Daniel López",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "credit_id": "59021c4dc3a36840ed0010d1",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31875,
+        "known_for_department": "Camera",
+        "name": "Ignacio Romero",
+        "original_name": "Ignacio Romero",
+        "popularity": 0.097,
+        "profile_path": null,
+        "credit_id": "59021c5fc3a36840be000f50",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1637899,
+        "known_for_department": "Camera",
+        "name": "Pablo Ríos",
+        "original_name": "Pablo Ríos",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "credit_id": "59021c73c3a368409d000fbc",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1679848,
+        "known_for_department": "Editing",
+        "name": "Pedro Velázquez",
+        "original_name": "Pedro Velázquez",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "59021ca99251410acb000f7d",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1619427,
+        "known_for_department": "Directing",
+        "name": "Pedro López",
+        "original_name": "Pedro López",
+        "popularity": 0.1919,
+        "profile_path": null,
+        "credit_id": "59021cf39251410a910010ac",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 534,
+        "name": "mexico"
+      },
+      {
+        "id": 2752,
+        "name": "ranch"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 9799,
+        "name": "romcom"
+      },
+      {
+        "id": 9823,
+        "name": "rivalry"
+      },
+      {
+        "id": 9713,
+        "name": "friends"
+      },
+      {
+        "id": 12990,
+        "name": "singing"
+      },
+      {
+        "id": 231473,
+        "name": "charro"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "B-15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1953-11-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,652 @@
+{
+  "adult": false,
+  "backdrop_path": "/wmTBmCLPZSX5eAVAiBf8td8Hb9g.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    }
+  ],
+  "homepage": "https://www.imagemfilmes.com.br/filme/tom--jerry-uma-aventura-no-museu",
+  "id": 1497970,
+  "imdb_id": "tt37185884",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "猫和老鼠：星盘奇缘",
+  "overview": "Jerry invade uma grande exposição no museu, mas o que começa como uma simples travessura logo sai do controle. Tom, que agora trabalha como segurança do local, entra em ação para capturá-lo, e no meio da confusão os dois acabam sendo transportados no tempo. Perdidos em uma época distante, eles precisarão deixar as brigas de lado e trabalhar juntos para encontrar um jeito de voltar para casa.",
+  "popularity": 12.1293,
+  "poster_path": "/x6YMshI64QGUcFmUtsuPPhk46Tm.jpg",
+  "production_companies": [
+    {
+      "id": 261822,
+      "logo_path": "/iQBZufUDXvIszs3hvgmmujL4gxC.png",
+      "name": "Warner Bros. China",
+      "origin_country": "CN"
+    },
+    {
+      "id": 191908,
+      "logo_path": null,
+      "name": "China Film",
+      "origin_country": "CN"
+    },
+    {
+      "id": 74135,
+      "logo_path": "/n9rwYE5V8gTAEpiABRjm4iEpZyA.png",
+      "name": "Wu Zhou Film Distribution",
+      "origin_country": "CN"
+    },
+    {
+      "id": 71194,
+      "logo_path": "/vKZv8ACsYeJT7boZhENcKHBNCp0.png",
+      "name": "Original Force Animation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 277630,
+      "logo_path": null,
+      "name": "Origin Animation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 14714,
+      "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-08-02",
+  "revenue": 751385,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tom & Jerry: Uma Aventura no Museu",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77301,
+        "known_for_department": "Acting",
+        "name": "Jiang Wen",
+        "original_name": "Jiang Wen",
+        "popularity": 0.7868,
+        "profile_path": "/sHkCsohuCUbVdKSnp11qejNOtZb.jpg",
+        "cast_id": 11,
+        "character": "Heavenly Master (voice)",
+        "credit_id": "68df643bdac702f915129a27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3842273,
+        "known_for_department": "Acting",
+        "name": "顺子",
+        "original_name": "顺子",
+        "popularity": 0.2234,
+        "profile_path": "/jiwnQVDm3yW0gLVHltYThgrHrbb.jpg",
+        "cast_id": 12,
+        "character": "Phoenix Master (voice)",
+        "credit_id": "68df64a4e68bb7d6612e45ca",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5758235,
+        "known_for_department": "Acting",
+        "name": "Lan Long",
+        "original_name": "Lan Long",
+        "popularity": 0.1383,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Sonny (voice)",
+        "credit_id": "68f46eba8adf64960a8e6f12",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2837755,
+        "known_for_department": "Acting",
+        "name": "凃雄飞",
+        "original_name": "凃雄飞",
+        "popularity": 0.3267,
+        "profile_path": "/6rSxk0fiTuJiXLrrcQr0raTgShx.jpg",
+        "cast_id": 13,
+        "character": "Mega Rat (voice)",
+        "credit_id": "68df658fac5ce232f69728f4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5087582,
+        "known_for_department": "Acting",
+        "name": "李柏鑫",
+        "original_name": "李柏鑫",
+        "popularity": 0.1723,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Lil Feeney (voice)",
+        "credit_id": "68df662333b81fd947ee4dc4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4248916,
+        "known_for_department": "Acting",
+        "name": "李翰林",
+        "original_name": "李翰林",
+        "popularity": 0.1981,
+        "profile_path": "/uCbO2PIe3ifUZtMTjx7fd1S2IeW.jpg",
+        "cast_id": 15,
+        "character": "Xander / Ten Ten (voice)",
+        "credit_id": "68df6684e017380dae2a452b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5341514,
+        "known_for_department": "Acting",
+        "name": "张文婕",
+        "original_name": "张文婕",
+        "popularity": 0.2298,
+        "profile_path": "/kYLmbG0746cPQelC2Lhpy6sRqCA.jpg",
+        "cast_id": 16,
+        "character": "Jade (voice)",
+        "credit_id": "68df66f3ca373b70879728a4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "张钢",
+        "original_name": "张钢",
+        "popularity": 0.1952,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Evil Tom (voice)",
+        "credit_id": "68df676c9307c9cc3dee4df9",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "张钢",
+        "original_name": "张钢",
+        "popularity": 0.1952,
+        "profile_path": null,
+        "credit_id": "684d4467cf10606e5b1ed127",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "张钢",
+        "original_name": "张钢",
+        "popularity": 0.1952,
+        "profile_path": null,
+        "credit_id": "684d446c093f8aedabb0dd1f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13620,
+        "known_for_department": "Directing",
+        "name": "William Hanna",
+        "original_name": "William Hanna",
+        "popularity": 2.6446,
+        "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg",
+        "credit_id": "68518b109b4c74e3b1bbd8df",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13594,
+        "known_for_department": "Production",
+        "name": "Joseph Barbera",
+        "original_name": "Joseph Barbera",
+        "popularity": 2.8881,
+        "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg",
+        "credit_id": "68518b25a215899941bbd7b1",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463885,
+        "known_for_department": "Production",
+        "name": "Fu Ruoqing",
+        "original_name": "Fu Ruoqing",
+        "popularity": 0.3511,
+        "profile_path": "/pD9zTm9bB4gZCYUIjYPoC4NTfAL.jpg",
+        "credit_id": "68df61db088d477d942a44f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463885,
+        "known_for_department": "Production",
+        "name": "Fu Ruoqing",
+        "original_name": "Fu Ruoqing",
+        "popularity": 0.3511,
+        "profile_path": "/pD9zTm9bB4gZCYUIjYPoC4NTfAL.jpg",
+        "credit_id": "68df6205a62fa7060d129a40",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2463890,
+        "known_for_department": "Production",
+        "name": "章慧霞",
+        "original_name": "章慧霞",
+        "popularity": 0.1604,
+        "profile_path": null,
+        "credit_id": "68df62223d9079276d2a455e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "张钢",
+        "original_name": "张钢",
+        "popularity": 0.1952,
+        "profile_path": null,
+        "credit_id": "68df62de926de8e80e4c65fd",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5288984,
+        "known_for_department": "Writing",
+        "name": "张钢",
+        "original_name": "张钢",
+        "popularity": 0.1952,
+        "profile_path": null,
+        "credit_id": "68df631047e619f936129a56",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4776039,
+        "known_for_department": "Acting",
+        "name": "马思唯",
+        "original_name": "马思唯",
+        "popularity": 0.0669,
+        "profile_path": null,
+        "credit_id": "68df63946d0fad9d672a458f",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2250469,
+        "known_for_department": "Sound",
+        "name": "Hank Lee",
+        "original_name": "Hank Lee",
+        "popularity": 0.1353,
+        "profile_path": null,
+        "credit_id": "68f3ce49b4970b1138391682",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 61747,
+        "known_for_department": "Writing",
+        "name": "Bruce Morris",
+        "original_name": "Bruce Morris",
+        "popularity": 0.4744,
+        "profile_path": null,
+        "credit_id": "68f46e00e39cc5b3f04e7011",
+        "department": "Art",
+        "job": "Storyboard Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2598,
+        "name": "museum"
+      },
+      {
+        "id": 4379,
+        "name": "time travel"
+      },
+      {
+        "id": 15076,
+        "name": "cat and mouse"
+      },
+      {
+        "id": 158628,
+        "name": "foreign language adaptation"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shanghai International Film Festival",
+            "release_date": "2025-06-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Adso Film",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "he",
+            "note": "",
+            "release_date": "2025-10-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

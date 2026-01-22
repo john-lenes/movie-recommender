@@ -1,0 +1,586 @@
+{
+  "adult": false,
+  "backdrop_path": "/2AMk0Df2Lr0WtFDHGsEo1UE8IHW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    }
+  ],
+  "homepage": "",
+  "id": 18094,
+  "imdb_id": "tt1157605",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Anvil! The Story of Anvil",
+  "overview": "Em 1984 o grupo de heavy metal Anvil fez uma turnê ao redor do mundo com algumas bandas muito famosas como Bon Jovi, Poison e Whitesnake. Enquanto esses grupos lotavam estádios e vendiam um monte de discos, o Anvil lutava para sobreviver. No entanto, todas as bandas citadas acima o tinham como músicos do mesmo nível, e até o apontavam como uma influência. O documentário conta com a participação de lendas como Slash, do Guns N'Roses, Lars, do Metallica, e Lemmy Kilimister, do Motorhead.",
+  "popularity": 6.9308,
+  "poster_path": "/rDrMuFaWBKwjwEnw4C06Sm97huY.jpg",
+  "production_companies": [
+    {
+      "id": 22477,
+      "logo_path": null,
+      "name": "Zootrope Films",
+      "origin_country": ""
+    },
+    {
+      "id": 95417,
+      "logo_path": "/Q9YTXIe2ZGjWa1Ors6sqOpGrWp.png",
+      "name": "Abramorama",
+      "origin_country": "US"
+    },
+    {
+      "id": 8747,
+      "logo_path": null,
+      "name": "VH1 Rock Docs",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-01-14",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Anvil!",
+  "video": false,
+  "vote_average": 7.581,
+  "vote_count": 267,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103207,
+        "known_for_department": "Acting",
+        "name": "Steve 'Lips' Kudlow",
+        "original_name": "Steve 'Lips' Kudlow",
+        "popularity": 0.0387,
+        "profile_path": "/aF89uizrJ2e2MpNRudt32kjFk61.jpg",
+        "cast_id": 2,
+        "character": "Self - Lead Guitar",
+        "credit_id": "52fe475f9251416c7509702f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103209,
+        "known_for_department": "Acting",
+        "name": "Robb Reiner",
+        "original_name": "Robb Reiner",
+        "popularity": 0.0965,
+        "profile_path": "/lQ2uRYAPve7rPKQugrgvVH0XPkx.jpg",
+        "cast_id": 3,
+        "character": "Self - Drummer",
+        "credit_id": "52fe475f9251416c75097033",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 103210,
+        "known_for_department": "Acting",
+        "name": "Kevin Goocher",
+        "original_name": "Kevin Goocher",
+        "popularity": 0.0671,
+        "profile_path": "/oWy9KcBrxpoC6KfoNJHdtooiNlf.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "52fe475f9251416c75097037",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103214,
+        "known_for_department": "Acting",
+        "name": "Glenn Gyorffy",
+        "original_name": "Glenn Gyorffy",
+        "popularity": 0.2376,
+        "profile_path": "/sRHXn2KPRVPDi2IRb051geYnP9f.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "52fe475f9251416c7509703b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 103215,
+        "known_for_department": "Acting",
+        "name": "William Howell",
+        "original_name": "William Howell",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "52fe475f9251416c7509703f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 103217,
+        "known_for_department": "Acting",
+        "name": "Tiziana Arrigoni",
+        "original_name": "Tiziana Arrigoni",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self - Manager",
+        "credit_id": "52fe475f9251416c75097043",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92706,
+        "known_for_department": "Acting",
+        "name": "Slash",
+        "original_name": "Slash",
+        "popularity": 0.4702,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "666743a3663197f8b8be7de6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98316,
+        "known_for_department": "Acting",
+        "name": "Lemmy Kilmister",
+        "original_name": "Lemmy Kilmister",
+        "popularity": 0.5724,
+        "profile_path": "/bEwvOeeB8YBBO29eAwGNK5oucnc.jpg",
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "666743ab752063ec0ee9ec59",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105681,
+        "known_for_department": "Acting",
+        "name": "Scott Ian",
+        "original_name": "Scott Ian",
+        "popularity": 0.497,
+        "profile_path": "/17EZYDZyp90zmcAFqvWa7Lp3KNl.jpg",
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "666743b29d3349b06da9b9d6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69230,
+        "known_for_department": "Acting",
+        "name": "Lars Ulrich",
+        "original_name": "Lars Ulrich",
+        "popularity": 0.5763,
+        "profile_path": "/uMcUqvbViiHftEpz0u4AxAnCgF3.jpg",
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "666743e520c644d02f15d3e2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 102984,
+        "known_for_department": "Acting",
+        "name": "Tom Araya",
+        "original_name": "Tom Araya",
+        "popularity": 0.1589,
+        "profile_path": "/2lfBAcR3B8ZcbyhPLhhHmZRlYxc.jpg",
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "666743f36abf6d3c5ba9ba02",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4767691,
+        "known_for_department": "Acting",
+        "name": "Jon Zazula",
+        "original_name": "Jon Zazula",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "66674409081ce24260e9eebc",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 485159,
+        "known_for_department": "Camera",
+        "name": "Christopher Soos",
+        "original_name": "Christopher Soos",
+        "popularity": 0.1086,
+        "profile_path": null,
+        "credit_id": "52fe475f9251416c75097049",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8686,
+        "known_for_department": "Writing",
+        "name": "Sacha Gervasi",
+        "original_name": "Sacha Gervasi",
+        "popularity": 0.6555,
+        "profile_path": "/2RuElDsbwc2In6mQDnvwmIJBTF5.jpg",
+        "credit_id": "52fe475f9251416c7509702b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1547230,
+        "known_for_department": "Sound",
+        "name": "David Norland",
+        "original_name": "David Norland",
+        "popularity": 0.1072,
+        "profile_path": "/6TyBCZ1Mlr8Jv56GfyhC2qNqEgt.jpg",
+        "credit_id": "57351768925141672900018b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8686,
+        "known_for_department": "Writing",
+        "name": "Sacha Gervasi",
+        "original_name": "Sacha Gervasi",
+        "popularity": 0.6555,
+        "profile_path": "/2RuElDsbwc2In6mQDnvwmIJBTF5.jpg",
+        "credit_id": "573516f6c3a3680251000191",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229002,
+        "known_for_department": "Directing",
+        "name": "Jeff Renfroe",
+        "original_name": "Jeff Renfroe",
+        "popularity": 0.3717,
+        "profile_path": null,
+        "credit_id": "57351854c3a36802530001d7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937718,
+        "known_for_department": "Camera",
+        "name": "Jeremy Benning",
+        "original_name": "Jeremy Benning",
+        "popularity": 0.1239,
+        "profile_path": null,
+        "credit_id": "5735194b92514167230001ee",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1308291,
+        "known_for_department": "Production",
+        "name": "Luca Borghese",
+        "original_name": "Luca Borghese",
+        "popularity": 0.2127,
+        "profile_path": "/3u2pD0IVEZ9eh3oi94gncIag7Oh.jpg",
+        "credit_id": "57351874c3a368023f000201",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8686,
+        "known_for_department": "Writing",
+        "name": "Sacha Gervasi",
+        "original_name": "Sacha Gervasi",
+        "popularity": 0.6555,
+        "profile_path": "/2RuElDsbwc2In6mQDnvwmIJBTF5.jpg",
+        "credit_id": "57351716c3a368026200018d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1704,
+        "known_for_department": "Directing",
+        "name": "Gore Verbinski",
+        "original_name": "Gore Verbinski",
+        "popularity": 1.1417,
+        "profile_path": "/rSQRdmLNAwdKxrtvBSSlBmWeSsj.jpg",
+        "credit_id": "5735189e92514167290001b9",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1434549,
+        "known_for_department": "Production",
+        "name": "Rebecca Yeldham",
+        "original_name": "Rebecca Yeldham",
+        "popularity": 0.1549,
+        "profile_path": "/bsKI8WtilDEviYo4TMcPFAaQg6n.jpg",
+        "credit_id": "5735173a925141672c000190",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53898,
+        "known_for_department": "Editing",
+        "name": "Andrew Dickler",
+        "original_name": "Andrew Dickler",
+        "popularity": 0.2924,
+        "profile_path": null,
+        "credit_id": "5735179b9251416729000192",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 928577,
+        "known_for_department": "Acting",
+        "name": "Steven Wiig",
+        "original_name": "Steven Wiig",
+        "popularity": 0.3519,
+        "profile_path": "/nEpsMCbemUtkajekCqfx8ffybah.jpg",
+        "credit_id": "573518b4925141672f00019a",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2260,
+        "known_for_department": "Writing",
+        "name": "Steven Zaillian",
+        "original_name": "Steven Zaillian",
+        "popularity": 0.6745,
+        "profile_path": "/a8OqAfO2m7TAuewIS0dOv4ip1Vr.jpg",
+        "credit_id": "573518cd92514167290001c1",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1387265,
+        "known_for_department": "Sound",
+        "name": "Bryan Lawson",
+        "original_name": "Bryan Lawson",
+        "popularity": 0.2061,
+        "profile_path": null,
+        "credit_id": "57351913c3a3680241000203",
+        "department": "Sound",
+        "job": "Music Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 5540,
+        "name": "heavy metal"
+      },
+      {
+        "id": 18001,
+        "name": "rock band"
+      },
+      {
+        "id": 18002,
+        "name": "hard rock"
+      },
+      {
+        "id": 208289,
+        "name": "1980s"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-05-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2008-01-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2008-01-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-02-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2008-01-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "NPO 3",
+            "release_date": "2014-11-15T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2008-01-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2008-01-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2008-01-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2022-09-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

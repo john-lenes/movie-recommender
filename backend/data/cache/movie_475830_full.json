@@ -1,0 +1,626 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Uk7uAAihg49ruMAGyilEP7jdji.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.hallmarkchannel.com/switched-for-christmas",
+  "id": 475830,
+  "imdb_id": "tt7038606",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Switched for Christmas",
+  "overview": "Cansadas da rotina e dos rumos que suas vidas tomara, duas irmãs gêmeas resolvem trocar de identidade até o dia do Natal para descobrirem o verdadeiro sentido de suas vidas.",
+  "popularity": 5.0102,
+  "poster_path": "/4Mp0VTTA2oYOz6Ybzi8nSbcmTlV.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2017-11-26",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Um Natal de Mudanças",
+  "video": false,
+  "vote_average": 6.49,
+  "vote_count": 102,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31363,
+        "known_for_department": "Acting",
+        "name": "Candace Cameron Bure",
+        "original_name": "Candace Cameron Bure",
+        "popularity": 1.5235,
+        "profile_path": "/sDNFyYgyVmE5AGFCeLR0DVDzCji.jpg",
+        "cast_id": 0,
+        "character": "Kate / Chris",
+        "credit_id": "59bb5c10c3a3680f1e007038",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7498,
+        "known_for_department": "Acting",
+        "name": "Eion Bailey",
+        "original_name": "Eion Bailey",
+        "popularity": 1.9978,
+        "profile_path": "/3DW13W47cKk4LQZwS4EvRaNBoVu.jpg",
+        "cast_id": 1,
+        "character": "Tom",
+        "credit_id": "59f20be59251416aa3033e94",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1912418,
+        "known_for_department": "Acting",
+        "name": "Natasha Bure",
+        "original_name": "Natasha Bure",
+        "popularity": 0.4784,
+        "profile_path": "/mRrvBoZYwQ1ydlFIyfmMdUNvIp3.jpg",
+        "cast_id": 2,
+        "character": "Piper",
+        "credit_id": "59f20bf3c3a3680ef100ff4f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120894,
+        "known_for_department": "Acting",
+        "name": "Mark Deklin",
+        "original_name": "Mark Deklin",
+        "popularity": 0.6652,
+        "profile_path": "/n1jfzdyF7BNrfF5JuWzf7d2LX09.jpg",
+        "cast_id": 3,
+        "character": "Greg",
+        "credit_id": "59f20bfe9251416ad00360a9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1598153,
+        "known_for_department": "Acting",
+        "name": "Cooper Johnson",
+        "original_name": "Cooper Johnson",
+        "popularity": 0.1401,
+        "profile_path": "/b5iJPepVTt6hS114nInYBZ1KGQ5.jpg",
+        "cast_id": 11,
+        "character": "Gabe",
+        "credit_id": "5a21f966c3a3680b9a0b7327",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1720388,
+        "known_for_department": "Acting",
+        "name": "Walter Platz",
+        "original_name": "Walter Platz",
+        "popularity": 0.4314,
+        "profile_path": "/c8eqv7OjWheoUfMAGGaKTW4TrxD.jpg",
+        "cast_id": 12,
+        "character": "Ed",
+        "credit_id": "5a21f9e9c3a3680b960ae155",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88703,
+        "known_for_department": "Acting",
+        "name": "James Jamison",
+        "original_name": "James Jamison",
+        "popularity": 0.1925,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Principal Bumner",
+        "credit_id": "5a21fa07c3a3680b930af516",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1933178,
+        "known_for_department": "Acting",
+        "name": "Ben Olsen",
+        "original_name": "Ben Olsen",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Dylan",
+        "credit_id": "5a21fa1dc3a3680b9a0b73f7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1906735,
+        "known_for_department": "Acting",
+        "name": "Jessica Villeneuve",
+        "original_name": "Jessica Villeneuve",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Emily",
+        "credit_id": "5a21fa3c92514103260b328d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1430899,
+        "known_for_department": "Acting",
+        "name": "Natalie Salins",
+        "original_name": "Natalie Salins",
+        "popularity": 0.1726,
+        "profile_path": "/nPJHUGKWIkyjOQP5Bo1gB4ud01l.jpg",
+        "cast_id": 16,
+        "character": "Mrs. Walker",
+        "credit_id": "5a21fa62c3a3680b960ae1f8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1103535,
+        "known_for_department": "Acting",
+        "name": "Angella Joy",
+        "original_name": "Angella Joy",
+        "popularity": 0.244,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Co-Worker",
+        "credit_id": "5a21fa880e0a264cd00aec54",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1925577,
+        "known_for_department": "Acting",
+        "name": "Mark Blockovich",
+        "original_name": "Mark Blockovich",
+        "popularity": 0.153,
+        "profile_path": "/9JPQIQNPADimI23YQRET82eddIb.jpg",
+        "cast_id": 18,
+        "character": "Party Attendee",
+        "credit_id": "5a21faa4c3a3680b8d0ae283",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1362209,
+        "known_for_department": "Acting",
+        "name": "Marilyn Miller",
+        "original_name": "Marilyn Miller",
+        "popularity": 0.163,
+        "profile_path": "/dKcU0bLxR6HfVVe5brBjBLXnjJv.jpg",
+        "cast_id": 19,
+        "character": "Office Employee",
+        "credit_id": "5a21fab892514103240aca45",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1933180,
+        "known_for_department": "Acting",
+        "name": "Hannah Gabel",
+        "original_name": "Hannah Gabel",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "High School Student",
+        "credit_id": "5a21fae0c3a3680b8d0ae2e8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1102392,
+        "known_for_department": "Acting",
+        "name": "Rachel Pace",
+        "original_name": "Rachel Pace",
+        "popularity": 0.1812,
+        "profile_path": "/93yV0byaHYqoOWvPWjcSqNGmUZi.jpg",
+        "cast_id": 22,
+        "character": "Teen Kate",
+        "credit_id": "5a21fb14c3a3680b8d0ae319",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1102391,
+        "known_for_department": "Acting",
+        "name": "Amanda Pace",
+        "original_name": "Amanda Pace",
+        "popularity": 0.2691,
+        "profile_path": "/2w8VHmsB470Plng5S7cei3MmNNo.jpg",
+        "cast_id": 23,
+        "character": "Teen Chris",
+        "credit_id": "5a21fb37c3a3680b9a0b75d2",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1394493,
+        "known_for_department": "Acting",
+        "name": "Kristen Marie Jensen",
+        "original_name": "Kristen Marie Jensen",
+        "popularity": 0.1808,
+        "profile_path": "/1xU1vbXJtnjaiYHPLnQHAooNPZ4.jpg",
+        "cast_id": 24,
+        "character": "Grace",
+        "credit_id": "5a21fb660e0a264cc80b49f6",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1613035,
+        "known_for_department": "Acting",
+        "name": "Brad Johnson",
+        "original_name": "Brad Johnson",
+        "popularity": 0.7069,
+        "profile_path": "/4hVTSo9VX0jqZYtaORbpPrQa0QJ.jpg",
+        "cast_id": 25,
+        "character": "Jasper",
+        "credit_id": "5a21fb8bc3a3680b930af713",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971819,
+        "known_for_department": "Art",
+        "name": "Rob Howeth",
+        "original_name": "Rob Howeth",
+        "popularity": 0.0775,
+        "profile_path": null,
+        "credit_id": "61a9b3f1180dea00455f36b5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2557996,
+        "known_for_department": "Art",
+        "name": "Effney Gardea",
+        "original_name": "Effney Gardea",
+        "popularity": 0.1052,
+        "profile_path": null,
+        "credit_id": "61a9b3f80582240042b9e534",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31157,
+        "known_for_department": "Editing",
+        "name": "Randy Carter",
+        "original_name": "Randy Carter",
+        "popularity": 0.2339,
+        "profile_path": null,
+        "credit_id": "61a9b3e67ecd28002dc2f804",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1391779,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stefanie Lain",
+        "original_name": "Stefanie Lain",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "credit_id": "61a9b401a6a4c1004498282b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526042,
+        "known_for_department": "Sound",
+        "name": "Corey Allen Jackson",
+        "original_name": "Corey Allen Jackson",
+        "popularity": 0.188,
+        "profile_path": null,
+        "credit_id": "61a9b3d738469a0068e1d77f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72957,
+        "known_for_department": "Camera",
+        "name": "Michael Marshall",
+        "original_name": "Michael Marshall",
+        "popularity": 0.1867,
+        "profile_path": null,
+        "credit_id": "61a9b3df1f33190088d34162",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111895,
+        "known_for_department": "Visual Effects",
+        "name": "Christian Cardona",
+        "original_name": "Christian Cardona",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "credit_id": "63d6b45722df2e007976a8f5",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85808,
+        "known_for_department": "Visual Effects",
+        "name": "Scott Wheeler",
+        "original_name": "Scott Wheeler",
+        "popularity": 0.2917,
+        "profile_path": null,
+        "credit_id": "63d6b46720e6a5007ffd65fb",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87878,
+        "known_for_department": "Editing",
+        "name": "Christian McIntire",
+        "original_name": "Christian McIntire",
+        "popularity": 0.2359,
+        "profile_path": null,
+        "credit_id": "63d6b476f48b3400dbd382b3",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2637271,
+        "known_for_department": "Visual Effects",
+        "name": "John Huffnagle",
+        "original_name": "John Huffnagle",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "63d6b481955c650084799123",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2204856,
+        "known_for_department": "Production",
+        "name": "Stephanie Fugleberg",
+        "original_name": "Stephanie Fugleberg",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "662527d47a97ab014a8bf779",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1409290,
+        "known_for_department": "Crew",
+        "name": "Kathy Jarvis",
+        "original_name": "Kathy Jarvis",
+        "popularity": 0.3335,
+        "profile_path": "/iqyUzVXPExPbUd3d1uroLJNgMzE.jpg",
+        "credit_id": "662527e72dda890187e248e4",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 994163,
+        "known_for_department": "Directing",
+        "name": "Lee Friedlander",
+        "original_name": "Lee Friedlander",
+        "popularity": 0.3769,
+        "profile_path": null,
+        "credit_id": "59fa6889c3a3681a3f002a21",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 994163,
+        "known_for_department": "Directing",
+        "name": "Lee Friedlander",
+        "original_name": "Lee Friedlander",
+        "popularity": 0.3769,
+        "profile_path": null,
+        "credit_id": "59fa688392514113dd002d2f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1512119,
+        "known_for_department": "Writing",
+        "name": "Tracy Andreen",
+        "original_name": "Tracy Andreen",
+        "popularity": 0.3668,
+        "profile_path": null,
+        "credit_id": "59fa68c092514113dd002d8d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31363,
+        "known_for_department": "Acting",
+        "name": "Candace Cameron Bure",
+        "original_name": "Candace Cameron Bure",
+        "popularity": 1.5235,
+        "profile_path": "/sDNFyYgyVmE5AGFCeLR0DVDzCji.jpg",
+        "credit_id": "5a21f85e92514103290b1593",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228801,
+        "known_for_department": "Production",
+        "name": "Anthony Fankhauser",
+        "original_name": "Anthony Fankhauser",
+        "popularity": 0.2699,
+        "profile_path": "/d88sL3akL6iaOkr47DbXBcpEEkF.jpg",
+        "credit_id": "5a21f87992514103240ac7d4",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323786,
+        "known_for_department": "Production",
+        "name": "Stan Spry",
+        "original_name": "Stan Spry",
+        "popularity": 0.1775,
+        "profile_path": "/lAnpc8NJYCnhAroWt8me1lSfJm8.jpg",
+        "credit_id": "5a21f88b0e0a264cd00aea33",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154440,
+        "known_for_department": "Production",
+        "name": "Eric Scott Woods",
+        "original_name": "Eric Scott Woods",
+        "popularity": 0.3077,
+        "profile_path": "/lGctGfKulzGvLuZmrqWmAneRTu9.jpg",
+        "credit_id": "5a21f8980e0a264cd00aea46",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1820564,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shantell Guy",
+        "original_name": "Shantell Guy",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "64aad429fa78cd00ffe46240",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2267906,
+        "known_for_department": "Directing",
+        "name": "Jeff Fuller",
+        "original_name": "Jeff Fuller",
+        "popularity": 0.0904,
+        "profile_path": "/2BW88FH5dBVAKIklgmSfAc4OAr9.jpg",
+        "credit_id": "5fc7f6be55c1f4003e5fe5f5",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1608,
+        "name": "twin sister"
+      },
+      {
+        "id": 177035,
+        "name": "identity swap"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TF1",
+            "release_date": "2018-11-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hallmark Channel",
+            "release_date": "2017-11-26T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

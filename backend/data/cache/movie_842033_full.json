@@ -1,0 +1,550 @@
+{
+  "adult": false,
+  "backdrop_path": "/mGLBObg2JwEwRzsWYCVCunTlszo.jpg",
+  "belongs_to_collection": {
+    "id": 1514432,
+    "name": "괴기 시리즈",
+    "poster_path": "/g0t6k5NgM2dsTgEqzRURTqSiNkz.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 842033,
+  "imdb_id": "tt14895216",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "괴기맨숀",
+  "overview": "Um escritor de webtoon de terror viaja para um prédio de apartamentos em ruínas em busca de ideias. O zelador do prédio conta a ele sobre vários eventos estranhos que aconteceram ao longo da história do prédio.",
+  "popularity": 6.9151,
+  "poster_path": "/fv0M8kyW95FpsrhoLTSCcEVR6hf.jpg",
+  "production_companies": [
+    {
+      "id": 15974,
+      "logo_path": "/whf327LIlsbElBmCXIgnL0aueko.png",
+      "name": "MCMC",
+      "origin_country": "KR"
+    },
+    {
+      "id": 73918,
+      "logo_path": "/lnHDA1Fnpdjbg6fUF4gpneeAdf1.png",
+      "name": "Contents Panda",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2021-06-30",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mansão Fantasma",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 230,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254579,
+        "known_for_department": "Acting",
+        "name": "성준",
+        "original_name": "성준",
+        "popularity": 1.3848,
+        "profile_path": "/375rx6041ov9kLc6G36CGf4kwx4.jpg",
+        "cast_id": 1,
+        "character": "Ji-woo",
+        "credit_id": "60d3aae4924ce6007f8c7fdb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1287909,
+        "known_for_department": "Acting",
+        "name": "김홍파",
+        "original_name": "김홍파",
+        "popularity": 0.9709,
+        "profile_path": "/b953MkFBGBu6A14otCyMuxTYGgb.jpg",
+        "cast_id": 2,
+        "character": "Keeper",
+        "credit_id": "60d3aaec38469a00453e5620",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1200384,
+        "known_for_department": "Acting",
+        "name": "김보라",
+        "original_name": "김보라",
+        "popularity": 0.597,
+        "profile_path": "/5Y6yKloeVDnMB6AkJcdpl8E2bKA.jpg",
+        "cast_id": 3,
+        "character": "Da-hye",
+        "credit_id": "60d3aaff0e64af002f7b1cc4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2462807,
+        "known_for_department": "Acting",
+        "name": "이창훈",
+        "original_name": "이창훈",
+        "popularity": 0.6429,
+        "profile_path": "/gunEDHw5kp3Por19IelR8qOp8kL.jpg",
+        "cast_id": 4,
+        "character": "Writer",
+        "credit_id": "60d3ab063e6f2b00451052a6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1525617,
+        "known_for_department": "Acting",
+        "name": "박소진",
+        "original_name": "박소진",
+        "popularity": 0.7885,
+        "profile_path": "/cI64vJSNXzLwLm8wqIMKpLJTnmM.jpg",
+        "cast_id": 5,
+        "character": "Pharmacist",
+        "credit_id": "60d3ab13bf0f63005d715820",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090574,
+        "known_for_department": "Acting",
+        "name": "Lee Dong-ha",
+        "original_name": "Lee Dong-ha",
+        "popularity": 0.3794,
+        "profile_path": "/oVHlBTszhai1JGdQPMg6vAm3PlM.jpg",
+        "cast_id": 18,
+        "character": "Ho-jun",
+        "credit_id": "67f6e27ed4c444a1cc9950fb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3208878,
+        "known_for_department": "Acting",
+        "name": "이관목",
+        "original_name": "이관목",
+        "popularity": 0.1307,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Detective Ma",
+        "credit_id": "67f6e291d81748ccff992211",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2340912,
+        "known_for_department": "Acting",
+        "name": "박세현",
+        "original_name": "박세현",
+        "popularity": 0.6717,
+        "profile_path": "/q0EzfwHGaD62HIEEnVJZ0pG3pnK.jpg",
+        "cast_id": 20,
+        "character": "High School Girl",
+        "credit_id": "67f6e30031775276d6d92f16",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3208881,
+        "known_for_department": "Acting",
+        "name": "조셉",
+        "original_name": "조셉",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "English Instructor",
+        "credit_id": "67f6e37d31775276d6d92f5d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2449722,
+        "known_for_department": "Acting",
+        "name": "Shin Yoon-seop",
+        "original_name": "Shin Yoon-seop",
+        "popularity": 0.2026,
+        "profile_path": "/ovaDOLICPXmP5yoZcJjlFwt4dpF.jpg",
+        "cast_id": 22,
+        "character": "Musician",
+        "credit_id": "67f6e3cfcce7690230acfb83",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1179570,
+        "known_for_department": "Acting",
+        "name": "조수향",
+        "original_name": "조수향",
+        "popularity": 0.5791,
+        "profile_path": "/hT66KSH1YzXCYExtH2DS8rYtPH4.jpg",
+        "cast_id": 23,
+        "character": "Ballerina",
+        "credit_id": "67f6e3e831775276d6d92f92",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1572463,
+        "known_for_department": "Directing",
+        "name": "이승원",
+        "original_name": "이승원",
+        "popularity": 0.2205,
+        "profile_path": "/4H4ZTP5bvnxrpSQp3ygawMHDgbk.jpg",
+        "cast_id": 24,
+        "character": "Producer",
+        "credit_id": "67f6e4356c3583c97599e289",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1591370,
+        "known_for_department": "Acting",
+        "name": "서현우",
+        "original_name": "서현우",
+        "popularity": 0.7171,
+        "profile_path": "/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg",
+        "cast_id": 7,
+        "character": "Broker",
+        "credit_id": "60d3ab1fce4ddc002d778141",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3208849,
+        "known_for_department": "Acting",
+        "name": "박경복",
+        "original_name": "박경복",
+        "popularity": 0.0805,
+        "profile_path": "/hCn3jUAVRkbF8dJY6HP70iH4Jd8.jpg",
+        "cast_id": 26,
+        "character": "Real Estate Agent",
+        "credit_id": "67f6e4ba1bc639566ad940fd",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3208886,
+        "known_for_department": "Acting",
+        "name": "지남혁",
+        "original_name": "지남혁",
+        "popularity": 0.21,
+        "profile_path": "/hvHhZz0PxIyoYFykppzdFMx31XZ.jpg",
+        "cast_id": 25,
+        "character": "Repairman",
+        "credit_id": "67f6e48231775276d6d92fc6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1893926,
+        "known_for_department": "Acting",
+        "name": "Kang You Seok",
+        "original_name": "강유석",
+        "popularity": 0.904,
+        "profile_path": "/gIuAOI5uORQyk2KV6AeDfULZq7P.jpg",
+        "cast_id": 8,
+        "character": "International Student",
+        "credit_id": "60d3ab359824c8007ecf36be",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2527634,
+        "known_for_department": "Acting",
+        "name": "이석형",
+        "original_name": "이석형",
+        "popularity": 0.506,
+        "profile_path": "/al1SK0ElN8zmK0KddFIvVwdeNTy.jpg",
+        "cast_id": 9,
+        "character": "Mold Youth",
+        "credit_id": "60d3ab3b3e6f2b0045105352",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2240619,
+        "known_for_department": "Acting",
+        "name": "원현준",
+        "original_name": "원현준",
+        "popularity": 0.3708,
+        "profile_path": "/duuhbQUuLwpoxtTLZ1yLg5A7TB2.jpg",
+        "cast_id": 10,
+        "character": "Delivery Man",
+        "credit_id": "60d3ab4e176a94005de7f652",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1123145,
+        "known_for_department": "Acting",
+        "name": "김재화",
+        "original_name": "김재화",
+        "popularity": 0.6978,
+        "profile_path": "/1VFrIWKHqEn2I9unxon9faHiLXM.jpg",
+        "cast_id": 6,
+        "character": "High School Girl's Mother",
+        "credit_id": "60d3ab19924ce60026dbe3f2",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2273915,
+        "known_for_department": "Acting",
+        "name": "Hyun Bong Sik",
+        "original_name": "현봉식",
+        "popularity": 1.0623,
+        "profile_path": "/6NS02ljZ2ssoFyxEM0Jp2SpWYC5.jpg",
+        "cast_id": 15,
+        "character": "Detective Park",
+        "credit_id": "65c9f3cf8d77c4017b47fcbc",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3208853,
+        "known_for_department": "Acting",
+        "name": "Baek Min-hyun",
+        "original_name": "Baek Min-hyun",
+        "popularity": 0.1151,
+        "profile_path": "/bLBMwCxGtreq3qZZQ04aToSa6Bg.jpg",
+        "cast_id": 27,
+        "character": "Editor-in-Chief",
+        "credit_id": "67f6e5af7b43bdce20adf082",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3538629,
+        "known_for_department": "Acting",
+        "name": "이도은",
+        "original_name": "이도은",
+        "popularity": 0.1175,
+        "profile_path": "/ArQbyZ9hdeqrGF39ghD3SeWCA9I.jpg",
+        "cast_id": 28,
+        "character": "Min-ji",
+        "credit_id": "680e53635a9b78d27280fc6b",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2423925,
+        "known_for_department": "Directing",
+        "name": "조바른",
+        "original_name": "조바른",
+        "popularity": 0.2838,
+        "profile_path": "/9tN3FN6yQyV9U7ztvc3Bqit4ZqL.jpg",
+        "credit_id": "60d3abd763a695001db8a227",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2423925,
+        "known_for_department": "Directing",
+        "name": "조바른",
+        "original_name": "조바른",
+        "popularity": 0.2838,
+        "profile_path": "/9tN3FN6yQyV9U7ztvc3Bqit4ZqL.jpg",
+        "credit_id": "60ef1c6a134d580046bd681a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4532072,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yoon Hwang-jik",
+        "original_name": "Yoon Hwang-jik",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "credit_id": "65c9e892ce6c4c0149b9e3a5",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4632730,
+        "known_for_department": "Production",
+        "name": "Kang Ji-hyeon",
+        "original_name": "Kang Ji-hyeon",
+        "popularity": 0.1886,
+        "profile_path": null,
+        "credit_id": "660ddd1795ce24017d6f597e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4696541,
+        "known_for_department": "Sound",
+        "name": "김미미",
+        "original_name": "김미미",
+        "popularity": 0.1944,
+        "profile_path": null,
+        "credit_id": "663860bf9590e30123bd4994",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4037765,
+        "known_for_department": "Art",
+        "name": "Kim Do-eun",
+        "original_name": "Kim Do-eun",
+        "popularity": 0.2111,
+        "profile_path": null,
+        "credit_id": "644f29cdbdd56802f0cc11ee",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3208855,
+        "known_for_department": "Production",
+        "name": "Kwon Ji-yong",
+        "original_name": "Kwon Ji-yong",
+        "popularity": 0.1485,
+        "profile_path": null,
+        "credit_id": "683a98ce8cc7f133477f36ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5473981,
+        "known_for_department": "Sound",
+        "name": "조성진",
+        "original_name": "조성진",
+        "popularity": 0.0735,
+        "profile_path": null,
+        "credit_id": "683a995f30755840ea689270",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2288849,
+        "known_for_department": "Sound",
+        "name": "서지훈",
+        "original_name": "서지훈",
+        "popularity": 0.1619,
+        "profile_path": null,
+        "credit_id": "68982da43300a55636562475",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 312814,
+        "name": "bizarre"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Кино.Арт.Про",
+            "release_date": "2023-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-01-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

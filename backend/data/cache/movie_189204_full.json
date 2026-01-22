@@ -1,0 +1,445 @@
+{
+  "adult": false,
+  "backdrop_path": "/cyxhtPxRMrudT3UpioNjdkDZX4G.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    }
+  ],
+  "homepage": "https://freeform.go.com/movies/lovestruck-the-musical",
+  "id": 189204,
+  "imdb_id": "tt2246673",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lovestruck: The Musical",
+  "overview": "Uma mulher força a filha a seguir seu sonho de ter uma carreira na Broadway. Porém, quando a filha se rebela e vai para a Itália para se casar, a mãe decide beber uma poção que a rejuvenesce e arquiteta um plano para sabotar o casamento.",
+  "popularity": 6.3724,
+  "poster_path": "/ou7hxJDwkNgyuyWaQQzHHuGEtzz.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-04-21",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lovestruck: O Musical",
+  "video": false,
+  "vote_average": 6.539,
+  "vote_count": 153,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 88698,
+        "known_for_department": "Acting",
+        "name": "Chelsea Kane",
+        "original_name": "Chelsea Kane",
+        "popularity": 0.8286,
+        "profile_path": "/yYN0NtxO0hB6FVfZma84pWSXdbw.jpg",
+        "cast_id": 8,
+        "character": "Harper Hutton",
+        "credit_id": "5503df0ac3a368262e000745",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92619,
+        "known_for_department": "Acting",
+        "name": "Drew Seeley",
+        "original_name": "Drew Seeley",
+        "popularity": 0.9468,
+        "profile_path": "/2wFCQ5yX29VMdHuLPFvp9qXNI2G.jpg",
+        "cast_id": 9,
+        "character": "Ryan Hutton",
+        "credit_id": "55244d859251416d4a005304",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60072,
+        "known_for_department": "Acting",
+        "name": "Sara Paxton",
+        "original_name": "Sara Paxton",
+        "popularity": 1.6464,
+        "profile_path": "/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg",
+        "cast_id": 4,
+        "character": "Mirabella Hutton",
+        "credit_id": "52fe4d539251416c75137677",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114293,
+        "known_for_department": "Acting",
+        "name": "Tom Wopat",
+        "original_name": "Tom Wopat",
+        "popularity": 0.7229,
+        "profile_path": "/wJXXcZe7XCQt1UVzb0W6gLtLR0x.jpg",
+        "cast_id": 5,
+        "character": "Ryan Hutton",
+        "credit_id": "52fe4d539251416c7513767b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10223,
+        "known_for_department": "Acting",
+        "name": "Jane Seymour",
+        "original_name": "Jane Seymour",
+        "popularity": 3.1813,
+        "profile_path": "/lSL84b8OlH22VLoazWXIResclAB.jpg",
+        "cast_id": 3,
+        "character": "Harper Hutton",
+        "credit_id": "52fe4d539251416c75137673",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 996224,
+        "known_for_department": "Acting",
+        "name": "Alexander DiPersia",
+        "original_name": "Alexander DiPersia",
+        "popularity": 0.2848,
+        "profile_path": "/oq8CXNNXYHr4Ey6bSKFepVvnrxv.jpg",
+        "cast_id": 10,
+        "character": "Marco Vitturi",
+        "credit_id": "5871dd66c3a3684f160123a1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131724,
+        "known_for_department": "Acting",
+        "name": "Adrienne Bailon-Houghton",
+        "original_name": "Adrienne Bailon-Houghton",
+        "popularity": 0.6579,
+        "profile_path": "/jdgF4MSV69xagO51ed2gdtBgXb3.jpg",
+        "cast_id": 6,
+        "character": "Noelle",
+        "credit_id": "52fe4d539251416c7513767f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132218,
+        "known_for_department": "Acting",
+        "name": "Sarab Kamoo",
+        "original_name": "Sarab Kamoo",
+        "popularity": 0.2844,
+        "profile_path": "/jUXzK8Dh7zu2aEMn9UR6x7KFRjz.jpg",
+        "cast_id": 13,
+        "character": "Amanda",
+        "credit_id": "5fdf6cf21b157d003fc5cc70",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344380,
+        "known_for_department": "Acting",
+        "name": "Mark Tallman",
+        "original_name": "Mark Tallman",
+        "popularity": 0.6665,
+        "profile_path": "/vJN40G3AE6S94VH32m7f7XDueo7.jpg",
+        "cast_id": 14,
+        "character": "Scott",
+        "credit_id": "5fdf6cfdeb093200405181c1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5596911,
+        "known_for_department": "Acting",
+        "name": "Miranda Maleski",
+        "original_name": "Miranda Maleski",
+        "popularity": 0.2835,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Dancer",
+        "credit_id": "695ca03010b9420f5d9f8662",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64140,
+        "known_for_department": "Directing",
+        "name": "Sanaa Hamri",
+        "original_name": "Sanaa Hamri",
+        "popularity": 0.4354,
+        "profile_path": "/okhNJtBQkrMg8rcu3Xk0TbRJc0S.jpg",
+        "credit_id": "53067150c3a3687060000290",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1145972,
+        "known_for_department": "Art",
+        "name": "Merissa Lombardo",
+        "original_name": "Merissa Lombardo",
+        "popularity": 0.077,
+        "profile_path": null,
+        "credit_id": "64c2b89813a32000c5336c38",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 998858,
+        "known_for_department": "Production",
+        "name": "Salli Newman",
+        "original_name": "Salli Newman",
+        "popularity": 0.1241,
+        "profile_path": null,
+        "credit_id": "64c2b86bdf86a800ae01ac9c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1484976,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Blair Levin",
+        "original_name": "Blair Levin",
+        "popularity": 0.0901,
+        "profile_path": null,
+        "credit_id": "64c2b8a49e401200c520f28f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59929,
+        "known_for_department": "Camera",
+        "name": "Checco Varese",
+        "original_name": "Checco Varese",
+        "popularity": 0.2561,
+        "profile_path": "/xBrsJ73J7HAPGNXFJNu7fm8izLG.jpg",
+        "credit_id": "64c2b8592f1be000ae4c4cf0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59973,
+        "known_for_department": "Production",
+        "name": "Debra Martin Chase",
+        "original_name": "Debra Martin Chase",
+        "popularity": 0.2352,
+        "profile_path": null,
+        "credit_id": "64c2b87dede1b000c8bd7ae9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2178248,
+        "known_for_department": "Production",
+        "name": "Gaylyn Fraiche",
+        "original_name": "Gaylyn Fraiche",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "64c2b874df86a800e780c192",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2441835,
+        "known_for_department": "Directing",
+        "name": "Susan Ransom-Coyle",
+        "original_name": "Susan Ransom-Coyle",
+        "popularity": 0.1121,
+        "profile_path": null,
+        "credit_id": "64c2b8addb4ed6011ed7c5c5",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473939,
+        "known_for_department": "Production",
+        "name": "Christopher J. Connolly",
+        "original_name": "Christopher J. Connolly",
+        "popularity": 0.1385,
+        "profile_path": null,
+        "credit_id": "64c2b887df86a800c8e91dca",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 280800,
+        "known_for_department": "Directing",
+        "name": "H.H. Cooper",
+        "original_name": "H.H. Cooper",
+        "popularity": 0.315,
+        "profile_path": null,
+        "credit_id": "64c2b84613a32000ffbf6234",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39982,
+        "known_for_department": "Editing",
+        "name": "Annette Davey",
+        "original_name": "Annette Davey",
+        "popularity": 0.1454,
+        "profile_path": null,
+        "credit_id": "64c2b89050733c01021e329b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2000672,
+        "known_for_department": "Crew",
+        "name": "Alyssa Batchelor",
+        "original_name": "Alyssa Batchelor",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "64c2b8b5df86a80106374ab1",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1706,
+        "known_for_department": "Writing",
+        "name": "Terry Rossio",
+        "original_name": "Terry Rossio",
+        "popularity": 1.0638,
+        "profile_path": "/2lFWE9cgBcrbhSI0wtlYGs5VKVJ.jpg",
+        "credit_id": "5e32c9d94ca67600124d76d7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2524789,
+        "known_for_department": "Writing",
+        "name": "Jaylynn Bailey",
+        "original_name": "Jaylynn Bailey",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "5e32c9c7ac8e6b0015c0ab66",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9204,
+        "known_for_department": "Sound",
+        "name": "George S. Clinton",
+        "original_name": "George S. Clinton",
+        "popularity": 0.3188,
+        "profile_path": "/tdJbE5zJV037lc2RwIRWv0cCJpZ.jpg",
+        "credit_id": "675503a9187d27b266a3b0da",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1347374,
+        "known_for_department": "Acting",
+        "name": "Jessica Rotter",
+        "original_name": "Jessica Rotter",
+        "popularity": 0.2743,
+        "profile_path": "/5DlK8QfEpCzqok5R1gHQL7KaJou.jpg",
+        "credit_id": "67c458a0ab4da0b0d5b4a03f",
+        "department": "Sound",
+        "job": "Vocals"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-04-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

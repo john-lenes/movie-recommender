@@ -1,0 +1,1895 @@
+{
+  "adult": false,
+  "backdrop_path": "/91aHQ6HsccjLxP29WziHwACuofK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tickets.disney.com.br/isso-ainda-esta-de-pe",
+  "id": 1140498,
+  "imdb_id": "tt28083456",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Is This Thing On?",
+  "overview": "Alex e Tess decidem por um divórcio amigável após anos juntos num casamento que lentamente se desfez. Agora, começa uma fase estranha de descobrir como é a vida separados enquanto tentam cuidar e educar dois meninos e manter suas amizades cultivadas como um casal ao longo desses anos. Alex inevitavelmente enfrenta uma crise de meia idade, buscando um novo propósito na cena de comédia stand up em Nova York. Enquanto isso, Tess confronta os sacrifícios que fez pelo bem da família durante todo esse tempo. Os dois são forçados a encarar uma nova realidade em que dividem as obrigações enquanto pais, descobrem suas identidades e tentam entender se o amor pode tomar outras formas.",
+  "popularity": 5.2547,
+  "poster_path": "/v4NUZHJWZHI2xAABGXCymN4NYx3.jpg",
+  "production_companies": [
+    {
+      "id": 127929,
+      "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
+      "name": "Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 85823,
+      "logo_path": "/vX3emcjqjXse76NAUZikSIzHH4t.png",
+      "name": "Archery Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 201152,
+      "logo_path": null,
+      "name": "Lea Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-19",
+  "revenue": 866747,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Isso Ainda Está de Pé?",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21200,
+        "known_for_department": "Acting",
+        "name": "Will Arnett",
+        "original_name": "Will Arnett",
+        "popularity": 2.2905,
+        "profile_path": "/cXupYqk2ERP13XBkw816skYdVDO.jpg",
+        "cast_id": 9,
+        "character": "Alex Novak",
+        "credit_id": "648a534c7eb5f200e95cc9ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4784,
+        "known_for_department": "Acting",
+        "name": "Laura Dern",
+        "original_name": "Laura Dern",
+        "popularity": 3.6428,
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg",
+        "cast_id": 15,
+        "character": "Tess Novak",
+        "credit_id": "67abb266f71a3783e1bb36d8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1658802,
+        "known_for_department": "Acting",
+        "name": "Andra Day",
+        "original_name": "Andra Day",
+        "popularity": 0.7617,
+        "profile_path": "/54zMzFLxL5AKnDR9AlsZLl9VhaG.jpg",
+        "cast_id": 17,
+        "character": "Christine",
+        "credit_id": "67af8885104612e8633b7649",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51329,
+        "known_for_department": "Acting",
+        "name": "Bradley Cooper",
+        "original_name": "Bradley Cooper",
+        "popularity": 3.9086,
+        "profile_path": "/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg",
+        "cast_id": 1,
+        "character": "Balls",
+        "credit_id": "648a47ad56846300e302a97d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4003,
+        "known_for_department": "Acting",
+        "name": "Christine Ebersole",
+        "original_name": "Christine Ebersole",
+        "popularity": 1.1357,
+        "profile_path": "/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg",
+        "cast_id": 26,
+        "character": "Marilyn",
+        "credit_id": "680039b261b1c4bb3299c8f3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8785,
+        "known_for_department": "Acting",
+        "name": "Ciarán Hinds",
+        "original_name": "Ciarán Hinds",
+        "popularity": 3.8337,
+        "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg",
+        "cast_id": 27,
+        "character": "Jan",
+        "credit_id": "680039b8c77fd1df74ad0bbb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52601,
+        "known_for_department": "Acting",
+        "name": "Sean Hayes",
+        "original_name": "Sean Hayes",
+        "popularity": 1.6996,
+        "profile_path": "/31TI5l5QvcZHN4fh0NpejZyJtP.jpg",
+        "cast_id": 14,
+        "character": "Stephen",
+        "credit_id": "6765ddd6aff5a7d64174b615",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12110,
+        "known_for_department": "Acting",
+        "name": "Amy Sedaris",
+        "original_name": "Amy Sedaris",
+        "popularity": 2.6689,
+        "profile_path": "/iQClumvSfTHgysxSofFmcLXmkCc.jpg",
+        "cast_id": 18,
+        "character": "Kemp",
+        "credit_id": "68002cc8b113ff8723d924fd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4163392,
+        "known_for_department": "Acting",
+        "name": "Chloe Radcliffe",
+        "original_name": "Chloe Radcliffe",
+        "popularity": 0.5184,
+        "profile_path": "/d41qeSeokIsHwsMk3aZBsVH2mv3.jpg",
+        "cast_id": 20,
+        "character": "Nina",
+        "credit_id": "680039302c85e796639945bf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2526560,
+        "known_for_department": "Acting",
+        "name": "Scott Icenogle",
+        "original_name": "Scott Icenogle",
+        "popularity": 0.1259,
+        "profile_path": "/lInCWHpUxRcX6KlerrKu1Ed79Iy.jpg",
+        "cast_id": 21,
+        "character": "Geoffrey",
+        "credit_id": "6800395f83c6e567c7d96286",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3277765,
+        "known_for_department": "Acting",
+        "name": "Jordan Jensen",
+        "original_name": "Jordan Jensen",
+        "popularity": 0.2113,
+        "profile_path": "/c3gF0DBnfDqa4FcbjnMk4OpVj9B.jpg",
+        "cast_id": 22,
+        "character": "Jill",
+        "credit_id": "6800396f437f0b80eead9074",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217825,
+        "known_for_department": "Acting",
+        "name": "Peyton Manning",
+        "original_name": "Peyton Manning",
+        "popularity": 0.4791,
+        "profile_path": "/raqIgHYZhf7ibLDEeAVpLrWtJI8.jpg",
+        "cast_id": 19,
+        "character": "Laird",
+        "credit_id": "68002cd2d645e41e099981d5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2853784,
+        "known_for_department": "Acting",
+        "name": "Reggie Conquest",
+        "original_name": "Reggie Conquest",
+        "popularity": 0.2056,
+        "profile_path": "/yudAyvwLhTZG21dstMYg0YecKtT.jpg",
+        "cast_id": 23,
+        "character": "Dan",
+        "credit_id": "68003987b113ff8723d92820",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1129833,
+        "known_for_department": "Acting",
+        "name": "Gabe Fazio",
+        "original_name": "Gabe Fazio",
+        "popularity": 0.4129,
+        "profile_path": "/xxJMg2Gu04O1ZY7KD95IGheNVG1.jpg",
+        "cast_id": 25,
+        "character": "Gabe The Bouncer",
+        "credit_id": "680039ab83c6e567c7d962a4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377283,
+        "known_for_department": "Acting",
+        "name": "Blake Kane",
+        "original_name": "Blake Kane",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Felix",
+        "credit_id": "680039bec77fd1df74ad0bcb",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4661648,
+        "known_for_department": "Acting",
+        "name": "Calvin Knegten",
+        "original_name": "Calvin Knegten",
+        "popularity": 0.1262,
+        "profile_path": "/7E1P5HcI2Fw7mJ0ah4mZl6KxjRP.jpg",
+        "cast_id": 29,
+        "character": "Jude",
+        "credit_id": "680039c4b113ff8723d92841",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1435696,
+        "known_for_department": "Acting",
+        "name": "Derek Gaines",
+        "original_name": "Derek Gaines",
+        "popularity": 0.3827,
+        "profile_path": "/aEdv5fuD1lGK2c0Zy2thpNDeRnn.jpg",
+        "cast_id": 30,
+        "character": "Outside Cellar Comic #1",
+        "credit_id": "680039c9b113ff8723d92845",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3485659,
+        "known_for_department": "Acting",
+        "name": "Matt Richards",
+        "original_name": "Matt Richards",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Outside Cellar Comic #2",
+        "credit_id": "680039d161b1c4bb3299c8f8",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4867,
+        "known_for_department": "Camera",
+        "name": "Matthew Libatique",
+        "original_name": "Matthew Libatique",
+        "popularity": 0.7012,
+        "profile_path": "/gpW5xCOMbWWZKRPHeSIyXg4F3b1.jpg",
+        "cast_id": 59,
+        "character": "Dave",
+        "credit_id": "6947f277fda98db1afb1c8ce",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3277760,
+        "known_for_department": "Acting",
+        "name": "Liz Furiati",
+        "original_name": "Liz Furiati",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Liz",
+        "credit_id": "695990fa4e0286dddacc96c9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65923,
+        "known_for_department": "Acting",
+        "name": "Dave Attell",
+        "original_name": "Dave Attell",
+        "popularity": 0.6844,
+        "profile_path": "/3x9OmPSyPtLuvq6Efvqfu5H85D3.jpg",
+        "cast_id": 61,
+        "character": "Cellar Comic #2",
+        "credit_id": "6959910e071dee77a37c7712",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3284760,
+        "known_for_department": "Acting",
+        "name": "Jes Tom",
+        "original_name": "Jes Tom",
+        "popularity": 0.0472,
+        "profile_path": "/8pvtdZyDgHsDRYwh14rLATAyro.jpg",
+        "cast_id": 63,
+        "character": "Rolo",
+        "credit_id": "6963f3ebb7fe36ab46d8c2b4",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1763587,
+        "known_for_department": "Acting",
+        "name": "Michele Brilliant",
+        "original_name": "Michele Brilliant",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Bartender",
+        "credit_id": "6963f431f33a56c1b7dc4577",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866717,
+        "known_for_department": "Acting",
+        "name": "Daddy",
+        "original_name": "Daddy",
+        "popularity": 0.1008,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Open Mic MC #1",
+        "credit_id": "6963f446763c9c7e5db34ba7",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2216924,
+        "known_for_department": "Acting",
+        "name": "Wil Sylvince",
+        "original_name": "Wil Sylvince",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "cast_id": 66,
+        "character": "Open Mic MC #2",
+        "credit_id": "6963f44db7fe36ab46d8c2be",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2133108,
+        "known_for_department": "Acting",
+        "name": "Jon Laster",
+        "original_name": "Jon Laster",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 67,
+        "character": "Comedy Cellar Host",
+        "credit_id": "6963f456e5c2a04fb5d8c2c0",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1859727,
+        "known_for_department": "Acting",
+        "name": "Sam Jay",
+        "original_name": "Sam Jay",
+        "popularity": 0.5823,
+        "profile_path": "/rdKlDp75xCpRzvlOfglxWy4MB1c.jpg",
+        "cast_id": 68,
+        "character": "Cellar Comic #1",
+        "credit_id": "6963f45d769b3ff8ddd8c2bd",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2082647,
+        "known_for_department": "Acting",
+        "name": "Erin Jackson",
+        "original_name": "Erin Jackson",
+        "popularity": 0.1801,
+        "profile_path": null,
+        "cast_id": 69,
+        "character": "Cellar Comic #3",
+        "credit_id": "6963f471b89f048e28b34ba3",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219688,
+        "known_for_department": "Acting",
+        "name": "Greer Barnes",
+        "original_name": "Greer Barnes",
+        "popularity": 0.29,
+        "profile_path": "/zd1ORoGOMgwEFXlgRyuxO6s4Fpv.jpg",
+        "cast_id": 70,
+        "character": "Cellar Comic #4",
+        "credit_id": "6963f4795df9f4709a9343d6",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3978174,
+        "known_for_department": "Acting",
+        "name": "Ashton Womack",
+        "original_name": "Ashton Womack",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Cellar Manager",
+        "credit_id": "6963f4a2e5c2a04fb5d8c2de",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1465348,
+        "known_for_department": "Writing",
+        "name": "Bob Castrone",
+        "original_name": "Bob Castrone",
+        "popularity": 0.1322,
+        "profile_path": null,
+        "cast_id": 72,
+        "character": "Bob",
+        "credit_id": "6963f4b4f1e079a35f90d214",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1405327,
+        "known_for_department": "Lighting",
+        "name": "John Alcantara",
+        "original_name": "John Alcantara",
+        "popularity": 0.0837,
+        "profile_path": null,
+        "cast_id": 73,
+        "character": "Open Mic Doorman",
+        "credit_id": "6963f4ca2c652d17b6284271",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2437345,
+        "known_for_department": "Acting",
+        "name": "Emma Willmann",
+        "original_name": "Emma Willmann",
+        "popularity": 0.1322,
+        "profile_path": "/ajlsZ5PYC46FwlDRWkzEu2ouLs.jpg",
+        "cast_id": 74,
+        "character": "Open Mic Comic",
+        "credit_id": "6963f4d36b3717fb0ed8c2ac",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932817,
+        "known_for_department": "Acting",
+        "name": "Rachel Claire Perry",
+        "original_name": "Rachel Claire Perry",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 75,
+        "character": "Restaurant Hostess",
+        "credit_id": "6963f4f38abb743e8990d213",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932819,
+        "known_for_department": "Acting",
+        "name": "Elyse Mulholland",
+        "original_name": "Elyse Mulholland",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 76,
+        "character": "Waitress",
+        "credit_id": "6963f4fcc27e7664a0dc4575",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932821,
+        "known_for_department": "Acting",
+        "name": "Ronald A. Nahass Jr.",
+        "original_name": "Ronald A. Nahass Jr.",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "Mr. Nahass",
+        "credit_id": "6963f505769b3ff8ddd8c2ee",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932825,
+        "known_for_department": "Acting",
+        "name": "Paityn Brooke Samuel",
+        "original_name": "Paityn Brooke Samuel",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Bandmate #1/Singer",
+        "credit_id": "6963f514769b3ff8ddd8c2fe",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932827,
+        "known_for_department": "Acting",
+        "name": "Azahra Fofana",
+        "original_name": "Azahra Fofana",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 79,
+        "character": "Bandmate #2/Singer",
+        "credit_id": "6963f51e72beaf0b9d90d1f6",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932829,
+        "known_for_department": "Acting",
+        "name": "Warren Wan",
+        "original_name": "Warren Wan",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 80,
+        "character": "Lion Troupe Leader",
+        "credit_id": "6963f52b1fce598162d8c337",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932831,
+        "known_for_department": "Acting",
+        "name": "Jianheng Huang",
+        "original_name": "Jianheng Huang",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 81,
+        "character": "Lion Puppeteer #1",
+        "credit_id": "6963f543d3fff90bfddb1d3d",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932835,
+        "known_for_department": "Acting",
+        "name": "Evan Choy",
+        "original_name": "Evan Choy",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 82,
+        "character": "Lion Puppeteer #2",
+        "credit_id": "6963f55463a2e70e427b157f",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932837,
+        "known_for_department": "Acting",
+        "name": "Matthew So",
+        "original_name": "Matthew So",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 83,
+        "character": "Lion Puppeteer #3",
+        "credit_id": "6963f565f813302ce72842b4",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932838,
+        "known_for_department": "Acting",
+        "name": "Nicholas Chee-Keung Ling",
+        "original_name": "Nicholas Chee-Keung Ling",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 84,
+        "character": "Lion Puppeteer #4",
+        "credit_id": "6963f56ebdee302dbfd4ec09",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932839,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Time",
+        "original_name": "Jeffrey Time",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 85,
+        "character": "Lion Puppeteer #5",
+        "credit_id": "6963f578f7e8c42809d8c307",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932840,
+        "known_for_department": "Acting",
+        "name": "Justin Tam",
+        "original_name": "Justin Tam",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 86,
+        "character": "Lion Puppeteer #6",
+        "credit_id": "6963f581769b3ff8ddd8c30e",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932841,
+        "known_for_department": "Acting",
+        "name": "Jeme Obeime",
+        "original_name": "Jeme Obeime",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 87,
+        "character": "Tess Staffer #1",
+        "credit_id": "6963f58b372d20bba2d8c2ab",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932842,
+        "known_for_department": "Acting",
+        "name": "Leah Catherine Schmidt",
+        "original_name": "Leah Catherine Schmidt",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 88,
+        "character": "Tess Staffer #2",
+        "credit_id": "6963f594325a8ea32bdc4540",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932843,
+        "known_for_department": "Acting",
+        "name": "Melissa Rigo",
+        "original_name": "Melissa Rigo",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 89,
+        "character": "Tess Staffer #3",
+        "credit_id": "6963f59de67dcce31adc45c5",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932844,
+        "known_for_department": "Acting",
+        "name": "Amy Lynne-Harris Kober",
+        "original_name": "Amy Lynne-Harris Kober",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 90,
+        "character": "Volleyball Player",
+        "credit_id": "6963f5a4ee0baeb77828428f",
+        "order": 48
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932846,
+        "known_for_department": "Acting",
+        "name": "Olia Pry",
+        "original_name": "Olia Pry",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 91,
+        "character": "Party Animator #1",
+        "credit_id": "6963f5ac1058505df1d4ec4e",
+        "order": 49
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932847,
+        "known_for_department": "Acting",
+        "name": "Sofiia Viniar",
+        "original_name": "Sofiia Viniar",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 92,
+        "character": "Party Animator #2",
+        "credit_id": "6963f5b475f71dd9b290d1cb",
+        "order": 50
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932848,
+        "known_for_department": "Acting",
+        "name": "Charlie",
+        "original_name": "Charlie",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 93,
+        "character": "Charlie",
+        "credit_id": "6963f5c4f33a56c1b7dc459c",
+        "order": 51
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932849,
+        "known_for_department": "Acting",
+        "name": "Lucy",
+        "original_name": "Lucy",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 94,
+        "character": "Lucy",
+        "credit_id": "6963f5cc1fce598162d8c353",
+        "order": 52
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2109617,
+        "known_for_department": "Acting",
+        "name": "Aaron Applebey",
+        "original_name": "Aaron Applebey",
+        "popularity": 0.0293,
+        "profile_path": null,
+        "cast_id": 95,
+        "character": "Cellar Comic (uncredited)",
+        "credit_id": "6963f5dabdee302dbfd4ec17",
+        "order": 53
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4954789,
+        "known_for_department": "Acting",
+        "name": "Jonathan Bender",
+        "original_name": "Jonathan Bender",
+        "popularity": 0.1457,
+        "profile_path": null,
+        "cast_id": 96,
+        "character": "Parent (uncredited)",
+        "credit_id": "6963f5f195ad2b37fa7b1563",
+        "order": 54
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4937261,
+        "known_for_department": "Acting",
+        "name": "Dylan Bickel",
+        "original_name": "Dylan Bickel",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 97,
+        "character": "Comedy Cellar Patron (uncredited)",
+        "credit_id": "6963f5fa951d66765bd4ebee",
+        "order": 55
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932851,
+        "known_for_department": "Acting",
+        "name": "Ava Marie Boucher",
+        "original_name": "Ava Marie Boucher",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 98,
+        "character": "Student (uncredited)",
+        "credit_id": "6963f603b88a80c224dc456f",
+        "order": 56
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4685650,
+        "known_for_department": "Acting",
+        "name": "Jess Elgene",
+        "original_name": "Jess Elgene",
+        "popularity": 0.1134,
+        "profile_path": null,
+        "cast_id": 99,
+        "character": "Cellar Comic (uncredited)",
+        "credit_id": "6963f60c372d20bba2d8c2b6",
+        "order": 57
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5825217,
+        "known_for_department": "Acting",
+        "name": "Seyler Fox",
+        "original_name": "Seyler Fox",
+        "popularity": 0.0071,
+        "profile_path": "/i4BxGMl0Q7oNNnuubVz8XVHvhui.jpg",
+        "cast_id": 100,
+        "character": "Upper School Student (uncredited)",
+        "credit_id": "6963f6173563ac54da7b154c",
+        "order": 58
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932853,
+        "known_for_department": "Acting",
+        "name": "Callum G.",
+        "original_name": "Callum G.",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 101,
+        "character": "Student (uncredited)",
+        "credit_id": "6963f62cdf5952fb0dd4ec30",
+        "order": 59
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932855,
+        "known_for_department": "Acting",
+        "name": "Azalea Gray",
+        "original_name": "Azalea Gray",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 102,
+        "character": "School Kid (uncredited)",
+        "credit_id": "6963f63a6b3717fb0ed8c2b8",
+        "order": 60
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2960516,
+        "known_for_department": "Acting",
+        "name": "Lyon Hamill",
+        "original_name": "Lyon Hamill",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "cast_id": 103,
+        "character": "Bartender (uncredited)",
+        "credit_id": "6963f644ee0baeb7782842cd",
+        "order": 61
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932857,
+        "known_for_department": "Acting",
+        "name": "Tom Johnson",
+        "original_name": "Tom Johnson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 104,
+        "character": "Pedestrian (uncredited)",
+        "credit_id": "6963f67203f9a4b3f8284269",
+        "order": 62
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5409312,
+        "known_for_department": "Production",
+        "name": "Lexee Leach",
+        "original_name": "Lexee Leach",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 105,
+        "character": "Cellar Comic (uncredited)",
+        "credit_id": "6963f680c893dab95edb1d00",
+        "order": 63
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2086309,
+        "known_for_department": "Acting",
+        "name": "Heather Lee",
+        "original_name": "Heather Lee",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "cast_id": 106,
+        "character": "Volleyball Coach (uncredited)",
+        "credit_id": "6963f69d5fa8c3b0a79343f9",
+        "order": 64
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932858,
+        "known_for_department": "Acting",
+        "name": "Bradley Liu",
+        "original_name": "Bradley Liu",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 107,
+        "character": "School Kid (uncredited)",
+        "credit_id": "6963f6a91cb5d2ca6bdb1d0e",
+        "order": 65
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5932859,
+        "known_for_department": "Acting",
+        "name": "Thomas Liu",
+        "original_name": "Thomas Liu",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 108,
+        "character": "School Kid (uncredited)",
+        "credit_id": "6963f6bf67bcaafc4e9343c7",
+        "order": 66
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4204911,
+        "known_for_department": "Writing",
+        "name": "Eli Coyote Mandel",
+        "original_name": "Eli Coyote Mandel",
+        "popularity": 0.0607,
+        "profile_path": null,
+        "cast_id": 109,
+        "character": "Cellar Comic (uncredited)",
+        "credit_id": "6963f6c9f81db4f7f3db1d33",
+        "order": 67
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3838983,
+        "known_for_department": "Acting",
+        "name": "Tim Myer",
+        "original_name": "Tim Myer",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "cast_id": 110,
+        "character": "Cellar Comic (uncredited)",
+        "credit_id": "6963f6dc72beaf0b9d90d21d",
+        "order": 68
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5150863,
+        "known_for_department": "Acting",
+        "name": "Maggie Olmsted",
+        "original_name": "Maggie Olmsted",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "cast_id": 111,
+        "character": "Cellar Comic (uncredited)",
+        "credit_id": "6963f6e6d53fa1eb22d8c286",
+        "order": 69
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4816988,
+        "known_for_department": "Acting",
+        "name": "Leroy Phillips Jr.",
+        "original_name": "Leroy Phillips Jr.",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 112,
+        "character": "Pedestrian/Restaurant Patron (uncredited)",
+        "credit_id": "6963f6ef00bc45745190d1b8",
+        "order": 70
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5654825,
+        "known_for_department": "Acting",
+        "name": "Swanmy Sampaio",
+        "original_name": "Swanmy Sampaio",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "cast_id": 113,
+        "character": "Actress (uncredited)",
+        "credit_id": "6963f6fa66c2b293d1db1dcc",
+        "order": 71
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5586887,
+        "known_for_department": "Acting",
+        "name": "Isabel Vullings",
+        "original_name": "Isabel Vullings",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 114,
+        "character": "Comedy Cellar Audience Member (uncredited)",
+        "credit_id": "6963f70367bcaafc4e9343da",
+        "order": 72
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471057,
+        "known_for_department": "Acting",
+        "name": "Landon Wilson",
+        "original_name": "Landon Wilson",
+        "popularity": 0.2442,
+        "profile_path": null,
+        "cast_id": 115,
+        "character": "Party Kid (uncredited)",
+        "credit_id": "6963f70e2f5b19da659343ca",
+        "order": 73
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51329,
+        "known_for_department": "Acting",
+        "name": "Bradley Cooper",
+        "original_name": "Bradley Cooper",
+        "popularity": 3.9086,
+        "profile_path": "/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg",
+        "credit_id": "648a486f7eb5f2010af51002",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 963336,
+        "known_for_department": "Production",
+        "name": "Kris Thykier",
+        "original_name": "Kris Thykier",
+        "popularity": 0.3165,
+        "profile_path": "/xpOiTmVBYRnQmqH0aiXi1wPUsiT.jpg",
+        "credit_id": "648a4897a80236013a573f32",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21200,
+        "known_for_department": "Acting",
+        "name": "Will Arnett",
+        "original_name": "Will Arnett",
+        "popularity": 2.2905,
+        "profile_path": "/cXupYqk2ERP13XBkw816skYdVDO.jpg",
+        "credit_id": "648a487e56846300aeb67725",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51329,
+        "known_for_department": "Acting",
+        "name": "Bradley Cooper",
+        "original_name": "Bradley Cooper",
+        "popularity": 3.9086,
+        "profile_path": "/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg",
+        "credit_id": "648a47b67eb5f2014cd025a8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21200,
+        "known_for_department": "Acting",
+        "name": "Will Arnett",
+        "original_name": "Will Arnett",
+        "popularity": 2.2905,
+        "profile_path": "/cXupYqk2ERP13XBkw816skYdVDO.jpg",
+        "credit_id": "66b80fcf7ee9f3b30f075030",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239854,
+        "known_for_department": "Writing",
+        "name": "Mark Chappell",
+        "original_name": "Mark Chappell",
+        "popularity": 0.2922,
+        "profile_path": "/b73CK2BJOtObR7cb8faiWm3UP5o.jpg",
+        "credit_id": "66b80fbe8cf0f520cda8e027",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51329,
+        "known_for_department": "Acting",
+        "name": "Bradley Cooper",
+        "original_name": "Bradley Cooper",
+        "popularity": 3.9086,
+        "profile_path": "/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg",
+        "credit_id": "680039e361b1c4bb3299c906",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2682613,
+        "known_for_department": "Production",
+        "name": "Weston Middleton",
+        "original_name": "Weston Middleton",
+        "popularity": 0.1545,
+        "profile_path": null,
+        "credit_id": "68003a05de5e4dec62aedcc6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19755,
+        "known_for_department": "Art",
+        "name": "Kevin Thompson",
+        "original_name": "Kevin Thompson",
+        "popularity": 0.2715,
+        "profile_path": "/xfC6DDaxDfNjIoFVvLtgFtlaNeS.jpg",
+        "credit_id": "68003a2af39c730125d93590",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4867,
+        "known_for_department": "Camera",
+        "name": "Matthew Libatique",
+        "original_name": "Matthew Libatique",
+        "popularity": 0.7012,
+        "profile_path": "/gpW5xCOMbWWZKRPHeSIyXg4F3b1.jpg",
+        "credit_id": "68003a36aacf7cfb2699ffc8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1861646,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gali Noy",
+        "original_name": "Gali Noy",
+        "popularity": 0.0566,
+        "profile_path": null,
+        "credit_id": "68003a3f2c85e79663994654",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2148373,
+        "known_for_department": "Editing",
+        "name": "Charlie Greene",
+        "original_name": "Charlie Greene",
+        "popularity": 0.1488,
+        "profile_path": null,
+        "credit_id": "68003a49c77fd1df74ad0c18",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1401606,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lori McCoy-Bell",
+        "original_name": "Lori McCoy-Bell",
+        "popularity": 0.328,
+        "profile_path": "/xoR4oQtcGewEz5nOJXCHlAtF0F8.jpg",
+        "credit_id": "68003a5583c6e567c7d962c7",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1070138,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicki Ledermann",
+        "original_name": "Nicki Ledermann",
+        "popularity": 0.1568,
+        "profile_path": "/k1BSZD165iDQpo6XCRTanJ1Cvpj.jpg",
+        "credit_id": "68003a60de5e4dec62aedcdb",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1938144,
+        "known_for_department": "Sound",
+        "name": "James Newberry",
+        "original_name": "James Newberry",
+        "popularity": 0.151,
+        "profile_path": "/9YWTOBrZH14EKyuiLodxqqDfN4K.jpg",
+        "credit_id": "68003aa2d645e41e099985b7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51329,
+        "known_for_department": "Acting",
+        "name": "Bradley Cooper",
+        "original_name": "Bradley Cooper",
+        "popularity": 3.9086,
+        "profile_path": "/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg",
+        "credit_id": "68003aba83c6e567c7d962f7",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1594606,
+        "known_for_department": "Production",
+        "name": "Shayna Markowitz",
+        "original_name": "Shayna Markowitz",
+        "popularity": 0.2072,
+        "profile_path": null,
+        "credit_id": "68003edfc77fd1df74ad0dc6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563757,
+        "known_for_department": "Directing",
+        "name": "Peter Thorell",
+        "original_name": "Peter Thorell",
+        "popularity": 0.2283,
+        "profile_path": null,
+        "credit_id": "68003f0f2c85e79663994787",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2626985,
+        "known_for_department": "Directing",
+        "name": "Alex Scricco",
+        "original_name": "Alex Scricco",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "68003f292c85e79663994797",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2396665,
+        "known_for_department": "Crew",
+        "name": "Tracey Ruggiero",
+        "original_name": "Tracey Ruggiero",
+        "popularity": 0.5028,
+        "profile_path": "/mTICXn8w1d1HPNrH9oCgPL05vRr.jpg",
+        "credit_id": "68003f65b113ff8723d92934",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21200,
+        "known_for_department": "Acting",
+        "name": "Will Arnett",
+        "original_name": "Will Arnett",
+        "popularity": 2.2905,
+        "profile_path": "/cXupYqk2ERP13XBkw816skYdVDO.jpg",
+        "credit_id": "68addfa23105f27bb69dbb4f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239854,
+        "known_for_department": "Writing",
+        "name": "Mark Chappell",
+        "original_name": "Mark Chappell",
+        "popularity": 0.2922,
+        "profile_path": "/b73CK2BJOtObR7cb8faiWm3UP5o.jpg",
+        "credit_id": "68addfbce1bddc0eaf1e5e9a",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216049,
+        "known_for_department": "Acting",
+        "name": "John Bishop",
+        "original_name": "John Bishop",
+        "popularity": 0.768,
+        "profile_path": "/tooZmoOa6YLZTyak8gbbYXFeile.jpg",
+        "credit_id": "68adee5ef9036006abfa8de7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1405327,
+        "known_for_department": "Lighting",
+        "name": "John Alcantara",
+        "original_name": "John Alcantara",
+        "popularity": 0.0837,
+        "profile_path": null,
+        "credit_id": "68c44c80aed074312222f7c0",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425395,
+        "known_for_department": "Sound",
+        "name": "Jason Ruder",
+        "original_name": "Jason Ruder",
+        "popularity": 0.2472,
+        "profile_path": null,
+        "credit_id": "68c44cb9ff352cc01cf8a0ff",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425395,
+        "known_for_department": "Sound",
+        "name": "Jason Ruder",
+        "original_name": "Jason Ruder",
+        "popularity": 0.2472,
+        "profile_path": null,
+        "credit_id": "68e3ed4b65aecc98a99cb3ff",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1564055,
+        "known_for_department": "Production",
+        "name": "Caroline Jaczko",
+        "original_name": "Caroline Jaczko",
+        "popularity": 0.1438,
+        "profile_path": null,
+        "credit_id": "68e3ed779c0452f88f61805c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216049,
+        "known_for_department": "Acting",
+        "name": "John Bishop",
+        "original_name": "John Bishop",
+        "popularity": 0.768,
+        "profile_path": "/tooZmoOa6YLZTyak8gbbYXFeile.jpg",
+        "credit_id": "68e3ed949fe962043936eaa8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2258280,
+        "known_for_department": "Production",
+        "name": "Robert S. Wilhelm Jr.",
+        "original_name": "Robert S. Wilhelm Jr.",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "68e3edb547e9178da1c22cba",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466245,
+        "known_for_department": "Sound",
+        "name": "Steven A. Morrow",
+        "original_name": "Steven A. Morrow",
+        "popularity": 0.3642,
+        "profile_path": "/gThOTQ7FxWQUBQlbXU89aN5JBBh.jpg",
+        "credit_id": "6959912c4e0286dddacc96d5",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 242,
+        "name": "new york city"
+      },
+      {
+        "id": 9716,
+        "name": "stand-up comedy"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Vancouver International Film Festival",
+            "release_date": "2025-10-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BFI London Film Festival",
+            "release_date": "2025-10-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cork International Film Festival",
+            "release_date": "2025-11-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Coarse Language",
+              "Drugs and/or alcohol abuse"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Stockholm International Film Festival",
+            "release_date": "2025-11-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Film Festival",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Woodstock Film Festival",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mill Valley Film Festival",
+            "release_date": "2025-10-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hamptons International Film Festival",
+            "release_date": "2025-10-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Santa Fe International Film Festival",
+            "release_date": "2025-10-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hawai’i International Film Festival",
+            "release_date": "2025-10-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Philadelphia Film Festival",
+            "release_date": "2025-10-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "SCAD Savannah Film Festival",
+            "release_date": "2025-10-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AFI Fest / Twin Cities Film Fest",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Denver Film Festival",
+            "release_date": "2025-11-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Heartland International Film Festival",
+            "release_date": "2025-10-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Chicago International Film Festival",
+            "release_date": "2025-10-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Middleburg Film Festival",
+            "release_date": "2025-10-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "IFFBoston Fall Focus",
+            "release_date": "2025-11-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Miami Film Festival GEMS",
+            "release_date": "2025-11-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sun Valley Film Festival",
+            "release_date": "2025-12-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

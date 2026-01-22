@@ -1,0 +1,1868 @@
+{
+  "adult": false,
+  "backdrop_path": "/q44ti4QwHJidHhqAUeU33QnUanR.jpg",
+  "belongs_to_collection": {
+    "id": 189159,
+    "name": "Projeto China: Coleção",
+    "poster_path": "/e9vvVYigrKQMEYojAkJBwu5LBjd.jpg",
+    "backdrop_path": "/h4zXkPpkBiKGpP9eU140HIGnSHC.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 21519,
+  "imdb_id": "tt0085127",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "A計劃",
+  "overview": "Em Hong-Kong, durante o Século XIX, os ingleses governavam a terra, porém os piratas dominavam as águas e durante meses vêm aterrorizando os mares. Relutante, a Guarda Costeira fornece o dinheiro para o combate aos piratas, mas eles têm muitos contatos, ou seja, oficiais subordinados que procuram de todas as formas atrapalhar as tentativas de eliminá-los. Todos os planos para combatê-los são sabotados pelo corrupto chefe de polícia e sua gangue. Dragon Ma é um oficial da Guarda Costeira determinado a lutar contra a corrupção e acabar com as atividades dos piratas.",
+  "popularity": 10.4068,
+  "poster_path": "/h9zXFoTnKiU07zipoidxfEOC8sC.jpg",
+  "production_companies": [
+    {
+      "id": 2734,
+      "logo_path": null,
+      "name": "Paragon Films",
+      "origin_country": "HK"
+    },
+    {
+      "id": 92649,
+      "logo_path": null,
+      "name": "Authority Films Ltd.",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1983-12-22",
+  "revenue": 18000000,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Uma aventura estrondosa na antiga costa da China...",
+  "title": "Projeto China",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 519,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 19.2501,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "cast_id": 1,
+        "character": "Sgt. Dragon Ma Yue Lung",
+        "credit_id": "52fe441dc3a368484e010333",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62410,
+        "known_for_department": "Acting",
+        "name": "洪金寶",
+        "original_name": "洪金寶",
+        "popularity": 3.519,
+        "profile_path": "/odHszmZ4uj2Hj4EE03js8IsswJb.jpg",
+        "cast_id": 5,
+        "character": "Cheuk Yat Fei",
+        "credit_id": "52fe441dc3a368484e010345",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62414,
+        "known_for_department": "Acting",
+        "name": "元彪",
+        "original_name": "元彪",
+        "popularity": 2.0308,
+        "profile_path": "/pgO9Im1QKPjLozvsWODLtZDTjw7.jpg",
+        "cast_id": 2,
+        "character": "Inspector Hong Tin Chi",
+        "credit_id": "52fe441dc3a368484e010337",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62424,
+        "known_for_department": "Acting",
+        "name": "狄威",
+        "original_name": "狄威",
+        "popularity": 1.0211,
+        "profile_path": "/pkllOdDN2CGukmyOv2XlzoMAQfC.jpg",
+        "cast_id": 3,
+        "character": "Pirate Chief Lo San Po",
+        "credit_id": "52fe441dc3a368484e01033b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119454,
+        "known_for_department": "Acting",
+        "name": "蔣榮發",
+        "original_name": "蔣榮發",
+        "popularity": 1.1325,
+        "profile_path": "/ubTgVTM9v25HcNbXk6y2Lf8OFc9.jpg",
+        "cast_id": 12,
+        "character": "Big Mouth",
+        "credit_id": "52fe441dc3a368484e010365",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83629,
+        "known_for_department": "Acting",
+        "name": "太保",
+        "original_name": "太保",
+        "popularity": 1.3082,
+        "profile_path": "/4AtGJBlRvgzRHzYUZxkZk9kUE61.jpg",
+        "cast_id": 24,
+        "character": "Tai Bo",
+        "credit_id": "56b9695892514106af0011f3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1356188,
+        "known_for_department": "Acting",
+        "name": "黄曼凝",
+        "original_name": "黄曼凝",
+        "popularity": 0.8205,
+        "profile_path": "/gAykA4c8RgldLFELBHmZ7VI2kxk.jpg",
+        "cast_id": 23,
+        "character": "Winnie Chik",
+        "credit_id": "56b96938925141069f0012e9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1135238,
+        "known_for_department": "Acting",
+        "name": "關海山",
+        "original_name": "關海山",
+        "popularity": 1.0711,
+        "profile_path": "/d8j4tk2ACa61zw3wKF0NEdhNbKe.jpg",
+        "cast_id": 25,
+        "character": "Captain Chik",
+        "credit_id": "56b9697b92514106ac001287",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178942,
+        "known_for_department": "Acting",
+        "name": "Lau Hak-Suen",
+        "original_name": "Lau Hak-Suen",
+        "popularity": 0.5373,
+        "profile_path": "/oF9aJ8cA0FUKnZ6d8tSZ9Lj5scS.jpg",
+        "cast_id": 26,
+        "character": "Lieutenant Shih",
+        "credit_id": "56b9698ac3a3681e5900154d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1109778,
+        "known_for_department": "Acting",
+        "name": "李海生",
+        "original_name": "李海生",
+        "popularity": 0.6728,
+        "profile_path": "/zQHwRsh77Ai1CAHykjGWxbQzlqY.jpg",
+        "cast_id": 22,
+        "character": "Li Chou Kou",
+        "credit_id": "56b9690dc3a3681e68001f47",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 943779,
+        "known_for_department": "Acting",
+        "name": "王偉",
+        "original_name": "王偉",
+        "popularity": 0.7543,
+        "profile_path": "/mekHAh0mDXYRhg6Z9x4rt88YMzU.jpg",
+        "cast_id": 29,
+        "character": "Chou Wing Ling",
+        "credit_id": "58a610a7c3a368014a000410",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269956,
+        "known_for_department": "Acting",
+        "name": "张午郎",
+        "original_name": "张午郎",
+        "popularity": 0.9503,
+        "profile_path": "/uX9YzOctyeBxA5PbuUeXghPxhdi.jpg",
+        "cast_id": 34,
+        "character": "Ling's Thug",
+        "credit_id": "5c71c4a1c3a3685a4413ed78",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83694,
+        "known_for_department": "Acting",
+        "name": "尹發",
+        "original_name": "尹發",
+        "popularity": 0.2891,
+        "profile_path": "/d8fzlrn0NtGAEwjOGIFU8EozawP.jpg",
+        "cast_id": 35,
+        "character": "Ling's Thug",
+        "credit_id": "5c71c4c80e0a262c1f7be9ff",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1265950,
+        "known_for_department": "Acting",
+        "name": "羅浩楷",
+        "original_name": "羅浩楷",
+        "popularity": 0.7176,
+        "profile_path": "/brhtbbHnIcPQ0YpQjT0LZJp0Z3q.jpg",
+        "cast_id": 37,
+        "character": "VIP Club Manager",
+        "credit_id": "5c71c4e89251415eecb19734",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134704,
+        "known_for_department": "Acting",
+        "name": "午馬",
+        "original_name": "午馬",
+        "popularity": 1.3723,
+        "profile_path": "/fIwXNGnXsK881iLEI9R8XUbBnKg.jpg",
+        "cast_id": 20,
+        "character": "Mahjong Cheat",
+        "credit_id": "52fe441dc3a368484e010389",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119648,
+        "known_for_department": "Acting",
+        "name": "湯錦棠",
+        "original_name": "湯錦棠",
+        "popularity": 0.2362,
+        "profile_path": "/kCJqLMI3er0wsU4LmS89hmNBU1S.jpg",
+        "cast_id": 39,
+        "character": "Boatman",
+        "credit_id": "5c71c5329251415ee2b185da",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141853,
+        "known_for_department": "Acting",
+        "name": "唐炎燦",
+        "original_name": "唐炎燦",
+        "popularity": 0.537,
+        "profile_path": "/mAIP5VTIUsZYuyjX5nHM2HRRXQW.jpg",
+        "cast_id": 41,
+        "character": "Policeman",
+        "credit_id": "5c71c546c3a3685a4413ef05",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1121128,
+        "known_for_department": "Acting",
+        "name": "黎強權",
+        "original_name": "黎強權",
+        "popularity": 0.5534,
+        "profile_path": "/aSuPzMM2jf74Og3lWor20gbZoUE.jpg",
+        "cast_id": 42,
+        "character": "Policeman",
+        "credit_id": "5c71c5650e0a262c0c7becff",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1404423,
+        "known_for_department": "Acting",
+        "name": "吳麗珠",
+        "original_name": "吳麗珠",
+        "popularity": 0.6871,
+        "profile_path": "/q3CzoBprJXHsvjzzmgE8jcY4ObY.jpg",
+        "cast_id": 87,
+        "character": "Chu, Coast Guard's Girlfriend",
+        "credit_id": "664ed92457f21fa765cae017",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1415790,
+        "known_for_department": "Acting",
+        "name": "Man Git-Wan",
+        "original_name": "Man Git-Wan",
+        "popularity": 0.3267,
+        "profile_path": "/dBwoFWcYH1rJNOpZxUf0khACPFV.jpg",
+        "cast_id": 88,
+        "character": "Policeman's Girlfriend",
+        "credit_id": "664ed955a7cfca301bec0a17",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166563,
+        "known_for_department": "Acting",
+        "name": "권영문",
+        "original_name": "권영문",
+        "popularity": 0.6811,
+        "profile_path": "/9XhxVkKIigw5iqnSCPtLLmHgyHE.jpg",
+        "cast_id": 40,
+        "character": "Pirate",
+        "credit_id": "5c71c53d0e0a262c067bd8a0",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4730669,
+        "known_for_department": "Acting",
+        "name": "Chuen Yan",
+        "original_name": "Chuen Yan",
+        "popularity": 0.08,
+        "profile_path": null,
+        "cast_id": 129,
+        "character": "Pirate (uncredited)",
+        "credit_id": "664eddc48bd9107fa118bd4c",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193722,
+        "known_for_department": "Acting",
+        "name": "陳志輝",
+        "original_name": "陳志輝",
+        "popularity": 0.5762,
+        "profile_path": "/r7eyb8VATUMfB8h30wV97Cq8oDV.jpg",
+        "cast_id": 105,
+        "character": "Coast Guard / Pirate (uncredited)",
+        "credit_id": "664edb37a7cfca301bec0a55",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 945029,
+        "known_for_department": "Acting",
+        "name": "Chan Leung",
+        "original_name": "Chan Leung",
+        "popularity": 0.246,
+        "profile_path": "/kQ4GGsoobZ3IZ7Q5RKkArJjfSWq.jpg",
+        "cast_id": 97,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664eda70f57c23a361064c9e",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1625539,
+        "known_for_department": "Acting",
+        "name": "Chan Ling-Wai",
+        "original_name": "Chan Ling-Wai",
+        "popularity": 0.2412,
+        "profile_path": "/75t2kJ50qWd4YmhST68vxOqUAi8.jpg",
+        "cast_id": 110,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664edbb13468f5fc1693921b",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1692406,
+        "known_for_department": "Acting",
+        "name": "曾醒光",
+        "original_name": "曾醒光",
+        "popularity": 0.2219,
+        "profile_path": "/2cymZK8MtEGV1uD3VX9bmETBYrA.jpg",
+        "cast_id": 101,
+        "character": "Coast Guard Sha Pi Gou (uncredited)",
+        "credit_id": "664edadc23f55694cb93946b",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1280271,
+        "known_for_department": "Acting",
+        "name": "張作舟",
+        "original_name": "張作舟",
+        "popularity": 0.343,
+        "profile_path": "/ffw8FRAor97nqxZGgeFNovXzddV.jpg",
+        "cast_id": 122,
+        "character": "Shipping Boss at Meeting (uncredited)",
+        "credit_id": "664edcf31e57059561cae37e",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1346978,
+        "known_for_department": "Acting",
+        "name": "張華",
+        "original_name": "張華",
+        "popularity": 0.6355,
+        "profile_path": "/k8mSScm4vfZ7ZnV0tPeW829g3fb.jpg",
+        "cast_id": 98,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664eda9202b79c298334cc5a",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148884,
+        "known_for_department": "Acting",
+        "name": "錢嘉樂",
+        "original_name": "錢嘉樂",
+        "popularity": 0.9633,
+        "profile_path": "/1C8uMztrOOBYlhOj2VKHsfDzQv9.jpg",
+        "cast_id": 108,
+        "character": "Policeman / Pirate (uncredited)",
+        "credit_id": "664edb8a894d4e07c7065019",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098967,
+        "known_for_department": "Acting",
+        "name": "蔡宪章",
+        "original_name": "蔡宪章",
+        "popularity": 0.2171,
+        "profile_path": "/hChHJtLdwaELtFReX6vHH2M82sV.jpg",
+        "cast_id": 94,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664eda2882a2ffadf09afb7e",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180788,
+        "known_for_department": "Acting",
+        "name": "周潤堅",
+        "original_name": "周潤堅",
+        "popularity": 0.3486,
+        "profile_path": "/84zqn0Jc7GfFsuNytxLRLEiT11C.jpg",
+        "cast_id": 95,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664eda367f26e3bd2c9392ad",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548613,
+        "known_for_department": "Acting",
+        "name": "Chu Tau",
+        "original_name": "Chu Tau",
+        "popularity": 0.2972,
+        "profile_path": "/dPxczkfajqpQCu2h5UbZfETHxxe.jpg",
+        "cast_id": 96,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664eda462b7c699c7a9b08ca",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1509169,
+        "known_for_department": "Acting",
+        "name": "王均康",
+        "original_name": "王均康",
+        "popularity": 0.7476,
+        "profile_path": "/cZjMJKdqSxlNY1lpIZXoHWzUeLO.jpg",
+        "cast_id": 111,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664edbd7a7cfca301bec0a66",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67690,
+        "known_for_department": "Acting",
+        "name": "Lola Forner",
+        "original_name": "Lola Forner",
+        "popularity": 1.0887,
+        "profile_path": "/2OwF2pVfXxzPEG6B66LAXu4pGkF.jpg",
+        "cast_id": 7,
+        "character": "British Rear-Admiral's Daughter (uncredited)",
+        "credit_id": "52fe441dc3a368484e010349",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119449,
+        "known_for_department": "Acting",
+        "name": "馮敬文",
+        "original_name": "馮敬文",
+        "popularity": 0.792,
+        "profile_path": "/4DVkvBOaKo4a9z00f8kispO4tGu.jpg",
+        "cast_id": 36,
+        "character": "Mahjong Cheat (uncredited)",
+        "credit_id": "5c71c4d5c3a3685a3513f862",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388747,
+        "known_for_department": "Acting",
+        "name": "馮明",
+        "original_name": "馮明",
+        "popularity": 0.4578,
+        "profile_path": "/kafXbUrtsq2PU4GmkEg28bHTx3R.jpg",
+        "cast_id": 120,
+        "character": "Mahjong Player (uncredited)",
+        "credit_id": "664edc9e5edcb18ce8939393",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1635640,
+        "known_for_department": "Acting",
+        "name": "Ha Kwok-Wing",
+        "original_name": "Ha Kwok-Wing",
+        "popularity": 0.2787,
+        "profile_path": "/mj8o0d3UOxhMNS0QkQCLu3a2fsy.jpg",
+        "cast_id": 102,
+        "character": "Coast Guard (uncredited)",
+        "credit_id": "664edb0176e4fb6e32ec0e96",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1929559,
+        "known_for_department": "Acting",
+        "name": "何雲",
+        "original_name": "何雲",
+        "popularity": 0.3912,
+        "profile_path": "/tCeXWeYrDSXvfaNgymlrtUaEjx.jpg",
+        "cast_id": 118,
+        "character": "Mahjong Player (uncredited)",
+        "credit_id": "664edc7e3468f5fc16939230",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1356189,
+        "known_for_department": "Acting",
+        "name": "Hon Yee-Sang",
+        "original_name": "Hon Yee-Sang",
+        "popularity": 0.5903,
+        "profile_path": "/bzYD6qbgCUEFivehO9VCHdOA5kP.jpg",
+        "cast_id": 28,
+        "character": "Chiang (uncredited)",
+        "credit_id": "56b969a792514106b4001328",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1140546,
+        "known_for_department": "Acting",
+        "name": "Hsiao Yu",
+        "original_name": "Hsiao Yu",
+        "popularity": 0.5336,
+        "profile_path": "/t4CZWu5WL86usSMHLeQ2HMtUYO6.jpg",
+        "cast_id": 125,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664edd2da91c2b970add3e24",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359191,
+        "known_for_department": "Acting",
+        "name": "洪新南",
+        "original_name": "洪新南",
+        "popularity": 0.5897,
+        "profile_path": "/czM2l6yrkAAsBIXx025yZJFhBPv.jpg",
+        "cast_id": 113,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664edc0fa647645f51ec1339",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1713363,
+        "known_for_department": "Acting",
+        "name": "Lai Sau-Kit",
+        "original_name": "Lai Sau-Kit",
+        "popularity": 0.2024,
+        "profile_path": "/hvYGJy0IZfXn7RpU70LV6QOkTt3.jpg",
+        "cast_id": 132,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664ede3bf38ca42077cae9c5",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2527079,
+        "known_for_department": "Acting",
+        "name": "林富偉",
+        "original_name": "林富偉",
+        "popularity": 0.5796,
+        "profile_path": "/ivoZea3EUiZwHjsZg0Se7eUtL3h.jpg",
+        "cast_id": 116,
+        "character": "Pirate (uncredited)",
+        "credit_id": "664edc441e57059561cae366",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180160,
+        "known_for_department": "Acting",
+        "name": "Lam Yuen",
+        "original_name": "Lam Yuen",
+        "popularity": 0.2677,
+        "profile_path": "/yPWRCDMzU6tpCvJlKQ0mMDXbKsd.jpg",
+        "cast_id": 123,
+        "character": "Shipping Boss at Meeting (uncredited)",
+        "credit_id": "664edd0682a2ffadf09afbe0",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1683418,
+        "known_for_department": "Acting",
+        "name": "Wynn Lau",
+        "original_name": "Wynn Lau",
+        "popularity": 0.4449,
+        "profile_path": null,
+        "cast_id": 130,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664ede14a91c2b970add3e51",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1135162,
+        "known_for_department": "Acting",
+        "name": "劉晃世",
+        "original_name": "劉晃世",
+        "popularity": 0.388,
+        "profile_path": "/p5XQSP6VBzYGM5SZHaRS55k6lGR.jpg",
+        "cast_id": 106,
+        "character": "Coast Guard / Policeman (uncredited)",
+        "credit_id": "664edb4e5d950e6d1118cdc9",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1136759,
+        "known_for_department": "Directing",
+        "name": "羅棋",
+        "original_name": "羅棋",
+        "popularity": 0.3784,
+        "profile_path": null,
+        "cast_id": 121,
+        "character": "Man Outside the Clock Tower (uncredited)",
+        "credit_id": "664edcc3e8d22f503cbb371f",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371596,
+        "known_for_department": "Acting",
+        "name": "李發源",
+        "original_name": "李發源",
+        "popularity": 0.3182,
+        "profile_path": "/i0ZxZ77VtxNaPpk8gH3Afv2aKW8.jpg",
+        "cast_id": 99,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664edaa6a647645f51ec1309",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1139366,
+        "known_for_department": "Acting",
+        "name": "Chris Lee Kin-Sang",
+        "original_name": "Chris Lee Kin-Sang",
+        "popularity": 0.3622,
+        "profile_path": "/nSQHMnf7cK0OTzUrfGTMfVOjZr9.jpg",
+        "cast_id": 114,
+        "character": "Pirate (uncredited)",
+        "credit_id": "664edc2639cb10f7d6dd3d1a",
+        "order": 48
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178816,
+        "known_for_department": "Acting",
+        "name": "Leung Seung-Wan",
+        "original_name": "Leung Seung-Wan",
+        "popularity": 0.2543,
+        "profile_path": "/ogMEGI8sXSaLKfuVw24lq1W2CoK.jpg",
+        "cast_id": 119,
+        "character": "Mahjong Player (uncredited)",
+        "credit_id": "664edc8efd717346b4dd3c11",
+        "order": 49
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141848,
+        "known_for_department": "Acting",
+        "name": "Lo Wai",
+        "original_name": "Lo Wai",
+        "popularity": 0.257,
+        "profile_path": "/efR4FRRJ5J6C1sAkLSQZuEIjduW.jpg",
+        "cast_id": 135,
+        "character": "Pirate (uncredited)",
+        "credit_id": "664eded643168a862934d216",
+        "order": 50
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415692,
+        "known_for_department": "Acting",
+        "name": "麥飛鴻",
+        "original_name": "麥飛鴻",
+        "popularity": 0.2463,
+        "profile_path": "/xWz7oOwFWlvlkzzh3Cgf51uNTiE.jpg",
+        "cast_id": 92,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664eda03894d4e07c7064ffc",
+        "order": 51
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2260432,
+        "known_for_department": "Acting",
+        "name": "萬艾迪",
+        "original_name": "萬艾迪",
+        "popularity": 0.3904,
+        "profile_path": "/7l6ikfgMgOWBYy2pfcNgyKi4MyM.jpg",
+        "cast_id": 124,
+        "character": "Mahjong Cheat (uncredited)",
+        "credit_id": "664edd1b5cc84de27b9afd28",
+        "order": 52
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1639001,
+        "known_for_department": "Acting",
+        "name": "吳傑強",
+        "original_name": "吳傑強",
+        "popularity": 0.3617,
+        "profile_path": "/cNlo3zkAdoczK8o76p03CxHH98j.jpg",
+        "cast_id": 112,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664edbf8449db1e365bb3b4c",
+        "order": 53
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3512894,
+        "known_for_department": "Acting",
+        "name": "Ng Kwok-Kai",
+        "original_name": "Ng Kwok-Kai",
+        "popularity": 0.2507,
+        "profile_path": "/cdHWILCzAS2BcgIJWFtfaMVLZwA.jpg",
+        "cast_id": 126,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664edd47ffad949cc8bb3ca3",
+        "order": 54
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1153659,
+        "known_for_department": "Acting",
+        "name": "吳勉勤",
+        "original_name": "吳勉勤",
+        "popularity": 0.2265,
+        "profile_path": "/6dYhTjAM7mOJWRBfhVAKfub7ntv.jpg",
+        "cast_id": 115,
+        "character": "Pirate (uncredited)",
+        "credit_id": "664edc347d97c9231a9afb8e",
+        "order": 55
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3062161,
+        "known_for_department": "Acting",
+        "name": "Frankie Poon Bin-Chung",
+        "original_name": "Frankie Poon Bin-Cheung",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "cast_id": 134,
+        "character": "(extra) (uncredited)",
+        "credit_id": "664ede658099a69b7418c2b7",
+        "order": 56
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420037,
+        "known_for_department": "Acting",
+        "name": "沙鷗",
+        "original_name": "沙鷗",
+        "popularity": 0.3244,
+        "profile_path": null,
+        "cast_id": 131,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664ede2458771766799afb83",
+        "order": 57
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1135343,
+        "known_for_department": "Acting",
+        "name": "Siu Yuk-Lung",
+        "original_name": "Siu Yuk-Lung",
+        "popularity": 0.4728,
+        "profile_path": null,
+        "cast_id": 103,
+        "character": "Coast Guard (uncredited)",
+        "credit_id": "664edb10ddcc9a3defdd3980",
+        "order": 58
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634903,
+        "known_for_department": "Acting",
+        "name": "孫志偉",
+        "original_name": "孫志偉",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "cast_id": 127,
+        "character": "Coast Guard (uncredited)",
+        "credit_id": "664edd665c47b2b48a18c1ae",
+        "order": 59
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416303,
+        "known_for_department": "Acting",
+        "name": "談泉慶",
+        "original_name": "談泉慶",
+        "popularity": 0.4387,
+        "profile_path": "/1G5ONnAgMPYhtNpHZu55x8WhaJd.jpg",
+        "cast_id": 128,
+        "character": "Colonel Mei's Adjutant (uncredited)",
+        "credit_id": "664edd7982a2ffadf09afbf7",
+        "order": 60
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2424752,
+        "known_for_department": "Acting",
+        "name": "Tam Wing-Git",
+        "original_name": "Tam Wing-Git",
+        "popularity": 0.3898,
+        "profile_path": "/wpndSsETmsidD6TIHjEeFpAzSja.jpg",
+        "cast_id": 133,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664ede4e23f55694cb9394dd",
+        "order": 61
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166105,
+        "known_for_department": "Acting",
+        "name": "To Siu-Ming",
+        "original_name": "To Siu-Ming",
+        "popularity": 0.5256,
+        "profile_path": "/3O1Rf7TpsRN1lZRDuB48GyRW5d7.jpg",
+        "cast_id": 38,
+        "character": "Waiter (uncredited)",
+        "credit_id": "5c71c4fc9251415ef1b17dfa",
+        "order": 62
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119647,
+        "known_for_department": "Acting",
+        "name": "杜偉和",
+        "original_name": "杜偉和",
+        "popularity": 0.7035,
+        "profile_path": "/pgmyjoUARr2yHdkrp6FNlZA4f1m.jpg",
+        "cast_id": 107,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664edb745edcb18ce8939367",
+        "order": 63
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1611485,
+        "known_for_department": "Acting",
+        "name": "Tong Pau-Chung",
+        "original_name": "Tong Pau-Chung",
+        "popularity": 0.2633,
+        "profile_path": null,
+        "cast_id": 104,
+        "character": "Coast Guard (uncredited)",
+        "credit_id": "664edb20de88d6df72bb3d29",
+        "order": 64
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1135161,
+        "known_for_department": "Acting",
+        "name": "尹相林",
+        "original_name": "尹相林",
+        "popularity": 0.6676,
+        "profile_path": "/5pVqIB5Z4ryA6onPNLmWD8J8Ds4.jpg",
+        "cast_id": 117,
+        "character": "Mahjong Player / Ling's Thug (uncredited)",
+        "credit_id": "664edc6704d0cc11ee9393bf",
+        "order": 65
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277923,
+        "known_for_department": "Acting",
+        "name": "王坤",
+        "original_name": "王坤",
+        "popularity": 0.5322,
+        "profile_path": "/b3V4FursPspswE4Th6VkpOmxysU.jpg",
+        "cast_id": 86,
+        "character": "Policeman / Man with Ladder in Alley (uncredited)",
+        "credit_id": "664ed8ee1e57059561cae2ec",
+        "order": 66
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1631705,
+        "known_for_department": "Acting",
+        "name": "Wong Kim-Bun",
+        "original_name": "Wong Kim-Bun",
+        "popularity": 0.2904,
+        "profile_path": "/2MKLS01Bdqw0IXyiOENQfKRQTcZ.jpg",
+        "cast_id": 91,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664ed9f243168a862934d181",
+        "order": 67
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1540709,
+        "known_for_department": "Acting",
+        "name": "Wong Siu-Ming",
+        "original_name": "Wong Siu-Ming",
+        "popularity": 0.1917,
+        "profile_path": null,
+        "cast_id": 93,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664eda1482a2ffadf09afb79",
+        "order": 68
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629993,
+        "known_for_department": "Acting",
+        "name": "姚文基",
+        "original_name": "姚文基",
+        "popularity": 0.6522,
+        "profile_path": null,
+        "cast_id": 90,
+        "character": "Ling's Thug (uncredited)",
+        "credit_id": "664ed9d9ed26e32ff734d0eb",
+        "order": 69
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415251,
+        "known_for_department": "Acting",
+        "name": "魚頭雲",
+        "original_name": "魚頭雲",
+        "popularity": 0.6161,
+        "profile_path": "/eZJELzobJPrqLq9JOWE9laCXVoa.jpg",
+        "cast_id": 109,
+        "character": "Policeman (uncredited)",
+        "credit_id": "664edb9df38ca42077cae98b",
+        "order": 70
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2372415,
+        "known_for_department": "Acting",
+        "name": "Yuen Shing-Chau",
+        "original_name": "Yuen Shing-Chau",
+        "popularity": 0.1878,
+        "profile_path": "/owEJGdt9FMdM3VaZ1dQC90JcePO.jpg",
+        "cast_id": 100,
+        "character": "Coast Guard (uncredited)",
+        "credit_id": "664edac55edcb18ce8939352",
+        "order": 71
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4730642,
+        "known_for_department": "Acting",
+        "name": "Sek Gwai-Chai",
+        "original_name": "Sek Gwai-Chai",
+        "popularity": 0.126,
+        "profile_path": null,
+        "cast_id": 89,
+        "character": "",
+        "credit_id": "664ed980977114b159dd3a92",
+        "order": 72
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46326,
+        "known_for_department": "Editing",
+        "name": "張耀宗",
+        "original_name": "張耀宗",
+        "popularity": 0.4066,
+        "profile_path": null,
+        "credit_id": "52fe441dc3a368484e010355",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 19.2501,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "credit_id": "52fe441dc3a368484e010341",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 19.2501,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "credit_id": "664ed126ed26e32ff734cfdf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83694,
+        "known_for_department": "Acting",
+        "name": "尹發",
+        "original_name": "尹發",
+        "popularity": 0.2891,
+        "profile_path": "/d8fzlrn0NtGAEwjOGIFU8EozawP.jpg",
+        "credit_id": "664ed257e8d22f503cbb35f7",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 19.2501,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "credit_id": "664ed1fab26f59fd7d18b7cd",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141853,
+        "known_for_department": "Acting",
+        "name": "唐炎燦",
+        "original_name": "唐炎燦",
+        "popularity": 0.537,
+        "profile_path": "/mAIP5VTIUsZYuyjX5nHM2HRRXQW.jpg",
+        "credit_id": "664ed26ba91c2b970add3c8c",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1504459,
+        "known_for_department": "Writing",
+        "name": "Jo Chan Wai-Yee",
+        "original_name": "Jo Chan Wai-Yee",
+        "popularity": 0.155,
+        "profile_path": null,
+        "credit_id": "664ed29cfd717346b4dd3a67",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119634,
+        "known_for_department": "Sound",
+        "name": "周少龍",
+        "original_name": "周少龍",
+        "popularity": 0.6224,
+        "profile_path": null,
+        "credit_id": "664ed5ff49a2bfd725932463",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4730636,
+        "known_for_department": "Production",
+        "name": "Kam Wah",
+        "original_name": "Kam Wah",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "credit_id": "664ed7195edcb18ce89392fd",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1121128,
+        "known_for_department": "Acting",
+        "name": "黎強權",
+        "original_name": "黎強權",
+        "popularity": 0.5534,
+        "profile_path": "/aSuPzMM2jf74Og3lWor20gbZoUE.jpg",
+        "credit_id": "664ed23458771766799afa10",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 119635,
+        "known_for_department": "Art",
+        "name": "Chin Sam",
+        "original_name": "Chin Sam",
+        "popularity": 0.2009,
+        "profile_path": null,
+        "credit_id": "664ed59efd717346b4dd3b03",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3385797,
+        "known_for_department": "Sound",
+        "name": "吳國華",
+        "original_name": "吳國華",
+        "popularity": 0.3329,
+        "profile_path": null,
+        "credit_id": "664ed766fd717346b4dd3b48",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4730625,
+        "known_for_department": "Art",
+        "name": "So Luk-Yin",
+        "original_name": "So Luk-Yin",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "credit_id": "664ed4e9a8f4fcded6932258",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 899534,
+        "known_for_department": "Directing",
+        "name": "丁善璽",
+        "original_name": "丁善璽",
+        "popularity": 0.6587,
+        "profile_path": "/raFUULR8cWCfLBY8AxudNpcFepx.jpg",
+        "credit_id": "664ed6a705b667e3ed064d80",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46323,
+        "known_for_department": "Production",
+        "name": "鄒文懷",
+        "original_name": "鄒文懷",
+        "popularity": 0.3277,
+        "profile_path": "/plSEvpmZdn1vNZ9cGmfKDsghWfP.jpg",
+        "credit_id": "664ed18a691dda35fb065317",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1180788,
+        "known_for_department": "Acting",
+        "name": "周潤堅",
+        "original_name": "周潤堅",
+        "popularity": 0.3486,
+        "profile_path": "/84zqn0Jc7GfFsuNytxLRLEiT11C.jpg",
+        "credit_id": "664ed2195edcb18ce893924b",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1417168,
+        "known_for_department": "Art",
+        "name": "Mai Ho",
+        "original_name": "Mai Ho",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "664ed5bfcaec7895419322b5",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56811,
+        "known_for_department": "Acting",
+        "name": "黃霑",
+        "original_name": "黃霑",
+        "popularity": 1.0468,
+        "profile_path": "/gmZZNrvwFIpo3kB9L51wQircqlH.jpg",
+        "credit_id": "664ed67e58771766799afaae",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277923,
+        "known_for_department": "Acting",
+        "name": "王坤",
+        "original_name": "王坤",
+        "popularity": 0.5322,
+        "profile_path": "/b3V4FursPspswE4Th6VkpOmxysU.jpg",
+        "credit_id": "664ed227fc290bc881932094",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1869988,
+        "known_for_department": "Camera",
+        "name": "潘德業",
+        "original_name": "潘德業",
+        "popularity": 0.1848,
+        "profile_path": null,
+        "credit_id": "664ed463fabfa6e43b0654e0",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62410,
+        "known_for_department": "Acting",
+        "name": "洪金寶",
+        "original_name": "洪金寶",
+        "popularity": 3.519,
+        "profile_path": "/odHszmZ4uj2Hj4EE03js8IsswJb.jpg",
+        "credit_id": "664ed20ae8d22f503cbb35e7",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610920,
+        "known_for_department": "Directing",
+        "name": "Chiu Lo-Kong",
+        "original_name": "Chiu Lo-Kong",
+        "popularity": 0.2798,
+        "profile_path": null,
+        "credit_id": "664ed40257f21fa765cadf86",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 119664,
+        "known_for_department": "Lighting",
+        "name": "Huang Wei-Shing",
+        "original_name": "Huang Wei-Shing",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "664ed47457f21fa765cadf9a",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 119623,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chu Sheng-Shi",
+        "original_name": "Chu Sheng-Shi",
+        "popularity": 0.3321,
+        "profile_path": null,
+        "credit_id": "664ed518ff39eafbeacae592",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3385954,
+        "known_for_department": "Art",
+        "name": "Wong Shun-Chang",
+        "original_name": "Wong Shun-Chang",
+        "popularity": 0.2331,
+        "profile_path": "/bi6X5XEfpy6Ss20qemXRn026Pb8.jpg",
+        "credit_id": "664ed548ff39eafbeacae59c",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12668,
+        "known_for_department": "Camera",
+        "name": "黎耀辉",
+        "original_name": "黎耀辉",
+        "popularity": 0.2398,
+        "profile_path": null,
+        "credit_id": "664ed445a037392a0f9391a3",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4730623,
+        "known_for_department": "Art",
+        "name": "Poon Yuen-Woh",
+        "original_name": "Poon Yuen-Woh",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "664ed48e8099a69b7418c1c0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178936,
+        "known_for_department": "Acting",
+        "name": "黎小田",
+        "original_name": "黎小田",
+        "popularity": 0.6931,
+        "profile_path": "/8A3P7d97n2pcBZPcnTbY3QUZaeL.jpg",
+        "credit_id": "664ed6425c47b2b48a18c11c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3385961,
+        "known_for_department": "Camera",
+        "name": "陳旭",
+        "original_name": "陳旭",
+        "popularity": 0.4315,
+        "profile_path": null,
+        "credit_id": "664ed74a04d0cc11ee93932c",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62416,
+        "known_for_department": "Production",
+        "name": "何冠昌",
+        "original_name": "何冠昌",
+        "popularity": 0.3854,
+        "profile_path": null,
+        "credit_id": "664ed1a2894d4e07c7064f01",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119454,
+        "known_for_department": "Acting",
+        "name": "蔣榮發",
+        "original_name": "蔣榮發",
+        "popularity": 1.1325,
+        "profile_path": "/ubTgVTM9v25HcNbXk6y2Lf8OFc9.jpg",
+        "credit_id": "664ed2436615e132b334db7b",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1504459,
+        "known_for_department": "Writing",
+        "name": "Jo Chan Wai-Yee",
+        "original_name": "Jo Chan Wai-Yee",
+        "popularity": 0.155,
+        "profile_path": null,
+        "credit_id": "664ed2945cc84de27b9afbf4",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 987991,
+        "known_for_department": "Production",
+        "name": "陳佩華",
+        "original_name": "陳佩華",
+        "popularity": 0.2915,
+        "profile_path": "/tSjkCQO5X3zjmrpDLH10E5BtYA.jpg",
+        "credit_id": "664ed6d982a2ffadf09afb1c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130389,
+        "known_for_department": "Acting",
+        "name": "丁羽",
+        "original_name": "丁羽",
+        "popularity": 0.7038,
+        "profile_path": "/icZSn4KbJuPdyqk1sQWHeU0ZzUW.jpg",
+        "credit_id": "664ed7825edcb18ce893930f",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46318,
+        "known_for_department": "Writing",
+        "name": "鄧景生",
+        "original_name": "鄧景生",
+        "popularity": 0.5735,
+        "profile_path": null,
+        "credit_id": "664ed134de88d6df72bb3bdb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46318,
+        "known_for_department": "Writing",
+        "name": "鄧景生",
+        "original_name": "鄧景生",
+        "popularity": 0.5735,
+        "profile_path": null,
+        "credit_id": "664ed4122b7c699c7a9b0817",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4730624,
+        "known_for_department": "Art",
+        "name": "Chim Fook-Sing",
+        "original_name": "Chim Fook-Sing",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "664ed4b8caec78954193228f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119639,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Simon Chan Kwok-Hong",
+        "original_name": "Simon Chan Kwok-Hong",
+        "popularity": 0.219,
+        "profile_path": null,
+        "credit_id": "664ed52eddcc9a3defdd38b6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56832,
+        "known_for_department": "Camera",
+        "name": "Cheung Yiu-Cho",
+        "original_name": "Cheung Yiu-Cho",
+        "popularity": 0.5396,
+        "profile_path": null,
+        "credit_id": "5c51cd1092514154485c7aab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46318,
+        "known_for_department": "Writing",
+        "name": "鄧景生",
+        "original_name": "鄧景生",
+        "popularity": 0.5735,
+        "profile_path": null,
+        "credit_id": "671e3c026d6b705dc871ba34",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 658,
+        "name": "sea"
+      },
+      {
+        "id": 779,
+        "name": "martial arts"
+      },
+      {
+        "id": 6212,
+        "name": "smuggling (contraband)"
+      },
+      {
+        "id": 6149,
+        "name": "police"
+      },
+      {
+        "id": 3547,
+        "name": "coast guard"
+      },
+      {
+        "id": 4107,
+        "name": "british empire"
+      },
+      {
+        "id": 12354,
+        "name": "hong kong"
+      },
+      {
+        "id": 12988,
+        "name": "pirate"
+      },
+      {
+        "id": 207928,
+        "name": "19th century"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-04-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2007-08-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-03-19T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1988-08-16T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-04-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1988-03-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2012-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1983-12-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-02-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-07-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2012-08-23T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1992-09-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Davao",
+            "release_date": "1985-12-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1987-06-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "2000-05-16T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2007-01-03T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

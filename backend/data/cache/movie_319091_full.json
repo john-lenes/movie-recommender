@@ -1,0 +1,598 @@
+{
+  "adult": false,
+  "backdrop_path": "/5ZrNlupfDMalMqm0QL1m7gk5jce.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 319091,
+  "imdb_id": "tt4185572",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Hunting Ground",
+  "overview": "",
+  "popularity": 2.2666,
+  "poster_path": "/h1BsAt0pbBKhZvcs0Gjh2ZHy1V.jpg",
+  "production_companies": [
+    {
+      "id": 8859,
+      "logo_path": null,
+      "name": "Chain Camera Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 66478,
+      "logo_path": "/u7WmMkfo9MqsqfD5cuDAbd0u1qY.png",
+      "name": "Artemis Rising",
+      "origin_country": "US"
+    },
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 29605,
+      "logo_path": "/bSjv2Cinm8LoadffAngaQek4WLW.png",
+      "name": "CNN Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13046,
+      "logo_path": null,
+      "name": "Cuomo-Cole Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 37578,
+      "logo_path": null,
+      "name": "Minerva Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2015-02-27",
+  "revenue": 411115,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Hunting Ground",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 138,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901396,
+        "known_for_department": "Acting",
+        "name": "Andrea Pino",
+        "original_name": "Andrea Pino",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Herself",
+        "credit_id": "59d8052bc3a36861a3018b43",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901397,
+        "known_for_department": "Acting",
+        "name": "Annie Clark",
+        "original_name": "Annie Clark",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Herself",
+        "credit_id": "59d8054d92514124eb019259",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901398,
+        "known_for_department": "Acting",
+        "name": "Claire Potter",
+        "original_name": "Claire Potter",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Herself",
+        "credit_id": "59d80558c3a368620d0169e0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901399,
+        "known_for_department": "Acting",
+        "name": "Melinda Manning",
+        "original_name": "Melinda Manning",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Herself, assistant dean of students, University of North Carolina",
+        "credit_id": "59d8056ac3a368620d0169f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901398,
+        "known_for_department": "Acting",
+        "name": "Claire Potter",
+        "original_name": "Claire Potter",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Herself, professor of history",
+        "credit_id": "59d80576c3a3686200019d21",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901400,
+        "known_for_department": "Acting",
+        "name": "Kimberly Theidon",
+        "original_name": "Kimberly Theidon",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Herself, medical anthropologist and former Harvard professor",
+        "credit_id": "59d80585c3a36861ec0195ac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901401,
+        "known_for_department": "Acting",
+        "name": "Kamilah Willingham",
+        "original_name": "Kamilah Willingham",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Herself",
+        "credit_id": "59d80596c3a368620d016a16",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600253,
+        "known_for_department": "Acting",
+        "name": "Caroline Heldman",
+        "original_name": "Caroline Heldman",
+        "popularity": 0.0754,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Herself, associate professor of politics, Occidental College",
+        "credit_id": "59d805b1925141252c018e6f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901402,
+        "known_for_department": "Acting",
+        "name": "David Lisak",
+        "original_name": "David Lisak",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Himself, clinical psychologist",
+        "credit_id": "59d805c1c3a3686227018108",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901403,
+        "known_for_department": "Acting",
+        "name": "Leslie Strohm",
+        "original_name": "Leslie Strohm",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Herself, general counsel, University of North Carolina",
+        "credit_id": "59d805d2c3a368622701811d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901404,
+        "known_for_department": "Acting",
+        "name": "Danielle Dirks",
+        "original_name": "Danielle Dirks",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Herself, assistant professor of sociology, Occidental College",
+        "credit_id": "59d805e2c3a368623e019042",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901405,
+        "known_for_department": "Acting",
+        "name": "Diane Rosenfeld",
+        "original_name": "Diane Rosenfeld",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Herself, a lecturer on law, Harvard Law School",
+        "credit_id": "59d805f0925141252c018ea3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901406,
+        "known_for_department": "Acting",
+        "name": "Pat Cottrell",
+        "original_name": "Pat Cottrell",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Himself, former university campus police officer at Saint Mary's College",
+        "credit_id": "59d805fec3a36861ec019605",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901407,
+        "known_for_department": "Acting",
+        "name": "Carol Ann Mooney",
+        "original_name": "Carol Ann Mooney",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Herself, president at Saint Mary's College",
+        "credit_id": "59d8061ac3a3686200019de0",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112588,
+        "known_for_department": "Directing",
+        "name": "Kirby Dick",
+        "original_name": "Kirby Dick",
+        "popularity": 0.3905,
+        "profile_path": "/p9Ar5C5RvZexaqNGqUggQPW4LUp.jpg",
+        "credit_id": "54bb8b0b92514148f00054a9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994915,
+        "known_for_department": "Camera",
+        "name": "Thaddeus Wadleigh",
+        "original_name": "Thaddeus Wadleigh",
+        "popularity": 0.1354,
+        "profile_path": "/lvTQCZ2DNjzPTw0Wwdfkrfn4gss.jpg",
+        "credit_id": "5a5b0fe39251413f6201a145",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 994970,
+        "known_for_department": "Production",
+        "name": "Amy Ziering",
+        "original_name": "Amy Ziering",
+        "popularity": 0.174,
+        "profile_path": "/cp2M0VtFLmuf2ih0QdkmVyj6bJ7.jpg",
+        "credit_id": "5ae9cc4a0e0a263965007ffe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001668,
+        "known_for_department": "Production",
+        "name": "Dan Cogan",
+        "original_name": "Dan Cogan",
+        "popularity": 0.1812,
+        "profile_path": "/bmeQ9JniM3nYWUaa7GVqs6cfZBh.jpg",
+        "credit_id": "5ae9cc56c3a3683b8e004f23",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 101045,
+        "known_for_department": "Acting",
+        "name": "Jennifer Siebel Newsom",
+        "original_name": "Jennifer Siebel Newsom",
+        "popularity": 0.44,
+        "profile_path": "/mqGr8u3R7SiVZBbFmiQRcZ4OEn3.jpg",
+        "credit_id": "5ae9cc5d0e0a263969008068",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1951544,
+        "known_for_department": "Production",
+        "name": "Ruth Ann Harnisch",
+        "original_name": "Ruth Ann Harnisch",
+        "popularity": 0.1028,
+        "profile_path": "/xJ9xB9sml3hYAHxvxY7HY2BLAv0.jpg",
+        "credit_id": "5ae9cc6692514124440070a6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1345661,
+        "known_for_department": "Directing",
+        "name": "Aaron Kopp",
+        "original_name": "Aaron Kopp",
+        "popularity": 0.1415,
+        "profile_path": "/gRJpnyJkcE8RUGIuCnYqiIqUlH0.jpg",
+        "credit_id": "5ae9cc799251412472006e93",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 934897,
+        "known_for_department": "Sound",
+        "name": "Miriam Cutler",
+        "original_name": "Miriam Cutler",
+        "popularity": 0.1273,
+        "profile_path": "/8wBHwtn6IIU6jwRoZ6lGEBiHGPu.jpg",
+        "credit_id": "5ae9cc850e0a263957007ea2",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 885472,
+        "known_for_department": "Editing",
+        "name": "Douglas Blush",
+        "original_name": "Douglas Blush",
+        "popularity": 0.681,
+        "profile_path": "/moeBnQj7GsUwDLAHJjq9fC1TXxh.jpg",
+        "credit_id": "5ae9cca8c3a3683b8800bc45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1147956,
+        "known_for_department": "Editing",
+        "name": "Derek Boonstra",
+        "original_name": "Derek Boonstra",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "5ae9ccae0e0a2639470089bc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2034541,
+        "known_for_department": "Editing",
+        "name": "Kim Roberts",
+        "original_name": "Kim Roberts",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "5ae9cce3c3a3683b9700bc0d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1126877,
+        "known_for_department": "Production",
+        "name": "Geralyn White Dreyfous",
+        "original_name": "Geralyn White Dreyfous",
+        "popularity": 0.0938,
+        "profile_path": "/t25RCx0fyLkUJFOsc3uoPsPiIlM.jpg",
+        "credit_id": "5ae9ccfe0e0a263942008cec",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2034543,
+        "known_for_department": "Production",
+        "name": "Amy Blavin",
+        "original_name": "Amy Blavin",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5ae9cd049251412417006c48",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2034544,
+        "known_for_department": "Production",
+        "name": "Paul Blavin",
+        "original_name": "Paul Blavin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5ae9cd0cc3a3683b9700bc28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 237405,
+        "known_for_department": "Acting",
+        "name": "Lady Gaga",
+        "original_name": "Lady Gaga",
+        "popularity": 1.8779,
+        "profile_path": "/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg",
+        "credit_id": "6687da9fdc7da6f3186f5b48",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234405,
+        "known_for_department": "Sound",
+        "name": "Diane Warren",
+        "original_name": "Diane Warren",
+        "popularity": 0.4057,
+        "profile_path": "/A2e11V3aCvYohBVzLDsgkKPM4V0.jpg",
+        "credit_id": "6687daa8fcf32545df57a183",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1436490,
+        "known_for_department": "Production",
+        "name": "Tom Quinn",
+        "original_name": "Tom Quinn",
+        "popularity": 0.2012,
+        "profile_path": "/hv5h57iITj7AXQftYYDUcSfzy7B.jpg",
+        "credit_id": "5fa663d543494f00411bc8d2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 2383,
+        "name": "feminism"
+      },
+      {
+        "id": 3616,
+        "name": "college"
+      },
+      {
+        "id": 4399,
+        "name": "victim"
+      },
+      {
+        "id": 11527,
+        "name": "rape victim"
+      },
+      {
+        "id": 11534,
+        "name": "sexual violence"
+      },
+      {
+        "id": 13160,
+        "name": "university"
+      },
+      {
+        "id": 158455,
+        "name": "oppression"
+      },
+      {
+        "id": 190327,
+        "name": "sexual assault"
+      },
+      {
+        "id": 219807,
+        "name": "victim blaming"
+      },
+      {
+        "id": 239037,
+        "name": "rape culture"
+      },
+      {
+        "id": 240847,
+        "name": "social & cultural documentary"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "14A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-02-27T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

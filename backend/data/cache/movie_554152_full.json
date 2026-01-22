@@ -1,0 +1,428 @@
+{
+  "adult": false,
+  "backdrop_path": "/vXbyInzU0d8vQ6fOH4RCJhXthf9.jpg",
+  "belongs_to_collection": null,
+  "budget": 2300000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 554152,
+  "imdb_id": "tt9095324",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Coldplay: A Head Full of Dreams",
+  "overview": "De um conjunto de amigos com origens humildes até um grande fenômeno que hoje lota estádios ao redor do mundo inteiro, os integrantes da banda Coldplay partilham suas histórias e reflexões mais profundas que surgiram durante estes 20 anos de estrada. Reunindo filmagens raras dos primeiros ensaios e versões inéditas de algumas de suas músicas mais famosas, eles analisam e refazem a trajetória e a ascensão do grupo a partir de outra perspectiva.",
+  "popularity": 3.6386,
+  "poster_path": "/fx7A8TRYL8JJ9fg0eJLk80RZOkf.jpg",
+  "production_companies": [
+    {
+      "id": 82964,
+      "logo_path": null,
+      "name": "Mint Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2018-11-14",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Coldplay: A Head Full of Dreams",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 140,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81130,
+        "known_for_department": "Acting",
+        "name": "Guy Berryman",
+        "original_name": "Guy Berryman",
+        "popularity": 0.4943,
+        "profile_path": "/yj7mbD66phm5u3ODsEo02WJQVVx.jpg",
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "5bed82d2c3a36812e40166d4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81131,
+        "known_for_department": "Acting",
+        "name": "Jon Buckland",
+        "original_name": "Jon Buckland",
+        "popularity": 0.2788,
+        "profile_path": "/vrBNUEH06BGkQ9bihe2VRJUj4Mz.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "5bed82de9251413cd5015628",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81132,
+        "known_for_department": "Acting",
+        "name": "Will Champion",
+        "original_name": "Will Champion",
+        "popularity": 0.5981,
+        "profile_path": "/zlIXAjhg884Xx5cnnJk4DOuISt7.jpg",
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "5bed82ea9251413cea0142c7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81129,
+        "known_for_department": "Acting",
+        "name": "Chris Martin",
+        "original_name": "Chris Martin",
+        "popularity": 1.1356,
+        "profile_path": "/LK6ptUtgzijpcTGwCCXXC5cBpu.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "5bed82f70e0a263283016013",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2192632,
+        "known_for_department": "Production",
+        "name": "Phil Harvey",
+        "original_name": "Phil Harvey",
+        "popularity": 0.2742,
+        "profile_path": "/cGuH8UcmODM1cFdDCmBgLLErLZz.jpg",
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "5c3e98569251415524ae648e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 182,
+        "known_for_department": "Directing",
+        "name": "Mat Whitecross",
+        "original_name": "Mat Whitecross",
+        "popularity": 0.4718,
+        "profile_path": "/kuo7QsaWWrO4CfV5BOPKUsFoKgs.jpg",
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "5bed83040e0a26328601631c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12052,
+        "known_for_department": "Acting",
+        "name": "Gwyneth Paltrow",
+        "original_name": "Gwyneth Paltrow",
+        "popularity": 3.5746,
+        "profile_path": "/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "5c3e98280e0a2654c190102f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14386,
+        "known_for_department": "Acting",
+        "name": "Beyoncé",
+        "original_name": "Beyoncé",
+        "popularity": 0.7517,
+        "profile_path": "/u7ZZw8xCz6stbSNlbOfXhPt5Xpa.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "5c3e9831c3a36821623f978c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 969218,
+        "known_for_department": "Acting",
+        "name": "Bruno Mars",
+        "original_name": "Bruno Mars",
+        "popularity": 0.8341,
+        "profile_path": "/5uomdWKfu6YB2FL6T1nVP3W62Ml.jpg",
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "5c3e98420e0a2646a28fc391",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143210,
+        "known_for_department": "Acting",
+        "name": "Noel Gallagher",
+        "original_name": "Noel Gallagher",
+        "popularity": 0.4845,
+        "profile_path": "/aBFYsStheYLMxlmyugFBgEEa7dA.jpg",
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "5c3e98669251416e2daea22e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37317,
+        "known_for_department": "Sound",
+        "name": "Brian Eno",
+        "original_name": "Brian Eno",
+        "popularity": 0.3049,
+        "profile_path": "/lLdYPTiwg5uvFFSY70TI3CCJYE4.jpg",
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "5c3e98739251416e06ae9b71",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 182,
+        "known_for_department": "Directing",
+        "name": "Mat Whitecross",
+        "original_name": "Mat Whitecross",
+        "popularity": 0.4718,
+        "profile_path": "/kuo7QsaWWrO4CfV5BOPKUsFoKgs.jpg",
+        "credit_id": "5bc47698c3a3682d6006087a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225750,
+        "known_for_department": "Production",
+        "name": "Stefan Demetriou",
+        "original_name": "Stefan Demetriou",
+        "popularity": 0.0603,
+        "profile_path": null,
+        "credit_id": "5bed82b70e0a263295016eca",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1491504,
+        "known_for_department": "Sound",
+        "name": "Rael Jones",
+        "original_name": "Rael Jones",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "credit_id": "5bed827c0e0a263298015b14",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1466748,
+        "known_for_department": "Editing",
+        "name": "Marc Richardson",
+        "original_name": "Marc Richardson",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "5bed8288c3a36812e4016672",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1129461,
+        "known_for_department": "Production",
+        "name": "Hannah Clarke",
+        "original_name": "Hannah Clarke",
+        "popularity": 0.1897,
+        "profile_path": null,
+        "credit_id": "5bed82a89251413cd50155e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1211533,
+        "known_for_department": "Production",
+        "name": "Fiona Neilson",
+        "original_name": "Fiona Neilson",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "5bed829cc3a3687182010614",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 18001,
+        "name": "rock band"
+      },
+      {
+        "id": 184119,
+        "name": "cult music band"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      },
+      {
+        "id": 246743,
+        "name": "pop band"
+      },
+      {
+        "id": 336928,
+        "name": "english musician"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  }
+}

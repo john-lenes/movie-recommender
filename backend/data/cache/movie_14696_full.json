@@ -1,0 +1,1239 @@
+{
+  "adult": false,
+  "backdrop_path": "/iB1tCWl4MKl6OO1kMBD5LxM5BmJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    }
+  ],
+  "homepage": "",
+  "id": 14696,
+  "imdb_id": "tt0046478",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "雨月物語",
+  "overview": "No Japão do século 16, os camponeses Genjuro e Tobei vendem as suas panelas de barro para um grupo de soldados numa vila próxima, desafiando a advertência de um sábio local contra a tentativa de lucrar com a guerra. A busca de Genjuro por riquezas e a misteriosa Lady Wakasa, assim como o desejo de Tobei de se tornar um samurai, correm o risco de destruir tanto a si quanto as suas esposas, Miyagi e Ohama.",
+  "popularity": 1.3754,
+  "poster_path": "/73GT8PJJ6LUFOGijLHsAJrSgwyO.jpg",
+  "production_companies": [
+    {
+      "id": 880,
+      "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+      "name": "Daiei Film",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1953-03-26",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Contos da Lua Vaga",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 626,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7451,
+        "known_for_department": "Acting",
+        "name": "Machiko Kyō",
+        "original_name": "京マチ子",
+        "popularity": 0.6377,
+        "profile_path": "/24tQVUgGN4s6rp1P9qlnT74RSJI.jpg",
+        "cast_id": 36,
+        "character": "Lady Wakasa",
+        "credit_id": "5e7da1b0278d8a001572f263",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108021,
+        "known_for_department": "Acting",
+        "name": "Mitsuko Mito",
+        "original_name": "Mitsuko Mito",
+        "popularity": 0.5813,
+        "profile_path": "/kCyFyOJieZ70TnYUmGQatdzET4n.jpg",
+        "cast_id": 37,
+        "character": "Ohama",
+        "credit_id": "5e7da1d76c849200166b0c99",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24551,
+        "known_for_department": "Acting",
+        "name": "Kinuyo Tanaka",
+        "original_name": "田中絹代",
+        "popularity": 0.72,
+        "profile_path": "/1OnULAXSOskknSCxTzx3Naqoe5O.jpg",
+        "cast_id": 38,
+        "character": "Miyagi",
+        "credit_id": "5e7da214f794ad0011ef973a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7452,
+        "known_for_department": "Acting",
+        "name": "Masayuki Mori",
+        "original_name": "森雅之",
+        "popularity": 0.5216,
+        "profile_path": "/4HZFAdEGIOk7HxJjcdcxfL4k1x3.jpg",
+        "cast_id": 39,
+        "character": "Genjurô",
+        "credit_id": "5e7da23a278d8a001372dd54",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97203,
+        "known_for_department": "Acting",
+        "name": "小沢栄太郎",
+        "original_name": "小沢栄太郎",
+        "popularity": 0.629,
+        "profile_path": "/5ppJVvKljVAvBaXxEoCb7rbkjEJ.jpg",
+        "cast_id": 40,
+        "character": "Tôbei",
+        "credit_id": "5e7da28af794ad0011ef99a9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049221,
+        "known_for_department": "Acting",
+        "name": "青山杉作",
+        "original_name": "青山杉作",
+        "popularity": 0.6173,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Old Priest",
+        "credit_id": "5e7da2abfea0d772afc9ac5c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134387,
+        "known_for_department": "Acting",
+        "name": "羅門光三郎",
+        "original_name": "羅門光三郎",
+        "popularity": 0.6335,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Captain of Tamba Soldiers",
+        "credit_id": "5e7da2ca6c849200166b0df7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551748,
+        "known_for_department": "Acting",
+        "name": "香川良介",
+        "original_name": "香川良介",
+        "popularity": 0.7629,
+        "profile_path": "/c6A6LKaPacYsgl4GOMsIfqXA6oa.jpg",
+        "cast_id": 43,
+        "character": "Village Master",
+        "credit_id": "5e7da3066c74b95757cb9fe9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7455,
+        "known_for_department": "Acting",
+        "name": "上田吉二郎",
+        "original_name": "上田吉二郎",
+        "popularity": 0.5468,
+        "profile_path": "/qjBYqwAobeFnOhpkxNnv36IvCQy.jpg",
+        "cast_id": 44,
+        "character": "Shop Owner",
+        "credit_id": "5e7da32c6c74b95757cba00e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134625,
+        "known_for_department": "Acting",
+        "name": "南部彰三",
+        "original_name": "南部彰三",
+        "popularity": 0.2831,
+        "profile_path": "/rIEVvmIDTJEEFrZFu5GPu009FLr.jpg",
+        "cast_id": 45,
+        "character": "Shintô Priest",
+        "credit_id": "5e7da3716c74b95757cba04d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1092519,
+        "known_for_department": "Acting",
+        "name": "毛利菊枝",
+        "original_name": "毛利菊枝",
+        "popularity": 0.5503,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Ukon",
+        "credit_id": "5e7da3946c849200166b101b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551755,
+        "known_for_department": "Acting",
+        "name": "光岡龍三郎",
+        "original_name": "光岡龍三郎",
+        "popularity": 0.4779,
+        "profile_path": "/uta3NPnDzvtIIJJVRDt2PFkpOW9.jpg",
+        "cast_id": 47,
+        "character": "Soldier",
+        "credit_id": "5e7da3ca278d8a001372decf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1602376,
+        "known_for_department": "Acting",
+        "name": "天野一郎",
+        "original_name": "天野一郎",
+        "popularity": 0.1909,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Boatsman",
+        "credit_id": "5e7da40ef794ad0011ef9dd4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555561,
+        "known_for_department": "Acting",
+        "name": "尾上栄五郎",
+        "original_name": "尾上栄五郎",
+        "popularity": 0.5654,
+        "profile_path": "/yO78wJL2XBjORT7aldcovpNhUZM.jpg",
+        "cast_id": 49,
+        "character": "Knight",
+        "credit_id": "5e7da42b6c849200166b109d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125011,
+        "known_for_department": "Acting",
+        "name": "伊達三郎",
+        "original_name": "伊達三郎",
+        "popularity": 0.5118,
+        "profile_path": "/2aApL79MtchtDoCdMtwuutioDTY.jpg",
+        "cast_id": 50,
+        "character": "Vassal",
+        "credit_id": "5e7da44c6c849200166b10c3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134620,
+        "known_for_department": "Acting",
+        "name": "横山文彦",
+        "original_name": "横山文彦",
+        "popularity": 0.2499,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Meshiro",
+        "credit_id": "5e7da47c109dec1cbb02f5ce",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2580258,
+        "known_for_department": "Acting",
+        "name": "Ichisaburo Sawamura",
+        "original_name": "Ichisaburo Sawamura",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Genichi",
+        "credit_id": "5e7da4976c74b94ca5cb1c22",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2580259,
+        "known_for_department": "Acting",
+        "name": "村田宏二",
+        "original_name": "村田宏二",
+        "popularity": 0.1924,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Armored Knight",
+        "credit_id": "5e7da5256c74b94e95cba0fd",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555562,
+        "known_for_department": "Acting",
+        "name": "堀北幸夫",
+        "original_name": "堀北幸夫",
+        "popularity": 0.3123,
+        "profile_path": "/nMN21nawwsRi1ziigOpqVikLpJj.jpg",
+        "cast_id": 54,
+        "character": "Armored Knight",
+        "credit_id": "5e7da622fea0d708fec9c2db",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150319,
+        "known_for_department": "Acting",
+        "name": "清水彰",
+        "original_name": "清水彰",
+        "popularity": 0.2917,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Armored Knight",
+        "credit_id": "5e7da663278d8a001172c614",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133712,
+        "known_for_department": "Acting",
+        "name": "玉村俊太郎",
+        "original_name": "玉村俊太郎",
+        "popularity": 0.2253,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Armored Knight",
+        "credit_id": "5e7da688f794ad0013eff3dd",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274820,
+        "known_for_department": "Acting",
+        "name": "Shiro Osaki",
+        "original_name": "Shiro Osaki",
+        "popularity": 0.2396,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Armored Knight",
+        "credit_id": "5e7da6d5278d8a001372e26c",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555557,
+        "known_for_department": "Acting",
+        "name": "千葉敏郎",
+        "original_name": "千葉敏郎",
+        "popularity": 0.3012,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Armored Knight",
+        "credit_id": "5e7da6f2109dec213c031146",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551761,
+        "known_for_department": "Acting",
+        "name": "Hachiro Okuni",
+        "original_name": "Hachiro Okuni",
+        "popularity": 0.123,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Brothel Armored Knight",
+        "credit_id": "5e7da711fea0d708fec9c48d",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1897887,
+        "known_for_department": "Acting",
+        "name": "三浦志郎",
+        "original_name": "三浦志郎",
+        "popularity": 0.1612,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Brothel Guest",
+        "credit_id": "5e7da7506c74b95757cba3ec",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555565,
+        "known_for_department": "Acting",
+        "name": "越川一",
+        "original_name": "越川一",
+        "popularity": 0.2978,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Brothel Guest",
+        "credit_id": "5e7da7bf109dec213c03119b",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2069806,
+        "known_for_department": "Acting",
+        "name": "Tetsu Mikami",
+        "original_name": "Tetsu Mikami",
+        "popularity": 0.1479,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Brothel Guest",
+        "credit_id": "5e7da7db109dec213c0311ec",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134621,
+        "known_for_department": "Acting",
+        "name": "藤川準",
+        "original_name": "藤川準",
+        "popularity": 0.4746,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Defeated Soldier",
+        "credit_id": "5e7da7fa6c74b94e95cba349",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551758,
+        "known_for_department": "Acting",
+        "name": "Takaji Fukui",
+        "original_name": "Takaji Fukui",
+        "popularity": 0.2786,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Defeated Soldier",
+        "credit_id": "5e7da844278d8a001572fbd4",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1954216,
+        "known_for_department": "Acting",
+        "name": "Eiji Ishikura",
+        "original_name": "Eiji Ishikura",
+        "popularity": 0.213,
+        "profile_path": null,
+        "cast_id": 65,
+        "character": "Defeated Soldier",
+        "credit_id": "5e7da8606c74b94ca5cb210e",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2580265,
+        "known_for_department": "Acting",
+        "name": "Tokurin Takeda",
+        "original_name": "Tokurin Takeda",
+        "popularity": 0.1184,
+        "profile_path": null,
+        "cast_id": 66,
+        "character": "Defeated Soldier",
+        "credit_id": "5e7da881f794ad0013eff5da",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1863305,
+        "known_for_department": "Acting",
+        "name": "Koji Kanda",
+        "original_name": "Koji Kanda",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "cast_id": 67,
+        "character": "Defeated Soldier",
+        "credit_id": "5e7da8bd6c849200166b197d",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 555564,
+        "known_for_department": "Acting",
+        "name": "Masayoshi Kikuno",
+        "original_name": "Masayoshi Kikuno",
+        "popularity": 0.1547,
+        "profile_path": null,
+        "cast_id": 68,
+        "character": "Chôhatsu's Soldier",
+        "credit_id": "5e7da991109dec1ebb0355f7",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1597586,
+        "known_for_department": "Acting",
+        "name": "Michio Yuri",
+        "original_name": "Michio Yuri",
+        "popularity": 0.2069,
+        "profile_path": null,
+        "cast_id": 69,
+        "character": "Chôhatsu's Soldier",
+        "credit_id": "5e7da9b7278d8a001572fd97",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2580275,
+        "known_for_department": "Acting",
+        "name": "Sô Funagami",
+        "original_name": "Sô Funagami",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Chôhatsu's Soldier",
+        "credit_id": "5e7da9cdfea0d708fec9c714",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1602378,
+        "known_for_department": "Acting",
+        "name": "Shigeru Hasegawa",
+        "original_name": "Shigeru Hasegawa",
+        "popularity": 0.1958,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Chôhatsu's Soldier",
+        "credit_id": "5e7daa60fea0d708fec9c7bb",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 372732,
+        "known_for_department": "Acting",
+        "name": "近江輝子",
+        "original_name": "近江輝子",
+        "popularity": 0.6566,
+        "profile_path": "/9CyasumObS92NAiEBDXtC9wn1vN.jpg",
+        "cast_id": 72,
+        "character": "Prostitute",
+        "credit_id": "5e7daaaa278d8a001172cd75",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134349,
+        "known_for_department": "Acting",
+        "name": "小柳圭子",
+        "original_name": "小柳圭子",
+        "popularity": 0.2362,
+        "profile_path": "/yZEClBqTQFPBvRd174ey8YiCKTR.jpg",
+        "cast_id": 73,
+        "character": "Prostitute",
+        "credit_id": "5e7dab836c74b94e95cba703",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1602393,
+        "known_for_department": "Acting",
+        "name": "Masako Tomura",
+        "original_name": "Masako Tomura",
+        "popularity": 0.1778,
+        "profile_path": null,
+        "cast_id": 74,
+        "character": "Prostitute",
+        "credit_id": "5e7dac0d6c74b94e95cba7db",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1200210,
+        "known_for_department": "Acting",
+        "name": "三田登喜子",
+        "original_name": "三田登喜子",
+        "popularity": 0.5959,
+        "profile_path": "/x0lGwlZDNlg6flCDYdsU9ynMcHG.jpg",
+        "cast_id": 75,
+        "character": "Lady Attendant",
+        "credit_id": "5e7dac31fea0d772afc9b850",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2580289,
+        "known_for_department": "Acting",
+        "name": "Tokuko Ueda",
+        "original_name": "Tokuko Ueda",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "cast_id": 76,
+        "character": "Lady Attendant",
+        "credit_id": "5e7dac5c278d8a001172d113",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1626906,
+        "known_for_department": "Acting",
+        "name": "Sachiko Soma",
+        "original_name": "Sachiko Soma",
+        "popularity": 0.2946,
+        "profile_path": "/A8XrBD4zX7KmPo7EO472vo21P1b.jpg",
+        "cast_id": 77,
+        "character": "Lady Attendant",
+        "credit_id": "5e7dac756c74b95757cbabde",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134618,
+        "known_for_department": "Acting",
+        "name": "金剛麗子",
+        "original_name": "金剛麗子",
+        "popularity": 0.1999,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Old Woman in Brothel",
+        "credit_id": "5e7daefe6c74b95757cbaffe",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134347,
+        "known_for_department": "Acting",
+        "name": "玉置一恵",
+        "original_name": "玉置一恵",
+        "popularity": 0.2283,
+        "profile_path": null,
+        "cast_id": 79,
+        "character": "Villager",
+        "credit_id": "5e7daf6f6c74b95757cbb02d",
+        "order": 43
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092504,
+        "known_for_department": "Sound",
+        "name": "Tamekichi Mochizuki",
+        "original_name": "Tamekichi Mochizuki",
+        "popularity": 0.1528,
+        "profile_path": null,
+        "credit_id": "52fe46119251416c7506c029",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125001,
+        "known_for_department": "Sound",
+        "name": "斎藤一郎",
+        "original_name": "斎藤一郎",
+        "popularity": 0.4757,
+        "profile_path": null,
+        "credit_id": "52fe46119251416c7506c02f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1048948,
+        "known_for_department": "Editing",
+        "name": "宮田味津三",
+        "original_name": "宮田味津三",
+        "popularity": 0.122,
+        "profile_path": null,
+        "credit_id": "52fe46119251416c7506c03b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134343,
+        "known_for_department": "Writing",
+        "name": "依田義賢",
+        "original_name": "依田義賢",
+        "popularity": 0.7123,
+        "profile_path": "/9j005qKB5LX9g6AS3kGIXmhl3AF.jpg",
+        "credit_id": "52fe46119251416c7506c00b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7459,
+        "known_for_department": "Production",
+        "name": "永田雅一",
+        "original_name": "永田雅一",
+        "popularity": 0.3002,
+        "profile_path": "/dPuhe47WZSUIu4IzFtrg8olqF9K.jpg",
+        "credit_id": "52fe46119251416c7506c01d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7460,
+        "known_for_department": "Sound",
+        "name": "早坂文雄",
+        "original_name": "早坂文雄",
+        "popularity": 0.3372,
+        "profile_path": "/A4t45XV0SXKnYzZNkzrjCl4jHUy.jpg",
+        "credit_id": "52fe46119251416c7506c023",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97202,
+        "known_for_department": "Directing",
+        "name": "Kenji Mizoguchi",
+        "original_name": "溝口健二",
+        "popularity": 0.5181,
+        "profile_path": "/ngKRZZPKh8d7GaeMgcM0eXbzMte.jpg",
+        "credit_id": "52fe46119251416c7506bfeb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7461,
+        "known_for_department": "Camera",
+        "name": "宮川一夫",
+        "original_name": "宮川一夫",
+        "popularity": 0.2336,
+        "profile_path": "/zOuiKy1s39qfm1eY6HBF6OIFIBu.jpg",
+        "credit_id": "57171ade9251417a220060dc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134342,
+        "known_for_department": "Writing",
+        "name": "川口松太郎",
+        "original_name": "川口松太郎",
+        "popularity": 0.6779,
+        "profile_path": null,
+        "credit_id": "5832503292514162cf02fb11",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2048274,
+        "known_for_department": "Costume & Make-Up",
+        "name": "甲斐庄楠音",
+        "original_name": "甲斐庄楠音",
+        "popularity": 0.1483,
+        "profile_path": null,
+        "credit_id": "5b043ddf9251410986031e69",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1551750,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ritsu Hanai",
+        "original_name": "Ritsu Hanai",
+        "popularity": 0.0653,
+        "profile_path": null,
+        "credit_id": "5b043e03c3a3686c7d01fbc3",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1551749,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shima Yoshizane",
+        "original_name": "Shima Yoshizane",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "5b043de90e0a2623c902b336",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2048275,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yoshiya Fukuyama",
+        "original_name": "Yoshiya Fukuyama",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "credit_id": "5b043df99251410923024ada",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1552083,
+        "known_for_department": "Production",
+        "name": "Masatsugu Hashimoto",
+        "original_name": "Masatsugu Hashimoto",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5b043dbf925141099302db5a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551748,
+        "known_for_department": "Art",
+        "name": "Kosaburō Nakajima",
+        "original_name": "Kosaburō Nakajima",
+        "popularity": 0.0484,
+        "profile_path": null,
+        "credit_id": "5b043dd40e0a26435400c0be",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529375,
+        "known_for_department": "Art",
+        "name": "伊藤熹朔",
+        "original_name": "伊藤熹朔",
+        "popularity": 0.4647,
+        "profile_path": null,
+        "credit_id": "5dea286027d9cc0011ea34ed",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1092518,
+        "known_for_department": "Writing",
+        "name": "Akinari Ueda",
+        "original_name": "Akinari Ueda",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5e7dafe3278d8a0015730478",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111737,
+        "known_for_department": "Sound",
+        "name": "大谷巌",
+        "original_name": "大谷巌",
+        "popularity": 0.1441,
+        "profile_path": null,
+        "credit_id": "5eeb066481da3900344ec4e6",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2493118,
+        "known_for_department": "Sound",
+        "name": "Akira Suzuki",
+        "original_name": "Akira Suzuki",
+        "popularity": 0.1312,
+        "profile_path": null,
+        "credit_id": "5eeb06c06dea3a0032bd25f6",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267600,
+        "known_for_department": "Lighting",
+        "name": "岡本健一",
+        "original_name": "岡本健一",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "credit_id": "5eeb063c6dea3a0032bd250c",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83199,
+        "known_for_department": "Directing",
+        "name": "田中徳三",
+        "original_name": "田中徳三",
+        "popularity": 0.2625,
+        "profile_path": "/955mUKMcFxKnW9lrSQ4fXx9M0Tc.jpg",
+        "credit_id": "5eeb069ddb4ed60037ca928e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134382,
+        "known_for_department": "Production",
+        "name": "Hisakazu Tsuji",
+        "original_name": "Hisakazu Tsuji",
+        "popularity": 0.2669,
+        "profile_path": null,
+        "credit_id": "5f5d06d2156cc70036d45076",
+        "department": "Writing",
+        "job": "Idea"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 1462,
+        "name": "samurai"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 5332,
+        "name": "greed"
+      },
+      {
+        "id": 6977,
+        "name": "bigamy"
+      },
+      {
+        "id": 10614,
+        "name": "tragedy"
+      },
+      {
+        "id": 11004,
+        "name": "rural area"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 162846,
+        "name": "ghost"
+      },
+      {
+        "id": 186753,
+        "name": "jidaigeki"
+      },
+      {
+        "id": 194424,
+        "name": "sengoku period"
+      },
+      {
+        "id": 198754,
+        "name": "feudal japan"
+      },
+      {
+        "id": 208244,
+        "name": "16th century"
+      },
+      {
+        "id": 223738,
+        "name": "warring states period"
+      },
+      {
+        "id": 248451,
+        "name": "historical romance"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nippon Connection Film Festival",
+            "release_date": "2016-05-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "West Germany",
+            "release_date": "1959-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-05-23T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-01-23T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1962-02-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1959-03-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1962-01-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Issue",
+            "release_date": "2024-07-25T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "1953-08-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo International Film Festival",
+            "release_date": "2016-10-30T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1953-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cineclube do Porto",
+            "release_date": "1970-03-15T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1995-07-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release (Restored Version)",
+            "release_date": "2017-04-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1967-11-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Porto",
+            "release_date": "1968-05-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Film Festival (Digitally Restored Version)",
+            "release_date": "2016-10-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Harvard Film Archive",
+            "release_date": "2014-05-16T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-09-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

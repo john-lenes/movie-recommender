@@ -1,0 +1,1185 @@
+{
+  "adult": false,
+  "backdrop_path": "/z2uuQasY4gQJ8VDAFki746JWeQJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    }
+  ],
+  "homepage": "https://www.nationalgeographic.com/films/free-solo/",
+  "id": 515042,
+  "imdb_id": "tt7775622",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Free Solo",
+  "overview": "Aos 30 anos de idade, Alex Honnold já era um dos mais renomados alpinistas de sua geração. Porém, independente de todas as suas conquistas, ele permaneceu obcecado com um desafio que nenhum outro alpinista havia conseguido realizar: escalar sem equipamento de segurança a rocha El Capitan, no Parque Nacional de Yosemite, na Califórnia. Os diretores E. Chai Vasarhelyi e Jimmy Chin acompanham Honnold por dois anos enquanto ele testa os limites de sua ambição.",
+  "popularity": 3.3838,
+  "poster_path": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+  "production_companies": [
+    {
+      "id": 189457,
+      "logo_path": "/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png",
+      "name": "National Geographic Documentary Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 116323,
+      "logo_path": "/2cjJeC2MQMPwT2INRpqRxH8Xuz1.png",
+      "name": "Little Monster Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 117708,
+      "logo_path": null,
+      "name": "Itinerant Media",
+      "origin_country": ""
+    },
+    {
+      "id": 49325,
+      "logo_path": "/R05WCoCJcPWGSDaKaYgx3AeVuR.png",
+      "name": "Parkes+MacDonald Image Nation",
+      "origin_country": "US"
+    },
+    {
+      "id": 7521,
+      "logo_path": "/fRqMjLjyAqThtEg9P9WKCXLmCpJ.png",
+      "name": "National Geographic",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-09-28",
+  "revenue": 21790193,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Viva além do medo",
+  "title": "Free Solo",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 1444,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107800,
+        "known_for_department": "Acting",
+        "name": "Alex Honnold",
+        "original_name": "Alex Honnold",
+        "popularity": 0.7915,
+        "profile_path": "/jKpVo1wTFK7VoCULHFKpoxDgHRw.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "5abd86490e0a260727003338",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107798,
+        "known_for_department": "Acting",
+        "name": "Tommy Caldwell",
+        "original_name": "Tommy Caldwell",
+        "popularity": 0.3081,
+        "profile_path": "/jEGsQatwOpN3Cy24y8pBZI4bctS.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "5ba56e4d0e0a26323202140d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403129,
+        "known_for_department": "Directing",
+        "name": "Jimmy Chin",
+        "original_name": "Jimmy Chin",
+        "popularity": 0.7189,
+        "profile_path": "/3ay242p85A9QzR785SuBv4xASAp.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "5ba56e419251412df701f9af",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2132377,
+        "known_for_department": "Acting",
+        "name": "Sanni McCandless",
+        "original_name": "Sanni McCandless",
+        "popularity": 0.1627,
+        "profile_path": "/62nnVlFdGBtp7eSY9xlPzoIrxlz.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "5ba56e70c3a3680838024d49",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1283186,
+        "known_for_department": "Directing",
+        "name": "Mikey Schaefer",
+        "original_name": "Mikey Schaefer",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "5c65c8450e0a267de69ca58c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403123,
+        "known_for_department": "Camera",
+        "name": "Cheyne Lempe",
+        "original_name": "Cheyne Lempe",
+        "popularity": 0.0876,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "5c65c808925141250a009618",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2131832,
+        "known_for_department": "Acting",
+        "name": "Mark Synnott",
+        "original_name": "Mark Synnott",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Self",
+        "credit_id": "6912fbba8ee8d331b8d260a8",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2453026,
+        "known_for_department": "Directing",
+        "name": "Vicky Du",
+        "original_name": "Vicky Du",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65f9d71abd990c016322adc4",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403129,
+        "known_for_department": "Directing",
+        "name": "Jimmy Chin",
+        "original_name": "Jimmy Chin",
+        "popularity": 0.7189,
+        "profile_path": "/3ay242p85A9QzR785SuBv4xASAp.jpg",
+        "credit_id": "5abd861fc3a36872440025fc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1027910,
+        "known_for_department": "Directing",
+        "name": "Elizabeth Chai Vasarhelyi",
+        "original_name": "Elizabeth Chai Vasarhelyi",
+        "popularity": 0.3443,
+        "profile_path": "/hljaKxLMqS9JGYFuEIee0xi4fQg.jpg",
+        "credit_id": "5abd86290e0a26072a002eb1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403129,
+        "known_for_department": "Directing",
+        "name": "Jimmy Chin",
+        "original_name": "Jimmy Chin",
+        "popularity": 0.7189,
+        "profile_path": "/3ay242p85A9QzR785SuBv4xASAp.jpg",
+        "credit_id": "5ba56e86c3a368083d021bf2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1027910,
+        "known_for_department": "Directing",
+        "name": "Elizabeth Chai Vasarhelyi",
+        "original_name": "Elizabeth Chai Vasarhelyi",
+        "popularity": 0.3443,
+        "profile_path": "/hljaKxLMqS9JGYFuEIee0xi4fQg.jpg",
+        "credit_id": "5ba56eacc3a368083a0201b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7229,
+        "known_for_department": "Sound",
+        "name": "Marco Beltrami",
+        "original_name": "Marco Beltrami",
+        "popularity": 0.3347,
+        "profile_path": "/fb3TfFITlOC0BN3kNpUXj1FL0LN.jpg",
+        "credit_id": "5ba56ec59251412df701fa3f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1017234,
+        "known_for_department": "Production",
+        "name": "Evan Hayes",
+        "original_name": "Evan Hayes",
+        "popularity": 0.1796,
+        "profile_path": null,
+        "credit_id": "5ba56e9d0e0a263232021457",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403129,
+        "known_for_department": "Directing",
+        "name": "Jimmy Chin",
+        "original_name": "Jimmy Chin",
+        "popularity": 0.7189,
+        "profile_path": "/3ay242p85A9QzR785SuBv4xASAp.jpg",
+        "credit_id": "5ba56ed2c3a36808470224ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1463955,
+        "known_for_department": "Production",
+        "name": "Shannon Dill",
+        "original_name": "Shannon Dill",
+        "popularity": 0.087,
+        "profile_path": null,
+        "credit_id": "5ba56e929251412df0021e05",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2132378,
+        "known_for_department": "Sound",
+        "name": "Filipe Messeder",
+        "original_name": "Filipe Messeder",
+        "popularity": 0.1445,
+        "profile_path": null,
+        "credit_id": "5ba56f170e0a26322c021c01",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1609038,
+        "known_for_department": "Camera",
+        "name": "Clair Popkin",
+        "original_name": "Clair Popkin",
+        "popularity": 0.3278,
+        "profile_path": "/tfiB1vn46WYG81yTSLWrGw86A17.jpg",
+        "credit_id": "5ba56edd9251412ddf020f56",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1283186,
+        "known_for_department": "Directing",
+        "name": "Mikey Schaefer",
+        "original_name": "Mikey Schaefer",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "credit_id": "5ba56eee0e0a26322c021bd5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143067,
+        "known_for_department": "Editing",
+        "name": "Bob Eisenhardt",
+        "original_name": "Bob Eisenhardt",
+        "popularity": 0.0993,
+        "profile_path": "/am49jBT158NGnaieRIOXnaKZRo9.jpg",
+        "credit_id": "5ba56efa0e0a26322c021bdd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1283186,
+        "known_for_department": "Directing",
+        "name": "Mikey Schaefer",
+        "original_name": "Mikey Schaefer",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "credit_id": "5c65c866c3a368745edc45c8",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1232142,
+        "known_for_department": "Production",
+        "name": "Matt Renner",
+        "original_name": "Matt Renner",
+        "popularity": 0.1069,
+        "profile_path": "/rYzFqPtDRhvvFvqgEn6ipCFVYPV.jpg",
+        "credit_id": "5c65d3c1925141250a00a819",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1526823,
+        "known_for_department": "Sound",
+        "name": "Tracy McKnight",
+        "original_name": "Tracy McKnight",
+        "popularity": 0.2791,
+        "profile_path": null,
+        "credit_id": "5c65d3f10e0a262fa198df12",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177382,
+        "known_for_department": "Editing",
+        "name": "Jay Freund",
+        "original_name": "Jay Freund",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "5c65d4299251417aa2fd4a33",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2212,
+        "known_for_department": "Production",
+        "name": "Walter F. Parkes",
+        "original_name": "Walter F. Parkes",
+        "popularity": 0.5269,
+        "profile_path": "/voOB5IhqOMvaweh44mfNnAYJBrq.jpg",
+        "credit_id": "5c65d388c3a3684f97dc055a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1232027,
+        "known_for_department": "Production",
+        "name": "Tim Pastore",
+        "original_name": "Tim Pastore",
+        "popularity": 0.2143,
+        "profile_path": "/6iOolsWtcp1KIYv4KYqNxfQ0EjO.jpg",
+        "credit_id": "5c65d3b5c3a36847bbd8ec42",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937912,
+        "known_for_department": "Editing",
+        "name": "Keiko Deguchi",
+        "original_name": "Keiko Deguchi",
+        "popularity": 0.1542,
+        "profile_path": null,
+        "credit_id": "5c65d4070e0a266dac9c470f",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1520333,
+        "known_for_department": "Crew",
+        "name": "Matthew Irving",
+        "original_name": "Matthew Irving",
+        "popularity": 0.0607,
+        "profile_path": null,
+        "credit_id": "5c65d51b92514177bdfd507d",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403123,
+        "known_for_department": "Camera",
+        "name": "Cheyne Lempe",
+        "original_name": "Cheyne Lempe",
+        "popularity": 0.0876,
+        "profile_path": null,
+        "credit_id": "5c65d4b19251412fb4010ff5",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8701,
+        "known_for_department": "Production",
+        "name": "Laurie MacDonald",
+        "original_name": "Laurie MacDonald",
+        "popularity": 0.4284,
+        "profile_path": "/qmshY2CdaZKjl6s7K0fVWVFeO7p.jpg",
+        "credit_id": "5c65d3969251412fc6010a08",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106909,
+        "known_for_department": "Editing",
+        "name": "Brad Fuller",
+        "original_name": "Brad Fuller",
+        "popularity": 0.1169,
+        "profile_path": null,
+        "credit_id": "5c65d41dc3a3684fabdc3449",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2273659,
+        "known_for_department": "Production",
+        "name": "Sarah Regan",
+        "original_name": "Sarah Regan",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "5c98d6cc0e0a2671e1bfc85e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2273651,
+        "known_for_department": "Production",
+        "name": "Aaron Cook",
+        "original_name": "Aaron Cook",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "5c98d5550e0a264cc6c33cac",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2273656,
+        "known_for_department": "Production",
+        "name": "Keetin Mayakara",
+        "original_name": "Keetin Mayakara",
+        "popularity": 0.1212,
+        "profile_path": null,
+        "credit_id": "5c98d61f0e0a264ccec3164c",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5804901,
+        "known_for_department": "Crew",
+        "name": "Marilla Vasarhelyi",
+        "original_name": "Marilla Vasarhelyi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "690fc8ca7a7eb793f69abe1b",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5804900,
+        "known_for_department": "Crew",
+        "name": "Miklos A. Vasarhelyi",
+        "original_name": "Miklos A. Vasarhelyi",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "690fc9311cbf4d16c0c059f7",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5804913,
+        "known_for_department": "Crew",
+        "name": "Ann Krcik",
+        "original_name": "Ann Krcik",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "690fc9de3c6c3c652c4c7d02",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5804914,
+        "known_for_department": "Crew",
+        "name": "Frank Taiping Chin",
+        "original_name": "Frank Taiping Chin",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "690fc9f3d903591f1cc05976",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592447,
+        "known_for_department": "Acting",
+        "name": "Ueli Steck",
+        "original_name": "Ueli Steck",
+        "popularity": 0.1805,
+        "profile_path": "/etgUHwUYdcSTivJyCGn2fOFTp0y.jpg",
+        "credit_id": "690fc9f8439ec46d719abb9b",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5804894,
+        "known_for_department": "Crew",
+        "name": "Marina Vasarhelyi",
+        "original_name": "Marina Vasarhelyi",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "690fcabcce9c1f48f79abadd",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4471640,
+        "known_for_department": "Acting",
+        "name": "Marina Vasarhelyi-Chin",
+        "original_name": "Marina Vasarhelyi-Chin",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "690fcac22f9649b50a4c7db0",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4471641,
+        "known_for_department": "Acting",
+        "name": "James Vasarhelyi-Chin",
+        "original_name": "James Vasarhelyi-Chin",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "690fcaca1c6955a1a5ce82ba",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7499,
+        "known_for_department": "Acting",
+        "name": "Jared Leto",
+        "original_name": "Jared Leto",
+        "popularity": 3.2967,
+        "profile_path": "/lZaE3x8yxofNZ96xpthxuVXQxTM.jpg",
+        "credit_id": "690fcb21965b35bb239abbc8",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 387,
+        "name": "california"
+      },
+      {
+        "id": 2006,
+        "name": "extreme sports"
+      },
+      {
+        "id": 1262,
+        "name": "mountain"
+      },
+      {
+        "id": 8626,
+        "name": "yosemite"
+      },
+      {
+        "id": 159212,
+        "name": "mountain climbing"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 197623,
+        "name": "free climbing"
+      },
+      {
+        "id": 201008,
+        "name": "rock climbing"
+      },
+      {
+        "id": 235710,
+        "name": "el capitan"
+      },
+      {
+        "id": 300554,
+        "name": "solo climbing"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-21T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Adelaide Film Festival",
+            "release_date": "2018-10-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-03T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2018-09-09T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-10-12T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-09-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "bilibili",
+            "release_date": "2024-08-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-05-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-03T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2020-12-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Thessaloniki Documentary Film Festival",
+            "release_date": "2019-03-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "PG12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-09-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "KBS1",
+            "release_date": "2019-03-09T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sports Film Festival 2019",
+            "release_date": "2019-11-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Luxembourg City Film Festival",
+            "release_date": "2019-03-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Los Cabos International Film Festival",
+            "release_date": "2018-11-09T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Amsterdam International Documentary Film Festival",
+            "release_date": "2018-11-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-10T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2019-03-12T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "American Film Festival",
+            "release_date": "2018-10-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-09-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beat Film Festival",
+            "release_date": "2019-06-02T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-09-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "IMAX",
+            "release_date": "2019-08-24T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-07-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Telluride Film Festival",
+            "release_date": "2018-08-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Camden International Film Festival",
+            "release_date": "2018-09-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Los Angeles Film Festival",
+            "release_date": "2018-09-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mill Valley Film Festival",
+            "release_date": "2018-10-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Virginia Film Festival",
+            "release_date": "2018-11-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-09-28T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "National Geographic Channel",
+            "release_date": "2019-03-03T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

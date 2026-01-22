@@ -1,0 +1,527 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": {
+    "id": 1278855,
+    "name": "Woodwalkers Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    }
+  ],
+  "homepage": "",
+  "id": 1278853,
+  "imdb_id": "tt35708159",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Woodwalkers 2",
+  "overview": "",
+  "popularity": 8.9313,
+  "poster_path": "/yQjKR2J93rzpOYkpBfytkubc3jP.jpg",
+  "production_companies": [
+    {
+      "id": 3460,
+      "logo_path": "/wayJJRUb4KSXwl5fTQCpuY8pK85.png",
+      "name": "Blue Eyes Fiction",
+      "origin_country": "DE"
+    },
+    {
+      "id": 608,
+      "logo_path": "/dD2Do4GHXAql5c4LjXCbEOvxbFg.png",
+      "name": "Dor Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 31279,
+      "logo_path": "/d7yloJbuNErcYY1LbcW8u9gj8Bf.png",
+      "name": "Potemkino",
+      "origin_country": "BE"
+    },
+    {
+      "id": 142064,
+      "logo_path": "/lU0gJVT0WA2UfvDYiNw9O1Qo85w.png",
+      "name": "FilmVergnuegen",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2026-01-29",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "",
+  "title": "Woodwalkers 2",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2982534,
+        "known_for_department": "Acting",
+        "name": "Emile Chérif",
+        "original_name": "Emile Chérif",
+        "popularity": 0.478,
+        "profile_path": "/1piOAICtgfVvKAU8QSZLjNILUJ3.jpg",
+        "cast_id": 3,
+        "character": "Carag",
+        "credit_id": "6627b41d176a94017f820180",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4072268,
+        "known_for_department": "Acting",
+        "name": "Lilli Falk",
+        "original_name": "Lilli Falk",
+        "popularity": 0.3167,
+        "profile_path": "/rdvtuPzvSkfYu3R14keUNS3rg1w.jpg",
+        "cast_id": 1,
+        "character": "Holly",
+        "credit_id": "6627b3ed221ba6016314b3b8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4670408,
+        "known_for_department": "Acting",
+        "name": "Johan von Ehrlich",
+        "original_name": "Johan von Ehrlich",
+        "popularity": 0.1475,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Brandon",
+        "credit_id": "6627b408e54d5d017eeefcef",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4670430,
+        "known_for_department": "Acting",
+        "name": "Sophie Lelenta",
+        "original_name": "Sophie Lelenta",
+        "popularity": 0.1346,
+        "profile_path": "/jigsqYSV9zVGkbjVqhAPVGpLcSQ.jpg",
+        "cast_id": 9,
+        "character": "Lou",
+        "credit_id": "6627b98be295b401649b1ee8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213581,
+        "known_for_department": "Acting",
+        "name": "Oliver Masucci",
+        "original_name": "Oliver Masucci",
+        "popularity": 1.4507,
+        "profile_path": "/u3ndWBPECxyKf6CRAZqjlJ92hQw.jpg",
+        "cast_id": 8,
+        "character": "Andrew Milling",
+        "credit_id": "6627b4ac221ba6017c173922",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 678,
+        "known_for_department": "Acting",
+        "name": "Martina Gedeck",
+        "original_name": "Martina Gedeck",
+        "popularity": 0.8412,
+        "profile_path": "/ju7H4RLIzfrcMg2e3SUAaA9fEc6.jpg",
+        "cast_id": 14,
+        "character": "Lissa Clearwater",
+        "credit_id": "668b155ab02eb948e1860e6d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16783,
+        "known_for_department": "Acting",
+        "name": "Hannah Herzsprung",
+        "original_name": "Hannah Herzsprung",
+        "popularity": 0.6112,
+        "profile_path": "/r7HqgdYtosrLnAwJKVnfDr13mdz.jpg",
+        "cast_id": 11,
+        "character": "Anna Ralston",
+        "credit_id": "668b154a1534ba03b6eac4ec",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 684,
+        "known_for_department": "Acting",
+        "name": "Tom Schilling",
+        "original_name": "Tom Schilling",
+        "popularity": 0.8804,
+        "profile_path": "/2TCHCEukLY4SKPgcqOXnYAgzVEv.jpg",
+        "cast_id": 16,
+        "character": "Mr. Crump",
+        "credit_id": "6741e9f8ac27f516d9f348d4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4523550,
+        "known_for_department": "Acting",
+        "name": "Olivia Sinclair",
+        "original_name": "Olivia Sinclair",
+        "popularity": 0.278,
+        "profile_path": "/ck6hnWslF3lQobJOVQ8KS42rd4m.jpg",
+        "cast_id": 15,
+        "character": "Tikaani",
+        "credit_id": "6741e9e4ac27f516d9f348bd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1133520,
+        "known_for_department": "Acting",
+        "name": "Lucas Gregorowicz",
+        "original_name": "Lucas Gregorowicz",
+        "popularity": 0.3022,
+        "profile_path": "/z5qyyFEtyoUt64qgxZCQ0we1g6h.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "668b154d1534ba03b6eac4f0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 677,
+        "known_for_department": "Acting",
+        "name": "Moritz Bleibtreu",
+        "original_name": "Moritz Bleibtreu",
+        "popularity": 0.9578,
+        "profile_path": "/xg2F0OM9ZTLrEvaQsqFSiMH79WB.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "668b1553586abf44fd860e06",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1524922,
+        "known_for_department": "Acting",
+        "name": "Lissy Pernthaler",
+        "original_name": "Lissy Pernthaler",
+        "popularity": 0.2182,
+        "profile_path": "/2dCBxDyrXLeLK7BIwr9ER7Ip9EX.jpg",
+        "cast_id": 18,
+        "character": "Sun",
+        "credit_id": "6741eab56370ecad3fffd921",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1996537,
+        "known_for_department": "Acting",
+        "name": "Lara Sophie Milagro",
+        "original_name": "Lara Sophie Milagro",
+        "popularity": 0.1102,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Iris Ellwood",
+        "credit_id": "6741eac11cd8c243e6be87ca",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1831595,
+        "known_for_department": "Acting",
+        "name": "Lukas Spisser",
+        "original_name": "Lukas Spisser",
+        "popularity": 0.2492,
+        "profile_path": "/oU3rjLRLo94prDAhzBikRx0YjR3.jpg",
+        "cast_id": 20,
+        "character": "Derek Helbert",
+        "credit_id": "6741ead51cd8c243e6be87d4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3594826,
+        "known_for_department": "Acting",
+        "name": "Lewe Wagner",
+        "original_name": "Lewe Wagner",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Nimble",
+        "credit_id": "6741eae36370ecad3fffd937",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4670409,
+        "known_for_department": "Acting",
+        "name": "Finlay Hartinger",
+        "original_name": "Finlay Hartinger",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Dorian",
+        "credit_id": "6741eaed1bcb2c093805a9d3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3575468,
+        "known_for_department": "Acting",
+        "name": "Johannes Degen",
+        "original_name": "Johannes Degen",
+        "popularity": 0.0501,
+        "profile_path": "/i393FSbgcpvYAn0RD5bJdzuXUB1.jpg",
+        "cast_id": 23,
+        "character": "Marlon",
+        "credit_id": "6741eaf64b15b8ae31b01eb9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3003311,
+        "known_for_department": "Acting",
+        "name": "Cem Öztabakci",
+        "original_name": "Cem Öztabakci",
+        "popularity": 0.0979,
+        "profile_path": "/d71kb3pPMPG9IJ46L1Ppg7NlBmj.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "6741eb0632a9aaf43d96b845",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491022,
+        "known_for_department": "Acting",
+        "name": "Anton Noori",
+        "original_name": "Anton Noori",
+        "popularity": 0.3635,
+        "profile_path": "/mawzlNE7rlSW121wgKnMJDDFYM6.jpg",
+        "cast_id": 27,
+        "character": "James Bridger",
+        "credit_id": "68d517258e2774b18840d78b",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2392407,
+        "known_for_department": "Writing",
+        "name": "David Sandreuter",
+        "original_name": "David Sandreuter",
+        "popularity": 0.2144,
+        "profile_path": "/tdMidEtVnW2MWcp7DkkdQdSgiqP.jpg",
+        "credit_id": "6627b43de295b401649b1cd5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59338,
+        "known_for_department": "Directing",
+        "name": "Sven Unterwaldt Jr.",
+        "original_name": "Sven Unterwaldt Jr.",
+        "popularity": 0.3767,
+        "profile_path": "/3H1R04dudWe6aAhslDOHIXdK9ay.jpg",
+        "credit_id": "6627b459258823017d93de59",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4670457,
+        "known_for_department": "Writing",
+        "name": "Katja Brandis",
+        "original_name": "Katja Brandis",
+        "popularity": 0.0683,
+        "profile_path": "/aMSFGNfqq33WsaQKPylx6Ep1kTJ.jpg",
+        "credit_id": "6627d0ccb9a0bd017ad89be8",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124693,
+        "known_for_department": "Production",
+        "name": "Emrah Ertem",
+        "original_name": "Emrah Ertem",
+        "popularity": 0.1857,
+        "profile_path": "/VwmqN8OfVAS1KApLCjCksyl9r4.jpg",
+        "credit_id": "6741ea7f6370ecad3fffd87a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183147,
+        "known_for_department": "Camera",
+        "name": "Peter Krause",
+        "original_name": "Peter Krause",
+        "popularity": 0.6859,
+        "profile_path": null,
+        "credit_id": "6741eb144b15b8ae31b01ec1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1956343,
+        "known_for_department": "Sound",
+        "name": "Anne Kathrin Dern",
+        "original_name": "Anne Kathrin Dern",
+        "popularity": 0.3126,
+        "profile_path": "/BQYt04VcyECZRXxmzSQQM3yqns.jpg",
+        "credit_id": "68d516eac05fb0e84359d498",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1370,
+        "name": "shapeshifting"
+      },
+      {
+        "id": 15101,
+        "name": "based on children's book"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

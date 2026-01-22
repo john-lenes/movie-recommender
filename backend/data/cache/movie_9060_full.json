@@ -1,0 +1,636 @@
+{
+  "adult": false,
+  "backdrop_path": "/hvturB2M3xwTAEfzSX1kxan2406.jpg",
+  "belongs_to_collection": {
+    "id": 1231147,
+    "name": "Three Extremes Collection",
+    "poster_path": "/wakcW4o6BF9y9VtOnLdKjLLnozH.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    }
+  ],
+  "homepage": "",
+  "id": 9060,
+  "imdb_id": "tt0472458",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "餃子",
+  "overview": "Sra Li é uma ex-atriz infeliz com o casamento quando os sinais da idade começam a aparecer. Cansada de ser traída pelo marido procura ajuda da excêntrica Tia Mei, uma cozinheira que prepara os bolinhos mais caros de Hong Kong com a promessa de rejuvenescer quem os consumir. Mas o segredo milenar que eles guardam vai pegar você de surpresa.",
+  "popularity": 6.1054,
+  "poster_path": "/JXABMC8NUzavVd8UpgZwGXba1T.jpg",
+  "production_companies": [
+    {
+      "id": 5346,
+      "logo_path": null,
+      "name": "Applause Pictures",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2004-08-19",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Tu és... O que tu comes",
+  "title": "Escravas da Vaidade",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 253,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56863,
+        "known_for_department": "Acting",
+        "name": "楊千嬅",
+        "original_name": "楊千嬅",
+        "popularity": 1.3373,
+        "profile_path": "/3NgovoC2nnHOFq7vr6j7m6URS7V.jpg",
+        "cast_id": 4,
+        "character": "Mrs. Lee",
+        "credit_id": "52fe44d7c3a36847f80ad2d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39126,
+        "known_for_department": "Acting",
+        "name": "Bai Ling",
+        "original_name": "Bai Ling",
+        "popularity": 1.5408,
+        "profile_path": "/PXbFNTUbC3aoLrquCzFaxdF2ev.jpg",
+        "cast_id": 16,
+        "character": "Mei",
+        "credit_id": "52fe44d7c3a36847f80ad30f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56861,
+        "known_for_department": "Acting",
+        "name": "梁家輝",
+        "original_name": "梁家輝",
+        "popularity": 2.7961,
+        "profile_path": "/n5XtznlOfGSfYvckuxCiTapG4tB.jpg",
+        "cast_id": 2,
+        "character": "Mr. Lee",
+        "credit_id": "52fe44d7c3a36847f80ad2c9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56858,
+        "known_for_department": "Acting",
+        "name": "Pauline Lau",
+        "original_name": "Pauline Lau",
+        "popularity": 0.2269,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Masseuse",
+        "credit_id": "52fe44d7c3a36847f80ad2c5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56862,
+        "known_for_department": "Acting",
+        "name": "田朴珺",
+        "original_name": "田朴珺",
+        "popularity": 0.8028,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Connie",
+        "credit_id": "52fe44d7c3a36847f80ad2cd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56864,
+        "known_for_department": "Acting",
+        "name": "楊愛瑾",
+        "original_name": "楊愛瑾",
+        "popularity": 0.829,
+        "profile_path": "/bJPCYsHwR1jER7qwemucnAgcuQr.jpg",
+        "cast_id": 5,
+        "character": "Kate",
+        "credit_id": "52fe44d7c3a36847f80ad2d5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1157916,
+        "known_for_department": "Acting",
+        "name": "黃素歡",
+        "original_name": "黃素歡",
+        "popularity": 0.3201,
+        "profile_path": "/x5mvdhIGHaYytRgsiRZAuixs3FC.jpg",
+        "cast_id": 19,
+        "character": "Kate's Mother",
+        "credit_id": "654a6c89fd4f800101b79331",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1157911,
+        "known_for_department": "Acting",
+        "name": "Wong Sum-Yuen",
+        "original_name": "Wong Sum-Yuen",
+        "popularity": 0.7522,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Old Hairdresser",
+        "credit_id": "670e04569f3531e6b26c4f57",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1157914,
+        "known_for_department": "Acting",
+        "name": "Wu Wai-Man",
+        "original_name": "Wu Wai-Man",
+        "popularity": 0.1514,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Mei's nurse friend",
+        "credit_id": "670e047dd5f93a3da0bc1f6d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508034,
+        "known_for_department": "Acting",
+        "name": "Ho-Man Chan",
+        "original_name": "Ho-Man Chan",
+        "popularity": 0.1284,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Wang Suo-yi",
+        "credit_id": "670e04f7d5f93a3da0bc1fb2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001349,
+        "known_for_department": "Acting",
+        "name": "Ho Fung-chuk",
+        "original_name": "Ho Fung-chuk",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "High society woman 1",
+        "credit_id": "670e0544d5f93a3da0bc1fed",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2749191,
+        "known_for_department": "Acting",
+        "name": "Chan Wai-Ling",
+        "original_name": "Chan Wai-Ling",
+        "popularity": 0.1703,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "High society woman 2",
+        "credit_id": "670e05799f3531e6b26c4fb8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4923974,
+        "known_for_department": "Acting",
+        "name": "彭凱筠",
+        "original_name": "彭凱筠",
+        "popularity": 0.2582,
+        "profile_path": "/mAFDWfDBfKVpyi0wWGc223zW9B3.jpg",
+        "cast_id": 25,
+        "character": "High society woman 3",
+        "credit_id": "670e05ba9f3531e6b26c4fd3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001355,
+        "known_for_department": "Acting",
+        "name": "Yeung Suk-hing",
+        "original_name": "Yeung Suk-hing",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "High society woman 4",
+        "credit_id": "670e05f6f58a9206aa41c6dd",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4897019,
+        "known_for_department": "Acting",
+        "name": "Mary Yeung Lai-Hing",
+        "original_name": "Mary Yeung Lai-Hing",
+        "popularity": 0.1203,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "High society woman 5",
+        "credit_id": "670e060e42e1391c5666f670",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001358,
+        "known_for_department": "Acting",
+        "name": "Mary Poon",
+        "original_name": "Mary Poon",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "High society woman 6",
+        "credit_id": "670e0630f58a9206aa41c71f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5001359,
+        "known_for_department": "Acting",
+        "name": "劉艾薇",
+        "original_name": "劉艾薇",
+        "popularity": 0.0731,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "High society woman 7",
+        "credit_id": "670e065b0b800537d75ccade",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001361,
+        "known_for_department": "Acting",
+        "name": "Peggy Lok",
+        "original_name": "Peggy Lok",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "High society woman 8",
+        "credit_id": "670e066eb15d97b1a93d6bd7",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001362,
+        "known_for_department": "Acting",
+        "name": "Grace Choi",
+        "original_name": "Grace Choi",
+        "popularity": 0.074,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "High society woman 9",
+        "credit_id": "670e0680d5f93a3da0bc2055",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001363,
+        "known_for_department": "Acting",
+        "name": "Yau Ko-Yiu",
+        "original_name": "Yau Ko-Yiu",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Yau Ko-Yiu",
+        "credit_id": "670e06a19f3531e6b26c501d",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001365,
+        "known_for_department": "Acting",
+        "name": "Fung Yuen-keung",
+        "original_name": "Fung Yuen-keung",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Fung Yuen-keung",
+        "credit_id": "670e06cbb15d97b1a93d6bf9",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001367,
+        "known_for_department": "Acting",
+        "name": "Peter Wong",
+        "original_name": "Peter Wong",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Family Doctor",
+        "credit_id": "670e06e042e1391c5666f6a6",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001369,
+        "known_for_department": "Acting",
+        "name": "Yau Kai-piu",
+        "original_name": "Yau Kai-piu",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Gynecologist",
+        "credit_id": "670e070d42e1391c5666f6bb",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56865,
+        "known_for_department": "Directing",
+        "name": "陳果",
+        "original_name": "陳果",
+        "popularity": 1.3599,
+        "profile_path": "/j1Xktbs6M6kNIwaLUps9swSEdVs.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad2e1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67766,
+        "known_for_department": "Writing",
+        "name": "李碧華",
+        "original_name": "李碧華",
+        "popularity": 1.0512,
+        "profile_path": "/ezmt48wavhQhGpB7bRAJ37gKtAy.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad315",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56865,
+        "known_for_department": "Directing",
+        "name": "陳果",
+        "original_name": "陳果",
+        "popularity": 1.3599,
+        "profile_path": "/j1Xktbs6M6kNIwaLUps9swSEdVs.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad2db",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56739,
+        "known_for_department": "Directing",
+        "name": "陳可辛",
+        "original_name": "陳可辛",
+        "popularity": 1.3328,
+        "profile_path": "/zHmeI1bkWqHUWU28hqTIR53Qojf.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad2e7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26724,
+        "known_for_department": "Acting",
+        "name": "曾志偉",
+        "original_name": "曾志偉",
+        "popularity": 1.4796,
+        "profile_path": "/vrPBadugqlMkfNIYzLZbP4sEF1j.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad2ed",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56870,
+        "known_for_department": "Editing",
+        "name": "陳祺合",
+        "original_name": "陳祺合",
+        "popularity": 0.5252,
+        "profile_path": null,
+        "credit_id": "52fe44d7c3a36847f80ad30b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56865,
+        "known_for_department": "Directing",
+        "name": "陳果",
+        "original_name": "陳果",
+        "popularity": 1.3599,
+        "profile_path": "/j1Xktbs6M6kNIwaLUps9swSEdVs.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad2ff",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21903,
+        "known_for_department": "Sound",
+        "name": "陳光榮",
+        "original_name": "陳光榮",
+        "popularity": 0.6584,
+        "profile_path": "/1pxhvYMLLraXYmbp69EVdam9frK.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad2f3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56869,
+        "known_for_department": "Editing",
+        "name": "Sam-Fat Tin",
+        "original_name": "Sam-Fat Tin",
+        "popularity": 0.1301,
+        "profile_path": null,
+        "credit_id": "52fe44d7c3a36847f80ad305",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1357,
+        "known_for_department": "Camera",
+        "name": "Christopher Doyle",
+        "original_name": "Christopher Doyle",
+        "popularity": 0.6461,
+        "profile_path": "/dm2g37ak1EzIu1YViAwvZAvytlx.jpg",
+        "credit_id": "52fe44d7c3a36847f80ad2f9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550956,
+        "known_for_department": "Art",
+        "name": "奚仲文",
+        "original_name": "奚仲文",
+        "popularity": 0.7932,
+        "profile_path": "/2F5EkfMaqMnawMAIwr5lo789PgN.jpg",
+        "credit_id": "684b82f026f0afc2351be60a",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3258,
+        "name": "beauty"
+      },
+      {
+        "id": 4481,
+        "name": "deceived wife"
+      },
+      {
+        "id": 8353,
+        "name": "eternal youth"
+      },
+      {
+        "id": 4501,
+        "name": "masseuse"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-08-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-04-10T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hong Kong International Film Festival",
+            "release_date": "2024-04-05T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-08-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-09-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-02-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

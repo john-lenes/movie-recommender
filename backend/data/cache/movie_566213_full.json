@@ -1,0 +1,730 @@
+{
+  "adult": false,
+  "backdrop_path": "/q3rUkRlFBzf0XfjeKrfonQiLfr1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 566213,
+  "imdb_id": "tt8991268",
+  "origin_country": [
+    "MK"
+  ],
+  "original_language": "tr",
+  "original_title": "Медена земја",
+  "overview": "Quando os apicultores nômades quebram a regra básica da Honeyland (pegue metade do mel, mas deixe metade para as abelhas), a última mantenedora na Europa deve salvar as abelhas e restaurar o equilíbrio natural.",
+  "popularity": 3.7226,
+  "poster_path": "/qwt90PYSLV87ZrVLpq0BySlKsb9.jpg",
+  "production_companies": [
+    {
+      "id": 76536,
+      "logo_path": null,
+      "name": "Trice Films",
+      "origin_country": "MK"
+    },
+    {
+      "id": 127056,
+      "logo_path": null,
+      "name": "Apolo Media",
+      "origin_country": "MK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MK",
+      "name": "Macedonia"
+    }
+  ],
+  "release_date": "2019-07-26",
+  "revenue": 1133735,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "Macedonian",
+      "iso_639_1": "mk",
+      "name": ""
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Honeyland",
+  "video": false,
+  "vote_average": 7.891,
+  "vote_count": 293,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427422,
+        "known_for_department": "Acting",
+        "name": "Hatidzhe Muratova",
+        "original_name": "Hatidzhe Muratova",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "5d9b688b1d01910010b72b52",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427423,
+        "known_for_department": "Acting",
+        "name": "Nazife Muratova",
+        "original_name": "Nazife Muratova",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "5d9b68954cbe12002092ccdc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427424,
+        "known_for_department": "Acting",
+        "name": "Hussein Sam",
+        "original_name": "Hussein Sam",
+        "popularity": 0.142,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "5d9b68a31d01910010b72b79",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427425,
+        "known_for_department": "Acting",
+        "name": "Ljutvie Sam",
+        "original_name": "Ljutvie Sam",
+        "popularity": 0.0894,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "5d9b68ad4cbe12003092bc71",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2187554,
+        "known_for_department": "Directing",
+        "name": "Ljubomir Stefanov",
+        "original_name": "Ljubomir Stefanov",
+        "popularity": 0.1601,
+        "profile_path": "/x7FiZl69gfUXDmNApY4LrX8NXnd.jpg",
+        "credit_id": "5c041ed00e0a2629ce0afe46",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2187555,
+        "known_for_department": "Directing",
+        "name": "Tamara Kotevska",
+        "original_name": "Tamara Kotevska",
+        "popularity": 0.2006,
+        "profile_path": "/uDOqIbU0F9ogDa8IhJe0vfSBDvh.jpg",
+        "credit_id": "5c041ed9c3a36865bc0bbd63",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2464301,
+        "known_for_department": "Camera",
+        "name": "Fejmi Daut",
+        "original_name": "Fejmi Daut",
+        "popularity": 0.1368,
+        "profile_path": null,
+        "credit_id": "5de96320a313b80014948290",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2476036,
+        "known_for_department": "Sound",
+        "name": "Foltin",
+        "original_name": "Foltin",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "5de9631327d9cc0017e91070",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2476037,
+        "known_for_department": "Sound",
+        "name": "Vanessa Kanaan",
+        "original_name": "Vanessa Kanaan",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "5de96355a313b800149482c1",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2476039,
+        "known_for_department": "Editing",
+        "name": "Martin Ivanov",
+        "original_name": "Martin Ivanov",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "5de963b20a94d40013a33b36",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1892226,
+        "known_for_department": "Acting",
+        "name": "Samir Ljuma",
+        "original_name": "Samir Ljuma",
+        "popularity": 0.126,
+        "profile_path": null,
+        "credit_id": "5de9632ea313b800149482a3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2476038,
+        "known_for_department": "Sound",
+        "name": "François Yazbeck",
+        "original_name": "François Yazbeck",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "5de9637b0a94d40010a324d7",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1756382,
+        "known_for_department": "Sound",
+        "name": "رنا عيد",
+        "original_name": "رنا عيد",
+        "popularity": 0.078,
+        "profile_path": "/juHQt358b7AJEXNJKUrZDR5fz8s.jpg",
+        "credit_id": "5de96345a7e363001674b0f8",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1374464,
+        "known_for_department": "Sound",
+        "name": "Florent Lavallée",
+        "original_name": "Florent Lavallée",
+        "popularity": 0.1253,
+        "profile_path": "/jnpe7f3z4byi3lUg4uuft7QC6nQ.jpg",
+        "credit_id": "5de96365a313b800149482cb",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 584972,
+        "known_for_department": "Editing",
+        "name": "Blagoja Nedelkovski",
+        "original_name": "Blagoja Nedelkovski",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "5de963c511386c00115811cf",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1797815,
+        "known_for_department": "Sound",
+        "name": "Lama Sawaya",
+        "original_name": "Lama Sawaya",
+        "popularity": 0.11,
+        "profile_path": null,
+        "credit_id": "5de963703faba0001916fab2",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1769634,
+        "known_for_department": "Editing",
+        "name": "Atanas Georgiev",
+        "original_name": "Atanas Georgiev",
+        "popularity": 0.1196,
+        "profile_path": "/37TGQi5qUKP4W55xk6tZhxAHLcX.jpg",
+        "credit_id": "5de963040a94d40018a31ef4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1769634,
+        "known_for_department": "Editing",
+        "name": "Atanas Georgiev",
+        "original_name": "Atanas Georgiev",
+        "popularity": 0.1196,
+        "profile_path": "/37TGQi5qUKP4W55xk6tZhxAHLcX.jpg",
+        "credit_id": "5de9633b7646fd00139c6ec4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2476040,
+        "known_for_department": "Sound",
+        "name": "Ivica Jankulovski",
+        "original_name": "Ivica Jankulovski",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5de963d19d6e330013171c10",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2187555,
+        "known_for_department": "Directing",
+        "name": "Tamara Kotevska",
+        "original_name": "Tamara Kotevska",
+        "popularity": 0.2006,
+        "profile_path": "/uDOqIbU0F9ogDa8IhJe0vfSBDvh.jpg",
+        "credit_id": "5e75e24c357c0000164ea7ad",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2187554,
+        "known_for_department": "Directing",
+        "name": "Ljubomir Stefanov",
+        "original_name": "Ljubomir Stefanov",
+        "popularity": 0.1601,
+        "profile_path": "/x7FiZl69gfUXDmNApY4LrX8NXnd.jpg",
+        "credit_id": "5e75e25d2fe2fa001813a243",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 941,
+        "name": "tradition"
+      },
+      {
+        "id": 4247,
+        "name": "beehive"
+      },
+      {
+        "id": 11004,
+        "name": "rural area"
+      },
+      {
+        "id": 18127,
+        "name": "new neighbor"
+      },
+      {
+        "id": 18379,
+        "name": "bee"
+      },
+      {
+        "id": 18381,
+        "name": "honey"
+      },
+      {
+        "id": 193067,
+        "name": "beekeeping"
+      },
+      {
+        "id": 206119,
+        "name": "macedonia"
+      },
+      {
+        "id": 221355,
+        "name": "nature documentary"
+      },
+      {
+        "id": 224563,
+        "name": "beekeeper"
+      },
+      {
+        "id": 240315,
+        "name": "mother daughter relationship"
+      },
+      {
+        "id": 240847,
+        "name": "social & cultural documentary"
+      },
+      {
+        "id": 243186,
+        "name": "large family"
+      },
+      {
+        "id": 281588,
+        "name": "traditional values"
+      },
+      {
+        "id": 294531,
+        "name": "documentary film"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-07-26T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-07-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hot Docs International Documentary Festival",
+            "release_date": "2019-05-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-09-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Visions du Réel Film Festival",
+            "release_date": "2019-04-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-05-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DOK.fest Munich",
+            "release_date": "2019-05-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "APTA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-09-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "APTA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-07-26T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-09-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-09-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "Κ",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hong Kong International Film Festival",
+            "release_date": "2019-03-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-09-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-08-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-07-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Docs Against Gravity Film Festival",
+            "release_date": "2019-05-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Moscow International Film Festival",
+            "release_date": "2019-04-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-08-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sundance Film Festival",
+            "release_date": "2019-01-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New Directors/New Films",
+            "release_date": "2019-04-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-07-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

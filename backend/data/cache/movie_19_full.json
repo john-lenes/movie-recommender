@@ -1,0 +1,1400 @@
+{
+  "adult": false,
+  "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+  "belongs_to_collection": null,
+  "budget": 5300000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    }
+  ],
+  "homepage": "",
+  "id": 19,
+  "imdb_id": "tt0017136",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Metropolis",
+  "overview": "O futuro ė distante e o mundo está sob o comando dos poderosos, que isolaram os mais pobres no subsolo como se fossem seus escravos, para que trabalhassem em prol dos mesmos. Comandados por Freder Fredersen, os operários são obrigados a trabalharem sem parar para que a cidade não pare.",
+  "popularity": 3.0885,
+  "poster_path": "/xBx21HvGJCb15PKWkyb7uc435Wx.jpg",
+  "production_companies": [
+    {
+      "id": 12372,
+      "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+      "name": "UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1927-01-10",
+  "revenue": 1350322,
+  "runtime": 153,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Não pode haver compreensão entre as mãos e o cérebro, a menos que o coração atue como mediador.",
+  "title": "Metrópolis",
+  "video": false,
+  "vote_average": 8.101,
+  "vote_count": 3007,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74,
+        "known_for_department": "Acting",
+        "name": "Gustav Fröhlich",
+        "original_name": "Gustav Fröhlich",
+        "popularity": 0.4688,
+        "profile_path": "/bkjDaorTT3LcOeTcQF1TDpBlHwt.jpg",
+        "cast_id": 9,
+        "character": "Freder Fredersen",
+        "credit_id": "52fe420fc3a36847f8000c83",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75,
+        "known_for_department": "Acting",
+        "name": "Brigitte Helm",
+        "original_name": "Brigitte Helm",
+        "popularity": 0.7425,
+        "profile_path": "/a7mwxoeF34BCxmteoHQSB1ENth0.jpg",
+        "cast_id": 10,
+        "character": "Maria / The Machine Man",
+        "credit_id": "52fe420fc3a36847f8000c87",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73,
+        "known_for_department": "Acting",
+        "name": "Alfred Abel",
+        "original_name": "Alfred Abel",
+        "popularity": 0.4114,
+        "profile_path": "/dGk5r64zQZVHplTwRDZGpNkoCjc.jpg",
+        "cast_id": 28,
+        "character": "Johann 'Joh' Fredersen",
+        "credit_id": "52fe420fc3a36847f8000cdb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77,
+        "known_for_department": "Acting",
+        "name": "Rudolf Klein-Rogge",
+        "original_name": "Rudolf Klein-Rogge",
+        "popularity": 0.2695,
+        "profile_path": "/fbP75fGfXFQlkf3Q5oHbJ4wjG1g.jpg",
+        "cast_id": 11,
+        "character": "C.A. Rotwang",
+        "credit_id": "52fe420fc3a36847f8000c8b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79,
+        "known_for_department": "Acting",
+        "name": "Theodor Loos",
+        "original_name": "Theodor Loos",
+        "popularity": 0.3698,
+        "profile_path": "/9PbtusE5TJYfyQrWb6brBXuXTLX.jpg",
+        "cast_id": 13,
+        "character": "Josaphat",
+        "credit_id": "52fe420fc3a36847f8000c93",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78,
+        "known_for_department": "Acting",
+        "name": "Fritz Rasp",
+        "original_name": "Fritz Rasp",
+        "popularity": 0.2178,
+        "profile_path": "/pEpcnqgtKtLG6gFt2TCQKnMk0VA.jpg",
+        "cast_id": 12,
+        "character": "The Thin Man",
+        "credit_id": "52fe420fc3a36847f8000c8f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80,
+        "known_for_department": "Acting",
+        "name": "Erwin Biswanger",
+        "original_name": "Erwin Biswanger",
+        "popularity": 0.2912,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "No. 11811 - Georgy",
+        "credit_id": "52fe420fc3a36847f8000c97",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81,
+        "known_for_department": "Acting",
+        "name": "Heinrich George",
+        "original_name": "Heinrich George",
+        "popularity": 0.2525,
+        "profile_path": "/gy4bpVG804KFIj6LCZJLWa93WmU.jpg",
+        "cast_id": 15,
+        "character": "Grot",
+        "credit_id": "52fe420fc3a36847f8000c9b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20535,
+        "known_for_department": "Acting",
+        "name": "Fritz Alberti",
+        "original_name": "Fritz Alberti",
+        "popularity": 0.3488,
+        "profile_path": "/qCQhv7RCYwEZJ8l0Hs0ToXZIAP7.jpg",
+        "cast_id": 22,
+        "character": "Creative Human - Man Who Convinces Babel (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cb9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47173,
+        "known_for_department": "Acting",
+        "name": "Grete Berger",
+        "original_name": "Grete Berger",
+        "popularity": 0.184,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "56b2a655c3a36806ee000328",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2535176,
+        "known_for_department": "Writing",
+        "name": "Olly Boeheim",
+        "original_name": "Olly Boeheim",
+        "popularity": 0.1577,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "5ea3da6a66f2d2001e3df014",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20533,
+        "known_for_department": "Acting",
+        "name": "Heinrich Gotho",
+        "original_name": "Heinrich Gotho",
+        "popularity": 0.1907,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Master of Ceremonies (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cb1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69,
+        "known_for_department": "Sound",
+        "name": "Gottfried Huppertz",
+        "original_name": "Gottfried Huppertz",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "cast_id": 63,
+        "character": "Man Playing Violin (uncredited)",
+        "credit_id": "5ea3db17a2d2e90021dca274",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29129,
+        "known_for_department": "Acting",
+        "name": "Georg John",
+        "original_name": "Georg John",
+        "popularity": 0.3523,
+        "profile_path": "/bBqQO3Z63tJ1DYo2XEipcSsdi1t.jpg",
+        "cast_id": 31,
+        "character": "Working Man Who Causes Explosion of M-Machine (uncredited)",
+        "credit_id": "56b2a75f92514114e8000311",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20534,
+        "known_for_department": "Acting",
+        "name": "Margarete Lanner",
+        "original_name": "Margarete Lanner",
+        "popularity": 0.127,
+        "profile_path": "/giYIXmUL3PvxRR91vkreSx6qlO8.jpg",
+        "cast_id": 21,
+        "character": "Woman of Eternal Gardens / Lady in Car (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cb5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2190565,
+        "known_for_department": "Acting",
+        "name": "Rose Lichtenstein",
+        "original_name": "Rose Lichtenstein",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "cast_id": 64,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "5ea3db56bdc34c001e25bf0c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83,
+        "known_for_department": "Acting",
+        "name": "Hanns Leo Reich",
+        "original_name": "Hanns Leo Reich",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Marinus (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000ca3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531781,
+        "known_for_department": "Acting",
+        "name": "Arthur Reinhardt",
+        "original_name": "Arthur Reinhardt",
+        "popularity": 0.1633,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Working Man (uncredited)",
+        "credit_id": "56b2a89c92514114e5000363",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5028,
+        "known_for_department": "Writing",
+        "name": "Curt Siodmak",
+        "original_name": "Curt Siodmak",
+        "popularity": 0.3526,
+        "profile_path": "/1g2v8J8vJKziUnmee4JVoBAeRsW.jpg",
+        "cast_id": 33,
+        "character": "Working Man (uncredited)",
+        "credit_id": "56b2a7d9c3a36806f80002f8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1689706,
+        "known_for_department": "Acting",
+        "name": "Henrietta Siodmak",
+        "original_name": "Henrietta Siodmak",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "57f54434c3a36831cb00017e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82,
+        "known_for_department": "Acting",
+        "name": "Olaf Storm",
+        "original_name": "Olaf Storm",
+        "popularity": 0.1961,
+        "profile_path": "/xS5kAz8hax8kOSFO8QrbGpp0S4i.jpg",
+        "cast_id": 16,
+        "character": "Jan (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000c9f",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50893,
+        "known_for_department": "Acting",
+        "name": "Rolf von Goth",
+        "original_name": "Rolf von Goth",
+        "popularity": 0.3717,
+        "profile_path": "/bSP4xmj1ghotvnuBRV4DarKFYyO.jpg",
+        "cast_id": 34,
+        "character": "Son in Eternal Gardens (uncredited)",
+        "credit_id": "56b2a80f92514114eb00033e",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1288145,
+        "known_for_department": "Acting",
+        "name": "Helen von Münchofen",
+        "original_name": "Helen von Münchofen",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Woman of Eternal Gardens (uncredited)",
+        "credit_id": "56b2a83d92514114e800033a",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2350,
+        "known_for_department": "Acting",
+        "name": "Helene Weigel",
+        "original_name": "Helene Weigel",
+        "popularity": 0.1615,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Working Woman (uncredited)",
+        "credit_id": "52fe420fc3a36847f8000cad",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71,
+        "known_for_department": "Camera",
+        "name": "Günther Rittau",
+        "original_name": "Günther Rittau",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000c79",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 1.1174,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "credit_id": "52fe420fc3a36847f8000c61",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2798,
+        "known_for_department": "Directing",
+        "name": "Walter Ruttmann",
+        "original_name": "Walter Ruttmann",
+        "popularity": 0.2142,
+        "profile_path": "/tadF9CxIFsJMTMhyPRWtgDqBzsi.jpg",
+        "credit_id": "52fe420fc3a36847f8000c7f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5030,
+        "known_for_department": "Directing",
+        "name": "Edgar G. Ulmer",
+        "original_name": "Edgar G. Ulmer",
+        "popularity": 0.4039,
+        "profile_path": "/uH5SR17ZJwe4y9K1CtkfQerIcCu.jpg",
+        "credit_id": "52fe420fc3a36847f8000cc5",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67,
+        "known_for_department": "Production",
+        "name": "Erich Pommer",
+        "original_name": "Erich Pommer",
+        "popularity": 0.2969,
+        "profile_path": "/tDYZA5sghHNO1g4hpkRbDei2SoK.jpg",
+        "credit_id": "52fe420fc3a36847f8000c55",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 1.1174,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "credit_id": "52fe420fc3a36847f8000c6d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69,
+        "known_for_department": "Sound",
+        "name": "Gottfried Huppertz",
+        "original_name": "Gottfried Huppertz",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000c67",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 0.6082,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000c73",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20536,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aenne Willkomm",
+        "original_name": "Aenne Willkomm",
+        "popularity": 0.1671,
+        "profile_path": null,
+        "credit_id": "52fe420fc3a36847f8000cbf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68,
+        "known_for_department": "Directing",
+        "name": "Fritz Lang",
+        "original_name": "Fritz Lang",
+        "popularity": 1.1174,
+        "profile_path": "/9dz4PmFzlSyexldWrOXBLLpkBqB.jpg",
+        "credit_id": "56b24807925141033600061d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758,
+        "known_for_department": "Camera",
+        "name": "Eugen Schüfftan",
+        "original_name": "Eugen Schüfftan",
+        "popularity": 0.3345,
+        "profile_path": null,
+        "credit_id": "56b2ab12c3a36807000003a5",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1572237,
+        "known_for_department": "Crew",
+        "name": "Ernst Kunstmann",
+        "original_name": "Ernst Kunstmann",
+        "popularity": 0.1362,
+        "profile_path": null,
+        "credit_id": "56b2a9ff92514114e800038d",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29553,
+        "known_for_department": "Camera",
+        "name": "Horst von Harbou",
+        "original_name": "Horst von Harbou",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "56b2abe792514114e80003dd",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1572235,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Walter Schulze-Mittendorff",
+        "original_name": "Walter Schulze-Mittendorff",
+        "popularity": 0.1652,
+        "profile_path": null,
+        "credit_id": "56b2a9bc92514114de000386",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794,
+        "known_for_department": "Camera",
+        "name": "Robert Baberske",
+        "original_name": "Robert Baberske",
+        "popularity": 0.1479,
+        "profile_path": null,
+        "credit_id": "56b2ab9fc3a36806ee000427",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12365,
+        "known_for_department": "Camera",
+        "name": "Konstantin Irmen-Tschet",
+        "original_name": "Konstantin Irmen-Tschet",
+        "popularity": 0.291,
+        "profile_path": null,
+        "credit_id": "56b2aa6e92514114e80003a3",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572241,
+        "known_for_department": "Sound",
+        "name": "Frank Strobel",
+        "original_name": "Frank Strobel",
+        "popularity": 0.1515,
+        "profile_path": null,
+        "credit_id": "56b2ac4f92514114db000417",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794,
+        "known_for_department": "Camera",
+        "name": "Robert Baberske",
+        "original_name": "Robert Baberske",
+        "popularity": 0.1479,
+        "profile_path": null,
+        "credit_id": "65a9546b7d2bc10136ea8357",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 157,
+        "known_for_department": "Writing",
+        "name": "Thea von Harbou",
+        "original_name": "Thea von Harbou",
+        "popularity": 0.4312,
+        "profile_path": "/jQ6EF2gcodiez6PFEOaqMMF3nfF.jpg",
+        "credit_id": "5857f22d9251415941009e69",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 157,
+        "known_for_department": "Writing",
+        "name": "Thea von Harbou",
+        "original_name": "Thea von Harbou",
+        "popularity": 0.4312,
+        "profile_path": "/jQ6EF2gcodiez6PFEOaqMMF3nfF.jpg",
+        "credit_id": "5857f223c3a36827a5055e55",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12369,
+        "known_for_department": "Art",
+        "name": "Erich Kettelhut",
+        "original_name": "Erich Kettelhut",
+        "popularity": 0.2188,
+        "profile_path": null,
+        "credit_id": "59d426b59251414b7f009746",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12369,
+        "known_for_department": "Art",
+        "name": "Erich Kettelhut",
+        "original_name": "Erich Kettelhut",
+        "popularity": 0.2188,
+        "profile_path": null,
+        "credit_id": "59d42800c3a3684561009c42",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 0.6082,
+        "profile_path": null,
+        "credit_id": "59d427549251414b5c009841",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12320,
+        "known_for_department": "Art",
+        "name": "Karl Vollbrecht",
+        "original_name": "Karl Vollbrecht",
+        "popularity": 0.5494,
+        "profile_path": null,
+        "credit_id": "59d426c59251414b5c00973c",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1550861,
+        "known_for_department": "Crew",
+        "name": "Rudi George",
+        "original_name": "Rudi George",
+        "popularity": 0.1872,
+        "profile_path": null,
+        "credit_id": "59d428199251414b5c0099b9",
+        "department": "Crew",
+        "job": "Production Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12320,
+        "known_for_department": "Art",
+        "name": "Karl Vollbrecht",
+        "original_name": "Karl Vollbrecht",
+        "popularity": 0.5494,
+        "profile_path": null,
+        "credit_id": "59d42873c3a368451b00879a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12369,
+        "known_for_department": "Art",
+        "name": "Erich Kettelhut",
+        "original_name": "Erich Kettelhut",
+        "popularity": 0.2188,
+        "profile_path": null,
+        "credit_id": "59d428829251414b8b009363",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71,
+        "known_for_department": "Camera",
+        "name": "Günther Rittau",
+        "original_name": "Günther Rittau",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "credit_id": "59d42766c3a368453f0091a6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36251,
+        "known_for_department": "Production",
+        "name": "Erich Holder",
+        "original_name": "Erich Holder",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "credit_id": "59d427db9251414b8b009221",
+        "department": "Crew",
+        "job": "Production Office Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13887,
+        "known_for_department": "Art",
+        "name": "Otto Hunte",
+        "original_name": "Otto Hunte",
+        "popularity": 0.1127,
+        "profile_path": null,
+        "credit_id": "59d42891c3a3684561009d32",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899458,
+        "known_for_department": "Sound",
+        "name": "Otto Harzner",
+        "original_name": "Otto Harzner",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "59d4279dc3a368459400969a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1572241,
+        "known_for_department": "Sound",
+        "name": "Frank Strobel",
+        "original_name": "Frank Strobel",
+        "popularity": 0.1515,
+        "profile_path": null,
+        "credit_id": "59d427ab9251414b8b0091ac",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111195,
+        "known_for_department": "Directing",
+        "name": "Slatan Dudow",
+        "original_name": "Slatan Dudow",
+        "popularity": 0.2274,
+        "profile_path": "/diLo5E7OYGV0ZFWYfmfu6qecymk.jpg",
+        "credit_id": "59d42672c3a368456100998c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13887,
+        "known_for_department": "Art",
+        "name": "Otto Hunte",
+        "original_name": "Otto Hunte",
+        "popularity": 0.1127,
+        "profile_path": null,
+        "credit_id": "59d426a39251414b7f009721",
+        "department": "Art",
+        "job": "Set Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2964,
+        "name": "future"
+      },
+      {
+        "id": 1761,
+        "name": "metropolis"
+      },
+      {
+        "id": 4034,
+        "name": "class society"
+      },
+      {
+        "id": 312,
+        "name": "man vs machine"
+      },
+      {
+        "id": 1001,
+        "name": "underground world"
+      },
+      {
+        "id": 5966,
+        "name": "tower of babel"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1436,
+        "name": "inventor"
+      },
+      {
+        "id": 4565,
+        "name": "dystopia"
+      },
+      {
+        "id": 6662,
+        "name": "delirium"
+      },
+      {
+        "id": 10125,
+        "name": "mad scientist"
+      },
+      {
+        "id": 11222,
+        "name": "prophet"
+      },
+      {
+        "id": 10028,
+        "name": "steampunk"
+      },
+      {
+        "id": 11187,
+        "name": "grim reaper"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 14544,
+        "name": "robot"
+      },
+      {
+        "id": 14796,
+        "name": "destruction"
+      },
+      {
+        "id": 154802,
+        "name": "silent film"
+      },
+      {
+        "id": 164246,
+        "name": "nostalgic"
+      },
+      {
+        "id": 179874,
+        "name": "expressionism"
+      },
+      {
+        "id": 185459,
+        "name": "seven deadly sins"
+      },
+      {
+        "id": 201028,
+        "name": "depravity"
+      },
+      {
+        "id": 215678,
+        "name": "partially lost film"
+      },
+      {
+        "id": 232988,
+        "name": "mob justice"
+      },
+      {
+        "id": 234109,
+        "name": "downtrodden"
+      },
+      {
+        "id": 234110,
+        "name": "saviour"
+      },
+      {
+        "id": 239175,
+        "name": "social unrest"
+      },
+      {
+        "id": 244516,
+        "name": "german expressionism"
+      },
+      {
+        "id": 255786,
+        "name": "mediator"
+      },
+      {
+        "id": 266753,
+        "name": "cautionary"
+      },
+      {
+        "id": 311315,
+        "name": "dramatic"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne",
+            "release_date": "1928-04-07T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2005-11-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-11-04T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "re-release",
+            "release_date": "1985-03-28T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shanghai International Film Festival（restored version）",
+            "release_date": "2011-06-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shanghai International Film Festival",
+            "release_date": "2024-06-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "搜狐视频",
+            "release_date": "2014-05-17T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "bilibili",
+            "release_date": "2019-06-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-01-10T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-08-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ICAA 814551",
+            "release_date": "1984-11-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-02-06T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-02-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Restaured version",
+            "release_date": "2011-10-19T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2015-07-14T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-11-13T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "1999-09-01T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-Ray",
+            "release_date": "2011-10-05T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Giorgio Moroder",
+            "release_date": "1984-05-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-03-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2010-11-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hong Kong International Film Festival（ restored version）",
+            "release_date": "2010-04-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-09-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Limited re-release",
+            "release_date": "2010-07-02T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1928-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1929-04-03T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "1984 version",
+            "release_date": "1985-01-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1928-01-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1985-05-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu ray",
+            "release_date": "2009-08-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1928-04-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-04-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kaohsiung Film Festival",
+            "release_date": "2012-10-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "2010 Restored Version (TCM Classic Film Festival)",
+            "release_date": "2010-04-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City, New York",
+            "release_date": "1927-03-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1927-03-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1984-08-10T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Vestron Video #VA5090 [𝐕𝐇𝐒📼] 𝟴𝟳 mínutєѕ",
+            "release_date": "1984-10-13T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "GoodTimes Home Video #8189 [𝐕𝐇𝐒📼] 𝟭𝟮𝟬  mínutєѕ",
+            "release_date": "1990-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

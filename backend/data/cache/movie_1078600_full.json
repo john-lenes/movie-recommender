@@ -1,0 +1,1005 @@
+{
+  "adult": false,
+  "backdrop_path": "/9qYD7pAOEdYBoQblv5VAMMSVAC8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.diamondfilms.com.br/filmes/na-sua-pele-a-serie-marked-men",
+  "id": 1078600,
+  "imdb_id": "tt26452781",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Marked Men: Rule + Shaw",
+  "overview": "Uma história de amor tão intensa quanto improvável une Shaw, uma dedicada estudante de medicina de família aristocrática, e Rule, um tatuador rebelde de espírito livre. Para ele, Shaw sempre foi apenas uma amiga da família, até que uma noite impulsiva altera o curso de suas vidas. Agora, ambos precisam confrontar sentimentos reprimidos e superar o luto, as pressões familiares e o medo do compromisso para descobrir se uma conexão entre mundos tão opostos pode realmente sobreviver.",
+  "popularity": 10.3123,
+  "poster_path": "/o3fTmIZdIEJH9VM25QkJCxokWPz.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 182897,
+      "logo_path": "/5jZX93pvheCYowROn9LAz499FC5.png",
+      "name": "Wattpad WEBTOON Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-01-22",
+  "revenue": 826883,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "O amor sempre deixa marcas.",
+  "title": "Na Sua Pele - A Série Marked Men",
+  "video": false,
+  "vote_average": 6.675,
+  "vote_count": 197,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2077864,
+        "known_for_department": "Acting",
+        "name": "Chase Stokes",
+        "original_name": "Chase Stokes",
+        "popularity": 1.1074,
+        "profile_path": "/okoMZYMICceGRrca6jhCVkDxVxi.jpg",
+        "cast_id": 3,
+        "character": "Rule Archer",
+        "credit_id": "63d17f2ce72fe800aa01c2e0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1955219,
+        "known_for_department": "Acting",
+        "name": "Sydney Taylor",
+        "original_name": "Sydney Taylor",
+        "popularity": 0.7601,
+        "profile_path": "/r53NwdRM2uDvXV6c0391AcLsrky.jpg",
+        "cast_id": 4,
+        "character": "Shaw Landon",
+        "credit_id": "63d17f3fcb71b800810227c4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2092879,
+        "known_for_department": "Acting",
+        "name": "Ella Balinska",
+        "original_name": "Ella Balinska",
+        "popularity": 1.1268,
+        "profile_path": "/hq3diEug2eM9UPx88FvGkdipkih.jpg",
+        "cast_id": 13,
+        "character": "Ayden Cross",
+        "credit_id": "63d18064e72fe8008e60ce65",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2804890,
+        "known_for_department": "Acting",
+        "name": "Evan Mock",
+        "original_name": "Evan Mock",
+        "popularity": 0.3799,
+        "profile_path": "/eS0I0pthIh4DxxnmK6mzlp8OWLH.jpg",
+        "cast_id": 14,
+        "character": "Jet Teller",
+        "credit_id": "63d1806b55b0c0007f00da35",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23498,
+        "known_for_department": "Acting",
+        "name": "Alexander Ludwig",
+        "original_name": "Alexander Ludwig",
+        "popularity": 3.1898,
+        "profile_path": "/jXixkOwQ62hpsCr8xhWS9rik8SE.jpg",
+        "cast_id": 15,
+        "character": "Rome Archer",
+        "credit_id": "63d18074cb71b800896c445d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 211484,
+        "known_for_department": "Acting",
+        "name": "Natalie Alyn Lind",
+        "original_name": "Natalie Alyn Lind",
+        "popularity": 0.7974,
+        "profile_path": "/v3Q4P3lb3Kek8dg6WaIDzhEIY5M.jpg",
+        "cast_id": 16,
+        "character": "Cora Lewis",
+        "credit_id": "63d1807bcb71b800d439cf7b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2129566,
+        "known_for_department": "Acting",
+        "name": "Matthew Noszka",
+        "original_name": "Matthew Noszka",
+        "popularity": 2.199,
+        "profile_path": "/1kALpbgg7wmeeVBZ2THHTQCnU4l.jpg",
+        "cast_id": 17,
+        "character": "Nash Donavan",
+        "credit_id": "63d18085a410c811e9be6460",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2034962,
+        "known_for_department": "Acting",
+        "name": "Hannah Kepple",
+        "original_name": "Hannah Kepple",
+        "popularity": 0.7374,
+        "profile_path": "/4mDK0CKHRhvgJyKiUwGCn6GnFod.jpg",
+        "cast_id": 18,
+        "character": "Loren",
+        "credit_id": "63d1808d9e458600b27c96c3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3264243,
+        "known_for_department": "Acting",
+        "name": "Daisy Jelley",
+        "original_name": "Daisy Jelley",
+        "popularity": 0.6123,
+        "profile_path": "/p9p1yCAIdSgvfIKdbjCLaXdUfSv.jpg",
+        "cast_id": 19,
+        "character": "Sierra",
+        "credit_id": "63d1809b66ae4d009e9e5049",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3890643,
+        "known_for_department": "Acting",
+        "name": "Michael Bradway",
+        "original_name": "Michael Bradway",
+        "popularity": 0.2763,
+        "profile_path": "/yq3JXWIi3vCHQymOr3HOHhz7qLo.jpg",
+        "cast_id": 20,
+        "character": "Gabe Davenport",
+        "credit_id": "63d180a566ae4d00842788e7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3863830,
+        "known_for_department": "Acting",
+        "name": "Adam Abbou",
+        "original_name": "Adam Abbou",
+        "popularity": 0.227,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Jasper Brown",
+        "credit_id": "63d180aea410c81215b62692",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1685330,
+        "known_for_department": "Acting",
+        "name": "Inanna Sarkis",
+        "original_name": "Inanna Sarkis",
+        "popularity": 0.4544,
+        "profile_path": "/up8etOETeYTwuGFr9yL0gYf5ZKW.jpg",
+        "cast_id": 22,
+        "character": "Jordynn",
+        "credit_id": "63d180b5cb71b80085dd5259",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73035,
+        "known_for_department": "Acting",
+        "name": "Paul Johansson",
+        "original_name": "Paul Johansson",
+        "popularity": 1.1696,
+        "profile_path": "/WObwc4GELejtR1lZDCWVN9F9t7.jpg",
+        "cast_id": 23,
+        "character": "Dale Archer",
+        "credit_id": "63d180bea410c811f192855c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 93091,
+        "known_for_department": "Acting",
+        "name": "Tonya Cornelisse",
+        "original_name": "Tonya Cornelisse",
+        "popularity": 0.4499,
+        "profile_path": "/csPc5n3Bvl2oZobndA3Ojmj2a7B.jpg",
+        "cast_id": 24,
+        "character": "Madelyn Archer",
+        "credit_id": "63d180c5a410c8125be65c4b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1514927,
+        "known_for_department": "Acting",
+        "name": "Nancy De Mayo",
+        "original_name": "Nancy De Mayo",
+        "popularity": 0.3416,
+        "profile_path": "/iqRoS7KswuMfhPr5iKimCfsPZrl.jpg",
+        "cast_id": 25,
+        "character": "Eleanor Landon",
+        "credit_id": "63d180cd55b0c0009d73eea7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4604384,
+        "known_for_department": "Acting",
+        "name": "Dajana Gudic",
+        "original_name": "Dajana Gudic",
+        "popularity": 0.1451,
+        "profile_path": "/taBBGdqHfD1nyRGv6MPjUenqn7q.jpg",
+        "cast_id": 27,
+        "character": "Dania",
+        "credit_id": "66f644e86cedbed01570a794",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456570,
+        "known_for_department": "Acting",
+        "name": "Anton Poriazov",
+        "original_name": "Anton Poriazov",
+        "popularity": 0.0648,
+        "profile_path": "/wzFAGn5pZOOOLC7KndmGZemYZtF.jpg",
+        "cast_id": 28,
+        "character": "Bunny",
+        "credit_id": "66f644ecb9fd276279509eb1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5076687,
+        "known_for_department": "Acting",
+        "name": "Anastasia Zhovtodid",
+        "original_name": "Anastasia Zhovtodid",
+        "popularity": 0.0214,
+        "profile_path": "/cQQbmfw91YblPcGvt6tPp3W3XIr.jpg",
+        "cast_id": 30,
+        "character": "Young Girl Tattoo Client",
+        "credit_id": "67a781eb269f0bc4f5f12196",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 212236,
+        "known_for_department": "Acting",
+        "name": "Manal El-Feitury",
+        "original_name": "Manal El-Feitury",
+        "popularity": 0.8622,
+        "profile_path": "/zRs4USVkkKInhI1ZRcrkuKIfAM3.jpg",
+        "cast_id": 34,
+        "character": "Jasper's Mom",
+        "credit_id": "67b368305dc988b1bb9f9fa9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20742,
+        "known_for_department": "Production",
+        "name": "Jennifer Gibgot",
+        "original_name": "Jennifer Gibgot",
+        "popularity": 0.3851,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Wealthy Woman",
+        "credit_id": "67b368494e89ccd7886deab2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5252654,
+        "known_for_department": "Acting",
+        "name": "Filip Bukov",
+        "original_name": "Filip Bukov",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Joey",
+        "credit_id": "67b36860317838d2949fbeb1",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5252656,
+        "known_for_department": "Acting",
+        "name": "Sreb Noeva",
+        "original_name": "Sreb Noeva",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Secretary",
+        "credit_id": "67b3686c6113c493dc6dd815",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5252657,
+        "known_for_department": "Acting",
+        "name": "George Cottam",
+        "original_name": "George Cottam",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Orlando",
+        "credit_id": "67b368786113c493dc6dd82f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3224614,
+        "known_for_department": "Acting",
+        "name": "Michael Fleming",
+        "original_name": "Michael Fleming",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Pastor",
+        "credit_id": "67b368916113c493dc6dd837",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5252659,
+        "known_for_department": "Acting",
+        "name": "Zeid Salamen",
+        "original_name": "Zeid Salamen",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Tattoo Shop Dude",
+        "credit_id": "67b3689ea65d6303e7e0e567",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5252660,
+        "known_for_department": "Acting",
+        "name": "Ghaith Mansour",
+        "original_name": "Ghaith Mansour",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Skeet (uncredited)",
+        "credit_id": "67b368bb317838d2949fbed3",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11151,
+        "known_for_department": "Directing",
+        "name": "Nick Cassavetes",
+        "original_name": "Nick Cassavetes",
+        "popularity": 1.2247,
+        "profile_path": "/cSAkROMjuYBmzp7T3Da3WP6loZM.jpg",
+        "credit_id": "63d17eeb66ae4d0096b69d94",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1493190,
+        "known_for_department": "Writing",
+        "name": "Sharon Soboil",
+        "original_name": "Sharon Soboil",
+        "popularity": 0.1668,
+        "profile_path": null,
+        "credit_id": "63d17efa55b0c0007ceba6f4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20742,
+        "known_for_department": "Production",
+        "name": "Jennifer Gibgot",
+        "original_name": "Jennifer Gibgot",
+        "popularity": 0.3851,
+        "profile_path": null,
+        "credit_id": "63d17fac66ae4d008c91e073",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551998,
+        "known_for_department": "Production",
+        "name": "Brian Pitt",
+        "original_name": "Brian Pitt",
+        "popularity": 0.1894,
+        "profile_path": null,
+        "credit_id": "63d17fb755b0c0009d73ee57",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1860402,
+        "known_for_department": "Directing",
+        "name": "J.B. Sugar",
+        "original_name": "J.B. Sugar",
+        "popularity": 0.1823,
+        "profile_path": "/xkgnXwXefMN6Q9ykZgOLj5ZVPt2.jpg",
+        "credit_id": "63d17fdf9f51af007af84f92",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57822,
+        "known_for_department": "Production",
+        "name": "Andrew Panay",
+        "original_name": "Andrew Panay",
+        "popularity": 0.1844,
+        "profile_path": null,
+        "credit_id": "63d17ff6e72fe8008e60ce37",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1755292,
+        "known_for_department": "Production",
+        "name": "Ryan Westheimer",
+        "original_name": "Ryan Westheimer",
+        "popularity": 0.0675,
+        "profile_path": null,
+        "credit_id": "63d180029f51af008a2dbe2b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3890638,
+        "known_for_department": "Production",
+        "name": "Josh Keselman",
+        "original_name": "Josh Keselman",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "63d18038a410c8125be65c15",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3890637,
+        "known_for_department": "Production",
+        "name": "Hailee Kessleman",
+        "original_name": "Hailee Kessleman",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63d180459e4586009d384d3e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3891697,
+        "known_for_department": "Writing",
+        "name": "Jay Crownover",
+        "original_name": "Jay Crownover",
+        "popularity": 0.1003,
+        "profile_path": null,
+        "credit_id": "63d2b3c55a07f5007b0b45e9",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080635,
+        "known_for_department": "Crew",
+        "name": "Asen Asenov",
+        "original_name": "Asen Asenov",
+        "popularity": 0.4685,
+        "profile_path": "/eCJ3oBZ4ZLVLyCpc1J4YUinwOI5.jpg",
+        "credit_id": "679fa0e5ac5a7951b9cb6d57",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 62994,
+        "known_for_department": "Sound",
+        "name": "George Kallis",
+        "original_name": "George Kallis",
+        "popularity": 1.1042,
+        "profile_path": null,
+        "credit_id": "67b367e0a65d6303e7e0e509",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1118711,
+        "known_for_department": "Camera",
+        "name": "Kenji Katori",
+        "original_name": "Kenji Katori",
+        "popularity": 0.1334,
+        "profile_path": null,
+        "credit_id": "67b367e95dc988b1bb9f9f92",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 43425,
+        "known_for_department": "Editing",
+        "name": "Jim Flynn",
+        "original_name": "Jim Flynn",
+        "popularity": 0.1761,
+        "profile_path": null,
+        "credit_id": "67b367f2a65d6303e7e0e51f",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 196047,
+        "name": "bad boy"
+      },
+      {
+        "id": 304976,
+        "name": "romantic drama"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "18+",
+            "release_date": "2025-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [
+              "Violence",
+              "Sexual Content",
+              "Legal Drugs"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "hu",
+            "note": "",
+            "release_date": "2025-03-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Yes VOD + Cellcom TV",
+            "release_date": "2025-08-28T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2025-07-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "2025-VF03550",
+            "release_date": "2025-12-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-03-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Violence",
+              "Coarse Language",
+              "Drugs and/or alcohol abuse"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2025-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-02-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "uk",
+            "note": "",
+            "release_date": "2025-02-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Two nights only",
+            "release_date": "2025-01-22T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "adult": false,
+  "backdrop_path": "/teKv8F0SgSiyEjo3nDNJVBxEwW3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 1146058,
+  "imdb_id": "tt12824390",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Pout-Pout Fish",
+  "overview": "",
+  "popularity": 6.4352,
+  "poster_path": "/13zx8Vh7nlGmP65NT7rPtORwvw9.jpg",
+  "production_companies": [
+    {
+      "id": 203200,
+      "logo_path": "/vNXWRew4jFDFB7qtsnZZQuOxegh.png",
+      "name": "MIMO Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 97491,
+      "logo_path": "/nyz2y7vjBKPAErlDRXNkdY7KeZW.png",
+      "name": "Like A Photon Creative",
+      "origin_country": "AU"
+    },
+    {
+      "id": 87410,
+      "logo_path": null,
+      "name": "Macmillan Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 180598,
+      "logo_path": "/fhJxQAxl66WhFW4edgETyqahHGJ.png",
+      "name": "Cosmic Dino Studio",
+      "origin_country": "AU"
+    },
+    {
+      "id": 202520,
+      "logo_path": "/bpSryrByDSz8uPLCP8JqY7PGZWt.png",
+      "name": "Alceon Entertainment Partners",
+      "origin_country": "AU"
+    },
+    {
+      "id": 53020,
+      "logo_path": null,
+      "name": "Eclectik Vision",
+      "origin_country": "AU"
+    },
+    {
+      "id": 10950,
+      "logo_path": "/6TdE9m9KgV2az7vNI8n95rQiYr3.png",
+      "name": "Screen Queensland",
+      "origin_country": "AU"
+    },
+    {
+      "id": 67631,
+      "logo_path": "/oGDNMrzJkFEvq1AXy8x3P7mlzrI.png",
+      "name": "Sola Media",
+      "origin_country": "DE"
+    },
+    {
+      "id": 247617,
+      "logo_path": "/mW6DoAEQuYPtvlbxEylniCstnA5.png",
+      "name": "Maslow Entertainment",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-01",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Pout-Pout Fish",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17039,
+        "known_for_department": "Acting",
+        "name": "Nick Offerman",
+        "original_name": "Nick Offerman",
+        "popularity": 2.0417,
+        "profile_path": "/f6z3mPVtaF40ewfdmZydprAjmYd.jpg",
+        "cast_id": 1,
+        "character": "Mr. Fish (voice)",
+        "credit_id": "671a937fb3d5cbb842f3f142",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1867352,
+        "known_for_department": "Acting",
+        "name": "Nina Oyama",
+        "original_name": "Nina Oyama",
+        "popularity": 0.3425,
+        "profile_path": "/n962NDYS5WVZQbx8urApmrlkQhT.jpg",
+        "cast_id": 2,
+        "character": "Pip (voice)",
+        "credit_id": "671a939d5be9e8759da70333",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 502,
+        "known_for_department": "Acting",
+        "name": "Miranda Otto",
+        "original_name": "Miranda Otto",
+        "popularity": 2.5813,
+        "profile_path": "/lVkzCNNGwesZjOmwrDjro6ZPar.jpg",
+        "cast_id": 3,
+        "character": "(voice)",
+        "credit_id": "671a93a81ea33928297d0874",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12110,
+        "known_for_department": "Acting",
+        "name": "Amy Sedaris",
+        "original_name": "Amy Sedaris",
+        "popularity": 2.6689,
+        "profile_path": "/iQClumvSfTHgysxSofFmcLXmkCc.jpg",
+        "cast_id": 4,
+        "character": "The Pink Dolphins (voice)",
+        "credit_id": "671a93acfefd1e0510fff889",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 224842,
+        "known_for_department": "Acting",
+        "name": "Jordin Sparks",
+        "original_name": "Jordin Sparks",
+        "popularity": 1.2935,
+        "profile_path": "/aScYc7I0vK0QmuXTr37N0nYtpbp.jpg",
+        "cast_id": 5,
+        "character": "Shimmer (voice)",
+        "credit_id": "671a93b6b3d5cbb842f3f17e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1347947,
+        "known_for_department": "Acting",
+        "name": "Remy Hii",
+        "original_name": "Remy Hii",
+        "popularity": 0.8512,
+        "profile_path": "/5iA4noQjV7pEfjwKK4E3n0fyK0w.jpg",
+        "cast_id": 6,
+        "character": "Benji (voice)",
+        "credit_id": "671a93bcb3d5cbb842f3f182",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323881,
+        "known_for_department": "Acting",
+        "name": "Mark Coles Smith",
+        "original_name": "Mark Coles Smith",
+        "popularity": 0.6381,
+        "profile_path": "/mFGf5GruME5dnAuKBG1kgzK8PJs.jpg",
+        "cast_id": 17,
+        "character": "Hector (voice)",
+        "credit_id": "68db1a3057468290a62df24b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1732102,
+        "known_for_department": "Acting",
+        "name": "Nazeem Hussain",
+        "original_name": "Nazeem Hussain",
+        "popularity": 0.4666,
+        "profile_path": "/6UIv9axsMyhd7fklYOHWYH7gSIA.jpg",
+        "cast_id": 18,
+        "character": "(voice)",
+        "credit_id": "68db1a4510420e2e81e1cbe4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933227,
+        "known_for_department": "Acting",
+        "name": "Bessie Holland",
+        "original_name": "Bessie Holland",
+        "popularity": 0.3386,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Baz",
+        "credit_id": "695903e14e361e972a4ad128",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1325838,
+        "known_for_department": "Acting",
+        "name": "Andrew Buchanan",
+        "original_name": "Andrew Buchanan",
+        "popularity": 0.2563,
+        "profile_path": "/3V8QNQvH7UNxdKufAYZZlGSu7xp.jpg",
+        "cast_id": 21,
+        "character": "Red Fish",
+        "credit_id": "6959041d4becbbffb3e40fb2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234645,
+        "known_for_department": "Acting",
+        "name": "Grant Denyer",
+        "original_name": "Grant Denyer",
+        "popularity": 0.3796,
+        "profile_path": "/43PK7tU8TdpeVDZajIm4i3HmmlA.jpg",
+        "cast_id": 22,
+        "character": "(voice)",
+        "credit_id": "69590454644be6ca7dd79b27",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2261092,
+        "known_for_department": "Acting",
+        "name": "Mel Buttle",
+        "original_name": "Mel Buttle",
+        "popularity": 0.1933,
+        "profile_path": "/1DGvIOLsq1lKpNmUKMmbUFFJZCm.jpg",
+        "cast_id": 23,
+        "character": "Shaz",
+        "credit_id": "69590471d81c52dae1c39932",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2488679,
+        "known_for_department": "Directing",
+        "name": "Ricard Cussó",
+        "original_name": "Ricard Cussó",
+        "popularity": 0.2779,
+        "profile_path": "/xJkCFWM9FMKZvSjIOrhE8M2Aw6v.jpg",
+        "credit_id": "671a93d7fefd1e0510fff8aa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5019624,
+        "known_for_department": "Directing",
+        "name": "Rio Harrington",
+        "original_name": "Rio Harrington",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "671a93ef6e4210780f78d295",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2205323,
+        "known_for_department": "Writing",
+        "name": "Elie Choufany",
+        "original_name": "Elie Choufany",
+        "popularity": 0.1422,
+        "profile_path": "/xVZOZ75t3S0vJqaR0bnSogQulMD.jpg",
+        "credit_id": "671a94026e4210780f78d2a2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5019625,
+        "known_for_department": "Writing",
+        "name": "Deborah Diesen",
+        "original_name": "Deborah Diesen",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "671a94155be9e8759da70373",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5019628,
+        "known_for_department": "Production",
+        "name": "Cyma Zarghami",
+        "original_name": "Cyma Zarghami",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "671a942d1ea33928297d08d2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2488681,
+        "known_for_department": "Production",
+        "name": "Kristen Souvlis",
+        "original_name": "Kristen Souvlis",
+        "popularity": 0.0656,
+        "profile_path": null,
+        "credit_id": "671a943a5be9e8759da703a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5019630,
+        "known_for_department": "Production",
+        "name": "Madeira Ginley",
+        "original_name": "Madeira Ginley",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "671a94486e4210780f78d2f6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2488680,
+        "known_for_department": "Production",
+        "name": "Nadine Bates",
+        "original_name": "Nadine Bates",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "671a94556e4210780f78d305",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92126,
+        "known_for_department": "Writing",
+        "name": "Elise Allen",
+        "original_name": "Elise Allen",
+        "popularity": 0.51,
+        "profile_path": "/lCBdDlpVJSkr3n4nqKy4KkiNk86.jpg",
+        "credit_id": "68db197025206e358638c8b4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3933460,
+        "known_for_department": "Writing",
+        "name": "Dominic Morris",
+        "original_name": "Dominic Morris",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "68db19a542f426a59abb12ab",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2488689,
+        "known_for_department": "Sound",
+        "name": "Ack Kinmonth",
+        "original_name": "Ack Kinmonth",
+        "popularity": 0.1454,
+        "profile_path": null,
+        "credit_id": "68db1a7bc70b32d874bb1261",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 15101,
+        "name": "based on children's book"
+      },
+      {
+        "id": 170173,
+        "name": "children's book"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "tr",
+            "note": "",
+            "release_date": "2026-01-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-03-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

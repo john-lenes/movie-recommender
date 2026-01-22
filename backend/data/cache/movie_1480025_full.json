@@ -1,0 +1,484 @@
+{
+  "adult": false,
+  "backdrop_path": "/p6RXoveMLzMGrmfCsRgARNRIYHZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 1480025,
+  "imdb_id": "tt36934619",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "How to Lose a Popularity Contest",
+  "overview": "",
+  "popularity": 11.6226,
+  "poster_path": "/9lmyPaz7yTabWW2yiAkw952CvRQ.jpg",
+  "production_companies": [
+    {
+      "id": 81242,
+      "logo_path": "/qDqp143aZVXkykSiqivXfkSmX0b.png",
+      "name": "Great Pacific Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 78028,
+      "logo_path": "/sTFcDFfJaSVT3sv3DoaZDE4SlGB.png",
+      "name": "Thunderbird Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 153734,
+      "logo_path": "/bsgAvAzw5U06P73A3n1pqeFiu4F.png",
+      "name": "Tubi",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2026-01-16",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "How to Lose a Popularity Contest",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1305494,
+        "known_for_department": "Acting",
+        "name": "Sara Waisglass",
+        "original_name": "Sara Waisglass",
+        "popularity": 2.0522,
+        "profile_path": "/eXmeviy5gDv4BxfW81aHlFWgq9v.jpg",
+        "cast_id": 19,
+        "character": "Ellie Pearse",
+        "credit_id": "687b6cbdb1b942dfdc38d034",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2863584,
+        "known_for_department": "Acting",
+        "name": "Chase Hudson",
+        "original_name": "Chase Hudson",
+        "popularity": 0.6045,
+        "profile_path": "/kqSd9Mhc2vGLlGu07KkWk27UZNz.jpg",
+        "cast_id": 1,
+        "character": "Nate Reed",
+        "credit_id": "682248824ed3b4d91a4b4682",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1988801,
+        "known_for_department": "Acting",
+        "name": "Lillian Doucet-Roche",
+        "original_name": "Lillian Doucet-Roche",
+        "popularity": 0.748,
+        "profile_path": "/nspOpe1oXYpqSjEFd6Gebe5UKAl.jpg",
+        "cast_id": 8,
+        "character": "Quinn",
+        "credit_id": "687b6c01da3bd92a1a55c74d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529426,
+        "known_for_department": "Acting",
+        "name": "Graham Verchere",
+        "original_name": "Graham Verchere",
+        "popularity": 1.0381,
+        "profile_path": "/hrbWtaERuDQsBQVArA3nJhPO8dC.jpg",
+        "cast_id": 9,
+        "character": "Rowan Cross",
+        "credit_id": "687b6c1c7587c4222af76339",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77052,
+        "known_for_department": "Acting",
+        "name": "Ecstasia Sanders",
+        "original_name": "Ecstasia Sanders",
+        "popularity": 0.4857,
+        "profile_path": "/iBc3mRmAeGYhTZpscjd93QcvN7a.jpg",
+        "cast_id": 10,
+        "character": "Gloria Everdeen",
+        "credit_id": "687b6c2b50eaf66252243edb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1366520,
+        "known_for_department": "Acting",
+        "name": "Kyra Leroux",
+        "original_name": "Kyra Leroux",
+        "popularity": 0.6368,
+        "profile_path": "/hw5Kemg37OXfQixGnYdTzTNzlVK.jpg",
+        "cast_id": 11,
+        "character": "Aja Fox",
+        "credit_id": "687b6c3a4d77a048e438cfa4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3522737,
+        "known_for_department": "Acting",
+        "name": "Aiden Howard",
+        "original_name": "Aiden Howard",
+        "popularity": 0.8111,
+        "profile_path": "/cL9HA9nWeFvv9sBZ7vZDiS35GTt.jpg",
+        "cast_id": 12,
+        "character": "Charlie 'Streaker' Dupont",
+        "credit_id": "687b6c4ccd0a0d7884f760bd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3342782,
+        "known_for_department": "Acting",
+        "name": "Jana Morrison",
+        "original_name": "Jana Morrison",
+        "popularity": 0.085,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Lauren Nicholls",
+        "credit_id": "687b6c6249f9a4e6ef72c1eb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52395,
+        "known_for_department": "Acting",
+        "name": "Sebastien Roberts",
+        "original_name": "Sebastien Roberts",
+        "popularity": 0.4831,
+        "profile_path": "/pZamp1WASGbZFFPMTQf9X54U60E.jpg",
+        "cast_id": 14,
+        "character": "Shane Pearse",
+        "credit_id": "687b6c6fa43d59061b72c21d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237725,
+        "known_for_department": "Acting",
+        "name": "Sean Amsing",
+        "original_name": "Sean Amsing",
+        "popularity": 1.1287,
+        "profile_path": "/iFeuwiZFd4o6Ps47Kxmc99rd28Y.jpg",
+        "cast_id": 15,
+        "character": "Artoun Festekjian",
+        "credit_id": "687b6c7f268343956855c5db",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2528464,
+        "known_for_department": "Acting",
+        "name": "Janelle Beadall",
+        "original_name": "Janelle Beadall",
+        "popularity": 0.1894,
+        "profile_path": "/juyCzlR1GnkWYCnV7ZVS3UMkzNC.jpg",
+        "cast_id": 16,
+        "character": "Divya Madhavi",
+        "credit_id": "687b6c913f67cfd7aa55c607",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4594943,
+        "known_for_department": "Acting",
+        "name": "Tyler Roberge",
+        "original_name": "Tyler Roberge",
+        "popularity": 0.0499,
+        "profile_path": "/aiIwNqD0AMIyIpvGiz7SL9nt5DS.jpg",
+        "cast_id": 17,
+        "character": "Adam",
+        "credit_id": "687b6c9cc74b327f5a38d1f6",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1368533,
+        "known_for_department": "Acting",
+        "name": "Yvette Dudley-Neuman",
+        "original_name": "Yvette Dudley-Neuman",
+        "popularity": 0.2945,
+        "profile_path": "/qcoIup9yDh4um0G3O4jpcYqvjlo.jpg",
+        "cast_id": 18,
+        "character": "Denise",
+        "credit_id": "687b6ca76c0df3da9b1698d0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4932824,
+        "known_for_department": "Acting",
+        "name": "Haylie Hansen",
+        "original_name": "Haylie Hansen",
+        "popularity": 0.3575,
+        "profile_path": "/gWsrbcsRQYoyxZp7LdUZ8kissc6.jpg",
+        "cast_id": 20,
+        "character": "Mackenzie Valentine",
+        "credit_id": "687b6ccc38bd91079155c68b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3731166,
+        "known_for_department": "Acting",
+        "name": "Arianna Bent",
+        "original_name": "Arianna Bent",
+        "popularity": 0.1244,
+        "profile_path": "/kbIoIGhuAGT3ibweVmZm7ZNGZZG.jpg",
+        "cast_id": 21,
+        "character": "Fiona Coyne",
+        "credit_id": "687b6cdba33cb327a372c182",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1591063,
+        "known_for_department": "Acting",
+        "name": "Glen Gordon",
+        "original_name": "Glen Gordon",
+        "popularity": 0.6181,
+        "profile_path": "/wbnyor6Kfun69BZINdshX05dUEI.jpg",
+        "cast_id": 22,
+        "character": "Tyler",
+        "credit_id": "687b6ce609a8f9ddc038d039",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2848377,
+        "known_for_department": "Acting",
+        "name": "Parker McLellan",
+        "original_name": "Parker McLellan",
+        "popularity": 0.2368,
+        "profile_path": "/sI4EBQ0RWe9l5GCBXihVIIBuKzp.jpg",
+        "cast_id": 23,
+        "character": "Jules",
+        "credit_id": "687b6cf43fea9c7de91699b1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2911856,
+        "known_for_department": "Acting",
+        "name": "Knox Hamilton",
+        "original_name": "Knox Hamilton",
+        "popularity": 0.2908,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "12-Year-Old Nate",
+        "credit_id": "687b6d2122c579e4f038d112",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5434437,
+        "known_for_department": "Acting",
+        "name": "Kingston Goodjohn",
+        "original_name": "Kingston Goodjohn",
+        "popularity": 0.1891,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "12-Year-Old Rowan",
+        "credit_id": "687b6d34a571086a4055c6da",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3261174,
+        "known_for_department": "Acting",
+        "name": "Miles Phoenix Foley",
+        "original_name": "Miles Phoenix Foley",
+        "popularity": 0.1841,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "12-Year-Old Charlie",
+        "credit_id": "687b6d4bbe0fabb0b238d1ba",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5033687,
+        "known_for_department": "Acting",
+        "name": "Laerke Peterson",
+        "original_name": "Laerke Peterson",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "12-Year-Old Ellie",
+        "credit_id": "687b6d6f6585bd4edbd985fb",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5434075,
+        "known_for_department": "Production",
+        "name": "Lindsay McAdam",
+        "original_name": "Lindsay McAdam",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "682248c1badcd951ef4b4677",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2264751,
+        "known_for_department": "Production",
+        "name": "Jason Fischer",
+        "original_name": "Jason Fischer",
+        "popularity": 0.2989,
+        "profile_path": null,
+        "credit_id": "682248d48296ea38eda16374",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9266,
+        "known_for_department": "Production",
+        "name": "Devorah Moos-Hankin",
+        "original_name": "Devorah Moos-Hankin",
+        "popularity": 0.1772,
+        "profile_path": null,
+        "credit_id": "6822491032f73e12e47394e6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377131,
+        "known_for_department": "Camera",
+        "name": "Stephen S. Campanelli",
+        "original_name": "Stephen S. Campanelli",
+        "popularity": 0.2881,
+        "profile_path": null,
+        "credit_id": "687b6b111b63a0b008d9870f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5573608,
+        "known_for_department": "Writing",
+        "name": "Kaitlin Reilly",
+        "original_name": "Kaitlin Reilly",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "687b6b9b2c5aa3134538d0dd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5573610,
+        "known_for_department": "Writing",
+        "name": "Dorian Keyes",
+        "original_name": "Dorian Keyes",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "687b6ba87e0188d5cb72c278",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6270,
+        "name": "high school"
+      },
+      {
+        "id": 178452,
+        "name": "overachiever"
+      },
+      {
+        "id": 188237,
+        "name": "teenage romance"
+      },
+      {
+        "id": 320555,
+        "name": "student council"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "adult": false,
+  "backdrop_path": "/35WjumOZF4QB9Ia8RvPdU4wIIQl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1354700,
+  "imdb_id": "tt37285917",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "강령: 귀신놀이",
+  "overview": "Um filme de terror e mistério que retrata o que acontece quando Ja Yyeong, que tem um segredo de seu passado, e seus amigos da escola realizam um ritual de necromancia para convocar espíritos.",
+  "popularity": 25.8369,
+  "poster_path": "/szBqzH2qcUthCm1uDVsBAYZbExW.jpg",
+  "production_companies": [
+    {
+      "id": 203424,
+      "logo_path": "/2lJChlGRRrUOZZkIhv8Cr8IoKC6.png",
+      "name": "EO Contents Group",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-08-06",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "O jogo fantasma",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1875636,
+        "known_for_department": "Acting",
+        "name": "예리",
+        "original_name": "예리",
+        "popularity": 0.3994,
+        "profile_path": "/w1FO7BW44TaatyjRfgXlZ2U5tN1.jpg",
+        "cast_id": 1,
+        "character": "Ja-young",
+        "credit_id": "66df96d43bc9129a8b28c9cd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3226942,
+        "known_for_department": "Acting",
+        "name": "이찬형",
+        "original_name": "이찬형",
+        "popularity": 0.5014,
+        "profile_path": "/gu1khwOXUDuZkocL1ykcZ2MfkJX.jpg",
+        "cast_id": 2,
+        "character": "Dong-joon",
+        "credit_id": "66dfbf3000000000009cf04f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3003974,
+        "known_for_department": "Acting",
+        "name": "Suh Dong-hyun",
+        "original_name": "Suh Dong-hyun",
+        "popularity": 0.3361,
+        "profile_path": "/xRLt5MaePf4LwvSqiju8Md8GJRV.jpg",
+        "cast_id": 5,
+        "character": "Gi-ho",
+        "credit_id": "684e80cd42b3d43e161ec6d9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3678365,
+        "known_for_department": "Acting",
+        "name": "Oh So-hyun",
+        "original_name": "Oh So-hyun",
+        "popularity": 0.5018,
+        "profile_path": "/pN500Gqy7roTKAA4vjhJhnyj78t.jpg",
+        "cast_id": 6,
+        "character": "Ye-eun",
+        "credit_id": "684e80fe075e60e6f934452f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3964677,
+        "known_for_department": "Acting",
+        "name": "김은비",
+        "original_name": "김은비",
+        "popularity": 0.2296,
+        "profile_path": "/6KQ0RtRGwFy7W6XmawibnkKnQOd.jpg",
+        "cast_id": 7,
+        "character": "Mi-yeon",
+        "credit_id": "684e8117631b06539a1ec8ae",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2361037,
+        "known_for_department": "Acting",
+        "name": "Park Seo-yeon",
+        "original_name": "Park Seo-yeon",
+        "popularity": 0.4007,
+        "profile_path": "/q9oscZd6qgkOSmxWWS2zeKK3QTL.jpg",
+        "cast_id": 8,
+        "character": "Seo-woo",
+        "credit_id": "684e817fb963c0e95c1bf08a",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4933702,
+        "known_for_department": "Directing",
+        "name": "손동완",
+        "original_name": "손동완",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "66dfbf544f50f9a06ef1be6b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4933702,
+        "known_for_department": "Directing",
+        "name": "손동완",
+        "original_name": "손동완",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "684e80b21d533970511bf16a",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Korean Film Festival Barcelona",
+            "release_date": "2025-09-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "km",
+            "note": "",
+            "release_date": "2025-09-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bucheon International Fantastic Film Festival",
+            "release_date": "2025-07-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lund International Fantastic Film Festival",
+            "release_date": "2025-10-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

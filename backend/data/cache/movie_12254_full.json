@@ -1,0 +1,518 @@
+{
+  "adult": false,
+  "backdrop_path": "/skTeEE3kZZG0w7sdMt51ZMW1ZaH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    }
+  ],
+  "homepage": "",
+  "id": 12254,
+  "imdb_id": "tt0118308",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Emma",
+  "overview": "Emma Woodhouse é uma mulher bonita, inteligente e rica, que vive confortavelmente ao lado do pai viúvo na pequena cidade de Higbury, no interior da Inglaterra. Quando a sua governanta, Miss Taylor, se casa com o vizinho, Mr. Weston, Emma sente um vazio em sua vida e decide ajudar as pessoas a terem uma vida tão perfeita quanto a sua. Torna-se, então, uma casamenteira e passa a dar conselhos na vida sentimental das amigas, apoiando, aprovando ou desaprovando os romances conforme seu juízo de valores. Mas, apesar de aparentar autoridade no assunto, ela se revela uma mulher que nunca se apaixonou.",
+  "popularity": 5.4602,
+  "poster_path": "/d6ksCUWYOaweyvGLi1JILYvIybN.jpg",
+  "production_companies": [
+    {
+      "id": 5620,
+      "logo_path": "/9Edp714KYc2hvFaDOsgwLtPziab.png",
+      "name": "Meridian Broadcasting Ltd",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1996-10-02",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Emma",
+  "video": false,
+  "vote_average": 6.582,
+  "vote_count": 134,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3967,
+        "known_for_department": "Acting",
+        "name": "Kate Beckinsale",
+        "original_name": "Kate Beckinsale",
+        "popularity": 8.2773,
+        "profile_path": "/nUZuC2chd5PVw2tLxePZ6uaLbhx.jpg",
+        "cast_id": 1,
+        "character": "Emma Woodhouse",
+        "credit_id": "52fe44d49251416c7504274f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2983,
+        "known_for_department": "Acting",
+        "name": "Mark Strong",
+        "original_name": "Mark Strong",
+        "popularity": 2.5603,
+        "profile_path": "/3cNmatYsoifytg7TfQhI1EHow3v.jpg",
+        "cast_id": 3,
+        "character": "Mr. Knightley",
+        "credit_id": "52fe44d49251416c75042757",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2206,
+        "known_for_department": "Acting",
+        "name": "Samantha Morton",
+        "original_name": "Samantha Morton",
+        "popularity": 1.941,
+        "profile_path": "/v84b7MENeD9rwX6xTD7fSdhSOC9.jpg",
+        "cast_id": 5,
+        "character": "Harriet Smith",
+        "credit_id": "52fe44d49251416c7504275f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5482,
+        "known_for_department": "Acting",
+        "name": "Raymond Coulthard",
+        "original_name": "Raymond Coulthard",
+        "popularity": 0.6777,
+        "profile_path": "/biVywUndrVFDSeECGQxgwzdpw5L.jpg",
+        "cast_id": 19,
+        "character": "Frank Churchill",
+        "credit_id": "52fe44d59251416c750427a9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11616,
+        "known_for_department": "Acting",
+        "name": "Olivia Williams",
+        "original_name": "Olivia Williams",
+        "popularity": 1.7687,
+        "profile_path": "/94bnuQXo3LoxNvcFXeAoVvIIm3N.jpg",
+        "cast_id": 20,
+        "character": "Jane Fairfax",
+        "credit_id": "54de69fdc3a3684558002108",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71949,
+        "known_for_department": "Acting",
+        "name": "Bernard Hepton",
+        "original_name": "Bernard Hepton",
+        "popularity": 0.5938,
+        "profile_path": "/ud9XqroQkWEdR58W5bK0aRZhGqR.jpg",
+        "cast_id": 2,
+        "character": "Mr. Woodhouse",
+        "credit_id": "52fe44d49251416c75042753",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10699,
+        "known_for_department": "Acting",
+        "name": "Samantha Bond",
+        "original_name": "Samantha Bond",
+        "popularity": 1.7303,
+        "profile_path": "/apo13y77RnKUWTjY1FsW1DcQdkY.jpg",
+        "cast_id": 4,
+        "character": "Mrs. Weston",
+        "credit_id": "52fe44d49251416c7504275b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135101,
+        "known_for_department": "Acting",
+        "name": "James Hazeldine",
+        "original_name": "James Hazeldine",
+        "popularity": 0.4364,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Mr. Weston",
+        "credit_id": "52fe44d59251416c7504279d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27635,
+        "known_for_department": "Acting",
+        "name": "Dominic Rowan",
+        "original_name": "Dominic Rowan",
+        "popularity": 0.371,
+        "profile_path": "/2ZrSUGsZzZdo2P8pHjEKRIv69v9.jpg",
+        "cast_id": 22,
+        "character": "Mr. Elton",
+        "credit_id": "5a49ade0c3a3680605007e19",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55643,
+        "known_for_department": "Acting",
+        "name": "Prunella Scales",
+        "original_name": "Prunella Scales",
+        "popularity": 2.2528,
+        "profile_path": "/uNpr52AXTBnz3U1cZReK17hwe60.jpg",
+        "cast_id": 15,
+        "character": "Miss Bates",
+        "credit_id": "52fe44d59251416c75042799",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229665,
+        "known_for_department": "Acting",
+        "name": "Sylvia Barter",
+        "original_name": "Sylvia Barter",
+        "popularity": 0.2198,
+        "profile_path": "/1HnRln1CmG6aiE8xi6wqYx4taQ4.jpg",
+        "cast_id": 17,
+        "character": "Mrs. Bates",
+        "credit_id": "52fe44d59251416c750427a1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 84267,
+        "known_for_department": "Acting",
+        "name": "Dido Miles",
+        "original_name": "Dido Miles",
+        "popularity": 0.4302,
+        "profile_path": "/4wlGq8Hw0ZDPcFhT9zNJM1T9PhY.jpg",
+        "cast_id": 18,
+        "character": "Isabella Knightley",
+        "credit_id": "52fe44d59251416c750427a5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224727,
+        "known_for_department": "Acting",
+        "name": "Lucy Robinson",
+        "original_name": "Lucy Robinson",
+        "popularity": 0.6703,
+        "profile_path": "/mVQ3G3uBKtu7wJZbYR41kZZUEID.jpg",
+        "cast_id": 21,
+        "character": "Mrs. Elton",
+        "credit_id": "5738e48292514151a00011c9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40638,
+        "known_for_department": "Acting",
+        "name": "Guy Henry",
+        "original_name": "Guy Henry",
+        "popularity": 0.7323,
+        "profile_path": "/e7CrEtyRrI4q4phB61EzY2Uo38f.jpg",
+        "cast_id": 23,
+        "character": "John Knightley",
+        "credit_id": "5a49ae040e0a262dc500854b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56100,
+        "known_for_department": "Acting",
+        "name": "Alistair Petrie",
+        "original_name": "Alistair Petrie",
+        "popularity": 1.4661,
+        "profile_path": "/b6KUFhtWtmmTIcs7gL9kZktzJzl.jpg",
+        "cast_id": 24,
+        "character": "Robert Martin",
+        "credit_id": "5a49ae1cc3a36805cc00883e",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67574,
+        "known_for_department": "Editing",
+        "name": "Don Fairservice",
+        "original_name": "Don Fairservice",
+        "popularity": 0.1206,
+        "profile_path": null,
+        "credit_id": "52fe44d59251416c75042795",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251,
+        "known_for_department": "Camera",
+        "name": "Remi Adefarasin",
+        "original_name": "Remi Adefarasin",
+        "popularity": 0.3564,
+        "profile_path": "/rn43CSSC2O4YqWHmu8fAfcXeDXm.jpg",
+        "credit_id": "52fe44d59251416c7504278f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67634,
+        "known_for_department": "Production",
+        "name": "Delia Fine",
+        "original_name": "Delia Fine",
+        "popularity": 0.2137,
+        "profile_path": "/h2NvvQOuoxy45A17XfQUnOYwFUq.jpg",
+        "credit_id": "52fe44d59251416c7504277d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 57269,
+        "known_for_department": "Sound",
+        "name": "Dominic Muldowney",
+        "original_name": "Dominic Muldowney",
+        "popularity": 0.146,
+        "profile_path": null,
+        "credit_id": "52fe44d59251416c75042789",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71951,
+        "known_for_department": "Production",
+        "name": "Sue Birtwistle",
+        "original_name": "Sue Birtwistle",
+        "popularity": 0.168,
+        "profile_path": null,
+        "credit_id": "52fe44d59251416c75042777",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71952,
+        "known_for_department": "Production",
+        "name": "Simon Lewis",
+        "original_name": "Simon Lewis",
+        "popularity": 0.1769,
+        "profile_path": null,
+        "credit_id": "52fe44d59251416c75042783",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71950,
+        "known_for_department": "Directing",
+        "name": "Diarmuid Lawrence",
+        "original_name": "Diarmuid Lawrence",
+        "popularity": 0.3376,
+        "profile_path": "/qfOspoGbGpZCuBFjGl8feJ4baf5.jpg",
+        "credit_id": "52fe44d49251416c75042765",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 32982,
+        "known_for_department": "Writing",
+        "name": "Jane Austen",
+        "original_name": "Jane Austen",
+        "popularity": 0.6975,
+        "profile_path": "/iihzKkdZbM97cPo2L0eurQk9MQm.jpg",
+        "credit_id": "52fe44d49251416c7504276b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9156,
+        "known_for_department": "Writing",
+        "name": "Andrew Davies",
+        "original_name": "Andrew Davies",
+        "popularity": 0.9661,
+        "profile_path": "/gOxUTVdqNinS2KQvEyIAMKPKt6s.jpg",
+        "credit_id": "52fe44d49251416c75042771",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29489,
+        "known_for_department": "Production",
+        "name": "Janey Fothergill",
+        "original_name": "Janey Fothergill",
+        "popularity": 0.1942,
+        "profile_path": null,
+        "credit_id": "5dd7388712aabc00138d1a20",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17166,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jenny Beavan",
+        "original_name": "Jenny Beavan",
+        "popularity": 0.3692,
+        "profile_path": "/yYBIJ0OsZu5ccnCC7Bim9FAkDwg.jpg",
+        "credit_id": "5dd738968566d200131ea40c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1591314,
+        "known_for_department": "Art",
+        "name": "Jo Graysmark",
+        "original_name": "Jo Graysmark",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "5dd739458566d200171e9c26",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1361753,
+        "known_for_department": "Art",
+        "name": "Don Taylor",
+        "original_name": "Don Taylor",
+        "popularity": 0.2531,
+        "profile_path": null,
+        "credit_id": "5dd738a43faba00015f7e0b7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66552,
+        "known_for_department": "Art",
+        "name": "John Bush",
+        "original_name": "John Bush",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "6924f478fded68c40e30c575",
+        "department": "Art",
+        "job": "Set Decoration"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1459,
+        "name": "marriage proposal"
+      },
+      {
+        "id": 6664,
+        "name": "make a match"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-10-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ITV",
+            "release_date": "1996-08-01T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-10-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

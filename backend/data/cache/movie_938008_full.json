@@ -1,0 +1,524 @@
+{
+  "adult": false,
+  "backdrop_path": "/8gBYmKvo230576bXmW8UZR8zGbB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 938008,
+  "imdb_id": "tt19713090",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "더 킬러: 죽어도 되는 아이",
+  "overview": "Quando a garota de quem ele está cuidando é sequestrada, um assassino aposentado rapidamente recupera seus instintos assassinos, incendiando a cidade.",
+  "popularity": 21.2745,
+  "poster_path": "/9aVY0w3q2bxZX9rcGOGSWiM7mH8.jpg",
+  "production_companies": [
+    {
+      "id": 48320,
+      "logo_path": null,
+      "name": "M-Line Distribution",
+      "origin_country": "KR"
+    },
+    {
+      "id": 68635,
+      "logo_path": null,
+      "name": "iHQ",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2022-07-13",
+  "revenue": 595112,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "O instinto assassino que recomeçou pela paz!",
+  "title": "O Matador: Missão Resgate",
+  "video": false,
+  "vote_average": 7.673,
+  "vote_count": 404,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63438,
+        "known_for_department": "Acting",
+        "name": "Jang Hyuk",
+        "original_name": "장혁",
+        "popularity": 1.6145,
+        "profile_path": "/wOGbzgmlogfpPUvXTWVSROVTUYf.jpg",
+        "cast_id": 2,
+        "character": "Bang Ui-kang",
+        "credit_id": "620863001cac8c00b77ce660",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3439595,
+        "known_for_department": "Acting",
+        "name": "Lee Seo-young",
+        "original_name": "Lee Seo-young",
+        "popularity": 0.2294,
+        "profile_path": "/xzgP1xK9kIwA1YOgaj3pwky7WZ7.jpg",
+        "cast_id": 7,
+        "character": "Kim Yoon-ji",
+        "credit_id": "62af40a9595a560092a86ff2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2452392,
+        "known_for_department": "Acting",
+        "name": "방은정",
+        "original_name": "방은정",
+        "popularity": 0.5038,
+        "profile_path": "/1h2I9J1mI2iXhPElCn8jJz4X1Lc.jpg",
+        "cast_id": 4,
+        "character": "Sung-yeon",
+        "credit_id": "62af3fd8c7c2240061fa71d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1624033,
+        "known_for_department": "Acting",
+        "name": "브루스 칸",
+        "original_name": "브루스 칸",
+        "popularity": 0.5316,
+        "profile_path": "/6BHU63N6Z2uNAQtj7GdZ7QKUYS8.jpg",
+        "cast_id": 5,
+        "character": "Yuri",
+        "credit_id": "62af3ff54bfa540062b642f0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113060,
+        "known_for_department": "Acting",
+        "name": "이승준",
+        "original_name": "이승준",
+        "popularity": 1.0679,
+        "profile_path": "/qWfiZhhJaXo0fegGPlChelFkoN6.jpg",
+        "cast_id": 6,
+        "character": "Detective Lee",
+        "credit_id": "62af4039a6a4c100eebdc60a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1856185,
+        "known_for_department": "Acting",
+        "name": "Yoo Seo-jin",
+        "original_name": "Yoo Seo-jin",
+        "popularity": 0.4778,
+        "profile_path": "/zKPOgBO8DfO9Bld7RxSPmvc3RoK.jpg",
+        "cast_id": 13,
+        "character": "Divorced Woman",
+        "credit_id": "63b9c2e5f8595800f71de182",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1669141,
+        "known_for_department": "Acting",
+        "name": "신승환",
+        "original_name": "신승환",
+        "popularity": 0.4534,
+        "profile_path": "/ewB0QIeFCTjzljDOW41jZF5yW11.jpg",
+        "cast_id": 14,
+        "character": "Park Hyung-joo",
+        "credit_id": "63b9c331f8595800ae31eecd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503655,
+        "known_for_department": "Acting",
+        "name": "홍서준",
+        "original_name": "홍서준",
+        "popularity": 0.6868,
+        "profile_path": "/4XMMegusqQLp07XBtkoFgvpZs5c.jpg",
+        "cast_id": 15,
+        "character": "Kim Jung-hoon",
+        "credit_id": "63b9c3a9ae6f09007c3a751a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 139506,
+        "known_for_department": "Acting",
+        "name": "이채영",
+        "original_name": "이채영",
+        "popularity": 0.6384,
+        "profile_path": "/xwHPMSKQHo9iRBDDgdINDYBd9kb.jpg",
+        "cast_id": 16,
+        "character": "Hyun-soo",
+        "credit_id": "63b9c4016d675a00b6499b53",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3723412,
+        "known_for_department": "Acting",
+        "name": "Choi Ki-seob",
+        "original_name": "Choi Ki-seob",
+        "popularity": 0.3424,
+        "profile_path": "/5OgcSKOCyYS02O8t3nJpgFtNO5q.jpg",
+        "cast_id": 11,
+        "character": "\"Birthmark\"",
+        "credit_id": "633893c8ab1bc70079c6ffd5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63442,
+        "known_for_department": "Acting",
+        "name": "차태현",
+        "original_name": "차태현",
+        "popularity": 1.1656,
+        "profile_path": "/qTav3sq6Z1ElWCotUhkfFc1LjHE.jpg",
+        "cast_id": 8,
+        "character": "Cleaning Head",
+        "credit_id": "62c3a73af6fd18007cebb849",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1015873,
+        "known_for_department": "Acting",
+        "name": "손현주",
+        "original_name": "손현주",
+        "popularity": 1.0521,
+        "profile_path": "/v4uRXAf6Vq2rsgdgcyQeEL3qnf1.jpg",
+        "cast_id": 9,
+        "character": "Shooting Range Owner",
+        "credit_id": "62c3a73f3a48c5004cbfd7b9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3054121,
+        "known_for_department": "Acting",
+        "name": "Park Hyung-jun",
+        "original_name": "Park Hyung-jun",
+        "popularity": 0.1182,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Hallway Man 1",
+        "credit_id": "691e29d7811437376aaf8705",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1858262,
+        "known_for_department": "Acting",
+        "name": "박영운",
+        "original_name": "박영운",
+        "popularity": 0.4779,
+        "profile_path": "/j1DAfvhgkidJVwLAuUXepCslIFv.jpg",
+        "cast_id": 21,
+        "character": "Hallway Man 2",
+        "credit_id": "691d4789330352eb512d41b1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3862387,
+        "known_for_department": "Acting",
+        "name": "Kim Hae-woong",
+        "original_name": "Kim Hae-woong",
+        "popularity": 0.0445,
+        "profile_path": "/6JYB4qqWc8jof2gMps2iwF5E4wA.jpg",
+        "cast_id": 12,
+        "character": "Hallway Man 3",
+        "credit_id": "63b9c298ae6f0900c43b6631",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3664159,
+        "known_for_department": "Writing",
+        "name": "Nam  Ji-Woong",
+        "original_name": "Nam  Ji-Woong",
+        "popularity": 0.2671,
+        "profile_path": "/k7HmcdayxtcZOK9KST1Kyz7jAN7.jpg",
+        "credit_id": "62f99a7a326ec100821c9e9d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2204473,
+        "known_for_department": "Directing",
+        "name": "Choi Jae-hoon",
+        "original_name": "Choi Jae-hoon",
+        "popularity": 0.3477,
+        "profile_path": "/5M0bYEbfJhBZyIxHuAVOrXA4qX0.jpg",
+        "credit_id": "620862ed858678008d7723d3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4537690,
+        "known_for_department": "Art",
+        "name": "Kang Dong-hun",
+        "original_name": "Kang Dong-hun",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "credit_id": "65ce241ec267960165c886fa",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302906,
+        "known_for_department": "Camera",
+        "name": "Kang Sang-hyup",
+        "original_name": "Kang Sang-hyup",
+        "popularity": 0.3923,
+        "profile_path": null,
+        "credit_id": "644f37d6124c8d02e77e0ad6",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2759519,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Choi Min-seon",
+        "original_name": "Choi Min-seon",
+        "popularity": 0.2201,
+        "profile_path": null,
+        "credit_id": "6720e53ab3d5cbb842f4d09d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1294056,
+        "known_for_department": "Sound",
+        "name": "Jeong Hyun-soo",
+        "original_name": "Jeong Hyun-soo",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "credit_id": "67713361f9454eeb1d92ed8f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 782,
+        "name": "assassin"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1930,
+        "name": "kidnapping"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-18T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2023-02-23T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-27T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-04-17T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Far East Film Festival",
+            "release_date": "2022-04-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-05-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-07-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [
+              "Violence"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-02-23T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Los Angeles, California",
+            "release_date": "2022-06-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Asian Film Festival",
+            "release_date": "2022-07-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

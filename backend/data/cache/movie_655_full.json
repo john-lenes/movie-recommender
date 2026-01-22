@@ -1,0 +1,2170 @@
+{
+  "adult": false,
+  "backdrop_path": "/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
+  "belongs_to_collection": null,
+  "budget": 1750000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 655,
+  "imdb_id": "tt0087884",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "en",
+  "original_title": "Paris, Texas",
+  "overview": "Um homem sai do deserto sem lembranças de sua vida passada e é apenas com a ajuda de seu irmão que ele percebe que abandonou sua esposa e seu filho quatro anos antes.",
+  "popularity": 5.0012,
+  "poster_path": "/m9LAmYN699kB7zfDmtx2Nk4gYn9.jpg",
+  "production_companies": [
+    {
+      "id": 45,
+      "logo_path": "/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png",
+      "name": "Road Movies",
+      "origin_country": "DE"
+    },
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 181,
+      "logo_path": "/A8SjepJ332C0YMamdFEMco0nstt.png",
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1448,
+      "logo_path": null,
+      "name": "Pro-ject Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1984-07-16",
+  "revenue": 2181987,
+  "runtime": 145,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Onde o amor perdido é encontrado",
+  "title": "Paris, Texas",
+  "video": false,
+  "vote_average": 8.092,
+  "vote_count": 2126,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5048,
+        "known_for_department": "Acting",
+        "name": "Harry Dean Stanton",
+        "original_name": "Harry Dean Stanton",
+        "popularity": 1.6556,
+        "profile_path": "/ruvBkgQA4A2xKFM3CFxFxhfqmwU.jpg",
+        "cast_id": 16,
+        "character": "Travis",
+        "credit_id": "52fe4265c3a36847f801b2af",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2630,
+        "known_for_department": "Acting",
+        "name": "Nastassja Kinski",
+        "original_name": "Nastassja Kinski",
+        "popularity": 1.9667,
+        "profile_path": "/svYrIUXH59Dd9wp9HBpS1ASvRAu.jpg",
+        "cast_id": 17,
+        "character": "Jane",
+        "credit_id": "52fe4265c3a36847f801b2b3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 923,
+        "known_for_department": "Acting",
+        "name": "Dean Stockwell",
+        "original_name": "Dean Stockwell",
+        "popularity": 2.0802,
+        "profile_path": "/gdHo8LNElMf1XxoRYgi0UUzbJuB.jpg",
+        "cast_id": 18,
+        "character": "Walt",
+        "credit_id": "52fe4265c3a36847f801b2b7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9892,
+        "known_for_department": "Acting",
+        "name": "Hunter Carson",
+        "original_name": "Hunter Carson",
+        "popularity": 0.4558,
+        "profile_path": "/75DvinRibsEYKDasdBM7iiqJ9L9.jpg",
+        "cast_id": 19,
+        "character": "Hunter",
+        "credit_id": "52fe4265c3a36847f801b2bb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9893,
+        "known_for_department": "Acting",
+        "name": "Aurore Clément",
+        "original_name": "Aurore Clément",
+        "popularity": 0.704,
+        "profile_path": "/9vZxPV8LvY1wp32AIm35CZ7WelG.jpg",
+        "cast_id": 20,
+        "character": "Anne",
+        "credit_id": "52fe4265c3a36847f801b2bf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9894,
+        "known_for_department": "Acting",
+        "name": "Bernhard Wicki",
+        "original_name": "Bernhard Wicki",
+        "popularity": 0.359,
+        "profile_path": "/f7xRocSVPUkLlxUBEGUW2lNfX7v.jpg",
+        "cast_id": 21,
+        "character": "Doctor Ulmer",
+        "credit_id": "52fe4265c3a36847f801b2c3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922446,
+        "known_for_department": "Acting",
+        "name": "Sam Berry",
+        "original_name": "Sam Berry",
+        "popularity": 0.129,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "Gas Station Attendant",
+        "credit_id": "5ff28d60fab3fa003a760fac",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1482977,
+        "known_for_department": "Acting",
+        "name": "Claresie Mobley",
+        "original_name": "Claresie Mobley",
+        "popularity": 0.2018,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Car Rental Clerk",
+        "credit_id": "55919a8fc3a3680800001e09",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54754,
+        "known_for_department": "Acting",
+        "name": "Viva",
+        "original_name": "Viva",
+        "popularity": 0.3574,
+        "profile_path": "/as8RgWBNvRKF6nTEd1ZcDVius7M.jpg",
+        "cast_id": 32,
+        "character": "Woman on TV",
+        "credit_id": "579956169251412348003d7f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1245394,
+        "known_for_department": "Acting",
+        "name": "Socorro Valdez",
+        "original_name": "Socorro Valdez",
+        "popularity": 0.1136,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Carmelita",
+        "credit_id": "55919a76c3a36807fd001ca7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922447,
+        "known_for_department": "Acting",
+        "name": "Edward Fayton",
+        "original_name": "Edward Fayton",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Hunter's Friend",
+        "credit_id": "5ff28d82869e75003edc1e75",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922449,
+        "known_for_department": "Acting",
+        "name": "Justin Hogg",
+        "original_name": "Justin Hogg",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 79,
+        "character": "Hunter (Age 3)",
+        "credit_id": "5ff28d9566e469003fc1263a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32461,
+        "known_for_department": "Acting",
+        "name": "Tom Farrell",
+        "original_name": "Tom Farrell",
+        "popularity": 0.1402,
+        "profile_path": "/6Y81HXnxgolbnzXmjHdMX5By5aT.jpg",
+        "cast_id": 33,
+        "character": "Screaming Man",
+        "credit_id": "57995686c3a368640e008231",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6394,
+        "known_for_department": "Acting",
+        "name": "John Lurie",
+        "original_name": "John Lurie",
+        "popularity": 0.4284,
+        "profile_path": "/ocxaaEEcdtKgQTIkkN55L7K1YGh.jpg",
+        "cast_id": 25,
+        "character": "'Slater'",
+        "credit_id": "52fe4265c3a36847f801b2d9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1482975,
+        "known_for_department": "Acting",
+        "name": "Jeni Vici",
+        "original_name": "Jeni Vici",
+        "popularity": 0.0584,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "'Stretch'",
+        "credit_id": "55919a4dc3a3680804001cf6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1482976,
+        "known_for_department": "Acting",
+        "name": "Sally Norvell",
+        "original_name": "Sally Norvell",
+        "popularity": 0.1129,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "'Nurse Bibs'",
+        "credit_id": "55919a649251417588001c70",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2548127,
+        "known_for_department": "Acting",
+        "name": "Sharon Menzel",
+        "original_name": "Sharon Menzel",
+        "popularity": 0.0528,
+        "profile_path": null,
+        "cast_id": 80,
+        "character": "Comedienne",
+        "credit_id": "5ff28dd37aecc6003dfdb267",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.2653,
+        "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+        "credit_id": "52fe4265c3a36847f801b263",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9882,
+        "known_for_department": "Production",
+        "name": "Don Guest",
+        "original_name": "Don Guest",
+        "popularity": 0.117,
+        "profile_path": null,
+        "credit_id": "52fe4265c3a36847f801b269",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9884,
+        "known_for_department": "Production",
+        "name": "Chris Sievernich",
+        "original_name": "Chris Sievernich",
+        "popularity": 0.1376,
+        "profile_path": "/6ooUl8VseHvDnvvs6puNTXgPvBv.jpg",
+        "credit_id": "52fe4265c3a36847f801b275",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6918,
+        "known_for_department": "Sound",
+        "name": "Ry Cooder",
+        "original_name": "Ry Cooder",
+        "popularity": 0.3139,
+        "profile_path": "/bHxTP9V9s67uveh651EvWl7He77.jpg",
+        "credit_id": "52fe4265c3a36847f801b27b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632,
+        "known_for_department": "Camera",
+        "name": "Robby Müller",
+        "original_name": "Robby Müller",
+        "popularity": 0.627,
+        "profile_path": "/1YeDTwdFQNxM6hDADl0bKfuX7Fx.jpg",
+        "credit_id": "52fe4265c3a36847f801b281",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2309,
+        "known_for_department": "Editing",
+        "name": "Peter Przygodda",
+        "original_name": "Peter Przygodda",
+        "popularity": 0.2704,
+        "profile_path": null,
+        "credit_id": "52fe4265c3a36847f801b287",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9886,
+        "known_for_department": "Art",
+        "name": "Kate Altman",
+        "original_name": "Kate Altman",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4265c3a36847f801b293",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9887,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Birgitta Bjerke",
+        "original_name": "Birgitta Bjerke",
+        "popularity": 0.0984,
+        "profile_path": null,
+        "credit_id": "52fe4265c3a36847f801b299",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9891,
+        "known_for_department": "Sound",
+        "name": "Douglas Axtell",
+        "original_name": "Douglas Axtell",
+        "popularity": 0.2613,
+        "profile_path": null,
+        "credit_id": "52fe4265c3a36847f801b2ab",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2304,
+        "known_for_department": "Production",
+        "name": "Anatole Dauman",
+        "original_name": "Anatole Dauman",
+        "popularity": 0.1937,
+        "profile_path": "/6OMlQTVM3D2lKiVt6eccx7JIMCP.jpg",
+        "credit_id": "52fe4265c3a36847f801b2c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9880,
+        "known_for_department": "Acting",
+        "name": "Sam Shepard",
+        "original_name": "Sam Shepard",
+        "popularity": 1.6453,
+        "profile_path": "/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg",
+        "credit_id": "52fe4265c3a36847f801b2cf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1603109,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Karoly Balazs",
+        "original_name": "Karoly Balazs",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "6224dbc3a24c500041f20c10",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1416675,
+        "known_for_department": "Production",
+        "name": "Craig Busch",
+        "original_name": "Craig Busch",
+        "popularity": 0.1433,
+        "profile_path": null,
+        "credit_id": "6224dc0d7c6de3006649934a",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459943,
+        "known_for_department": "Writing",
+        "name": "Walter Donohue",
+        "original_name": "Walter Donohue",
+        "popularity": 0.0452,
+        "profile_path": null,
+        "credit_id": "6224dce3e323f3006cc641cb",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9885,
+        "known_for_department": "Production",
+        "name": "Gary Chason",
+        "original_name": "Gary Chason",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "619758adbc2cb3002cb79c7e",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9883,
+        "known_for_department": "Production",
+        "name": "Pascale Dauman",
+        "original_name": "Pascale Dauman",
+        "popularity": 0.144,
+        "profile_path": null,
+        "credit_id": "55919aa892514123b5000a4d",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 952018,
+        "known_for_department": "Production",
+        "name": "Karen Koch",
+        "original_name": "Karen Koch",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "55919acfc3a3680804001d04",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1315038,
+        "known_for_department": "Production",
+        "name": "Udo Heiland",
+        "original_name": "Udo Heiland",
+        "popularity": 0.072,
+        "profile_path": null,
+        "credit_id": "579a347d925141044400049b",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9888,
+        "known_for_department": "Directing",
+        "name": "Claire Denis",
+        "original_name": "Claire Denis",
+        "popularity": 0.839,
+        "profile_path": "/GAQ2QlfhskTqXzgLMfPOTlPEbu.jpg",
+        "credit_id": "579a34a792514112f5003642",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8706,
+        "known_for_department": "Art",
+        "name": "Anne Kuljian",
+        "original_name": "Anne Kuljian",
+        "popularity": 0.199,
+        "profile_path": null,
+        "credit_id": "579a355f925141044400052c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 423441,
+        "known_for_department": "Sound",
+        "name": "Hartmut Eichgrün",
+        "original_name": "Hartmut Eichgrün",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "579a35bcc3a3680e88003db3",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5272,
+        "known_for_department": "Editing",
+        "name": "Anne Schnee",
+        "original_name": "Anne Schnee",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "579a364692514112fb003930",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 22608,
+        "known_for_department": "Production",
+        "name": "Joachim von Mengershausen",
+        "original_name": "Joachim von Mengershausen",
+        "popularity": 0.134,
+        "profile_path": null,
+        "credit_id": "579a367e92514112f500376d",
+        "department": "Crew",
+        "job": "Commissioning Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1404911,
+        "known_for_department": "Directing",
+        "name": "Helen Caldwell",
+        "original_name": "Helen Caldwell",
+        "popularity": 0.2175,
+        "profile_path": null,
+        "credit_id": "579a36ec9251411325003a0c",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57985,
+        "known_for_department": "Editing",
+        "name": "Barbara von Weitershausen",
+        "original_name": "Barbara von Weitershausen",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "579a3714c3a3680e88003e84",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9645,
+        "known_for_department": "Camera",
+        "name": "Greg Gardiner",
+        "original_name": "Greg Gardiner",
+        "popularity": 0.2996,
+        "profile_path": "/hWs1ZgyIHgFZwvifHcB97fGdVSt.jpg",
+        "credit_id": "579a37c5c3a3682273005bd9",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14196,
+        "known_for_department": "Camera",
+        "name": "Agnès Godard",
+        "original_name": "Agnès Godard",
+        "popularity": 0.1659,
+        "profile_path": null,
+        "credit_id": "579a37e49251410444000697",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67044,
+        "known_for_department": "Camera",
+        "name": "Martin Schäfer",
+        "original_name": "Martin Schäfer",
+        "popularity": 0.2044,
+        "profile_path": null,
+        "credit_id": "579a38b99251413f15005ad1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106118,
+        "known_for_department": "Camera",
+        "name": "Robert K. Feldmann",
+        "original_name": "Robert K. Feldmann",
+        "popularity": 0.1119,
+        "profile_path": null,
+        "credit_id": "579a3909c3a3680ee3003b5f",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1657996,
+        "known_for_department": "Camera",
+        "name": "Pim Tjujerman",
+        "original_name": "Pim Tjujerman",
+        "popularity": 0.1321,
+        "profile_path": null,
+        "credit_id": "579a399dc3a368251b00579c",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15207,
+        "known_for_department": "Writing",
+        "name": "L.M. Kit Carson",
+        "original_name": "L.M. Kit Carson",
+        "popularity": 4.5273,
+        "profile_path": "/edTsci6TubRvSUfK2sUvVmLaYpY.jpg",
+        "credit_id": "59ae5e8d9251410765053c8c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2303,
+        "known_for_department": "Directing",
+        "name": "Wim Wenders",
+        "original_name": "Wim Wenders",
+        "popularity": 1.2653,
+        "profile_path": "/AbqrYglSgaMfetQAeqdHaqiPSof.jpg",
+        "credit_id": "5ff288fc1a934f003e12ffce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1941625,
+        "known_for_department": "Directing",
+        "name": "Michael Helfand",
+        "original_name": "Michael Helfand",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "5ff28967869e75003fdb9a55",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922427,
+        "known_for_department": "Art",
+        "name": "Lorrie Brown",
+        "original_name": "Lorrie Brown",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5ff28973976e48003e6947af",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2582883,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kimberly Buckley",
+        "original_name": "Kimberly Buckley",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "5ff28996470ead003ffb173b",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1416675,
+        "known_for_department": "Production",
+        "name": "Craig Busch",
+        "original_name": "Craig Busch",
+        "popularity": 0.1433,
+        "profile_path": null,
+        "credit_id": "5ff289c855c926003e4057c0",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9889,
+        "known_for_department": "Directing",
+        "name": "Dominique Auvray",
+        "original_name": "Dominique Auvray",
+        "popularity": 0.0894,
+        "profile_path": "/416llQQqNzdjQPFryrQSG4IITTt.jpg",
+        "credit_id": "5ff289eb1ad93b003c21ff1b",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9890,
+        "known_for_department": "Sound",
+        "name": "Jean-Paul Mugel",
+        "original_name": "Jean-Paul Mugel",
+        "popularity": 0.2155,
+        "profile_path": "/4MPwCouuem4PjQjKytI1WMYcp0Q.jpg",
+        "credit_id": "5ff28a1d67203d003dca6879",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1930935,
+        "known_for_department": "Camera",
+        "name": "Arthur Blum",
+        "original_name": "Arthur Blum",
+        "popularity": 0.1492,
+        "profile_path": null,
+        "credit_id": "5ff28a37ca7ec6003fb29908",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106118,
+        "known_for_department": "Camera",
+        "name": "Robert K. Feldmann",
+        "original_name": "Robert K. Feldmann",
+        "popularity": 0.1119,
+        "profile_path": null,
+        "credit_id": "5ff28a4a5507e900400c790b",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2652105,
+        "known_for_department": "Art",
+        "name": "Kevin Galbraith",
+        "original_name": "Kevin Galbraith",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "5ff28a6b1a934f003e130144",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2922436,
+        "known_for_department": "Lighting",
+        "name": "Scott Guthrie",
+        "original_name": "Scott Guthrie",
+        "popularity": 0.1732,
+        "profile_path": null,
+        "credit_id": "5ff28abb1fb94f0041f761ca",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922437,
+        "known_for_department": "Camera",
+        "name": "Robin Holland",
+        "original_name": "Robin Holland",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5ff28ac846e75f0041d3a41b",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1239904,
+        "known_for_department": "Production",
+        "name": "Sheila Possner",
+        "original_name": "Sheila Possner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5ff28b06414291004151b035",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922438,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Roberta Elkins",
+        "original_name": "Roberta Elkins",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5ff28b42d34eb3004251a7a1",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1808162,
+        "known_for_department": "Production",
+        "name": "Susan Elkins",
+        "original_name": "Susan Elkins",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5ff28b62156cc70040f21ece",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1823435,
+        "known_for_department": "Production",
+        "name": "James Thompson",
+        "original_name": "James Thompson",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5ff28b8fc26796003cc10b52",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3110,
+        "known_for_department": "Directing",
+        "name": "Allison Anders",
+        "original_name": "Allison Anders",
+        "popularity": 0.6613,
+        "profile_path": "/tP9x5lWT4EofhiGITfnmmfpZShA.jpg",
+        "credit_id": "5ff28bc71ad93b003f21f0c3",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1796072,
+        "known_for_department": "Directing",
+        "name": "Scott Kirby",
+        "original_name": "Scott Kirby",
+        "popularity": 0.114,
+        "profile_path": null,
+        "credit_id": "5ff28bfb55c926004140ae0a",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1643048,
+        "known_for_department": "Acting",
+        "name": "Patric Kreuzer",
+        "original_name": "Patric Kreuzer",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "5ff28c265507e900410c3395",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46354,
+        "known_for_department": "Camera",
+        "name": "Dean Lent",
+        "original_name": "Dean Lent",
+        "popularity": 0.1707,
+        "profile_path": null,
+        "credit_id": "5ff28c559affc00040f78a1c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1209225,
+        "known_for_department": "Production",
+        "name": "Barbara Lucey",
+        "original_name": "Barbara Lucey",
+        "popularity": 0.094,
+        "profile_path": null,
+        "credit_id": "5ff28c617aecc6003dfdb091",
+        "department": "Production",
+        "job": "Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2021253,
+        "known_for_department": "Production",
+        "name": "Dianne Mapp-Cheek",
+        "original_name": "Dianne Mapp-Cheek",
+        "popularity": 0.1672,
+        "profile_path": null,
+        "credit_id": "5ff28c7367203d003fca8503",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922442,
+        "known_for_department": "Crew",
+        "name": "Sherry McBride",
+        "original_name": "Sherry McBride",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5ff28c7f1d356300410dff3e",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922443,
+        "known_for_department": "Production",
+        "name": "Ron Mitchell",
+        "original_name": "Ron Mitchell",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5ff28cc8869e750040dad04d",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2922444,
+        "known_for_department": "Production",
+        "name": "Bonna Newman",
+        "original_name": "Bonna Newman",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5ff28cdf976e48004069168f",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4937790,
+        "known_for_department": "Crew",
+        "name": "Lynn Brisbin",
+        "original_name": "Lynn Brisbin",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "66e251a826991298c8622675",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2178116,
+        "known_for_department": "Crew",
+        "name": "Homer Albin",
+        "original_name": "Homer Albin",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "66e251b00000000000950d90",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645340,
+        "known_for_department": "Acting",
+        "name": "Al Cantu",
+        "original_name": "Al Cantu",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "66e251db0000000000950da8",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4937792,
+        "known_for_department": "Crew",
+        "name": "Tom Kelton",
+        "original_name": "Tom Kelton",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "66e251ff791320cd95d43936",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74813,
+        "known_for_department": "Crew",
+        "name": "Richard Padgett",
+        "original_name": "Richard Padgett",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "credit_id": "66e2520726991298c86226ac",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1585170,
+        "known_for_department": "Crew",
+        "name": "B.J. Smith",
+        "original_name": "B.J. Smith",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "66e2521026991298c86226af",
+        "department": "Crew",
+        "job": "Driver"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4580,
+        "name": "van"
+      },
+      {
+        "id": 802,
+        "name": "regret"
+      },
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 1556,
+        "name": "texas"
+      },
+      {
+        "id": 3276,
+        "name": "peep show"
+      },
+      {
+        "id": 11436,
+        "name": "redemption"
+      },
+      {
+        "id": 10392,
+        "name": "mute"
+      },
+      {
+        "id": 12670,
+        "name": "los angeles, california"
+      },
+      {
+        "id": 15291,
+        "name": "on the road"
+      },
+      {
+        "id": 18034,
+        "name": "desert"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 160798,
+        "name": "modern-day western"
+      },
+      {
+        "id": 168713,
+        "name": "neo-western"
+      },
+      {
+        "id": 209966,
+        "name": "new german cinema"
+      },
+      {
+        "id": 284115,
+        "name": "fugue state"
+      },
+      {
+        "id": 364684,
+        "name": "amnésia"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "blu ray",
+            "release_date": "2019-10-17T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-02-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "40th Anniversary",
+            "release_date": "2024-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sarajevo Film Festival",
+            "release_date": "2021-08-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sofia International Film Festival",
+            "release_date": "2021-05-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sofia International Film Festival",
+            "release_date": "2007-03-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-09-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-11-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "1984-09-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "FIRST International Film Festival（4K RESTORATION）",
+            "release_date": "2024-07-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "bilibili",
+            "release_date": "2022-06-10T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CCTV6",
+            "release_date": "2021-02-07T00:00:00.000Z",
+            "type": 6
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CCTV6",
+            "release_date": "2022-04-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Febio Film Festival",
+            "release_date": "2009-03-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2015-02-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-01-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2024-07-25T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-03-06T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-12-05T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-07-18T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-10-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2022-12-02T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Barcelona, original version",
+            "release_date": "1988-02-05T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Barcelona, re-release, subtitled version",
+            "release_date": "2016-01-28T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Madrid, re-release, subtitled version",
+            "release_date": "2016-01-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4k 40th Anniversary Rerelease",
+            "release_date": "2025-03-28T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ICAA 51884",
+            "release_date": "1989-01-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-12-15T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-12-22T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "S",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-12-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival",
+            "release_date": "1984-05-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival（4K RESTORATION）",
+            "release_date": "2024-05-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Visa CNC 57747",
+            "release_date": "1984-07-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "re-release",
+            "release_date": "2014-07-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-11-07T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-09-22T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-10-19T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Arte",
+            "release_date": "2025-08-18T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-08-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-01-28T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Thessaloniki International Film Festival",
+            "release_date": "2006-11-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Panorama of European Cinema",
+            "release_date": "2003-10-07T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "re-release",
+            "release_date": "2003-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Film Festival",
+            "release_date": "2020-10-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "IIA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K Restoration",
+            "release_date": "2024-10-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "European Arthouse Cinema Day",
+            "release_date": "2025-11-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-01-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jerusalem Film Festival",
+            "release_date": "2014-07-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "The India Tour",
+            "release_date": "2025-02-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "MUBI",
+            "release_date": "2024-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Torino Film Festival",
+            "release_date": "2017-11-30T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Turin",
+            "release_date": "1984-12-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "40th Anniversary Rerelease",
+            "release_date": "2024-11-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-12-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-20T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-12-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo International Film Festival",
+            "release_date": "1985-06-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-09-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-11-02T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1987-08-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "C",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "XVIII Muestra Internacional de Cine",
+            "release_date": "1985-12-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "C",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Film by the Sea Film Festival",
+            "release_date": "2014-09-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-11-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2013-05-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "re-release",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu ray",
+            "release_date": "2016-07-26T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 2",
+            "release_date": "2009-05-24T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "American Film Festival",
+            "release_date": "2016-10-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New Horizons Film Festival",
+            "release_date": "2014-07-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-10-25T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "re-release, restored version",
+            "release_date": "2017-02-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-11-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2009-03-27T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-06-21T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2016-01-17T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "World Film Festival Bangkok (4K Restoration)",
+            "release_date": "2024-11-09T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bangkok International Film Festival",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Istanbul Film Festival",
+            "release_date": "1985-04-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "10+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-10-02T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "10+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-07-05T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TRT 2",
+            "release_date": "2024-05-06T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Taipei Golden Horse Film Festival",
+            "release_date": "2014-11-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "40 years re-release，4K Restoration version",
+            "release_date": "2024-07-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2018-02-23T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Film Festival",
+            "release_date": "1984-10-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Jewish Film Festival",
+            "release_date": "2014-01-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Film at Lincoln Center",
+            "release_date": "2019-08-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1984-11-02T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-12-14T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2010-01-26T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-09-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "adult": false,
+  "backdrop_path": "/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 16672,
+  "imdb_id": "tt0058625",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "砂の女",
+  "overview": "Um entomologista amador resolve sair da cidade e passar o fim de semana numa área desértica do Japão, a fim de coletar insetos raros. Ele pernoita numa casa onde habita uma estranha mulher. Logo ele vai perceber que caiu em uma armadilha sem saída.",
+  "popularity": 5.1079,
+  "poster_path": "/rCfT8KDNZrkeFOa6DSIF1NrbnD1.jpg",
+  "production_companies": [
+    {
+      "id": 3212,
+      "logo_path": null,
+      "name": "Teshigahara Productions",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1964-02-15",
+  "revenue": 0,
+  "runtime": 147,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Assombroso. Erótico. Inesquecível",
+  "title": "A Mulher da Areia",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 500,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25466,
+        "known_for_department": "Acting",
+        "name": "岡田英次",
+        "original_name": "岡田英次",
+        "popularity": 0.9173,
+        "profile_path": "/mQb4kOYl1WlISWZOStAhm13DHdQ.jpg",
+        "cast_id": 2,
+        "character": "Entomologist Niki Jumpei",
+        "credit_id": "52fe46e49251416c7508706f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94188,
+        "known_for_department": "Acting",
+        "name": "岸田今日子",
+        "original_name": "岸田今日子",
+        "popularity": 0.7704,
+        "profile_path": "/d5raLmrkUXAgJ7kN17Uedwwu4iD.jpg",
+        "cast_id": 12,
+        "character": "The Woman",
+        "credit_id": "52fe46e49251416c75087091",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 555339,
+        "known_for_department": "Acting",
+        "name": "伊藤弘子",
+        "original_name": "伊藤弘子",
+        "popularity": 0.5894,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Entomologist's Wife",
+        "credit_id": "52fe46e49251416c75087095",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96804,
+        "known_for_department": "Acting",
+        "name": "三井弘次",
+        "original_name": "三井弘次",
+        "popularity": 0.8302,
+        "profile_path": "/nahTXDNpFHNfKMraAHNDYiLXBM.jpg",
+        "cast_id": 5,
+        "character": "Village Elder",
+        "credit_id": "52fe46e49251416c75087073",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96801,
+        "known_for_department": "Directing",
+        "name": "勅使河原宏",
+        "original_name": "勅使河原宏",
+        "popularity": 0.3465,
+        "profile_path": "/bMg5nblcbQPY48P1nURbXsyHvfO.jpg",
+        "credit_id": "52fe46e49251416c7508706b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96809,
+        "known_for_department": "Camera",
+        "name": "Hiroshi Segawa",
+        "original_name": "Hiroshi Segawa",
+        "popularity": 0.2556,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c75087081",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 96810,
+        "known_for_department": "Editing",
+        "name": "Fusako Shuzui",
+        "original_name": "Fusako Shuzui",
+        "popularity": 0.1306,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c75087087",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96807,
+        "known_for_department": "Writing",
+        "name": "Kôbo Abe",
+        "original_name": "安部公房",
+        "popularity": 0.5798,
+        "profile_path": "/l8ml3RkKzmEPgxktfVbO0nVyQ5c.jpg",
+        "credit_id": "52fe46e49251416c7508709b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96807,
+        "known_for_department": "Writing",
+        "name": "Kôbo Abe",
+        "original_name": "安部公房",
+        "popularity": 0.5798,
+        "profile_path": "/l8ml3RkKzmEPgxktfVbO0nVyQ5c.jpg",
+        "credit_id": "52fe46e49251416c750870a1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089030,
+        "known_for_department": "Production",
+        "name": "Kiichi Ichikawa",
+        "original_name": "Kiichi Ichikawa",
+        "popularity": 0.1591,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c750870a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1089017,
+        "known_for_department": "Production",
+        "name": "Tadashi Ôno",
+        "original_name": "Tadashi Ôno",
+        "popularity": 0.1702,
+        "profile_path": null,
+        "credit_id": "52fe46e49251416c750870ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51808,
+        "known_for_department": "Sound",
+        "name": "武満徹",
+        "original_name": "武満徹",
+        "popularity": 0.4042,
+        "profile_path": "/l48fEVb1HGMilTCkxSzYuZsSPdk.jpg",
+        "credit_id": "57171fb69251417a22006174",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268042,
+        "known_for_department": "Art",
+        "name": "平川透徹",
+        "original_name": "平川透徹",
+        "popularity": 0.1854,
+        "profile_path": null,
+        "credit_id": "5c19ae010e0a26618ee63429",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1591535,
+        "known_for_department": "Art",
+        "name": "Masao Yamazaki",
+        "original_name": "Masao Yamazaki",
+        "popularity": 0.1751,
+        "profile_path": null,
+        "credit_id": "5c19ae0ec3a3681885239b09",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1619182,
+        "known_for_department": "Sound",
+        "name": "Ichirô Katô",
+        "original_name": "Ichirô Katô",
+        "popularity": 0.1882,
+        "profile_path": null,
+        "credit_id": "5c19ae1b0e0a26618ee63437",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1602592,
+        "known_for_department": "Sound",
+        "name": "Shigenosuke Okuyama",
+        "original_name": "Shigenosuke Okuyama",
+        "popularity": 0.0864,
+        "profile_path": null,
+        "credit_id": "5c19ae26c3a3681890239b2c",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198020,
+        "known_for_department": "Sound",
+        "name": "Keiji Mori",
+        "original_name": "Keiji Mori",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "5c19ae3192514129f0d83773",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081838,
+        "known_for_department": "Directing",
+        "name": "Isao Fujisawa",
+        "original_name": "Isao Fujisawa",
+        "popularity": 0.1673,
+        "profile_path": null,
+        "credit_id": "678d83dce4566399a26e0f37",
+        "department": "Directing",
+        "job": "Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 332,
+        "name": "insect"
+      },
+      {
+        "id": 5789,
+        "name": "sand"
+      },
+      {
+        "id": 11130,
+        "name": "art house"
+      },
+      {
+        "id": 10489,
+        "name": "water shortage"
+      },
+      {
+        "id": 12565,
+        "name": "psychological thriller"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 15365,
+        "name": "held captive"
+      },
+      {
+        "id": 17973,
+        "name": "skin"
+      },
+      {
+        "id": 18029,
+        "name": "trapped"
+      },
+      {
+        "id": 156091,
+        "name": "missing person"
+      },
+      {
+        "id": 159595,
+        "name": "sexual torture"
+      },
+      {
+        "id": 178080,
+        "name": "sand dune"
+      },
+      {
+        "id": 192119,
+        "name": "erotic photography"
+      },
+      {
+        "id": 196584,
+        "name": "water pump"
+      },
+      {
+        "id": 209998,
+        "name": "japanese new wave"
+      },
+      {
+        "id": 211636,
+        "name": "slave labor"
+      },
+      {
+        "id": 214613,
+        "name": "entomologist"
+      },
+      {
+        "id": 222268,
+        "name": "escape attempt"
+      },
+      {
+        "id": 225471,
+        "name": "sand pit"
+      },
+      {
+        "id": 270615,
+        "name": "forced labor"
+      },
+      {
+        "id": 292558,
+        "name": "texture"
+      },
+      {
+        "id": 308818,
+        "name": "avant garde"
+      },
+      {
+        "id": 313483,
+        "name": "disappeared"
+      },
+      {
+        "id": 329352,
+        "name": "barbaric behavior"
+      },
+      {
+        "id": 364682,
+        "name": "areia"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1966-06-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-11-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-02-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1966-08-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-10-19T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-02-15T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TFAI - Love, Death & Rebels: The Japanese New Wave",
+            "release_date": "2026-01-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-10-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1443 @@
+{
+  "adult": false,
+  "backdrop_path": "/g3L6tOvJIRWSkxnhmoEW1SKEvW3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 5879,
+  "imdb_id": "tt0074102",
+  "origin_country": [
+    "JP",
+    "FR"
+  ],
+  "original_language": "ja",
+  "original_title": "愛のコリーダ",
+  "overview": "A história de uma ex-prostituta que envolve-se em um caso de amor obsessivo com o senhorio de uma propriedade onde ela trabalha como criada. O que começa como uma diversão inconseqüente transforma-se em uma paixão que ultrapassa quaisquer limites.",
+  "popularity": 8.345,
+  "poster_path": "/nnOvs5nFTdYa33eCREMwDniPbm9.jpg",
+  "production_companies": [
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13139,
+      "logo_path": null,
+      "name": "Oshima Productions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 14668,
+      "logo_path": null,
+      "name": "Shibata Organisation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1976-09-15",
+  "revenue": 7650000,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nunca antes um homem e uma mulher haviam se amado tão intensamente.",
+  "title": "O Império dos Sentidos",
+  "video": false,
+  "vote_average": 6.565,
+  "vote_count": 698,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46239,
+        "known_for_department": "Acting",
+        "name": "松田暎子",
+        "original_name": "松田暎子",
+        "popularity": 0.9778,
+        "profile_path": "/iAkw70zEammVeKlr99OyyEHb1gj.jpg",
+        "cast_id": 8,
+        "character": "Sada Abe",
+        "credit_id": "52fe4429c3a36847f8085cfb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21503,
+        "known_for_department": "Acting",
+        "name": "藤竜也",
+        "original_name": "藤竜也",
+        "popularity": 1.0214,
+        "profile_path": "/vfQBWOKFztXYexzNmKmaFJ8hT0E.jpg",
+        "cast_id": 9,
+        "character": "Kichizo Ishida",
+        "credit_id": "52fe4429c3a36847f8085cff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 142535,
+        "known_for_department": "Acting",
+        "name": "中島葵",
+        "original_name": "中島葵",
+        "popularity": 1.3027,
+        "profile_path": "/td7dfN0lWMhtPyZ5WFkuBiPMl0t.jpg",
+        "cast_id": 10,
+        "character": "Toku",
+        "credit_id": "54d90712c3a3687ab9000055",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 136880,
+        "known_for_department": "Acting",
+        "name": "松井康子",
+        "original_name": "松井康子",
+        "popularity": 0.5245,
+        "profile_path": "/ojHIJ9xxAqSGjB8z49s288zHyRn.jpg",
+        "cast_id": 11,
+        "character": "Tagawa Inn Manager",
+        "credit_id": "54d90721c3a3687aac000069",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 310173,
+        "known_for_department": "Acting",
+        "name": "芹明香",
+        "original_name": "芹明香",
+        "popularity": 0.4926,
+        "profile_path": "/nsr6GPpnmoBHvYYXgeG0Cxec3LE.jpg",
+        "cast_id": 12,
+        "character": "Matsuko (Yoshidaya Maid)",
+        "credit_id": "559010779251412c43000c5b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134619,
+        "known_for_department": "Acting",
+        "name": "小林加奈枝",
+        "original_name": "小林加奈枝",
+        "popularity": 0.5313,
+        "profile_path": "/tLyqCS0ap8Q6EVFlHN0hqA5TyBn.jpg",
+        "cast_id": 13,
+        "character": "Old Geisha Kikuryû",
+        "credit_id": "55901084925141648900247a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33732,
+        "known_for_department": "Acting",
+        "name": "殿山泰司",
+        "original_name": "殿山泰司",
+        "popularity": 0.8776,
+        "profile_path": "/k88bvJ91SiL2Nn6QtQf7hB8U4iv.jpg",
+        "cast_id": 14,
+        "character": "Old Beggar",
+        "credit_id": "55901091c3a3685d45002ac2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1268220,
+        "known_for_department": "Acting",
+        "name": "九重京司",
+        "original_name": "九重京司",
+        "popularity": 0.2334,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Teacher Ômiya",
+        "credit_id": "6198ccbf528b2e002b4d50fe",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270263,
+        "known_for_department": "Acting",
+        "name": "白石奈緒美",
+        "original_name": "白石奈緒美",
+        "popularity": 0.3812,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Geisha Yaeji",
+        "credit_id": "6198ccf070b4440067019b3c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2285226,
+        "known_for_department": "Directing",
+        "name": "野田真吉",
+        "original_name": "野田真吉",
+        "popularity": 0.146,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Street Restaurant Owner",
+        "credit_id": "6198cd701e259a00618b02e2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3317611,
+        "known_for_department": "Acting",
+        "name": "堀小美吉",
+        "original_name": "堀小美吉",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Mitsuwa Geisha",
+        "credit_id": "6198cdf79603310043f3720b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3317612,
+        "known_for_department": "Acting",
+        "name": "松廼家喜久平",
+        "original_name": "松廼家喜久平",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Hôkan Jester",
+        "credit_id": "6198ce53e2ff320065913df2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 552315,
+        "known_for_department": "Acting",
+        "name": "小山明子",
+        "original_name": "小山明子",
+        "popularity": 0.6521,
+        "profile_path": "/q8iwkok7FA2dbdes0m1pspIu0W.jpg",
+        "cast_id": 15,
+        "character": "Mansaki Geisha",
+        "credit_id": "559010a4925141325f000072",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1269172,
+        "known_for_department": "Acting",
+        "name": "東祐里子",
+        "original_name": "東祐里子",
+        "popularity": 0.348,
+        "profile_path": "/ix8ryjRXy7B5ypnMzGGjHBzvKvg.jpg",
+        "cast_id": 37,
+        "character": "Mitsuwa Geisha",
+        "credit_id": "6198cecf70b444004246eb23",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1472732,
+        "known_for_department": "Acting",
+        "name": "南黎",
+        "original_name": "南黎",
+        "popularity": 0.1589,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Mitsuwa Geisha",
+        "credit_id": "6198cf1671458f004296f3ff",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207530,
+        "known_for_department": "Acting",
+        "name": "青木真知子",
+        "original_name": "青木真知子",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Mitsuwa Maid",
+        "credit_id": "6198cf5096033100294a7513",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3317620,
+        "known_for_department": "Acting",
+        "name": "阿部マリ子",
+        "original_name": "阿部マリ子",
+        "popularity": 0.4429,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Kinu (Yoshidaya Maid)",
+        "credit_id": "6198cfa34f9a99004370d69f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1270565,
+        "known_for_department": "Acting",
+        "name": "安田清美",
+        "original_name": "安田清美",
+        "popularity": 0.2418,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Mitsuwa Geisha",
+        "credit_id": "6198d0ac1feac10066197255",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 556806,
+        "known_for_department": "Acting",
+        "name": "藤ひろ子",
+        "original_name": "藤ひろ子",
+        "popularity": 0.4918,
+        "profile_path": "/70cFPhlOSSXtaiSX6M7sl70v0NN.jpg",
+        "cast_id": 43,
+        "character": "O-Tsune (Yoshidaya Head Maid)",
+        "credit_id": "6198d10ae329430043d88417",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2612662,
+        "known_for_department": "Acting",
+        "name": "三星東美",
+        "original_name": "三星東美",
+        "popularity": 0.0832,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Chieko (Yoshidaya Maid)",
+        "credit_id": "6198d20452dc7f002abb7251",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3317630,
+        "known_for_department": "Acting",
+        "name": "石井喜美子",
+        "original_name": "石井喜美子",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "6198d28371458f002aa2a7e5",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3317631,
+        "known_for_department": "Acting",
+        "name": "富山加津江",
+        "original_name": "富山加津江",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Fat Mansaki Maid",
+        "credit_id": "6198d30aabdafc008f432fa9",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3317632,
+        "known_for_department": "Acting",
+        "name": "福原ひとみ",
+        "original_name": "福原ひとみ",
+        "popularity": 0.0768,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Bullseye / Girl with Umbrella",
+        "credit_id": "6198d34a9603310043f3747f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5902104,
+        "known_for_department": "Acting",
+        "name": "Kyoko Okada",
+        "original_name": "Kyoko Okada",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Hangyoku / Young Geisha",
+        "credit_id": "6950606a27d1f16d4574dd0b",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46230,
+        "known_for_department": "Directing",
+        "name": "大島渚",
+        "original_name": "大島渚",
+        "popularity": 1.2048,
+        "profile_path": "/7G4g7V3z5ultk05MaRWE0RvOLtW.jpg",
+        "credit_id": "52fe4429c3a36847f8085cd3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2304,
+        "known_for_department": "Production",
+        "name": "Anatole Dauman",
+        "original_name": "Anatole Dauman",
+        "popularity": 0.1937,
+        "profile_path": "/6OMlQTVM3D2lKiVt6eccx7JIMCP.jpg",
+        "credit_id": "52fe4429c3a36847f8085ce5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46238,
+        "known_for_department": "Editing",
+        "name": "浦岡敬一",
+        "original_name": "浦岡敬一",
+        "popularity": 0.2143,
+        "profile_path": "/cHFfTHYTQtUyv6VRzqBlj0TvROG.jpg",
+        "credit_id": "52fe4429c3a36847f8085cf7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3077284,
+        "known_for_department": "Directing",
+        "name": "佐藤静夫",
+        "original_name": "佐藤静夫",
+        "popularity": 0.1433,
+        "profile_path": null,
+        "credit_id": "61ed19663faba0006dc46a27",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1309305,
+        "known_for_department": "Production",
+        "name": "元持昌之",
+        "original_name": "元持昌之",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "61ed1974df294515b8370ae2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1538938,
+        "known_for_department": "Camera",
+        "name": "伊東英男",
+        "original_name": "伊東英男",
+        "popularity": 0.2268,
+        "profile_path": null,
+        "credit_id": "588526479251413edb020d7f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1088164,
+        "known_for_department": "Art",
+        "name": "下石坂成典",
+        "original_name": "下石坂成典",
+        "popularity": 0.3055,
+        "profile_path": null,
+        "credit_id": "63e17a32c5c1ef04baef5388",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565273,
+        "known_for_department": "Art",
+        "name": "荒川大",
+        "original_name": "荒川大",
+        "popularity": 0.2066,
+        "profile_path": null,
+        "credit_id": "63e17aa3ec0c5800db42f17e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46230,
+        "known_for_department": "Directing",
+        "name": "大島渚",
+        "original_name": "大島渚",
+        "popularity": 1.2048,
+        "profile_path": "/7G4g7V3z5ultk05MaRWE0RvOLtW.jpg",
+        "credit_id": "668652fc214689cbf3334b84",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267600,
+        "known_for_department": "Lighting",
+        "name": "岡本健一",
+        "original_name": "岡本健一",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "credit_id": "6686596da9d5c2e92f81b1c1",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4809969,
+        "known_for_department": "Camera",
+        "name": "小山田幸生",
+        "original_name": "小山田幸生",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "66865d8d8df910ae55ca30d1",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2092362,
+        "known_for_department": "Editing",
+        "name": "Patrick Sauvion",
+        "original_name": "Patrick Sauvion",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "6686612db3054e3e1a81ba59",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581689,
+        "known_for_department": "Sound",
+        "name": "Henri Humbert",
+        "original_name": "Henri Humbert",
+        "popularity": 0.1004,
+        "profile_path": null,
+        "credit_id": "668662b7a9ae7276fa81ba32",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1188020,
+        "known_for_department": "Art",
+        "name": "細石照美",
+        "original_name": "細石照美",
+        "popularity": 0.1655,
+        "profile_path": null,
+        "credit_id": "668665257dab64c68581aacc",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4810023,
+        "known_for_department": "Directing",
+        "name": "Saburo Li",
+        "original_name": "Saburo Li",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "6686685bd7ccd1c1be22f615",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552639,
+        "known_for_department": "Art",
+        "name": "戸田重昌",
+        "original_name": "戸田重昌",
+        "popularity": 0.545,
+        "profile_path": null,
+        "credit_id": "5b59058b92514140bd0003e2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552163,
+        "known_for_department": "Costume & Make-Up",
+        "name": "加藤昌廣",
+        "original_name": "加藤昌廣",
+        "popularity": 0.0796,
+        "profile_path": null,
+        "credit_id": "5b5905a0c3a368758c0004d3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2092364,
+        "known_for_department": "Costume & Make-Up",
+        "name": "大沢菊江",
+        "original_name": "大沢菊江",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "5b5905ba0e0a2608950003b8",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565298,
+        "known_for_department": "Costume & Make-Up",
+        "name": "竹村幸二",
+        "original_name": "竹村幸二",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "credit_id": "5b5905c59251414d1500000b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134811,
+        "known_for_department": "Directing",
+        "name": "若松孝二",
+        "original_name": "若松孝二",
+        "popularity": 0.9385,
+        "profile_path": "/v1Dj2S8ee1hJItIqacXa58xnR8E.jpg",
+        "credit_id": "5b5905d59251414d20000014",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226920,
+        "known_for_department": "Directing",
+        "name": "崔洋一",
+        "original_name": "崔洋一",
+        "popularity": 0.3913,
+        "profile_path": "/xmnelxm6X31BvSS6oQ7eNjb1KGa.jpg",
+        "credit_id": "5b5905f40e0a2608950003ee",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451461,
+        "known_for_department": "Sound",
+        "name": "Alex Pront",
+        "original_name": "Alex Pront",
+        "popularity": 0.2117,
+        "profile_path": null,
+        "credit_id": "5b590633c3a36801ec0000a6",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552309,
+        "known_for_department": "Sound",
+        "name": "安田哲男",
+        "original_name": "安田哲男",
+        "popularity": 0.1664,
+        "profile_path": null,
+        "credit_id": "5b59063e9251414d1500009e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2230329,
+        "known_for_department": "Sound",
+        "name": "三木稔",
+        "original_name": "三木稔",
+        "popularity": 0.4786,
+        "profile_path": "/3CbeIJhLCWDrfOa5CwnqIx8cw6z.jpg",
+        "credit_id": "5c5170cac3a368478996bbad",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134818,
+        "known_for_department": "Acting",
+        "name": "Susumu Iwabuchi",
+        "original_name": "Susumu Iwabuchi",
+        "popularity": 0.1493,
+        "profile_path": null,
+        "credit_id": "67e642133e65c8ea88ba37f7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71013,
+        "known_for_department": "Production",
+        "name": "大島瑛子",
+        "original_name": "大島瑛子",
+        "popularity": 0.183,
+        "profile_path": null,
+        "credit_id": "67e642245f3e0ac188004ccf",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1884999,
+        "known_for_department": "Acting",
+        "name": "Hayao Shibata",
+        "original_name": "Hayao Shibata",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "credit_id": "67e64237027e7374060030b6",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5332962,
+        "known_for_department": "Production",
+        "name": "Katsue Tomiyama",
+        "original_name": "Katsue Tomiyama",
+        "popularity": 0.0979,
+        "profile_path": null,
+        "credit_id": "67e642535e8e5c9bacba6bda",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552307,
+        "known_for_department": "Production",
+        "name": "Shigeru Wakatsuki",
+        "original_name": "Shigeru Wakatsuki",
+        "popularity": 0.1439,
+        "profile_path": null,
+        "credit_id": "67e6426a33a74341e310d869",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 234829,
+        "known_for_department": "Editing",
+        "name": "Claire Painchault",
+        "original_name": "Claire Painchault",
+        "popularity": 0.1368,
+        "profile_path": null,
+        "credit_id": "67e642a13e65c8ea88ba3811",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552639,
+        "known_for_department": "Art",
+        "name": "戸田重昌",
+        "original_name": "戸田重昌",
+        "popularity": 0.545,
+        "profile_path": null,
+        "credit_id": "67e642d733a74341e310d87f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 551731,
+        "known_for_department": "Art",
+        "name": "Hitoshi Nojiri",
+        "original_name": "Hitoshi Nojiri",
+        "popularity": 0.1643,
+        "profile_path": null,
+        "credit_id": "67e64308027e7374060030eb",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5332967,
+        "known_for_department": "Art",
+        "name": "Takashi Ueno",
+        "original_name": "Takashi Ueno",
+        "popularity": 0.0615,
+        "profile_path": null,
+        "credit_id": "67e6432ab8fc39899610c791",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5332968,
+        "known_for_department": "Crew",
+        "name": "Isao Nishimura",
+        "original_name": "Isao Nishimura",
+        "popularity": 0.0802,
+        "profile_path": null,
+        "credit_id": "67e64346a6dd9b08080066d0",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5332969,
+        "known_for_department": "Lighting",
+        "name": "Hiroaki Fujiama",
+        "original_name": "Hiroaki Fujiama",
+        "popularity": 0.0838,
+        "profile_path": null,
+        "credit_id": "67e64357b8fc39899610c79b",
+        "department": "Lighting",
+        "job": "Electrician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 445,
+        "name": "pornography"
+      },
+      {
+        "id": 931,
+        "name": "jealousy"
+      },
+      {
+        "id": 4342,
+        "name": "geisha"
+      },
+      {
+        "id": 1411,
+        "name": "brothel"
+      },
+      {
+        "id": 1796,
+        "name": "sake"
+      },
+      {
+        "id": 4115,
+        "name": "longing"
+      },
+      {
+        "id": 4481,
+        "name": "deceived wife"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 6373,
+        "name": "sadomasochism"
+      },
+      {
+        "id": 11869,
+        "name": "mistress"
+      },
+      {
+        "id": 13059,
+        "name": "prostitution"
+      },
+      {
+        "id": 197505,
+        "name": "nymphomania"
+      },
+      {
+        "id": 214548,
+        "name": "1930s"
+      },
+      {
+        "id": 244904,
+        "name": "depravation"
+      },
+      {
+        "id": 267122,
+        "name": "sex"
+      },
+      {
+        "id": 296479,
+        "name": "shōwa era (1926-89)"
+      },
+      {
+        "id": 320654,
+        "name": "penis mutilation"
+      },
+      {
+        "id": 328992,
+        "name": "erotic asphyxiation"
+      },
+      {
+        "id": 353176,
+        "name": "pinku eiga"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-09-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-11-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "World Film Festival, Montreal",
+            "release_date": "1977-08-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Locarno Film Festival",
+            "release_date": "1976-08-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-08-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Projekt 100",
+            "release_date": "1999-01-22T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "West Germany",
+            "release_date": "1978-01-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1976-09-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Madrid",
+            "release_date": "1980-05-30T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-05-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-07-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1992-10-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival",
+            "release_date": "1976-05-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Visa CNC 45554",
+            "release_date": "1976-09-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1993-07-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ARTE",
+            "release_date": "1995-02-20T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-releae",
+            "release_date": "1991-05-03T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-ray",
+            "release_date": "2011-08-17T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Thessaloniki International Film Festival, November 11-20",
+            "release_date": "1994-11-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1978-01-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1988-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1979-03-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1976-10-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2019-07-11T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2000-04-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2015-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-05-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1977-04-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1992-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Porto, Cineclube do Norte",
+            "release_date": "1978-10-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1976-10-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1976-10-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Retrospective of producer Anatole Dauman (Moscow)",
+            "release_date": "1990-03-02T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1989-01-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Film Festival",
+            "release_date": "1976-10-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Chicago International Film Festival",
+            "release_date": "1976-11-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1977-04-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS & DVD",
+            "release_date": "1998-07-28T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-ray",
+            "release_date": "2009-04-28T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "NC-17",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2000-04-25T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-08-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

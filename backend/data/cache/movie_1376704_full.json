@@ -1,0 +1,657 @@
+{
+  "adult": false,
+  "backdrop_path": "/m0rvRn5WG7pIrtVlLe5rSRQjVu7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "https://www.netflix.com/br/title/81554996",
+  "id": 1376704,
+  "imdb_id": "tt34350086",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Buy Now! The Shopping Conspiracy",
+  "overview": "Este documentário subversivo revela os truques que as marcas usam para os clientes continuarem comprando e o impacto que isso tem em nossas vidas.",
+  "popularity": 3.9733,
+  "poster_path": "/2qWoea16DIdfEZscAjzLHNgWa5P.jpg",
+  "production_companies": [
+    {
+      "id": 49822,
+      "logo_path": "/3ona9SNUU97BeiP10g1Lv7kP9HM.png",
+      "name": "Grain Media",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-11-19",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Conspiração Consumista",
+  "video": false,
+  "vote_average": 6.614,
+  "vote_count": 118,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4603039,
+        "known_for_department": "Acting",
+        "name": "Alison Quin",
+        "original_name": "Alison Quin",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "673dcbd0ab2e250f570f70f9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070579,
+        "known_for_department": "Acting",
+        "name": "David Broughton",
+        "original_name": "David Broughton",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "673dcbdcd3ff14906f962688",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070580,
+        "known_for_department": "Acting",
+        "name": "Gary Comerford",
+        "original_name": "Gary Comerford",
+        "popularity": 0.0693,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "673dcbe487917078d0109146",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3346831,
+        "known_for_department": "Acting",
+        "name": "Steve Thompson",
+        "original_name": "Steve Thompson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "673dcbf287917078d0109158",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070581,
+        "known_for_department": "Acting",
+        "name": "Peter Marchant",
+        "original_name": "Peter Marchant",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "673dcbfaab2e250f570f7127",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 93091,
+        "known_for_department": "Acting",
+        "name": "Tonya Cornelisse",
+        "original_name": "Tonya Cornelisse",
+        "popularity": 0.4499,
+        "profile_path": "/csPc5n3Bvl2oZobndA3Ojmj2a7B.jpg",
+        "cast_id": 26,
+        "character": "(voice)",
+        "credit_id": "673dcc0d4435e78bfba777bd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55908,
+        "known_for_department": "Acting",
+        "name": "Harry Ditson",
+        "original_name": "Harry Ditson",
+        "popularity": 0.463,
+        "profile_path": "/rErrMD6CEfhRlKI6e4i4vNQHurC.jpg",
+        "cast_id": 27,
+        "character": "(voice)",
+        "credit_id": "673dcc1887917078d0109179",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254161,
+        "known_for_department": "Acting",
+        "name": "Dan Russell",
+        "original_name": "Dan Russell",
+        "popularity": 0.4484,
+        "profile_path": "/68efSHjGFBqCTDxFvkYfNuY7j86.jpg",
+        "cast_id": 28,
+        "character": "(voice)",
+        "credit_id": "673dcc23ab2e250f570f713c",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152291,
+        "known_for_department": "Directing",
+        "name": "Nic Stacey",
+        "original_name": "Nic Stacey",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "671fd9f534c0fabd681d33d8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152291,
+        "known_for_department": "Directing",
+        "name": "Nic Stacey",
+        "original_name": "Nic Stacey",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "673dc8e41dc22f88fa6c2288",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3111988,
+        "known_for_department": "Production",
+        "name": "Flora Bagenal",
+        "original_name": "Flora Bagenal",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "673dc8f4b23054898da38cd7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3190175,
+        "known_for_department": "Editing",
+        "name": "Samuel R Santana",
+        "original_name": "Samuel R Santana",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "673dc905890efff9f669730f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031797,
+        "known_for_department": "Camera",
+        "name": "Brendan McGinty",
+        "original_name": "Brendan McGinty",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "673dc915247917e95b2b0052",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210161,
+        "known_for_department": "Sound",
+        "name": "David Schweitzer",
+        "original_name": "David Schweitzer",
+        "popularity": 0.0976,
+        "profile_path": null,
+        "credit_id": "673dc9821dc22f88fa6c22b6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003573,
+        "known_for_department": "Sound",
+        "name": "Dan Maslen",
+        "original_name": "Dan Maslen",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "673dc9b9247917e95b2b00a1",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454409,
+        "known_for_department": "Visual Effects",
+        "name": "Mark Lewis",
+        "original_name": "Mark Lewis",
+        "popularity": 0.1399,
+        "profile_path": null,
+        "credit_id": "673dca4cab2e250f570f704a",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1747164,
+        "known_for_department": "Writing",
+        "name": "Colin Thornton",
+        "original_name": "Colin Thornton",
+        "popularity": 0.0847,
+        "profile_path": "/o50fqxiAaanwoivwkGFHox1J9VY.jpg",
+        "credit_id": "673dca97d3ff14906f962603",
+        "department": "Visual Effects",
+        "job": "VFX Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070565,
+        "known_for_department": "Visual Effects",
+        "name": "Tomas Koza",
+        "original_name": "Tomas Koza",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "673dcac2d3ff14906f962624",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070566,
+        "known_for_department": "Visual Effects",
+        "name": "Assim Kumaka",
+        "original_name": "Assim Kumaka",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "673dcaccab2e250f570f70a5",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070568,
+        "known_for_department": "Visual Effects",
+        "name": "Becky Vicars",
+        "original_name": "Becky Vicars",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "673dcada87917078d010907f",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070570,
+        "known_for_department": "Visual Effects",
+        "name": "Kathleen Kattnig",
+        "original_name": "Kathleen Kattnig",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "673dcae91dc22f88fa6c2379",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070571,
+        "known_for_department": "Visual Effects",
+        "name": "Nik Maund",
+        "original_name": "Nik Maund",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "673dcaf71c1866af05456b12",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070572,
+        "known_for_department": "Visual Effects",
+        "name": "Ryan Wintle",
+        "original_name": "Ryan Wintle",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "673dcb04ab2e250f570f70c6",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4340639,
+        "known_for_department": "Visual Effects",
+        "name": "Hannah Privett",
+        "original_name": "Hannah Privett",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "673dcb1b1c1866af05456b20",
+        "department": "Visual Effects",
+        "job": "2D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070573,
+        "known_for_department": "Visual Effects",
+        "name": "Kai Hei Heiley Chiu",
+        "original_name": "Kai Hei Heiley Chiu",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "673dcb2aab2e250f570f70d1",
+        "department": "Visual Effects",
+        "job": "2D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070574,
+        "known_for_department": "Visual Effects",
+        "name": "Chris MacDonald",
+        "original_name": "Chris MacDonald",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "673dcb3f87917078d01090dc",
+        "department": "Visual Effects",
+        "job": "2D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070575,
+        "known_for_department": "Visual Effects",
+        "name": "Sam Jewitt",
+        "original_name": "Sam Jewitt",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "credit_id": "673dcb4c1c1866af05456b40",
+        "department": "Visual Effects",
+        "job": "2D Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2260813,
+        "known_for_department": "Production",
+        "name": "Ray Knight",
+        "original_name": "Ray Knight",
+        "popularity": 0.1343,
+        "profile_path": null,
+        "credit_id": "673dcb6a87917078d01090f8",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3983,
+        "name": "marketing"
+      },
+      {
+        "id": 10907,
+        "name": "consumerism"
+      },
+      {
+        "id": 11615,
+        "name": "internet"
+      },
+      {
+        "id": 41175,
+        "name": "shopping"
+      },
+      {
+        "id": 194292,
+        "name": "internet culture"
+      },
+      {
+        "id": 200234,
+        "name": "shocking"
+      },
+      {
+        "id": 208273,
+        "name": "sale"
+      },
+      {
+        "id": 225161,
+        "name": "trickery"
+      },
+      {
+        "id": 273146,
+        "name": "stealth marketing"
+      },
+      {
+        "id": 314783,
+        "name": "home shopping"
+      },
+      {
+        "id": 322582,
+        "name": "closing the salesdeal"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

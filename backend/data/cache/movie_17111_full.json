@@ -1,0 +1,1465 @@
+{
+  "adult": false,
+  "backdrop_path": "/cX48taTcXP2oGXPvka8QFa4f4Qb.jpg",
+  "belongs_to_collection": null,
+  "budget": 125000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 17111,
+  "imdb_id": "tt0440803",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "ชัตเตอร์ กดติดวิญญาณ",
+  "overview": "Thun (Ananda Everingham), um jovem fotógrafo, e sua namorada Jane (Natthaweeranuch Thongmee) atropelam acidentalmente uma pedestre. Eles fogem da cena do crime e retornam às suas vidas normais, em Bangkok. A partir de então Jane passa a ser atormentada por estranhos pesadelos, enquanto que Thun nota que em suas fotos aparecem estranhas figuras, parecidas com fantasmas. O casal decide investigar o fenômeno e encontra outras fotografias com imagens sobrenaturais. Paralelamente os melhores amigos de Thun começam a morrer, um a um, de forma misteriosa.",
+  "popularity": 6.0265,
+  "poster_path": "/bU1VpBYfWyOPF4Zt3eriViZUEAy.jpg",
+  "production_companies": [
+    {
+      "id": 3255,
+      "logo_path": null,
+      "name": "GMM Pictures Co.",
+      "origin_country": ""
+    },
+    {
+      "id": 5369,
+      "logo_path": "/tjuwCtH2mVCEFCYBT6CTytdiqot.png",
+      "name": "GMM Tai Hub (GTH)",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2004-09-09",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Tudo o que eles querem é estar estre nós!",
+  "title": "Espíritos: A Morte Esta Ao Seu Lado",
+  "video": false,
+  "vote_average": 7.296,
+  "vote_count": 1356,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81253,
+        "known_for_department": "Acting",
+        "name": "อนันดา เอเวอริ่งแฮม",
+        "original_name": "อนันดา เอเวอริ่งแฮม",
+        "popularity": 0.7743,
+        "profile_path": "/htFbRTxN2zWJDep87f7t7E3WM6x.jpg",
+        "cast_id": 3,
+        "character": "Tun",
+        "credit_id": "52fe47059251416c7508b66d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81254,
+        "known_for_department": "Acting",
+        "name": "ณัฐฐาวีรนุช ทองมี",
+        "original_name": "ณัฐฐาวีรนุช ทองมี",
+        "popularity": 0.3934,
+        "profile_path": "/hyGTzDBUiYgO02ugn0NkMI1qAKH.jpg",
+        "cast_id": 4,
+        "character": "Jane",
+        "credit_id": "52fe47059251416c7508b671",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81042,
+        "known_for_department": "Acting",
+        "name": "อชิตะ สิกขมานา",
+        "original_name": "อชิตะ สิกขมานา",
+        "popularity": 0.631,
+        "profile_path": "/oEn4hSBAXeOmvpaZNXQUjadDSpM.jpg",
+        "cast_id": 5,
+        "character": "Natre",
+        "credit_id": "52fe47059251416c7508b675",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81255,
+        "known_for_department": "Acting",
+        "name": "Unnop Chanpaibool",
+        "original_name": "Unnop Chanpaibool",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Tonn",
+        "credit_id": "52fe47059251416c7508b679",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629433,
+        "known_for_department": "Acting",
+        "name": "Titikarn Tongprasearth",
+        "original_name": "Titikarn Tongprasearth",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Jim",
+        "credit_id": "574f2c70c3a3683ddb000289",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629434,
+        "known_for_department": "Acting",
+        "name": "Sivagorn Muttamara",
+        "original_name": "Sivagorn Muttamara",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Meng",
+        "credit_id": "574f2c81c3a3683dd900020a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629435,
+        "known_for_department": "Acting",
+        "name": "Chachchaya Chalemphol",
+        "original_name": "Chachchaya Chalemphol",
+        "popularity": 0.0551,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Tonn's Wife",
+        "credit_id": "574f2c8cc3a3683deb000213",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629437,
+        "known_for_department": "Acting",
+        "name": "Kachornsak Naruepatr",
+        "original_name": "Kachornsak Naruepatr",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Tee",
+        "credit_id": "574f2c979251417a1d0000dc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60858,
+        "known_for_department": "Acting",
+        "name": "Apichart Chusakul",
+        "original_name": "Apichart Chusakul",
+        "popularity": 0.4105,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Magazine Editor",
+        "credit_id": "574f2ca49251417d11000076",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629438,
+        "known_for_department": "Acting",
+        "name": "Binn Kitchachonpong",
+        "original_name": "Binn Kitchachonpong",
+        "popularity": 0.1432,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Asst. Magazine Editor",
+        "credit_id": "574f2cb092514168be000214",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629439,
+        "known_for_department": "Acting",
+        "name": "Panitan Mavichak",
+        "original_name": "Panitan Mavichak",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Nuch",
+        "credit_id": "574f2cbb92514168b7000248",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629440,
+        "known_for_department": "Acting",
+        "name": "Samruay Jaratjaroonpong",
+        "original_name": "Samruay Jaratjaroonpong",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Man",
+        "credit_id": "574f2ccc92514168ae000265",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629441,
+        "known_for_department": "Acting",
+        "name": "Jitlada Korsangvichal",
+        "original_name": "Jitlada Korsangvichal",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Nurse 1",
+        "credit_id": "574f2cdd9251417a1d0000e7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629442,
+        "known_for_department": "Acting",
+        "name": "ธัญพร สนธิขันธ์",
+        "original_name": "ธัญพร สนธิขันธ์",
+        "popularity": 0.211,
+        "profile_path": "/e83jbEqQiKrH5zJNWx4YHSRphX3.jpg",
+        "cast_id": 19,
+        "character": "Nurse 2",
+        "credit_id": "574f2ce7c3a3683deb00021d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629443,
+        "known_for_department": "Acting",
+        "name": "Panu Puntoomsinchal",
+        "original_name": "Panu Puntoomsinchal",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Groom",
+        "credit_id": "574f2cf9c3a36858c2000083",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629444,
+        "known_for_department": "Acting",
+        "name": "Saifon Nanthawanchal",
+        "original_name": "Saifon Nanthawanchal",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Bride",
+        "credit_id": "574f2d06c3a3684ed2000149",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629445,
+        "known_for_department": "Acting",
+        "name": "Tanapon Chansming",
+        "original_name": "Tanapon Chansming",
+        "popularity": 0.052,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Aum",
+        "credit_id": "574f2d1292514168ae000270",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629446,
+        "known_for_department": "Acting",
+        "name": "Thamonwan Srinatsomsuk",
+        "original_name": "Thamonwan Srinatsomsuk",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Toosie",
+        "credit_id": "574f2d1c92514168ae000276",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629447,
+        "known_for_department": "Acting",
+        "name": "Watthanaporn Wannacome",
+        "original_name": "Watthanaporn Wannacome",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Woman 1",
+        "credit_id": "574f2d2792514168ba000265",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629448,
+        "known_for_department": "Acting",
+        "name": "Natraya Rotthirawanit",
+        "original_name": "Natraya Rotthirawanit",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Woman 2",
+        "credit_id": "574f2d319251417d1100008f",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629449,
+        "known_for_department": "Acting",
+        "name": "Sawai Poomring",
+        "original_name": "Sawai Poomring",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Monk",
+        "credit_id": "574f2d3bc3a3683ddb0002ad",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629450,
+        "known_for_department": "Acting",
+        "name": "Twich Chombuatong",
+        "original_name": "Twich Chombuatong",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Novice",
+        "credit_id": "574f2d45c3a36855a40000d7",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629451,
+        "known_for_department": "Acting",
+        "name": "Teranet Jongaramrungrueng",
+        "original_name": "Teranet Jongaramrungrueng",
+        "popularity": 0.0694,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Disciple",
+        "credit_id": "574f2d5092514168b700026d",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1279570,
+        "known_for_department": "Acting",
+        "name": "วาสนา ชลากร",
+        "original_name": "วาสนา ชลากร",
+        "popularity": 0.5328,
+        "profile_path": "/dPy3Pl8Y20T8SRz5Lw1Klrhi2Gs.jpg",
+        "cast_id": 29,
+        "character": "Natre's Mother",
+        "credit_id": "574f2d5ec3a3683dd9000221",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1336414,
+        "known_for_department": "Acting",
+        "name": "Krai Kanchit",
+        "original_name": "Krai Kanchit",
+        "popularity": 0.3881,
+        "profile_path": "/w0yGrBazyXrTlaeTRJCp2NEY7xB.jpg",
+        "cast_id": 70,
+        "character": "Natre's Neighbor",
+        "credit_id": "6779e5925ac1bd826166ce9d",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629453,
+        "known_for_department": "Editing",
+        "name": "Manop Boonvipat",
+        "original_name": "Manop Boonvipat",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Doctor (voice)",
+        "credit_id": "574f2d80c3a3684ed2000157",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629454,
+        "known_for_department": "Acting",
+        "name": "Suthiphong Bhibalkul",
+        "original_name": "Suthiphong Bhibalkul",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "TV Narrator (voice)",
+        "credit_id": "574f2d8dc3a3683deb000239",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81251,
+        "known_for_department": "Directing",
+        "name": "บรรจง ปิสัญธนะกูล",
+        "original_name": "บรรจง ปิสัญธนะกูล",
+        "popularity": 0.6911,
+        "profile_path": "/g4cCunanZnXcOUaACLVwjFXzGJu.jpg",
+        "credit_id": "52fe47059251416c7508b663",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81252,
+        "known_for_department": "Directing",
+        "name": "ภาคภูมิ วงศ์ภูมิ",
+        "original_name": "ภาคภูมิ วงศ์ภูมิ",
+        "popularity": 0.7103,
+        "profile_path": "/u5PlykrIRKjenbXTDB2g3CngiDN.jpg",
+        "credit_id": "52fe47059251416c7508b669",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81251,
+        "known_for_department": "Directing",
+        "name": "บรรจง ปิสัญธนะกูล",
+        "original_name": "บรรจง ปิสัญธนะกูล",
+        "popularity": 0.6911,
+        "profile_path": "/g4cCunanZnXcOUaACLVwjFXzGJu.jpg",
+        "credit_id": "52fe47069251416c7508b67f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81252,
+        "known_for_department": "Directing",
+        "name": "ภาคภูมิ วงศ์ภูมิ",
+        "original_name": "ภาคภูมิ วงศ์ภูมิ",
+        "popularity": 0.7103,
+        "profile_path": "/u5PlykrIRKjenbXTDB2g3CngiDN.jpg",
+        "credit_id": "52fe47069251416c7508b685",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111481,
+        "known_for_department": "Directing",
+        "name": "โสภณ ศักดาพิศิษฏ์",
+        "original_name": "โสภณ ศักดาพิศิษฏ์",
+        "popularity": 0.2664,
+        "profile_path": "/AtzBJKk2oLMwXc8nuO7UKDDwr7k.jpg",
+        "credit_id": "52fe47069251416c7508b68b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 552419,
+        "known_for_department": "Sound",
+        "name": "Chatchai Pongprapaphan",
+        "original_name": "Chatchai Pongprapaphan",
+        "popularity": 0.1901,
+        "profile_path": null,
+        "credit_id": "574f3447c3a36858c2000187",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 545305,
+        "known_for_department": "Camera",
+        "name": "Niramon Ross",
+        "original_name": "Niramon Ross",
+        "popularity": 0.2977,
+        "profile_path": null,
+        "credit_id": "574f344fc3a368540f000196",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629453,
+        "known_for_department": "Editing",
+        "name": "Manop Boonvipat",
+        "original_name": "Manop Boonvipat",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "574f345a92514168ae000363",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1271299,
+        "known_for_department": "Editing",
+        "name": "Lee Chatametikool",
+        "original_name": "Lee Chatametikool",
+        "popularity": 0.2425,
+        "profile_path": "/gYsXu3QGu6LaQgbA39SauNHbFPS.jpg",
+        "credit_id": "574f3463c3a3683dd90002ca",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180488,
+        "known_for_department": "Production",
+        "name": "Panjai Sirisuwan",
+        "original_name": "Panjai Sirisuwan",
+        "popularity": 0.2936,
+        "profile_path": null,
+        "credit_id": "574f346dc3a3684ed200025c",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629462,
+        "known_for_department": "Art",
+        "name": "Surat Kadeeroj",
+        "original_name": "Surat Kadeeroj",
+        "popularity": 0.2446,
+        "profile_path": null,
+        "credit_id": "574f347bc3a36855a40001b5",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1180493,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Phacharaphan Sathitrachot",
+        "original_name": "Phacharaphan Sathitrachot",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "574f348d9251417a1d0001d8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629463,
+        "known_for_department": "Production",
+        "name": "Sangrawee Jongsinkul",
+        "original_name": "Sangrawee Jongsinkul",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "574f349c92514168ab0002e8",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629464,
+        "known_for_department": "Writing",
+        "name": "Songpol Sungsuan",
+        "original_name": "Songpol Sungsuan",
+        "popularity": 0.1131,
+        "profile_path": null,
+        "credit_id": "574f34acc3a36855a40001c6",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1392211,
+        "known_for_department": "Sound",
+        "name": "Roberto Cappannelli",
+        "original_name": "Roberto Cappannelli",
+        "popularity": 0.2695,
+        "profile_path": null,
+        "credit_id": "574f37d7c3a3683deb000345",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437885,
+        "known_for_department": "Sound",
+        "name": "Thanasak Julakate",
+        "original_name": "Thanasak Julakate",
+        "popularity": 0.1576,
+        "profile_path": null,
+        "credit_id": "574f37fb92514168ae0003ad",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1354354,
+        "known_for_department": "Sound",
+        "name": "Nakorn Kositpaisain",
+        "original_name": "Nakorn Kositpaisain",
+        "popularity": 0.0946,
+        "profile_path": null,
+        "credit_id": "574f380f92514168b70003cb",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1437886,
+        "known_for_department": "Sound",
+        "name": "Chart Mahapichayakul",
+        "original_name": "Chart Mahapichayakul",
+        "popularity": 0.0873,
+        "profile_path": null,
+        "credit_id": "574f381ac3a368540f0001e6",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629465,
+        "known_for_department": "Sound",
+        "name": "Utid Phromma",
+        "original_name": "Utid Phromma",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "574f382bc3a368540f0001ea",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629466,
+        "known_for_department": "Sound",
+        "name": "Suphot Raksa",
+        "original_name": "Suphot Raksa",
+        "popularity": 0.0857,
+        "profile_path": null,
+        "credit_id": "574f383ec3a3684ed20002a8",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629467,
+        "known_for_department": "Sound",
+        "name": "Thaweep Suvagondha",
+        "original_name": "Thaweep Suvagondha",
+        "popularity": 0.1145,
+        "profile_path": null,
+        "credit_id": "574f385b9251417a1d00022a",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629468,
+        "known_for_department": "Sound",
+        "name": "Titi Warapaskul",
+        "original_name": "Titi Warapaskul",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "574f3867c3a3683deb000354",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64355,
+        "known_for_department": "Sound",
+        "name": "ไตรเทพ วงศ์ไพบูลย์",
+        "original_name": "ไตรเทพ วงศ์ไพบูลย์",
+        "popularity": 0.2455,
+        "profile_path": "/spP5idDWZ9NaUzZXhsPFBIgbw6a.jpg",
+        "credit_id": "574f387792514168b1000372",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629469,
+        "known_for_department": "Camera",
+        "name": "Adith Duangjan",
+        "original_name": "Adith Duangjan",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "574f3894c3a3683ddb000409",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629470,
+        "known_for_department": "Camera",
+        "name": "Adisorn Klomsiri",
+        "original_name": "Adisorn Klomsiri",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "574f38a192514168ae0003bc",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629471,
+        "known_for_department": "Lighting",
+        "name": "Udom Pinthong",
+        "original_name": "Udom Pinthong",
+        "popularity": 0.1386,
+        "profile_path": null,
+        "credit_id": "574f38b9c3a3683deb00035e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1067257,
+        "known_for_department": "Camera",
+        "name": "Somsak Srisawat",
+        "original_name": "Somsak Srisawat",
+        "popularity": 0.1813,
+        "profile_path": null,
+        "credit_id": "574f38c492514168ba0003bf",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629472,
+        "known_for_department": "Production",
+        "name": "Pimsuda Boonham",
+        "original_name": "Pimsuda Boonham",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "574f38f4c3a36858c20001fc",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095113,
+        "known_for_department": "Production",
+        "name": "ไพบูลย์ ดํารงชัยธรรม",
+        "original_name": "ไพบูลย์ ดํารงชัยธรรม",
+        "popularity": 0.1508,
+        "profile_path": "/iOFcCTRnWkUM3nraYrmDlz1CRQO.jpg",
+        "credit_id": "5e104b1ac7a7e00013925269",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1809212,
+        "known_for_department": "Production",
+        "name": "บุษบา ดาวเรือง",
+        "original_name": "บุษบา ดาวเรือง",
+        "popularity": 0.2066,
+        "profile_path": "/8ZCFK2kqLLrKpBxGjmTQZbxUEAi.jpg",
+        "credit_id": "5e104b47c7a7e000159255bc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499295,
+        "known_for_department": "Production",
+        "name": "Chatmanee Sa-Ngiamluksana",
+        "original_name": "Chatmanee Sa-Ngiamluksana",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "5e104b71c7a7e00015925671",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499296,
+        "known_for_department": "Production",
+        "name": "Yodphet Sudsawad",
+        "original_name": "Yodphet Sudsawad",
+        "popularity": 0.0991,
+        "profile_path": null,
+        "credit_id": "5e104b9a663b870017817d3a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1629451,
+        "known_for_department": "Acting",
+        "name": "Teranet Jongaramrungrueng",
+        "original_name": "Teranet Jongaramrungrueng",
+        "popularity": 0.0694,
+        "profile_path": null,
+        "credit_id": "5e104bee6f43ec00175a0396",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1387783,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kamolwan Viriyapakdee",
+        "original_name": "Kamolwan Viriyapakdee",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "5e104c0ed64ac2001660283b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499298,
+        "known_for_department": "Production",
+        "name": "Piyarat Piyapongwiwat",
+        "original_name": "Piyarat Piyapongwiwat",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "5e104c45d64ac200166028a6",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499299,
+        "known_for_department": "Directing",
+        "name": "Nalina Chayasombat",
+        "original_name": "Nalina Chayasombat",
+        "popularity": 0.109,
+        "profile_path": null,
+        "credit_id": "5e104c62c7a7e0001592592d",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499300,
+        "known_for_department": "Directing",
+        "name": "Vicha Jittrarat",
+        "original_name": "Vicha Jittrarat",
+        "popularity": 0.0984,
+        "profile_path": null,
+        "credit_id": "5e104c79663b870017817f13",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629463,
+        "known_for_department": "Production",
+        "name": "Sangrawee Jongsinkul",
+        "original_name": "Sangrawee Jongsinkul",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "5e104c926f43ec00175a063d",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499301,
+        "known_for_department": "Directing",
+        "name": "Ake Punyasee",
+        "original_name": "Ake Punyasee",
+        "popularity": 0.2109,
+        "profile_path": null,
+        "credit_id": "5e104cb25907de0017da15d2",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499302,
+        "known_for_department": "Directing",
+        "name": "Ratchapan Ratwattananun",
+        "original_name": "Ratchapan Ratwattananun",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "5e104ccb6f43ec00175a075d",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1584681,
+        "known_for_department": "Production",
+        "name": "Weerachai Yaikwawong",
+        "original_name": "Weerachai Yaikwawong",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "credit_id": "5e104ced6f43ec00175a07be",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 236,
+        "name": "suicide"
+      },
+      {
+        "id": 3030,
+        "name": "nightmare"
+      },
+      {
+        "id": 1003,
+        "name": "photographer"
+      },
+      {
+        "id": 3432,
+        "name": "bangkok, thailand"
+      },
+      {
+        "id": 3434,
+        "name": "thailand"
+      },
+      {
+        "id": 9856,
+        "name": "flashback"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 13063,
+        "name": "car accident"
+      },
+      {
+        "id": 33874,
+        "name": "polaroid"
+      },
+      {
+        "id": 162846,
+        "name": "ghost"
+      },
+      {
+        "id": 173137,
+        "name": "secret lover"
+      },
+      {
+        "id": 173139,
+        "name": "preserved corpse"
+      },
+      {
+        "id": 173147,
+        "name": "lights out"
+      },
+      {
+        "id": 190007,
+        "name": "mental hospital"
+      },
+      {
+        "id": 295124,
+        "name": "young girl"
+      },
+      {
+        "id": 298080,
+        "name": "young girls"
+      },
+      {
+        "id": 301004,
+        "name": "nightmares"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-11-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Vienna International Film Festival",
+            "release_date": "2005-10-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2006-03-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmasia Film Festival",
+            "release_date": "2005-12-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "München Fantasy Filmfest",
+            "release_date": "2005-07-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sitges Film Festival",
+            "release_date": "2005-10-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD premiere",
+            "release_date": "2006-09-13T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lyon Asiexpo Film Festival",
+            "release_date": "2005-11-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-09-14T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Dead by Dawn Horror Film Festival",
+            "release_date": "2007-04-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2007-06-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "IIB",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K Restoration",
+            "release_date": "2024-10-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jogja-NETPAC Asian Film Festival ",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-10-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "PG-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-05-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "B15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-04-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "18SG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-09-05T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "20th Anniversary Remastered in 4K",
+            "release_date": "2024-11-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-01-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lund Fantastisk Film Festival",
+            "release_date": "2005-09-21T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD premiere",
+            "release_date": "2006-09-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "NC-16 ",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "Bangkok International Film Festival",
+            "release_date": "2005-01-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "",
+            "release_date": "2004-09-09T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "20th Anniversary Remastered in 4K",
+            "release_date": "2024-09-09T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "Netflix",
+            "release_date": "2022-04-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tribeca Film Festival",
+            "release_date": "2005-04-23T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-04-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD premiere",
+            "release_date": "2007-03-27T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

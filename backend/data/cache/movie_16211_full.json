@@ -1,0 +1,1139 @@
+{
+  "adult": false,
+  "backdrop_path": "/u9Yrx1ZYMSvtujeCRlLbNON8hR2.jpg",
+  "belongs_to_collection": null,
+  "budget": 6500000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Faroeste"
+    }
+  ],
+  "homepage": "",
+  "id": 16211,
+  "imdb_id": "tt0059740",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Sons of Katie Elder",
+  "overview": "Os quatro filhos de Katie Elder voltam a sua cidade natal para o funeral da mãe. John, o mais velho, é um notório pistoleiro. Tom é o jogador, Matt, o mais quieto, e Bud, o mais novo. Chegando lá, eles descobrem que seu pai, bêbado, apostou a fazenda da família num jogo e foi morto na mesma noite. Apesar das recomendações do xerife, os irmãos resolvem investigar o caso. Morgan Hastings e seu filho Dave, únicas testemunhas do assassinato, matam o xerife para se protegerem e os Elder são considerados culpados. O xerife substituto, Ben Latta, se une aos Hastings contra os irmãos Elder.",
+  "popularity": 6.5343,
+  "poster_path": "/n6ox5IniBxxx6ISTol5pm36WoFr.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3468,
+      "logo_path": null,
+      "name": "Hal Wallis Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1965-06-23",
+  "revenue": 23000000,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Os Filhos de Katie Elder",
+  "video": false,
+  "vote_average": 7.042,
+  "vote_count": 301,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4165,
+        "known_for_department": "Acting",
+        "name": "John Wayne",
+        "original_name": "John Wayne",
+        "popularity": 2.632,
+        "profile_path": "/vI1DyoZxvz51Gxb8uwVLwladohk.jpg",
+        "cast_id": 1,
+        "character": "John Elder",
+        "credit_id": "52fe46b79251416c75081307",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4299,
+        "known_for_department": "Acting",
+        "name": "Dean Martin",
+        "original_name": "Dean Martin",
+        "popularity": 1.1678,
+        "profile_path": "/lMWkTDKPsDVS3DiMUNkTLLjm3f5.jpg",
+        "cast_id": 2,
+        "character": "Tom Elder",
+        "credit_id": "52fe46b79251416c7508130b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16759,
+        "known_for_department": "Acting",
+        "name": "Martha Hyer",
+        "original_name": "Martha Hyer",
+        "popularity": 1.07,
+        "profile_path": "/rynlhUJmF3L1d0qxBcPY1GkdwwY.jpg",
+        "cast_id": 5,
+        "character": "Mary Gordon",
+        "credit_id": "52fe46b79251416c75081315",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24808,
+        "known_for_department": "Acting",
+        "name": "Michael Anderson Jr.",
+        "original_name": "Michael Anderson Jr.",
+        "popularity": 0.7822,
+        "profile_path": "/v6TqyJmAerCz8PpYGx9PrD3qSL.jpg",
+        "cast_id": 6,
+        "character": "Bud Elder",
+        "credit_id": "52fe46b79251416c75081319",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12313,
+        "known_for_department": "Acting",
+        "name": "Earl Holliman",
+        "original_name": "Earl Holliman",
+        "popularity": 0.9865,
+        "profile_path": "/2ks1x3zLi0a1DHyzl6KriGrbz74.jpg",
+        "cast_id": 7,
+        "character": "Matt Elder",
+        "credit_id": "52fe46b79251416c7508131d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78690,
+        "known_for_department": "Acting",
+        "name": "Jeremy Slate",
+        "original_name": "Jeremy Slate",
+        "popularity": 0.8946,
+        "profile_path": "/bMTnh0gP33MAbfD7NcZIF70cBjR.jpg",
+        "cast_id": 8,
+        "character": "Ben Latta",
+        "credit_id": "52fe46b79251416c75081321",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14732,
+        "known_for_department": "Acting",
+        "name": "James Gregory",
+        "original_name": "James Gregory",
+        "popularity": 1.0482,
+        "profile_path": "/lfLlIfg6nI2cjVTpjyjwm8aQWJQ.jpg",
+        "cast_id": 9,
+        "character": "Morgan Hastings",
+        "credit_id": "52fe46b79251416c75081325",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8496,
+        "known_for_department": "Acting",
+        "name": "Paul Fix",
+        "original_name": "Paul Fix",
+        "popularity": 1.0084,
+        "profile_path": "/1CTVXkgurzEYeFaJDuuIODaZvFu.jpg",
+        "cast_id": 10,
+        "character": "Sheriff Billy Wilson",
+        "credit_id": "52fe46b79251416c75081329",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12950,
+        "known_for_department": "Acting",
+        "name": "George Kennedy",
+        "original_name": "George Kennedy",
+        "popularity": 1.7571,
+        "profile_path": "/fIVmcPEcPmh0Rbx4mYf9aneCmDe.jpg",
+        "cast_id": 11,
+        "character": "Curley",
+        "credit_id": "52fe46b79251416c7508132d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2778,
+        "known_for_department": "Acting",
+        "name": "Dennis Hopper",
+        "original_name": "Dennis Hopper",
+        "popularity": 1.9924,
+        "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg",
+        "cast_id": 12,
+        "character": "Dave Hastings",
+        "credit_id": "52fe46b79251416c75081331",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31353,
+        "known_for_department": "Acting",
+        "name": "Sheldon Allman",
+        "original_name": "Sheldon Allman",
+        "popularity": 0.4037,
+        "profile_path": "/gOA2A58gAEXSpXTJbZXj4QRBLot.jpg",
+        "cast_id": 13,
+        "character": "Harry Evers",
+        "credit_id": "52fe46b79251416c75081335",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16766,
+        "known_for_department": "Acting",
+        "name": "John Litel",
+        "original_name": "John Litel",
+        "popularity": 0.5183,
+        "profile_path": "/cH4K9uyqAjUWKZjBq0nA8VyOe14.jpg",
+        "cast_id": 14,
+        "character": "Minister",
+        "credit_id": "52fe46b79251416c75081339",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34130,
+        "known_for_department": "Acting",
+        "name": "John Doucette",
+        "original_name": "John Doucette",
+        "popularity": 1.0041,
+        "profile_path": "/xwSggqoVJTnipwaMsbIGz1J37sp.jpg",
+        "cast_id": 15,
+        "character": "Henry Hyselman",
+        "credit_id": "52fe46b79251416c7508133d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9866,
+        "known_for_department": "Acting",
+        "name": "James Westerfield",
+        "original_name": "James Westerfield",
+        "popularity": 0.9846,
+        "profile_path": "/r4YlHYDrJiGUhd61kkkiv3WNEmc.jpg",
+        "cast_id": 16,
+        "character": "Mr. Vennar",
+        "credit_id": "52fe46b79251416c75081341",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82835,
+        "known_for_department": "Acting",
+        "name": "Rhys Williams",
+        "original_name": "Rhys Williams",
+        "popularity": 0.5289,
+        "profile_path": "/5n6ufKbjGLZN64tUgKErOdGONCU.jpg",
+        "cast_id": 17,
+        "character": "Charlie Bob Striker",
+        "credit_id": "52fe46b79251416c75081345",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4119,
+        "known_for_department": "Acting",
+        "name": "John Qualen",
+        "original_name": "John Qualen",
+        "popularity": 0.6872,
+        "profile_path": "/aMuzXYaBmblQm95JxHZrmseeIYh.jpg",
+        "cast_id": 18,
+        "character": "Charlie Biller",
+        "credit_id": "52fe46b79251416c75081349",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24827,
+        "known_for_department": "Acting",
+        "name": "Rodolfo Acosta",
+        "original_name": "Rodolfo Acosta",
+        "popularity": 0.4905,
+        "profile_path": "/z708yfrb23NJKhrmPLZUjyvrG8v.jpg",
+        "cast_id": 19,
+        "character": "Bondie Adams",
+        "credit_id": "52fe46b79251416c7508134d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8260,
+        "known_for_department": "Acting",
+        "name": "Strother Martin",
+        "original_name": "Strother Martin",
+        "popularity": 1.0493,
+        "profile_path": "/mHJudNvMY5eoFpDZmr3Xa2rqU93.jpg",
+        "cast_id": 20,
+        "character": "Ned Ross",
+        "credit_id": "52fe46b79251416c75081351",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2101,
+        "known_for_department": "Acting",
+        "name": "Percy Helton",
+        "original_name": "Percy Helton",
+        "popularity": 0.5582,
+        "profile_path": "/4dGePXw3uVfMviRiyN0ufPAo7Zn.jpg",
+        "cast_id": 21,
+        "character": "Mr. Peevey",
+        "credit_id": "52fe46b79251416c75081355",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12158,
+        "known_for_department": "Acting",
+        "name": "Karl Swenson",
+        "original_name": "Karl Swenson",
+        "popularity": 1.0188,
+        "profile_path": "/36uUxu4K8WQi8oZJMsciKzu15kS.jpg",
+        "cast_id": 22,
+        "character": "Doc Isdell",
+        "credit_id": "52fe46b79251416c75081359",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4083830,
+        "known_for_department": "Acting",
+        "name": "Glen Anderson",
+        "original_name": "Glen Anderson",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "(uncredited)",
+        "credit_id": "64726108dd731b01178f50ab",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127314,
+        "known_for_department": "Acting",
+        "name": "Jerry Gatlin",
+        "original_name": "Jerry Gatlin",
+        "popularity": 0.8146,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Amboy / Stationmaster (uncredited)",
+        "credit_id": "6472611295665800deba9b14",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1788537,
+        "known_for_department": "Acting",
+        "name": "Harvey Grant",
+        "original_name": "Harvey Grant",
+        "popularity": 0.2599,
+        "profile_path": "/5yXDvRVL07ePV7vtbznwuNGJTep.jpg",
+        "cast_id": 50,
+        "character": "Jeb (uncredited)",
+        "credit_id": "6472611da199a600bf299cac",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 951607,
+        "known_for_department": "Crew",
+        "name": "Loren Janes",
+        "original_name": "Loren Janes",
+        "popularity": 0.5055,
+        "profile_path": "/vEZ5Wt10rP9culxXjXUBagIfNGU.jpg",
+        "cast_id": 51,
+        "character": "Ned Reese (uncredited)",
+        "credit_id": "647261288813e40103572779",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108236,
+        "known_for_department": "Acting",
+        "name": "Boyd 'Red' Morgan",
+        "original_name": "Boyd 'Red' Morgan",
+        "popularity": 0.1564,
+        "profile_path": "/xdRf08XIB24BZrXDwNisYHNnJf3.jpg",
+        "cast_id": 52,
+        "character": "Burr Sandeman / J. Plummer, blacksmith (uncredited)",
+        "credit_id": "647261309408ec00e14c6efd",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50310,
+        "known_for_department": "Acting",
+        "name": "Chuck Roberson",
+        "original_name": "Chuck Roberson",
+        "popularity": 0.6916,
+        "profile_path": "/d61PgertplWQ4oi5eEFDE4dOX5T.jpg",
+        "cast_id": 53,
+        "character": "Townsman (uncredited)",
+        "credit_id": "64726139a199a600a75625d0",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547827,
+        "known_for_department": "Acting",
+        "name": "Ralph Volkie",
+        "original_name": "Ralph Volkie",
+        "popularity": 0.2751,
+        "profile_path": "/4wFifu7lpDeFYxA46SxFY26rk0a.jpg",
+        "cast_id": 54,
+        "character": "Bit Part (uncredited)",
+        "credit_id": "64726143dd731b00ddf08bc4",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209585,
+        "known_for_department": "Crew",
+        "name": "Jack Williams",
+        "original_name": "Jack Williams",
+        "popularity": 0.5204,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Andy Sharp (uncredited)",
+        "credit_id": "647261589ae61300e59437ed",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24802,
+        "known_for_department": "Acting",
+        "name": "Henry Wills",
+        "original_name": "Henry Wills",
+        "popularity": 0.4807,
+        "profile_path": "/749h2bmzOes2jm8Bjm4mN0X7MNl.jpg",
+        "cast_id": 57,
+        "character": "Gus Dolly (uncredited)",
+        "credit_id": "647261619408ec013e805d43",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121234,
+        "known_for_department": "Acting",
+        "name": "Joe Yrigoyen",
+        "original_name": "Joe Yrigoyen",
+        "popularity": 0.2018,
+        "profile_path": "/4Rp0XtqOiymJuPhVXT7rh9QsE5X.jpg",
+        "cast_id": 58,
+        "character": "Buck Mason (uncredited)",
+        "credit_id": "6472616c9408ec00a7fa65ff",
+        "order": 29
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67686,
+        "known_for_department": "Writing",
+        "name": "Harry Essex",
+        "original_name": "Harry Essex",
+        "popularity": 0.2997,
+        "profile_path": null,
+        "credit_id": "52fe46b79251416c7508136b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3351,
+        "known_for_department": "Camera",
+        "name": "Lucien Ballard",
+        "original_name": "Lucien Ballard",
+        "popularity": 0.2018,
+        "profile_path": "/iZonD2w5n4DVDzpWH5AzfKgHOb2.jpg",
+        "credit_id": "52fe46b89251416c75081383",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21453,
+        "known_for_department": "Writing",
+        "name": "Allan Weiss",
+        "original_name": "Allan Weiss",
+        "popularity": 0.2395,
+        "profile_path": null,
+        "credit_id": "52fe46b79251416c75081365",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1029442,
+        "known_for_department": "Production",
+        "name": "Joseph H. Hazen",
+        "original_name": "Joseph H. Hazen",
+        "popularity": 0.2337,
+        "profile_path": null,
+        "credit_id": "52fe46b89251416c7508138f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109727,
+        "known_for_department": "Production",
+        "name": "William H. Wright",
+        "original_name": "William H. Wright",
+        "popularity": 0.248,
+        "profile_path": null,
+        "credit_id": "52fe46b79251416c7508135f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4123,
+        "known_for_department": "Production",
+        "name": "Hal B. Wallis",
+        "original_name": "Hal B. Wallis",
+        "popularity": 1.0867,
+        "profile_path": "/lia6xtKaPDmQ68BArDkqxAFj9go.jpg",
+        "credit_id": "52fe46b89251416c75081377",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7182,
+        "known_for_department": "Sound",
+        "name": "Elmer Bernstein",
+        "original_name": "Elmer Bernstein",
+        "popularity": 0.4916,
+        "profile_path": "/3617TFsk3QuDSkuXT6rle9UFcfA.jpg",
+        "credit_id": "52fe46b89251416c7508137d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21456,
+        "known_for_department": "Art",
+        "name": "Walter H. Tyler",
+        "original_name": "Walter H. Tyler",
+        "popularity": 0.2423,
+        "profile_path": null,
+        "credit_id": "52fe46b89251416c7508139b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37360,
+        "known_for_department": "Directing",
+        "name": "Henry Hathaway",
+        "original_name": "Henry Hathaway",
+        "popularity": 0.4877,
+        "profile_path": "/9F6C1VKWy3U5qCPTwMNVOoMWoHy.jpg",
+        "credit_id": "52fe46b79251416c75081311",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5188,
+        "known_for_department": "Art",
+        "name": "Hal Pereira",
+        "original_name": "Hal Pereira",
+        "popularity": 0.3921,
+        "profile_path": null,
+        "credit_id": "52fe46b89251416c75081395",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72062,
+        "known_for_department": "Writing",
+        "name": "Talbot Jennings",
+        "original_name": "Talbot Jennings",
+        "popularity": 0.5295,
+        "profile_path": null,
+        "credit_id": "52fe46b89251416c75081371",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 951607,
+        "known_for_department": "Crew",
+        "name": "Loren Janes",
+        "original_name": "Loren Janes",
+        "popularity": 0.5055,
+        "profile_path": "/vEZ5Wt10rP9culxXjXUBagIfNGU.jpg",
+        "credit_id": "642716768de0ae00978c7141",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121234,
+        "known_for_department": "Acting",
+        "name": "Joe Yrigoyen",
+        "original_name": "Joe Yrigoyen",
+        "popularity": 0.2018,
+        "profile_path": "/4Rp0XtqOiymJuPhVXT7rh9QsE5X.jpg",
+        "credit_id": "647262c2be2d4900bf9d9ee2",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50310,
+        "known_for_department": "Acting",
+        "name": "Chuck Roberson",
+        "original_name": "Chuck Roberson",
+        "popularity": 0.6916,
+        "profile_path": "/d61PgertplWQ4oi5eEFDE4dOX5T.jpg",
+        "credit_id": "647262a45cd16e00bf112749",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 236204,
+        "known_for_department": "Directing",
+        "name": "Joselito Rodríguez",
+        "original_name": "Joselito Rodríguez",
+        "popularity": 0.1349,
+        "profile_path": "/joAbqT3U9bo3jwjYMatQBt3thWH.jpg",
+        "credit_id": "647262149408ec00c28e8597",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1734831,
+        "known_for_department": "Crew",
+        "name": "Abel Contreras",
+        "original_name": "Abel Contreras",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "credit_id": "64726260a199a600a7562617",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1424575,
+        "known_for_department": "Acting",
+        "name": "Dinny Powell",
+        "original_name": "Dinny Powell",
+        "popularity": 0.2802,
+        "profile_path": null,
+        "credit_id": "6472629abe2d4900a7d5d24f",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24802,
+        "known_for_department": "Acting",
+        "name": "Henry Wills",
+        "original_name": "Henry Wills",
+        "popularity": 0.4807,
+        "profile_path": "/749h2bmzOes2jm8Bjm4mN0X7MNl.jpg",
+        "credit_id": "647262b99ae61301045a642d",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3979294,
+        "known_for_department": "Crew",
+        "name": "Bill Babcock",
+        "original_name": "Bill Babcock",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "647262709408ec013e805d94",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299143,
+        "known_for_department": "Sound",
+        "name": "Bill Wistrom",
+        "original_name": "Bill Wistrom",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "64726239dd731b00faea5a2f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18595,
+        "known_for_department": "Editing",
+        "name": "Warren Low",
+        "original_name": "Warren Low",
+        "popularity": 0.2448,
+        "profile_path": null,
+        "credit_id": "647262d3be2d4900bf9d9ee8",
+        "department": "Crew",
+        "job": "Editorial Staff"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127314,
+        "known_for_department": "Acting",
+        "name": "Jerry Gatlin",
+        "original_name": "Jerry Gatlin",
+        "popularity": 0.8146,
+        "profile_path": null,
+        "credit_id": "6472627b5cd16e0116d90ecf",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18369,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Craig Binkley",
+        "original_name": "Craig Binkley",
+        "popularity": 0.1977,
+        "profile_path": null,
+        "credit_id": "647262229ae61300a806eb4d",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114232,
+        "known_for_department": "Acting",
+        "name": "Chuck Hayward",
+        "original_name": "Chuck Hayward",
+        "popularity": 1.6663,
+        "profile_path": "/zFpLbqFN3CU2r0fTo247WjXQ1hw.jpg",
+        "credit_id": "647262858813e401452d04e9",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209585,
+        "known_for_department": "Crew",
+        "name": "Jack Williams",
+        "original_name": "Jack Williams",
+        "popularity": 0.5204,
+        "profile_path": null,
+        "credit_id": "647262b09ae613014667d76b",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108236,
+        "known_for_department": "Acting",
+        "name": "Boyd 'Red' Morgan",
+        "original_name": "Boyd 'Red' Morgan",
+        "popularity": 0.1564,
+        "profile_path": "/xdRf08XIB24BZrXDwNisYHNnJf3.jpg",
+        "credit_id": "6472628ea199a600a7562624",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18595,
+        "known_for_department": "Editing",
+        "name": "Warren Low",
+        "original_name": "Warren Low",
+        "popularity": 0.2448,
+        "profile_path": null,
+        "credit_id": "5e87ac5266e4690017a805fd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4350,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Edith Head",
+        "original_name": "Edith Head",
+        "popularity": 0.5128,
+        "profile_path": "/l6LmpdKnU67FaoNBLi8VRRoO6wX.jpg",
+        "credit_id": "5e87ac9049756000143332d5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3103,
+        "known_for_department": "Sound",
+        "name": "Charles Grenzbach",
+        "original_name": "Charles Grenzbach",
+        "popularity": 0.275,
+        "profile_path": null,
+        "credit_id": "5f73d0a73ff2df00394f6141",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7687,
+        "known_for_department": "Art",
+        "name": "Sam Comer",
+        "original_name": "Sam Comer",
+        "popularity": 0.2581,
+        "profile_path": "/gffHWHizNXvkM6k0SE6U22wkT9M.jpg",
+        "credit_id": "5f73cff6d40d4c003865a552",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7688,
+        "known_for_department": "Art",
+        "name": "Ray Moyer",
+        "original_name": "Ray Moyer",
+        "popularity": 0.2112,
+        "profile_path": null,
+        "credit_id": "5f73cffcef48890036fec8a1",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83791,
+        "known_for_department": "Directing",
+        "name": "Michael D. Moore",
+        "original_name": "Michael D. Moore",
+        "popularity": 0.6222,
+        "profile_path": "/tGyfi7NHRU9WRvuxxYkXT42ieaI.jpg",
+        "credit_id": "5f73d0e4196757003796ed8d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1483621,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Loren Cosand",
+        "original_name": "Loren Cosand",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "5f73d020fea0d70034025db2",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1091871,
+        "known_for_department": "Production",
+        "name": "Paul Nathan",
+        "original_name": "Paul Nathan",
+        "popularity": 0.2069,
+        "profile_path": null,
+        "credit_id": "5f73d163d55e4d00358cf44d",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2559638,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dorothy White",
+        "original_name": "Dorothy White",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "credit_id": "5f73d084fea0d70036060574",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9107,
+        "known_for_department": "Sound",
+        "name": "Harold Lewis",
+        "original_name": "Harold Lewis",
+        "popularity": 0.2714,
+        "profile_path": null,
+        "credit_id": "5f73d09bd38b580038ee122e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2321036,
+        "known_for_department": "Production",
+        "name": "William W. Gray",
+        "original_name": "William W. Gray",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "5f73d0f9d55e4d0037984daf",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1539027,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Web Overlander",
+        "original_name": "Web Overlander",
+        "popularity": 0.519,
+        "profile_path": null,
+        "credit_id": "5f73d032223e2000377f810a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 1556,
+        "name": "texas"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 14809,
+        "name": "dead mother"
+      },
+      {
+        "id": 202371,
+        "name": "aggressive"
+      },
+      {
+        "id": 241739,
+        "name": "loss of mother"
+      },
+      {
+        "id": 255561,
+        "name": "avenging son"
+      },
+      {
+        "id": 262325,
+        "name": "brothers"
+      },
+      {
+        "id": 296558,
+        "name": "corrupt businessman"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-08-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Paramount Home",
+            "release_date": "2007-01-24T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "14A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-06-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "1966-01-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "London",
+            "release_date": "1965-10-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-12-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2002-05-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-06-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

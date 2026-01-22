@@ -1,0 +1,1272 @@
+{
+  "adult": false,
+  "backdrop_path": "/b0wvlhQdnBMKjkxDDs3OqHVYgCW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 36,
+      "name": "História"
+    }
+  ],
+  "homepage": "",
+  "id": 642538,
+  "imdb_id": "tt10540510",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "犬王",
+  "overview": "Inu-Oh era uma figura da vida real, um dramaturgo de Sarugaku Noh que foi extremamente popular no século XIV. No entanto, ele é praticamente desconhecido para as pessoas hoje em dia, pois poucos documentos sobre sua vida sobreviveram. Agora, cerca de 600 anos depois, este projeto de Inu-Oh retrata a irmandade entre o lendário Inu-Oh, que desapareceu da história, e um certo tocador de Biwa. Além de tudo, o filme é cheio de cenas de música e dança.",
+  "popularity": 5.0206,
+  "poster_path": "/rEgMnSM008VQVp3Gamsr4Nz3dmI.jpg",
+  "production_companies": [
+    {
+      "id": 99494,
+      "logo_path": "/fpUFQKvrWPWTA8lbLWtWX65miPS.png",
+      "name": "Science SARU",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3033,
+      "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+      "name": "Asmik Ace",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1780,
+      "logo_path": "/jdnvUiU7I3Uf2ig0VZNNjf0ORRL.png",
+      "name": "TFC",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2022-05-28",
+  "revenue": 484127,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Masaaki Yuasa's New Project",
+  "title": "Inu-Oh",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 146,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3174052,
+        "known_for_department": "Sound",
+        "name": "アヴちゃん",
+        "original_name": "アヴちゃん",
+        "popularity": 1.5938,
+        "profile_path": "/7KbK3roW8MMUffqPMNARa4kM2Vf.jpg",
+        "cast_id": 6,
+        "character": "Inu-oh (voice)",
+        "credit_id": "60ff80bb7304b5002db846b9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87657,
+        "known_for_department": "Acting",
+        "name": "森山未來",
+        "original_name": "森山未來",
+        "popularity": 0.8248,
+        "profile_path": "/1oEMeQHiR9D5hmmXlHkD78da9rW.jpg",
+        "cast_id": 7,
+        "character": "Tomona (voice)",
+        "credit_id": "60ff80e733ec26005decfcf8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111639,
+        "known_for_department": "Acting",
+        "name": "柄本佑",
+        "original_name": "柄本佑",
+        "popularity": 1.0815,
+        "profile_path": "/bWFDE4bXUQxmyUey6sA5S84A3vG.jpg",
+        "cast_id": 64,
+        "character": "Shogun Ashikaga (voice)",
+        "credit_id": "613b6ac608cf8700896904ee",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135524,
+        "known_for_department": "Acting",
+        "name": "Kenjiro Tsuda",
+        "original_name": "津田健次郎",
+        "popularity": 2.0681,
+        "profile_path": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg",
+        "cast_id": 65,
+        "character": "Inu-oh's Father (voice)",
+        "credit_id": "613b6b9a322b2b0043486657",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27782,
+        "known_for_department": "Acting",
+        "name": "松重豊",
+        "original_name": "松重豊",
+        "popularity": 1.4361,
+        "profile_path": "/4Oqr7tzPAECgSBah9JaoyRScDhV.jpg",
+        "cast_id": 66,
+        "character": "Tomona's Father (voice)",
+        "credit_id": "613b6bd25258ae0044aba726",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3585796,
+        "known_for_department": "Acting",
+        "name": "片山九郎右衛門",
+        "original_name": "片山九郎右衛門",
+        "popularity": 0.0728,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "(voice)",
+        "credit_id": "62a60a0deb14fa09ddb27659",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3585804,
+        "known_for_department": "Acting",
+        "name": "Kengo Tanimoto",
+        "original_name": "Kengo Tanimoto",
+        "popularity": 0.0866,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "(voice)",
+        "credit_id": "62a60b607f6c8d58e9c1389c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3585808,
+        "known_for_department": "Acting",
+        "name": "坂口貴信",
+        "original_name": "坂口貴信",
+        "popularity": 0.2517,
+        "profile_path": null,
+        "cast_id": 72,
+        "character": "(voice)",
+        "credit_id": "62a60ce97e12f02ff65f639a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3585810,
+        "known_for_department": "Acting",
+        "name": "Kohei Kawaguchi",
+        "original_name": "Kohei Kawaguchi",
+        "popularity": 0.2456,
+        "profile_path": null,
+        "cast_id": 73,
+        "character": "(voice)",
+        "credit_id": "62a60d7153866e0ddfac52ee",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2523975,
+        "known_for_department": "Acting",
+        "name": "石田剛太",
+        "original_name": "石田剛太",
+        "popularity": 0.1914,
+        "profile_path": "/l45dUW3p92TyisWlqRs2rYwRS6I.jpg",
+        "cast_id": 74,
+        "character": "(voice)",
+        "credit_id": "62a60e29596a91005081471d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1777999,
+        "known_for_department": "Acting",
+        "name": "中川晴樹",
+        "original_name": "中川晴樹",
+        "popularity": 0.3988,
+        "profile_path": null,
+        "cast_id": 75,
+        "character": "(voice)",
+        "credit_id": "62a60e928efe73112d9ccac1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124964,
+        "known_for_department": "Acting",
+        "name": "本多力",
+        "original_name": "本多力",
+        "popularity": 0.4234,
+        "profile_path": "/nwNAFZjBYv15HrV66vwUL60hBkv.jpg",
+        "cast_id": 76,
+        "character": "(voice)",
+        "credit_id": "62a60ee4d6819b0050716ef5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1552673,
+        "known_for_department": "Writing",
+        "name": "酒井善史",
+        "original_name": "酒井善史",
+        "popularity": 0.5672,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "(voice)",
+        "credit_id": "62a60fd61750510050372d9c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998971,
+        "known_for_department": "Acting",
+        "name": "土佐和成",
+        "original_name": "土佐和成",
+        "popularity": 0.5361,
+        "profile_path": "/pjmEpy5LN9DIX6Z580Ol59kUc0e.jpg",
+        "cast_id": 78,
+        "character": "(voice)",
+        "credit_id": "62a6102b255dba009b6666c6",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570240,
+        "known_for_department": "Visual Effects",
+        "name": "伊東伸高",
+        "original_name": "伊東伸高",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "60ffe6c34e52ed002ea00e26",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044776,
+        "known_for_department": "Directing",
+        "name": "山代風我",
+        "original_name": "山代風我",
+        "popularity": 0.1989,
+        "profile_path": "/XuhzbccfWYugK1YuOxyJiapjkD.jpg",
+        "credit_id": "60ffe6cce24b93002e4239fd",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1491866,
+        "known_for_department": "Directing",
+        "name": "최은영",
+        "original_name": "최은영",
+        "popularity": 0.4323,
+        "profile_path": "/rsJaoDO9eL7d3Vv2jkyHJoXMjh.jpg",
+        "credit_id": "60ffe8877304b5005c91e35e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1717118,
+        "known_for_department": "Visual Effects",
+        "name": "小針裕子",
+        "original_name": "小針裕子",
+        "popularity": 0.3077,
+        "profile_path": null,
+        "credit_id": "60ffe78733ec26007440af2d",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2161625,
+        "known_for_department": "Production",
+        "name": "竹内文恵",
+        "original_name": "竹内文恵",
+        "popularity": 0.2233,
+        "profile_path": "/6qnc3AL79lPBqOGbXniIeD8zHHg.jpg",
+        "credit_id": "60ffe881568463004685656b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044787,
+        "known_for_department": "Sound",
+        "name": "今泉武",
+        "original_name": "今泉武",
+        "popularity": 0.2411,
+        "profile_path": null,
+        "credit_id": "60ffe7ff568463005e25fe1b",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1570184,
+        "known_for_department": "Editing",
+        "name": "廣瀬清志",
+        "original_name": "廣瀬清志",
+        "popularity": 0.308,
+        "profile_path": null,
+        "credit_id": "60ffe7dccee4810075e11868",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316840,
+        "known_for_department": "Sound",
+        "name": "大友良英",
+        "original_name": "大友良英",
+        "popularity": 0.6489,
+        "profile_path": "/eUUUsrlRIKvXIaeqBe4S6vZpbxv.jpg",
+        "credit_id": "60ffe7d77ad08c0074867aff",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1820199,
+        "known_for_department": "Sound",
+        "name": "中野勝博",
+        "original_name": "中野勝博",
+        "popularity": 0.2549,
+        "profile_path": null,
+        "credit_id": "60ffe7ecdb72c03bfb1db3b7",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1555482,
+        "known_for_department": "Sound",
+        "name": "木村絵理子",
+        "original_name": "木村絵理子",
+        "popularity": 0.4784,
+        "profile_path": null,
+        "credit_id": "60ffe7e67304b5007e2cc6dc",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481692,
+        "known_for_department": "Visual Effects",
+        "name": "名倉靖博",
+        "original_name": "名倉靖博",
+        "popularity": 0.4416,
+        "profile_path": null,
+        "credit_id": "6133fa60b84f940043747731",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456830,
+        "known_for_department": "Visual Effects",
+        "name": "松本憲生",
+        "original_name": "松本憲生",
+        "popularity": 0.4251,
+        "profile_path": null,
+        "credit_id": "6133face1ac2920029e77b30",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488854,
+        "known_for_department": "Visual Effects",
+        "name": "中野悟史",
+        "original_name": "中野悟史",
+        "popularity": 0.2251,
+        "profile_path": "/eBq4UEztUsgM6bm2SDp9vgeorpc.jpg",
+        "credit_id": "6133fafecede6900870786e7",
+        "department": "Visual Effects",
+        "job": "Supervising Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570240,
+        "known_for_department": "Visual Effects",
+        "name": "伊東伸高",
+        "original_name": "伊東伸高",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "6133fa4664f71600629ef55c",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34928,
+        "known_for_department": "Visual Effects",
+        "name": "増田敏彦",
+        "original_name": "増田敏彦",
+        "popularity": 0.4215,
+        "profile_path": null,
+        "credit_id": "6133fa5c2cde98002b64ab24",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1297517,
+        "known_for_department": "Visual Effects",
+        "name": "亀田祥倫",
+        "original_name": "亀田祥倫",
+        "popularity": 0.4502,
+        "profile_path": null,
+        "credit_id": "6133faf32cde980089d84ebe",
+        "department": "Visual Effects",
+        "job": "Supervising Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2042871,
+        "known_for_department": "Visual Effects",
+        "name": "松竹徳幸",
+        "original_name": "松竹徳幸",
+        "popularity": 0.3681,
+        "profile_path": "/AtUqj8i5kKy9IQOileGXi1Hwzk2.jpg",
+        "credit_id": "6133fba7b7abb500622feaba",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110676,
+        "known_for_department": "Visual Effects",
+        "name": "福島敦子",
+        "original_name": "福島敦子",
+        "popularity": 0.3859,
+        "profile_path": null,
+        "credit_id": "6133fa314a2226002b6c0cfc",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3090000,
+        "known_for_department": "Visual Effects",
+        "name": "榎本柊斗",
+        "original_name": "榎本柊斗",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "6133fa50cede69002a148e88",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2520233,
+        "known_for_department": "Visual Effects",
+        "name": "前場健次",
+        "original_name": "前場健次",
+        "popularity": 0.2343,
+        "profile_path": null,
+        "credit_id": "6133fa4164f7160020e954a5",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2498179,
+        "known_for_department": "Visual Effects",
+        "name": "針金屋英郎",
+        "original_name": "針金屋英郎",
+        "popularity": 0.2517,
+        "profile_path": null,
+        "credit_id": "6133fa3ab84f94008ae691f8",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2124310,
+        "known_for_department": "Visual Effects",
+        "name": "向田隆",
+        "original_name": "向田隆",
+        "popularity": 0.369,
+        "profile_path": null,
+        "credit_id": "6133fa56cede690043e5e3de",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1345253,
+        "known_for_department": "Visual Effects",
+        "name": "村上泉",
+        "original_name": "村上泉",
+        "popularity": 0.3159,
+        "profile_path": null,
+        "credit_id": "63110ef79408ec0083e0d901",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1876691,
+        "known_for_department": "Camera",
+        "name": "関谷能弘",
+        "original_name": "関谷能弘",
+        "popularity": 0.4039,
+        "profile_path": null,
+        "credit_id": "61f6cba1cb802800ec031f7d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1144172,
+        "known_for_department": "Art",
+        "name": "中村豪希",
+        "original_name": "中村豪希",
+        "popularity": 0.2613,
+        "profile_path": null,
+        "credit_id": "61f6cb8e559d220091450c56",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1481692,
+        "known_for_department": "Visual Effects",
+        "name": "名倉靖博",
+        "original_name": "名倉靖博",
+        "popularity": 0.4416,
+        "profile_path": null,
+        "credit_id": "63966ce37304b5008c1139f2",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1821247,
+        "known_for_department": "Visual Effects",
+        "name": "鈴木博文",
+        "original_name": "鈴木博文",
+        "popularity": 0.3858,
+        "profile_path": "/vb6JC2n5pDwrY7QX9laj4shzIwX.jpg",
+        "credit_id": "63966c52a1a9ba00c878a2aa",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2124310,
+        "known_for_department": "Visual Effects",
+        "name": "向田隆",
+        "original_name": "向田隆",
+        "popularity": 0.369,
+        "profile_path": null,
+        "credit_id": "63966d112cefc2007c1efeb7",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2949054,
+        "known_for_department": "Visual Effects",
+        "name": "増田伸孝",
+        "original_name": "増田伸孝",
+        "popularity": 0.3542,
+        "profile_path": null,
+        "credit_id": "63966d2ed05a0300ae501ab4",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2160860,
+        "known_for_department": "Visual Effects",
+        "name": "末吉裕一郎",
+        "original_name": "末吉裕一郎",
+        "popularity": 0.2314,
+        "profile_path": null,
+        "credit_id": "63966d5ba1a9ba00942fdb06",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456829,
+        "known_for_department": "Visual Effects",
+        "name": "数井浩子",
+        "original_name": "数井浩子",
+        "popularity": 0.3341,
+        "profile_path": "/8sRlOLdI7HUFkMVOGyZdF3fHM90.jpg",
+        "credit_id": "63966c7e2cefc20084b51c40",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491875,
+        "known_for_department": "Visual Effects",
+        "name": "Abel Góngora",
+        "original_name": "Abel Góngora",
+        "popularity": 0.4441,
+        "profile_path": "/jZU8NupOBAFriwaZ2uHDFYNkq1O.jpg",
+        "credit_id": "63966e127304b5008469f25e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491894,
+        "known_for_department": "Visual Effects",
+        "name": "堀剛史",
+        "original_name": "堀剛史",
+        "popularity": 0.2673,
+        "profile_path": null,
+        "credit_id": "63966d1f79b3d4008adbd4f7",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1297517,
+        "known_for_department": "Visual Effects",
+        "name": "亀田祥倫",
+        "original_name": "亀田祥倫",
+        "popularity": 0.4502,
+        "profile_path": null,
+        "credit_id": "63966c618a88b2007d9325ad",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2160961,
+        "known_for_department": "Visual Effects",
+        "name": "関川成人",
+        "original_name": "関川成人",
+        "popularity": 0.2349,
+        "profile_path": null,
+        "credit_id": "63966dfa2cefc200a2fd99b1",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2040407,
+        "known_for_department": "Visual Effects",
+        "name": "小林直樹",
+        "original_name": "小林直樹",
+        "popularity": 0.3435,
+        "profile_path": null,
+        "credit_id": "63966d022cefc200d173122e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933138,
+        "known_for_department": "Visual Effects",
+        "name": "邓佳湄",
+        "original_name": "邓佳湄",
+        "popularity": 0.2823,
+        "profile_path": "/8gLA9LgBdM9ChaUjU5ZC09bcl4W.jpg",
+        "credit_id": "63966e268a88b2008a303cd4",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1631426,
+        "known_for_department": "Visual Effects",
+        "name": "木下絵李",
+        "original_name": "木下絵李",
+        "popularity": 0.2337,
+        "profile_path": null,
+        "credit_id": "639671d88a88b200c4e216f4",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2702912,
+        "known_for_department": "Visual Effects",
+        "name": "マッケルゴニック",
+        "original_name": "マッケルゴニック",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "63966d4c8a88b20091aa887a",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1545937,
+        "known_for_department": "Visual Effects",
+        "name": "Joan Jeong",
+        "original_name": "Joan Jeong",
+        "popularity": 0.1687,
+        "profile_path": null,
+        "credit_id": "63966e4479b3d400bdf3e012",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3221771,
+        "known_for_department": "Visual Effects",
+        "name": "モコちゃん",
+        "original_name": "モコちゃん",
+        "popularity": 0.2876,
+        "profile_path": "/6bkv5XJQUuVnMCgUNNWEbCVKptQ.jpg",
+        "credit_id": "63970cc5a1a9ba00e20781e7",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110499,
+        "known_for_department": "Writing",
+        "name": "松本大洋",
+        "original_name": "松本大洋",
+        "popularity": 0.1511,
+        "profile_path": "/h8cv1KJ6cLjh4dmsO8tvHZqXncy.jpg",
+        "credit_id": "5db37bb84083b30013536293",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93107,
+        "known_for_department": "Directing",
+        "name": "湯浅政明",
+        "original_name": "湯浅政明",
+        "popularity": 0.7337,
+        "profile_path": "/c8w5a2ExhnRPV3lN4D2CvOwGQJT.jpg",
+        "credit_id": "5db37c0cd2c0c100180e7e77",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1181167,
+        "known_for_department": "Writing",
+        "name": "野木亜紀子",
+        "original_name": "野木亜紀子",
+        "popularity": 0.5463,
+        "profile_path": "/3V54tKGAWkFhN9oSeazgWqYI9ED.jpg",
+        "credit_id": "5edc6b998d52c90022a41e6d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2668763,
+        "known_for_department": "Writing",
+        "name": "古川日出男",
+        "original_name": "古川日出男",
+        "popularity": 0.1496,
+        "profile_path": "/vn3hoQkTf7ZfEMqoWHbpFqJcjMR.jpg",
+        "credit_id": "5edc6be41dcb77001e02a452",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 15060,
+        "name": "period drama"
+      },
+      {
+        "id": 15126,
+        "name": "historical"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 276996,
+        "name": "classic cartoon"
+      },
+      {
+        "id": 298239,
+        "name": "heike story"
+      },
+      {
+        "id": 331863,
+        "name": "muromachi period"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sydney Film Festival",
+            "release_date": "2022-06-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2021-09-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-04-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Angoulême Festival",
+            "release_date": "2022-03-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-Ray",
+            "release_date": "2023-07-26T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Glasgow Film Festival",
+            "release_date": "2022-03-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-09-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray & DVD",
+            "release_date": "2023-08-07T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Japanese Film Festival",
+            "release_date": "2023-04-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "2021-09-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-10-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo International Film Festival",
+            "release_date": "2021-10-30T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-05-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray & DVD",
+            "release_date": "2022-12-14T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Busan International Film Festival",
+            "release_date": "2021-10-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-12-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "2023-01-06T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Player",
+            "release_date": "2025-08-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CDA Premium",
+            "release_date": "2025-09-02T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Polsat Box Go",
+            "release_date": "2025-11-11T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "MOJEeKINO",
+            "release_date": "2025-11-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-11T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-09-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-12-20T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray & DVD",
+            "release_date": "2023-01-24T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

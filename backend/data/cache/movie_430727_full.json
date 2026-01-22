@@ -1,0 +1,859 @@
+{
+  "adult": false,
+  "backdrop_path": "/sbkSGGHFtTfKMVIkYLBVWXWTX57.jpg",
+  "belongs_to_collection": null,
+  "budget": 3694425,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "Guerra"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "História"
+    }
+  ],
+  "homepage": "",
+  "id": 430727,
+  "imdb_id": "tt5475734",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Dywizjon 303. Historia prawdziwa",
+  "overview": "Esta é a história do esquadrão de caça conceituado, no qual serviu principalmente aviadores da Polônia, na história do combate aéreo e na defesa heroica da Inglaterra durante a Segunda Guerra Mundial, a Batalha da Grã-Bretanha contra ataques nazistas. O Esquadrão 303 disparou três vezes mais aviões da Luftwaffe do que qualquer outro esquadrão aliado.",
+  "popularity": 5.7966,
+  "poster_path": "/gVzgZBoXsC3rm7IoY02Tmf3Ku5Z.jpg",
+  "production_companies": [
+    {
+      "id": 68038,
+      "logo_path": "/nT7jNpJw7UR4MD8hV8PXtBGREb.png",
+      "name": "Film Media",
+      "origin_country": "PL"
+    },
+    {
+      "id": 54734,
+      "logo_path": "/kywbYYwd2xgXFGeaSqQQVAZeuqv.png",
+      "name": "Lightcraft",
+      "origin_country": "PL"
+    },
+    {
+      "id": 68045,
+      "logo_path": "/nBxkA3fLDpLhngvt8l5lun7fJxk.png",
+      "name": "Studio Orka",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2018-08-31",
+  "revenue": 7694425,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Esquadrão 303",
+  "video": false,
+  "vote_average": 5.861,
+  "vote_count": 122,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589512,
+        "known_for_department": "Acting",
+        "name": "Maciej Zakościelny",
+        "original_name": "Maciej Zakościelny",
+        "popularity": 0.3132,
+        "profile_path": "/vo8Ql04OfabQahFm2DtzwlTJzA2.jpg",
+        "cast_id": 0,
+        "character": "Jan 'Donald' Zumbach",
+        "credit_id": "5856a5ea9251416f63052974",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118762,
+        "known_for_department": "Acting",
+        "name": "Piotr Adamczyk",
+        "original_name": "Piotr Adamczyk",
+        "popularity": 0.6398,
+        "profile_path": "/sOhY6yYAP0IgnCweTpjhxQ659Qt.jpg",
+        "cast_id": 1,
+        "character": "Witold Urbanowicz",
+        "credit_id": "5856a60392514146c903d338",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1724238,
+        "known_for_department": "Acting",
+        "name": "Krzysztof Kwiatkowski",
+        "original_name": "Krzysztof Kwiatkowski",
+        "popularity": 0.08,
+        "profile_path": "/w5OdeEVMaTNN8kBbzCaLZYhSn2g.jpg",
+        "cast_id": 2,
+        "character": "Mirosław 'Ox' Ferić",
+        "credit_id": "5856a61b92514175ad042c11",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266775,
+        "known_for_department": "Acting",
+        "name": "Maciej Cymorek",
+        "original_name": "Maciej Cymorek",
+        "popularity": 0.1736,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Josef František",
+        "credit_id": "5856a649c3a368258c045edf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1252496,
+        "known_for_department": "Acting",
+        "name": "Cara Theobold",
+        "original_name": "Cara Theobold",
+        "popularity": 1.7373,
+        "profile_path": "/rEfG0CWqOTcqUU34IiV3unQOHca.jpg",
+        "cast_id": 39,
+        "character": "Victoria brown",
+        "credit_id": "5d2aee73be4b3612f6a989db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 140666,
+        "known_for_department": "Acting",
+        "name": "Anna Prus",
+        "original_name": "Anna Prus",
+        "popularity": 0.2384,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Jagoda Kochan",
+        "credit_id": "5856a65fc3a3682fb805ba3f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 966842,
+        "known_for_department": "Acting",
+        "name": "Maciej Marczewski",
+        "original_name": "Maciej Marczewski",
+        "popularity": 0.3288,
+        "profile_path": "/1yWlZGGb91W1yhgXFa6dZDb9yK8.jpg",
+        "cast_id": 6,
+        "character": "Zdzisław Krasnodębski",
+        "credit_id": "5856a673c3a3682dfe05027c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143957,
+        "known_for_department": "Acting",
+        "name": "Jan Wieczorkowski",
+        "original_name": "Jan Wieczorkowski",
+        "popularity": 0.3439,
+        "profile_path": "/vpEnYprsUYI8z8rkd1CaWGXb9tC.jpg",
+        "cast_id": 7,
+        "character": "Ludwik Witold Paszkiewicz",
+        "credit_id": "5856a684925141724d023bd7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136575,
+        "known_for_department": "Acting",
+        "name": "Antoni Królikowski",
+        "original_name": "Antoni Królikowski",
+        "popularity": 0.384,
+        "profile_path": "/mPBPASLvJcnChPkFYkjMqJw8vnW.jpg",
+        "cast_id": 10,
+        "character": "Witold 'Tolo' Łokuciewski",
+        "credit_id": "59c893999251415b87067d4e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034081,
+        "known_for_department": "Production",
+        "name": "Jacek Samojłowicz",
+        "original_name": "Jacek Samojłowicz",
+        "popularity": 0.1772,
+        "profile_path": "/fLZ2ajP3L6SxOxUA8Qv89G6GzOG.jpg",
+        "cast_id": 38,
+        "character": "Hermann Göring",
+        "credit_id": "5cf40e56c3a368617820d067",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1972679,
+        "known_for_department": "Acting",
+        "name": "Christoph Rurka",
+        "original_name": "Christoph Rurka",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Arkady Fiedler",
+        "credit_id": "658774382dffd85c3744fcde",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2680803,
+        "known_for_department": "Acting",
+        "name": "Hubert Miłkowski",
+        "original_name": "Hubert Miłkowski",
+        "popularity": 0.5036,
+        "profile_path": "/ujtCfa8wW9TKcOMVvVbqeaQYNNa.jpg",
+        "cast_id": 45,
+        "character": "Kazimierz Wunsche",
+        "credit_id": "661add0a982f74016346b5bc",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2227485,
+        "known_for_department": "Camera",
+        "name": "Jarosław Wnuk",
+        "original_name": "Jarosław Wnuk",
+        "popularity": 0.0364,
+        "profile_path": null,
+        "credit_id": "658775a9e295b470ca581996",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083427,
+        "known_for_department": "Directing",
+        "name": "Denis Delić",
+        "original_name": "Denis Delić",
+        "popularity": 0.2971,
+        "profile_path": "/9E7dHWmviJMM76VnaDnLTCNvso2.jpg",
+        "credit_id": "5856a6b3c3a368258c045f31",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610284,
+        "known_for_department": "Visual Effects",
+        "name": "Daniel Markowicz",
+        "original_name": "Daniel Markowicz",
+        "popularity": 0.1496,
+        "profile_path": null,
+        "credit_id": "66185b9f6f31af017c9a39bf",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1806354,
+        "known_for_department": "Production",
+        "name": "Piotr Galon",
+        "original_name": "Piotr Galon",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "66191f7d4da3d40149917dcb",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1806354,
+        "known_for_department": "Production",
+        "name": "Piotr Galon",
+        "original_name": "Piotr Galon",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "66191f84dd731b017e0adc40",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2547035,
+        "known_for_department": "Acting",
+        "name": "Włodzimierz Preyss",
+        "original_name": "Włodzimierz Preyss",
+        "popularity": 0.0685,
+        "profile_path": null,
+        "credit_id": "662d7c99f6fd18012b226524",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1588649,
+        "known_for_department": "Writing",
+        "name": "Piotr Czaja",
+        "original_name": "Piotr Czaja",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "663e51137cf2e8c882e8e008",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102014,
+        "known_for_department": "Writing",
+        "name": "Krzysztof Burdza",
+        "original_name": "Krzysztof Burdza",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "credit_id": "5b6a233d925141034100ea62",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102013,
+        "known_for_department": "Writing",
+        "name": "Zdzisław Samojłowicz",
+        "original_name": "Zdzisław Samojłowicz",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "5b6a2326925141404f0e2b62",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102015,
+        "known_for_department": "Writing",
+        "name": "Tomasz Kępski",
+        "original_name": "Tomasz Kępski",
+        "popularity": 0.047,
+        "profile_path": null,
+        "credit_id": "5b6a23750e0a267ee50fa765",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1963851,
+        "known_for_department": "Production",
+        "name": "Magdalena Zimecka",
+        "original_name": "Magdalena Zimecka",
+        "popularity": 0.1338,
+        "profile_path": null,
+        "credit_id": "66cf4dce2e4a62958366ebb4",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1134839,
+        "known_for_department": "Editing",
+        "name": "Marcin Kot Bastkowski",
+        "original_name": "Marcin Kot Bastkowski",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "credit_id": "5cc712029251410961f5a68c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299981,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Malgorzata Skorupa",
+        "original_name": "Malgorzata Skorupa",
+        "popularity": 0.0436,
+        "profile_path": null,
+        "credit_id": "5cc713370e0a267f78eefad1",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299975,
+        "known_for_department": "Sound",
+        "name": "Łukasz Pieprzyk",
+        "original_name": "Łukasz Pieprzyk",
+        "popularity": 0.0364,
+        "profile_path": null,
+        "credit_id": "5cc7115dc3a3684b348466bc",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299985,
+        "known_for_department": "Visual Effects",
+        "name": "Sylwia Tararuj",
+        "original_name": "Sylwia Tararuj",
+        "popularity": 0.0364,
+        "profile_path": null,
+        "credit_id": "5cc713fac3a3683ad583bcc7",
+        "department": "Visual Effects",
+        "job": "Visual Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3698,
+        "known_for_department": "Production",
+        "name": "Julie Dunne",
+        "original_name": "Julie Dunne",
+        "popularity": 0.1003,
+        "profile_path": null,
+        "credit_id": "5cc712be0e0a263447ef05c6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034081,
+        "known_for_department": "Production",
+        "name": "Jacek Samojłowicz",
+        "original_name": "Jacek Samojłowicz",
+        "popularity": 0.1772,
+        "profile_path": "/fLZ2ajP3L6SxOxUA8Qv89G6GzOG.jpg",
+        "credit_id": "5cc71138c3a36820b585f717",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299976,
+        "known_for_department": "Camera",
+        "name": "Waldemar Szmidt",
+        "original_name": "Waldemar Szmidt",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "5cc711799251415d3bf6b49b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299980,
+        "known_for_department": "Art",
+        "name": "Marian Zawaliński",
+        "original_name": "Marian Zawaliński",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "5cc712ea9251415cd2fb62dc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299986,
+        "known_for_department": "Visual Effects",
+        "name": "Art Borowiec",
+        "original_name": "Art Borowiec",
+        "popularity": 0.0436,
+        "profile_path": null,
+        "credit_id": "5cc7141bc3a368467783a521",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299972,
+        "known_for_department": "Production",
+        "name": "Radoslaw Miskiewicz",
+        "original_name": "Radoslaw Miskiewicz",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "5cc710ef92514120dbf5c9b0",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40269,
+        "known_for_department": "Editing",
+        "name": "Peter Devaney Flanagan",
+        "original_name": "Peter Devaney Flanagan",
+        "popularity": 0.156,
+        "profile_path": null,
+        "credit_id": "5cc7121992514151ca077f8d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299964,
+        "known_for_department": "Writing",
+        "name": "Arkady Fiedler",
+        "original_name": "Arkady Fiedler",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "5cc70fc09251415d3bf6b26f",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3697,
+        "known_for_department": "Production",
+        "name": "Steve Daly",
+        "original_name": "Steve Daly",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "credit_id": "5cc7124cc3a3684b3484686f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1611201,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ewa Drobiec",
+        "original_name": "Ewa Drobiec",
+        "popularity": 0.1712,
+        "profile_path": null,
+        "credit_id": "5ccb632d0e0a262fcd000184",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302900,
+        "known_for_department": "Art",
+        "name": "Emil Kostecki",
+        "original_name": "Emil Kostecki",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "5ccb641c925141045125e1d1",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1651822,
+        "known_for_department": "Production",
+        "name": "Tadeusz Motylewski",
+        "original_name": "Tadeusz Motylewski",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "credit_id": "5ccb64e8c3a36836b3da1a53",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302894,
+        "known_for_department": "Directing",
+        "name": "Monika Lewicka",
+        "original_name": "Monika Lewicka",
+        "popularity": 0.0268,
+        "profile_path": null,
+        "credit_id": "5ccb63a30e0a262fb30004da",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302892,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Grazyna Kula",
+        "original_name": "Grazyna Kula",
+        "popularity": 0.066,
+        "profile_path": null,
+        "credit_id": "5ccb6347925141046f25ff21",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610198,
+        "known_for_department": "Art",
+        "name": "Stanislaw Porczyk",
+        "original_name": "Stanislaw Porczyk",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "5ccb64350e0a262fb8ffe9b2",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302909,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Magdalena Sekrecka",
+        "original_name": "Magdalena Sekrecka",
+        "popularity": 0.1092,
+        "profile_path": null,
+        "credit_id": "5ccb64cb0e0a262fcd000472",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1610047,
+        "known_for_department": "Camera",
+        "name": "Andrzej Glacel",
+        "original_name": "Andrzej Glacel",
+        "popularity": 0.1694,
+        "profile_path": null,
+        "credit_id": "5ccb648fc3a36836beda01c7",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2302913,
+        "known_for_department": "Sound",
+        "name": "Agnieszka Putkiewicz",
+        "original_name": "Agnieszka Putkiewicz",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "credit_id": "5ccb65430e0a262fcd0005f8",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610582,
+        "known_for_department": "Sound",
+        "name": "Bart Putkiewicz",
+        "original_name": "Bart Putkiewicz",
+        "popularity": 0.2234,
+        "profile_path": null,
+        "credit_id": "66e71ab03768a73f8d91771c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610582,
+        "known_for_department": "Sound",
+        "name": "Bart Putkiewicz",
+        "original_name": "Bart Putkiewicz",
+        "popularity": 0.2234,
+        "profile_path": null,
+        "credit_id": "66e71ab93768a73f8d917732",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1963848,
+        "known_for_department": "Production",
+        "name": "Jacek Kulczycki",
+        "original_name": "Jacek Kulczycki",
+        "popularity": 0.1401,
+        "profile_path": null,
+        "credit_id": "67166ffdbd91c83829d77907",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023736,
+        "known_for_department": "Crew",
+        "name": "Małgorzata Potocka",
+        "original_name": "Małgorzata Potocka",
+        "popularity": 0.0293,
+        "profile_path": null,
+        "credit_id": "671d063527bd57d91f62cc6a",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5050901,
+        "known_for_department": "Production",
+        "name": "Henryk Mazur",
+        "original_name": "Henryk Mazur",
+        "popularity": 0.0318,
+        "profile_path": null,
+        "credit_id": "6730d05c3d1b19bf3dbc60a1",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9672,
+        "name": "based on true story"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-07-16T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-07-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-08-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2019-04-29T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-10-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-08-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

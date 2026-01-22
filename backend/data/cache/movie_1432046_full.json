@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1432046,
+  "imdb_id": null,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "남친깨기전에빨리빼!",
+  "overview": "",
+  "popularity": 45.8299,
+  "poster_path": "/g0NN2e7WXekSGFyjtf4fTLEsOEh.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2021-03-07",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "남친깨기전에빨리빼!",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3164807,
+        "known_for_department": "Acting",
+        "name": "윤율",
+        "original_name": "윤율",
+        "popularity": 5.247,
+        "profile_path": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "67a99bb9b4129a41b0060507",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1907997,
+        "known_for_department": "Acting",
+        "name": "민도윤",
+        "original_name": "민도윤",
+        "popularity": 6.9672,
+        "profile_path": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "67a9a1f72fbac40b9093726d",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155477,
+        "name": "softcore"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-03-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

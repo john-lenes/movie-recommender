@@ -1,0 +1,567 @@
+{
+  "adult": false,
+  "backdrop_path": "/4PKfa0zltSrp1BJoLl8zfvYXaac.jpg",
+  "belongs_to_collection": {
+    "id": 913777,
+    "name": "Novos Deuses Coleção",
+    "poster_path": "/4j4qVk3mfTYfr7EEBtFX91MyiKY.jpg",
+    "backdrop_path": "/350ladpvBaHBmsx0T59uffie3kk.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    }
+  ],
+  "homepage": "",
+  "id": 663558,
+  "imdb_id": "tt13269670",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "新神榜：哪吒重生",
+  "overview": "Nezha, um fã de corridas que ganha a vida como entregador, encontra velhos inimigos e precisa redescobrir seus poderes para proteger a família e os amigos.",
+  "popularity": 5.1115,
+  "poster_path": "/gvcFFHbxpJSaasHa8S4lx4WvbRW.jpg",
+  "production_companies": [
+    {
+      "id": 123270,
+      "logo_path": "/4KxfGr13VXMr44og11hzpdwfQDQ.png",
+      "name": "bilibili",
+      "origin_country": "CN"
+    },
+    {
+      "id": 69484,
+      "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+      "name": "Alibaba Pictures Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 67089,
+      "logo_path": "/1wnxolUB5NHZARmeeZjVXKpGKaI.png",
+      "name": "Light Chaser Animation Studios",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2021-02-06",
+  "revenue": 70000000,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nezha: O Renascer de um Deus",
+  "video": false,
+  "vote_average": 8.057,
+  "vote_count": 499,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185754,
+        "known_for_department": "Acting",
+        "name": "Yang Tianxiang",
+        "original_name": "杨天翔",
+        "popularity": 0.8699,
+        "profile_path": "/jEwKu9VEtl0ecc6oA264U3iJV08.jpg",
+        "cast_id": 2,
+        "character": "Li Yunxiang (voice)",
+        "credit_id": "6046574ad8e2250045540453",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2974840,
+        "known_for_department": "Acting",
+        "name": "张赫",
+        "original_name": "张赫",
+        "popularity": 0.2928,
+        "profile_path": "/3jY6ROHfcbFbYfEMEGT5ddeCqhv.jpg",
+        "cast_id": 3,
+        "character": "Masked Guy (voice)",
+        "credit_id": "60465756fab3fa005721bf75",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2718152,
+        "known_for_department": "Acting",
+        "name": "宣晓鸣",
+        "original_name": "宣晓鸣",
+        "popularity": 0.6357,
+        "profile_path": "/uWDY5TtOBeSklERV2CkhzXfhU6H.jpg",
+        "cast_id": 4,
+        "character": "Long Wang (voice)",
+        "credit_id": "6046575f35a61e0046bb97d6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2463716,
+        "known_for_department": "Acting",
+        "name": "李詩萌",
+        "original_name": "李詩萌",
+        "popularity": 1.1768,
+        "profile_path": "/i7hKjBsuxiMHuj3v68yWhbLXNbi.jpg",
+        "cast_id": 5,
+        "character": "Dr. Su Junzhu (voice)",
+        "credit_id": "6046576ad185720077979ac9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2974841,
+        "known_for_department": "Acting",
+        "name": "Keer Zhu",
+        "original_name": "Keer Zhu",
+        "popularity": 0.2472,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Kasha (voice)",
+        "credit_id": "604657755f622b00598743d6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2974842,
+        "known_for_department": "Acting",
+        "name": "Ling Zhenhe",
+        "original_name": "凌振赫",
+        "popularity": 0.6762,
+        "profile_path": "/iIIFfAfOgR1zdq20ZN8rfc6QO65.jpg",
+        "cast_id": 7,
+        "character": "Third Prince (voice)",
+        "credit_id": "6046577e35a61e007285e7c5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2720411,
+        "known_for_department": "Acting",
+        "name": "Liu Ruoban",
+        "original_name": "Liu Ruoban",
+        "popularity": 0.3143,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Father (voice)",
+        "credit_id": "6046578770b444005a2b4599",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2585864,
+        "known_for_department": "Acting",
+        "name": "張遙函",
+        "original_name": "張遙函",
+        "popularity": 0.4915,
+        "profile_path": "/7waCN0ceU2X7VccG5ni14LMGrsA.jpg",
+        "cast_id": 9,
+        "character": "Father (voice)",
+        "credit_id": "6046579170b444002a9a4440",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2463715,
+        "known_for_department": "Acting",
+        "name": "Guo Haoran",
+        "original_name": "郭浩然",
+        "popularity": 0.4899,
+        "profile_path": "/tRDkVIAt8z8jmpnLwH2rbgJ5uln.jpg",
+        "cast_id": 10,
+        "character": "Li Yunxiang's Bother (voice)",
+        "credit_id": "6046579a6cf3d5002bcacf9b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2974843,
+        "known_for_department": "Acting",
+        "name": "高增志",
+        "original_name": "高增志",
+        "popularity": 0.201,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Donghai Yaksa (voice)",
+        "credit_id": "604657a4fab3fa005721bfc7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2844582,
+        "known_for_department": "Acting",
+        "name": "张喆",
+        "original_name": "张喆",
+        "popularity": 0.6062,
+        "profile_path": "/lmOs5BVt0iHqHNBbhuFwNfjfDrL.jpg",
+        "cast_id": 15,
+        "character": "young Nezha (voice)",
+        "credit_id": "614cf04d168935002903cc99",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1089446,
+        "known_for_department": "Crew",
+        "name": "Chen Mu-Chuan",
+        "original_name": "Chen Mu-Chuan",
+        "popularity": 0.3164,
+        "profile_path": null,
+        "credit_id": "6064645e1685da003d1a5ebb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3957215,
+        "known_for_department": "Production",
+        "name": "Lu Xi",
+        "original_name": "Lu Xi",
+        "popularity": 0.1088,
+        "profile_path": "/w68RoBeLY5OU27Fh3pDaoHqqmyV.jpg",
+        "credit_id": "640b066f3a4a1200b6eab6e6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2974841,
+        "known_for_department": "Acting",
+        "name": "Keer Zhu",
+        "original_name": "Keer Zhu",
+        "popularity": 0.2472,
+        "profile_path": null,
+        "credit_id": "640b08099dee58007ce2ecb0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1665497,
+        "known_for_department": "Directing",
+        "name": "赵霁",
+        "original_name": "赵霁",
+        "popularity": 0.5855,
+        "profile_path": "/3SbMsocDUMhh6BMPFen0Mv92fzl.jpg",
+        "credit_id": "5e1cde8e4df2910015bec80f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2980083,
+        "known_for_department": "Writing",
+        "name": "许仲琳",
+        "original_name": "许仲琳",
+        "popularity": 0.325,
+        "profile_path": "/pgfrhZ0VHMAbmlGniYIZsYQWRR.jpg",
+        "credit_id": "67af5770e7908d6cc48e75e9",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5246946,
+        "known_for_department": "Writing",
+        "name": "陆西星",
+        "original_name": "陆西星",
+        "popularity": 0.2644,
+        "profile_path": null,
+        "credit_id": "67af59d26d1a7b60523b71c1",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 5484,
+        "name": "reincarnation"
+      },
+      {
+        "id": 12554,
+        "name": "dragon"
+      },
+      {
+        "id": 234890,
+        "name": "xianxia"
+      },
+      {
+        "id": 278823,
+        "name": "3d animation"
+      },
+      {
+        "id": 290607,
+        "name": "feng shen yanyi"
+      },
+      {
+        "id": 290656,
+        "name": "nezha"
+      },
+      {
+        "id": 315535,
+        "name": "donghua"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-02-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-08-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-02-09T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "IMAX",
+            "release_date": "2021-02-06T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-02-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "13+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-02-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-02-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-02-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-04-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

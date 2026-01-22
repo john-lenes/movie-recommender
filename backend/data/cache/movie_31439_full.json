@@ -1,0 +1,722 @@
+{
+  "adult": false,
+  "backdrop_path": "/s7xVB5OPWw6GO40VBeEJcX9EwNt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "Guerra"
+    }
+  ],
+  "homepage": "",
+  "id": 31439,
+  "imdb_id": "tt0110081",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "活着",
+  "overview": "Narra a história de uma abastada família através das várias guerras e revoluções da China Imperial. Após perder sua fortuna e sua honra, eles têm de aprender a lutar por sua sobrevivência, enfrentando a separação, a morte e os traumas advindos das reformas radicais impostas ao país.",
+  "popularity": 5.0547,
+  "poster_path": "/bv0qREWTw8TPAtgt22ELp1UlKVl.jpg",
+  "production_companies": [
+    {
+      "id": 1078,
+      "logo_path": null,
+      "name": "Shanghai Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 25299,
+      "logo_path": null,
+      "name": "Era International Ltd",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1994-05-18",
+  "revenue": 0,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tempo de Viver",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 353,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76913,
+        "known_for_department": "Acting",
+        "name": "葛优",
+        "original_name": "葛优",
+        "popularity": 1.0886,
+        "profile_path": "/s0JXQhCmKUmtxiuI2rjH8hfE470.jpg",
+        "cast_id": 4,
+        "character": "Xu Fugui",
+        "credit_id": "52fe447d9251416c91012969",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 643,
+        "known_for_department": "Acting",
+        "name": "巩俐",
+        "original_name": "巩俐",
+        "popularity": 2.4947,
+        "profile_path": "/m3q1rIEdZmOnUVC0MSo1FcIGvp9.jpg",
+        "cast_id": 5,
+        "character": "Xu Jiazhen",
+        "credit_id": "52fe447d9251416c9101296d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146044,
+        "known_for_department": "Acting",
+        "name": "牛犇",
+        "original_name": "牛犇",
+        "popularity": 0.6939,
+        "profile_path": "/4OotJ4kv3BbLHfdBl5qRHyD25U3.jpg",
+        "cast_id": 7,
+        "character": "Town Chief",
+        "credit_id": "52fe447d9251416c91012977",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 548608,
+        "known_for_department": "Acting",
+        "name": "郭涛",
+        "original_name": "郭涛",
+        "popularity": 1.0866,
+        "profile_path": "/5MZW82Bw5hif66xcBgwx9Lvxkdo.jpg",
+        "cast_id": 13,
+        "character": "Chunsheng",
+        "credit_id": "58e333ccc3a3684a7900afc9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15170,
+        "known_for_department": "Acting",
+        "name": "姜武",
+        "original_name": "姜武",
+        "popularity": 1.2269,
+        "profile_path": "/f8BXK5pb9yoREZq3ROM9hSBgvlk.jpg",
+        "cast_id": 9,
+        "character": "Wan Erxi",
+        "credit_id": "545bd6b6c3a3685368001bd5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17382,
+        "known_for_department": "Acting",
+        "name": "倪大红",
+        "original_name": "倪大红",
+        "popularity": 1.5381,
+        "profile_path": "/Ap7oensmQKkeE5zKRhu7R1ieJFs.jpg",
+        "cast_id": 14,
+        "character": "Long'er",
+        "credit_id": "58e3340292514128100189fa",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1789263,
+        "known_for_department": "Acting",
+        "name": "刘天池",
+        "original_name": "刘天池",
+        "popularity": 0.3915,
+        "profile_path": "/2zwMq85pjkYaan56MeoTAtg2d0T.jpg",
+        "cast_id": 46,
+        "character": "Xu Fengxia",
+        "credit_id": "6612bff31f33190163c2522f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3730603,
+        "known_for_department": "Acting",
+        "name": "Zhang Lu",
+        "original_name": "Zhang Lu",
+        "popularity": 0.4119,
+        "profile_path": "/9TgpDYx0GjvLL0MBuYvYhpO9Ecx.jpg",
+        "cast_id": 47,
+        "character": "Young Fengxia",
+        "credit_id": "6612df70a6a4c10186bc1bc1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1789268,
+        "known_for_department": "Acting",
+        "name": "Dong Fei",
+        "original_name": "Dong Fei",
+        "popularity": 0.3955,
+        "profile_path": "/vpiQOacKMMiSdTbJWTNN6wq1RVa.jpg",
+        "cast_id": 48,
+        "character": "Xu Youqing",
+        "credit_id": "6612eb6f13af5f017dda6aa5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1417404,
+        "known_for_department": "Acting",
+        "name": "Huang Zongluo",
+        "original_name": "Huang Zongluo",
+        "popularity": 0.2817,
+        "profile_path": "/9fMZ9Xq7a36frcTQZxUFmNq4WoW.jpg",
+        "cast_id": 44,
+        "character": "Fugui's Dad",
+        "credit_id": "65cdbd82e61e6d01864d23a5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1789269,
+        "known_for_department": "Acting",
+        "name": "Liu Yanjin",
+        "original_name": "Liu Yanjin",
+        "popularity": 0.2433,
+        "profile_path": "/x2twsC18dYQXu5SF4C7yMOTBdoQ.jpg",
+        "cast_id": 49,
+        "character": "Fugui's Mom",
+        "credit_id": "6612ec1313af5f014ada66be",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1789270,
+        "known_for_department": "Acting",
+        "name": "Li Lianyi",
+        "original_name": "Li Lianyi",
+        "popularity": 0.4803,
+        "profile_path": "/g5x3gwjuQnTL7RvF7QxJ0XwATva.jpg",
+        "cast_id": 20,
+        "character": "Sgt. Lao Quan",
+        "credit_id": "58e3358bc3a3684aa400af03",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1299621,
+        "known_for_department": "Acting",
+        "name": "苏岩",
+        "original_name": "苏岩",
+        "popularity": 0.2903,
+        "profile_path": "/nl6QEAaFbwMUW8TniFILeo4zrtu.jpg",
+        "cast_id": 50,
+        "character": "Obstetric Nurse",
+        "credit_id": "6612f1c613af5f017dda6c81",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1789273,
+        "known_for_department": "Acting",
+        "name": "趙毓秀",
+        "original_name": "趙毓秀",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Physician Wang",
+        "credit_id": "66b17ad75465528a8b911907",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4939745,
+        "known_for_department": "Acting",
+        "name": "肖婕",
+        "original_name": "肖婕",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Young Fengxia",
+        "credit_id": "66e3d4870000000000b9752d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4939748,
+        "known_for_department": "Acting",
+        "name": "张康",
+        "original_name": "张康",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Mantou",
+        "credit_id": "66e3d4f80000000000b981a1",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134038,
+        "known_for_department": "Acting",
+        "name": "董立範",
+        "original_name": "董立範",
+        "popularity": 0.4936,
+        "profile_path": "/kWfHuXC8y3i35p5cefVJDWHkNHl.jpg",
+        "cast_id": 60,
+        "character": "",
+        "credit_id": "67f024f548d6f031b0ad199a",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27074,
+        "known_for_department": "Writing",
+        "name": "芦苇",
+        "original_name": "芦苇",
+        "popularity": 0.5551,
+        "profile_path": "/oA1gyOK90SpL2lGEqGPB34C1XZO.jpg",
+        "credit_id": "52fe447d9251416c9101295f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126520,
+        "known_for_department": "Writing",
+        "name": "Yu Hua",
+        "original_name": "Yu Hua",
+        "popularity": 0.2874,
+        "profile_path": "/9HiGJ6hmiqU37M1bjEaVBZeIBEA.jpg",
+        "credit_id": "52fe447d9251416c91012965",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 607,
+        "known_for_department": "Directing",
+        "name": "Yimou Zhang",
+        "original_name": "张艺谋",
+        "popularity": 1.2444,
+        "profile_path": "/uU5vECl94jDQYjiRk4eOpVRMEi9.jpg",
+        "credit_id": "653be81be894a600ad56247a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72204,
+        "known_for_department": "Camera",
+        "name": "吕乐",
+        "original_name": "吕乐",
+        "popularity": 0.3406,
+        "profile_path": "/qeBsS9YrdrFxQZ6y2DndLuN563c.jpg",
+        "credit_id": "589612e7c3a368627c008811",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 64991,
+        "known_for_department": "Production",
+        "name": "Yau Fook-Sang",
+        "original_name": "Chiu Fu-Sheng",
+        "popularity": 0.1557,
+        "profile_path": "/yJFlT0vAl1noG1nuucGMAWTvapI.jpg",
+        "credit_id": "5b62639bc3a36818880241bd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2097769,
+        "known_for_department": "Production",
+        "name": "葛福鸿",
+        "original_name": "葛福鸿",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5b6263a6925141404f01fb29",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097771,
+        "known_for_department": "Production",
+        "name": "Christophe Tseng",
+        "original_name": "Christophe Tseng",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "5b6263b5c3a368189402a942",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64997,
+        "known_for_department": "Editing",
+        "name": "杜媛",
+        "original_name": "杜媛",
+        "popularity": 0.3023,
+        "profile_path": null,
+        "credit_id": "5b6263cac3a3681888024209",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097774,
+        "known_for_department": "Sound",
+        "name": "Tomeno Geya",
+        "original_name": "Tomeno Geya",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "credit_id": "5b626403c3a368189402a9a3",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1548732,
+        "known_for_department": "Sound",
+        "name": "伊藤進一",
+        "original_name": "伊藤進一",
+        "popularity": 0.2293,
+        "profile_path": null,
+        "credit_id": "5b62641ec3a3681899020b8f",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1702980,
+        "known_for_department": "Sound",
+        "name": "Koshiro Jinbo",
+        "original_name": "Koshiro Jinbo",
+        "popularity": 0.2544,
+        "profile_path": null,
+        "credit_id": "5b62642a0e0a267eed025aac",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097776,
+        "known_for_department": "Sound",
+        "name": "Yoshihiro Nakayama",
+        "original_name": "Yoshihiro Nakayama",
+        "popularity": 0.0576,
+        "profile_path": null,
+        "credit_id": "5b62644692514140600226c3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097777,
+        "known_for_department": "Visual Effects",
+        "name": "Tôru Adachi",
+        "original_name": "Tôru Adachi",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "5b6264630e0a267ef40240f4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 551534,
+        "known_for_department": "Art",
+        "name": "Cao Juiping",
+        "original_name": "Cao Juiping",
+        "popularity": 0.3181,
+        "profile_path": null,
+        "credit_id": "5d6b87e2549dda24447e3e27",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4939755,
+        "known_for_department": "Directing",
+        "name": "郑泉宝",
+        "original_name": "郑泉宝",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "66e3d6bf9013fe872223e148",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4290343,
+        "known_for_department": "Acting",
+        "name": "张晓春",
+        "original_name": "张晓春",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "66e3d90c9013fe872223e227",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1335,
+        "known_for_department": "Writing",
+        "name": "王斌",
+        "original_name": "王斌",
+        "popularity": 0.638,
+        "profile_path": null,
+        "credit_id": "66e3d9a40000000000b98324",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2108951,
+        "known_for_department": "Directing",
+        "name": "Meng Weibing",
+        "original_name": "Meng Weibing",
+        "popularity": 0.1305,
+        "profile_path": null,
+        "credit_id": "66e3da9c9013fe872223e28c",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 126520,
+        "known_for_department": "Writing",
+        "name": "Yu Hua",
+        "original_name": "Yu Hua",
+        "popularity": 0.2874,
+        "profile_path": "/9HiGJ6hmiqU37M1bjEaVBZeIBEA.jpg",
+        "credit_id": "66f564f25e40b512efed5111",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65285,
+        "known_for_department": "Sound",
+        "name": "Jiping Zhao",
+        "original_name": "Jiping Zhao",
+        "popularity": 0.3319,
+        "profile_path": "/zt2Klnhx4T1u7cDoVvZXNMJpfVV.jpg",
+        "credit_id": "66f566009a31289eb5ed553d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 516,
+        "name": "child abuse"
+      },
+      {
+        "id": 478,
+        "name": "china"
+      },
+      {
+        "id": 395,
+        "name": "gambling"
+      },
+      {
+        "id": 5305,
+        "name": "gambling debt"
+      },
+      {
+        "id": 4004,
+        "name": "cultural revolution"
+      },
+      {
+        "id": 4355,
+        "name": "chinese civil war"
+      },
+      {
+        "id": 177329,
+        "name": "shadow puppet"
+      },
+      {
+        "id": 207883,
+        "name": "1940s"
+      },
+      {
+        "id": 208611,
+        "name": "1950s"
+      },
+      {
+        "id": 208992,
+        "name": "1960s"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival",
+            "release_date": "1994-05-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-05-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-06-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-05-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2002-03-23T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-05-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-05-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-09-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

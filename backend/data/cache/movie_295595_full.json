@@ -1,0 +1,825 @@
+{
+  "adult": false,
+  "backdrop_path": "/b39ychqwNK8XDFbX0tgf0F3yIA4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 295595,
+  "imdb_id": "tt3253624",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Soaked in Bleach",
+  "overview": "",
+  "popularity": 4.8316,
+  "poster_path": "/1ScpSMDQvwi28Dro1xwSOcKCVln.jpg",
+  "production_companies": [
+    {
+      "id": 28926,
+      "logo_path": null,
+      "name": "Valiant",
+      "origin_country": ""
+    },
+    {
+      "id": 42373,
+      "logo_path": null,
+      "name": "DareDevil Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-06-09",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Soaked in Bleach",
+  "video": false,
+  "vote_average": 7.041,
+  "vote_count": 182,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43774,
+        "known_for_department": "Acting",
+        "name": "Daniel Roebuck",
+        "original_name": "Daniel Roebuck",
+        "popularity": 1.3434,
+        "profile_path": "/y40aX3SdvUZwE7feNq77UMg3zge.jpg",
+        "cast_id": 1,
+        "character": "Tom Grant",
+        "credit_id": "54a0c9b79251414d27006c95",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98664,
+        "known_for_department": "Acting",
+        "name": "Sarah Scott",
+        "original_name": "Sarah Scott",
+        "popularity": 0.3528,
+        "profile_path": "/y31s1T72B6LNTwArkhed4i9l5RT.jpg",
+        "cast_id": 3,
+        "character": "Courtney Love",
+        "credit_id": "54a0ca05c3a368764f008325",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 208727,
+        "known_for_department": "Acting",
+        "name": "August Emerson",
+        "original_name": "August Emerson",
+        "popularity": 0.2337,
+        "profile_path": "/od01EUK08IGqlkLKv1zdm04dNCw.jpg",
+        "cast_id": 14,
+        "character": "Dylan Carson",
+        "credit_id": "54a0cb22925141190d000824",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151361,
+        "known_for_department": "Acting",
+        "name": "Kurt Loder",
+        "original_name": "Kurt Loder",
+        "popularity": 0.4061,
+        "profile_path": "/53QBuABoPhuTv7QnQczZyki9akO.jpg",
+        "cast_id": 15,
+        "character": "Himself",
+        "credit_id": "54a0cb3ec3a368764f008358",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1506252,
+        "known_for_department": "Acting",
+        "name": "Tyler Bryan",
+        "original_name": "Tyler Bryan",
+        "popularity": 0.3119,
+        "profile_path": "/3kinMlp5NdTxIMCT1ySQT5yLw9Q.jpg",
+        "cast_id": 30,
+        "character": "Kurt Cobain",
+        "credit_id": "617c3a9c651fcf002a70fbe8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1763062,
+        "known_for_department": "Acting",
+        "name": "Julie Lancaster",
+        "original_name": "Julie Lancaster",
+        "popularity": 1.3186,
+        "profile_path": "/rGeWls9A8bJuG7dYczFZPvsu6QN.jpg",
+        "cast_id": 31,
+        "character": "Rosemary Carroll",
+        "credit_id": "667d4632ed2c184e438d02c2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81326,
+        "known_for_department": "Acting",
+        "name": "Jerry Hauck",
+        "original_name": "Jerry Hauck",
+        "popularity": 0.5237,
+        "profile_path": "/vaeNogNSbrEkgVlkTglJLg8iC4G.jpg",
+        "cast_id": 32,
+        "character": "Sgt. Donald Cameron",
+        "credit_id": "667d4647e8f2589ca611f53a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4638967,
+        "known_for_department": "Acting",
+        "name": "Steven Ellison",
+        "original_name": "Steven Ellison",
+        "popularity": 0.0734,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Ben Klugman",
+        "credit_id": "667d465d1c14bfede16ec7f0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1842789,
+        "known_for_department": "Acting",
+        "name": "Mandy Henderson",
+        "original_name": "Mandy Henderson",
+        "popularity": 0.1467,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Jennifer",
+        "credit_id": "667d46682a56f60ef5194df6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139749,
+        "known_for_department": "Acting",
+        "name": "Pat Asanti",
+        "original_name": "Pat Asanti",
+        "popularity": 0.2323,
+        "profile_path": "/5K00dIzaB8RDsdIyV9KnSHtxVfa.jpg",
+        "cast_id": 35,
+        "character": "Sgt. Kirkland",
+        "credit_id": "667d469e40e6b40f6f5920c8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 104380,
+        "known_for_department": "Acting",
+        "name": "Seidy López",
+        "original_name": "Seidy López",
+        "popularity": 0.6188,
+        "profile_path": "/yucTzwkIHZeCGR74AT377JI5M5B.jpg",
+        "cast_id": 36,
+        "character": "Hispanic Woman",
+        "credit_id": "667d46a9736b3ac68dfe1cc9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52421,
+        "known_for_department": "Acting",
+        "name": "Christian J. Meoli",
+        "original_name": "Christian J. Meoli",
+        "popularity": 0.1795,
+        "profile_path": "/m78WxNGVdb1uALFpRKMtLjg2ZM1.jpg",
+        "cast_id": 37,
+        "character": "Van Levandowski",
+        "credit_id": "667d46b76af88f982c79434a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1663262,
+        "known_for_department": "Acting",
+        "name": "Whit Spurgeon",
+        "original_name": "Whit Spurgeon",
+        "popularity": 0.1754,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Gary Smith",
+        "credit_id": "667d46df0539b28908b492ae",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3914508,
+        "known_for_department": "Acting",
+        "name": "Rodney Smith",
+        "original_name": "Rodney Smith",
+        "popularity": 0.1022,
+        "profile_path": "/hKxjTHgcboM84kOp2EeguGM69hP.jpg",
+        "cast_id": 39,
+        "character": "John Fisk",
+        "credit_id": "667d46fa81a7c5151f59272c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30068,
+        "known_for_department": "Acting",
+        "name": "Jeff Denton",
+        "original_name": "Jeff Denton",
+        "popularity": 0.4532,
+        "profile_path": "/oKMpiS9V7kPK1JtthFoiin1rvzP.jpg",
+        "cast_id": 40,
+        "character": "Police Officer at House",
+        "credit_id": "667d47057bc52c242d194c19",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797589,
+        "known_for_department": "Acting",
+        "name": "Taylor Godfrey",
+        "original_name": "Taylor Godfrey",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Carina",
+        "credit_id": "667d47177562cf5e10fe141d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797590,
+        "known_for_department": "Acting",
+        "name": "Jonathan Grout",
+        "original_name": "Jonathan Grout",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Cali",
+        "credit_id": "667d4724fe39459542b4929d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92566,
+        "known_for_department": "Acting",
+        "name": "Tom Grant",
+        "original_name": "Tom Grant",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Self",
+        "credit_id": "667d4730faca52dd82fe1c7d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3281532,
+        "known_for_department": "Acting",
+        "name": "Cyril H. Wecht",
+        "original_name": "Cyril H. Wecht",
+        "popularity": 0.1983,
+        "profile_path": "/jTHgJLpY3UdxHnMT2ypekRyMLKV.jpg",
+        "cast_id": 44,
+        "character": "Self",
+        "credit_id": "667d473af0c7469681fe1cd7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797591,
+        "known_for_department": "Acting",
+        "name": "Max Wallace",
+        "original_name": "Max Wallace",
+        "popularity": 0.0293,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Self",
+        "credit_id": "667d474b1acfffbbf4b492b7",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797592,
+        "known_for_department": "Acting",
+        "name": "Norm Stamper",
+        "original_name": "Norm Stamper",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Self",
+        "credit_id": "667d4754db9b36dace195138",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797593,
+        "known_for_department": "Acting",
+        "name": "Vernon J Geberth",
+        "original_name": "Vernon J Geberth",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Self",
+        "credit_id": "667d475dd9a6f0896ea17dd6",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797595,
+        "known_for_department": "Acting",
+        "name": "Vincent Di Maio",
+        "original_name": "Vincent Di Maio",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Self",
+        "credit_id": "667d4770a5c407d31311f2c1",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3633325,
+        "known_for_department": "Acting",
+        "name": "John Fiske",
+        "original_name": "John Fiske",
+        "popularity": 0.1026,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Self",
+        "credit_id": "667d477e1d9f587bd4092075",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797596,
+        "known_for_department": "Acting",
+        "name": "Heidi Harralson",
+        "original_name": "Heidi Harralson",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Self",
+        "credit_id": "667d478c1d9f587bd4092082",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797597,
+        "known_for_department": "Acting",
+        "name": "Carole E Chaski",
+        "original_name": "Carole E Chaski",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Self",
+        "credit_id": "667d4798b9709beb5baf97b7",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797598,
+        "known_for_department": "Acting",
+        "name": "Ian Mcintyre",
+        "original_name": "Ian Mcintyre",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Self",
+        "credit_id": "667d47a7f0c7469681fe1ce9",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797599,
+        "known_for_department": "Acting",
+        "name": "Mitch Holmquist",
+        "original_name": "Mitch Holmquist",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Self",
+        "credit_id": "667d47cbfb39b85a148d007b",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797600,
+        "known_for_department": "Acting",
+        "name": "Aaron Burchard",
+        "original_name": "Aaron Burchard",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Self",
+        "credit_id": "667d47d481a7c5151f592744",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797601,
+        "known_for_department": "Acting",
+        "name": "Ben Berg",
+        "original_name": "Ben Berg",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Self",
+        "credit_id": "667d47e295af9b793a11f547",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797602,
+        "known_for_department": "Acting",
+        "name": "Brett Ball",
+        "original_name": "Brett Ball",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Self",
+        "credit_id": "667d47ef8f59a7c41da17e01",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797603,
+        "known_for_department": "Acting",
+        "name": "John Ball",
+        "original_name": "John Ball",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Self",
+        "credit_id": "667d48051acfffbbf4b492c7",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797604,
+        "known_for_department": "Acting",
+        "name": "Ryan Aigner",
+        "original_name": "Ryan Aigner",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Self",
+        "credit_id": "667d480eeda322fdb9194703",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4797605,
+        "known_for_department": "Acting",
+        "name": "Lamont Schellenger",
+        "original_name": "Lamont Schellenger",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Self",
+        "credit_id": "667d481a49635374d5194ef8",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92563,
+        "known_for_department": "Acting",
+        "name": "Kurt Cobain",
+        "original_name": "Kurt Cobain",
+        "popularity": 0.4864,
+        "profile_path": "/1hfTrgtXiZKflP40ABEG0M6sa4E.jpg",
+        "cast_id": 0,
+        "character": "Self (archive footage)",
+        "credit_id": "54a0c996c3a3680b2700a529",
+        "order": 34
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341491,
+        "known_for_department": "Acting",
+        "name": "Donnie Eichar",
+        "original_name": "Donnie Eichar",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "54a0ccb59251411d530064c5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65822,
+        "known_for_department": "Production",
+        "name": "Richard Middleton",
+        "original_name": "Richard Middleton",
+        "popularity": 0.3726,
+        "profile_path": null,
+        "credit_id": "54a0ccd09251411d530064cb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 939537,
+        "known_for_department": "Production",
+        "name": "Benjamin Statler",
+        "original_name": "Benjamin Statler",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "54a0ca6c925141236b002e1f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 939537,
+        "known_for_department": "Production",
+        "name": "Benjamin Statler",
+        "original_name": "Benjamin Statler",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "55cae656c3a368181c0005e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1496100,
+        "known_for_department": "Art",
+        "name": "Jessica Kender",
+        "original_name": "Jessica Kender",
+        "popularity": 0.0377,
+        "profile_path": null,
+        "credit_id": "55cae697925141220a0015d0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1496098,
+        "known_for_department": "Editing",
+        "name": "Javier Álvarez",
+        "original_name": "Javier Álvarez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "55cae5af92514122080016ec",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 955396,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bonnie Stauch",
+        "original_name": "Bonnie Stauch",
+        "popularity": 0.2578,
+        "profile_path": null,
+        "credit_id": "55cae6a8925141220a0015d5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1496098,
+        "known_for_department": "Editing",
+        "name": "Javier Álvarez",
+        "original_name": "Javier Álvarez",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "55cae588925141220e0015ea",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1031695,
+        "known_for_department": "Camera",
+        "name": "Ben Kutchins",
+        "original_name": "Ben Kutchins",
+        "popularity": 0.2215,
+        "profile_path": null,
+        "credit_id": "55cae5d092514122080016ee",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65822,
+        "known_for_department": "Production",
+        "name": "Richard Middleton",
+        "original_name": "Richard Middleton",
+        "popularity": 0.3726,
+        "profile_path": null,
+        "credit_id": "55cae666c3a36876940015ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341491,
+        "known_for_department": "Acting",
+        "name": "Donnie Eichar",
+        "original_name": "Donnie Eichar",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "55cae678925141220a0015cb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077342,
+        "known_for_department": "Production",
+        "name": "Michael Sanford",
+        "original_name": "Michael Sanford",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "55cae6b8c3a36876940015b4",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5668,
+        "known_for_department": "Editing",
+        "name": "David Moritz",
+        "original_name": "David Moritz",
+        "popularity": 0.2037,
+        "profile_path": null,
+        "credit_id": "55cae5bc9251412203001699",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1496099,
+        "known_for_department": "Sound",
+        "name": "Peter G. Adams",
+        "original_name": "Peter G. Adams",
+        "popularity": 0.1351,
+        "profile_path": null,
+        "credit_id": "55cae62d925141220a0015c0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 939537,
+        "known_for_department": "Production",
+        "name": "Benjamin Statler",
+        "original_name": "Benjamin Statler",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "55cae649c3a368768f0015fa",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 11168,
+        "name": "private investigator"
+      },
+      {
+        "id": 10765,
+        "name": "gunshot wound"
+      },
+      {
+        "id": 209562,
+        "name": "reneactment"
+      },
+      {
+        "id": 215813,
+        "name": "possible suicide"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-06-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "DVD Premier",
+            "release_date": "2015-10-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-06-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

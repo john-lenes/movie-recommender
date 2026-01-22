@@ -1,0 +1,363 @@
+{
+  "adult": false,
+  "backdrop_path": "/uSBUMknphVjcnGJk6se3gWe9omG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1616993,
+  "imdb_id": null,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Safia/Safdar",
+  "overview": "",
+  "popularity": 17.772,
+  "poster_path": "/ggN2WBU8cRMehVdS1nV0VYHACin.jpg",
+  "production_companies": [
+    {
+      "id": 86347,
+      "logo_path": "/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png",
+      "name": "Zee Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 138438,
+      "logo_path": null,
+      "name": "Azmi Pictures Pvt. Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 179719,
+      "logo_path": null,
+      "name": "Filmstoc (IN)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-01-16",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Safia/Safdar",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2725180,
+        "known_for_department": "Acting",
+        "name": "Aditi Subedi",
+        "original_name": "Aditi Subedi",
+        "popularity": 0.6108,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Safia",
+        "credit_id": "696914d1f3d859c959e711d9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77241,
+        "known_for_department": "Acting",
+        "name": "Kanwaljit Singh",
+        "original_name": "Kanwaljit Singh",
+        "popularity": 0.4157,
+        "profile_path": "/pitJUd0ySbOBrGOzLJBJ63fMLaK.jpg",
+        "cast_id": 2,
+        "character": "Salman",
+        "credit_id": "696914c5e4937c024aa8808e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5941097,
+        "known_for_department": "Acting",
+        "name": "Neetu Pandey",
+        "original_name": "Neetu Pandey",
+        "popularity": 0.1734,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "696914e9ff48a4784e236d24",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6497,
+        "known_for_department": "Acting",
+        "name": "Naseeruddin Shah",
+        "original_name": "Naseeruddin Shah",
+        "popularity": 1.1065,
+        "profile_path": "/lFvGfKypi5NNyUjrsT8Y7ebWc7G.jpg",
+        "cast_id": 1,
+        "character": "Bhai Yazdani",
+        "credit_id": "696914b9e4937c024aa8808a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4215577,
+        "known_for_department": "Acting",
+        "name": "Siddharth Menon",
+        "original_name": "Siddharth Menon",
+        "popularity": 0.0889,
+        "profile_path": "/sD8iRVNRGzmY782X234aW8MDf1C.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "696dc906fa69792a50aaaef5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4969778,
+        "known_for_department": "Acting",
+        "name": "Mehrin Saba",
+        "original_name": "Mehrin Saba",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "696914df8a7fd3392ee71272",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5945693,
+        "known_for_department": "Acting",
+        "name": "Shivi Bajpai",
+        "original_name": "Shivi Bajpai",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "696bcd6bfa69792a50aaa3bb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5945696,
+        "known_for_department": "Acting",
+        "name": "Vithal Chadha",
+        "original_name": "Vithal Chadha",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "696bcd930e3765997bf117bc",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5941102,
+        "known_for_department": "Directing",
+        "name": "Baba Azmi",
+        "original_name": "Baba Azmi",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "6969157dc82d11af4aa882db",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5941102,
+        "known_for_department": "Directing",
+        "name": "Baba Azmi",
+        "original_name": "Baba Azmi",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "6969d7766283de100b2799ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5942303,
+        "known_for_department": "Production",
+        "name": "Namrata Goyal",
+        "original_name": "Namrata Goyal",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "6969d79a111d29d980f58810",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108802,
+        "known_for_department": "Production",
+        "name": "मुकेश छाबरा",
+        "original_name": "मुकेश छाबरा",
+        "popularity": 0.6232,
+        "profile_path": "/f5XI2wJs2JPcd5FSECsdcnkyOMW.jpg",
+        "credit_id": "696bcdcb6e9bb185a936a7a9",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2408360,
+        "known_for_department": "Sound",
+        "name": "Ripul Sharma",
+        "original_name": "Ripul Sharma",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "696bcdf6793a230f3ef1183f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1702538,
+        "known_for_department": "Camera",
+        "name": "Thomas A. Xavier",
+        "original_name": "Thomas A. Xavier",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "696bce207b3e123f366895da",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5945701,
+        "known_for_department": "Editing",
+        "name": "Suparna Sarkar",
+        "original_name": "Suparna Sarkar",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "696bce446949af49cd7f9b8a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662485,
+        "known_for_department": "Writing",
+        "name": "Mir Ali Husain",
+        "original_name": "Mir Ali Husain",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "696bce83ffe2948aa420c865",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662485,
+        "known_for_department": "Writing",
+        "name": "Mir Ali Husain",
+        "original_name": "Mir Ali Husain",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "696bce90a9884506dc36a6e5",
+        "department": "Writing",
+        "job": "Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662485,
+        "known_for_department": "Writing",
+        "name": "Mir Ali Husain",
+        "original_name": "Mir Ali Husain",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "696bcea2ffe2948aa420c869",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662485,
+        "known_for_department": "Writing",
+        "name": "Mir Ali Husain",
+        "original_name": "Mir Ali Husain",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "696bceb1cdcb0cebbd36a902",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4740006,
+        "known_for_department": "Production",
+        "name": "Umesh Bansal",
+        "original_name": "Umesh Bansal",
+        "popularity": 0.1758,
+        "profile_path": null,
+        "credit_id": "696e14842a2c6acab1dcbb95",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "hi",
+            "note": "Zee5",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

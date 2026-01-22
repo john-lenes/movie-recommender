@@ -1,0 +1,371 @@
+{
+  "adult": false,
+  "backdrop_path": "/4MOJwSblMQNhTl4NkKHv2cJDKaf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 1125043,
+  "imdb_id": "tt27623454",
+  "origin_country": [
+    "FR",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Shepherd and the Bear",
+  "overview": "",
+  "popularity": 6.2544,
+  "poster_path": "/j2QuoCkwrUm646RrzaAxDkS0His.jpg",
+  "production_companies": [
+    {
+      "id": 168240,
+      "logo_path": "/gMs3AWkhaIOnqHjMMAv4Z7OGjKO.png",
+      "name": "Pinky Promise",
+      "origin_country": "US"
+    },
+    {
+      "id": 152983,
+      "logo_path": "/kWQtEKt9OOdtIRerChq3mKpBOUF.png",
+      "name": "Willa",
+      "origin_country": "US"
+    },
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 48874,
+      "logo_path": null,
+      "name": "Mile End Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-06",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Shepherd and the Bear",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1285813,
+        "known_for_department": "Production",
+        "name": "Amanda McBaine",
+        "original_name": "Amanda McBaine",
+        "popularity": 0.1519,
+        "profile_path": "/2d48D10x3cybpDmZvCu4OlQbA1c.jpg",
+        "credit_id": "645bb1673fe16000fed07bb8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285812,
+        "known_for_department": "Directing",
+        "name": "Jesse Moss",
+        "original_name": "Jesse Moss",
+        "popularity": 0.2311,
+        "profile_path": "/i1KDN2yRRN1lLOKk9WuPCUtxNyv.jpg",
+        "credit_id": "645bb16e1b70ae0166bed3c6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2372098,
+        "known_for_department": "Production",
+        "name": "Elizabeth Woodward",
+        "original_name": "Elizabeth Woodward",
+        "popularity": 0.0563,
+        "profile_path": "/9ys0WQWaD8v1wUTnDTVEVQwD64E.jpg",
+        "credit_id": "645bb15677d23b00e2f6d296",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4054880,
+        "known_for_department": "Directing",
+        "name": "Max Keegan",
+        "original_name": "Max Keegan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "645bb15077d23b0153956bd5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3148375,
+        "known_for_department": "Production",
+        "name": "Jessamine Burgum",
+        "original_name": "Jessamine Burgum",
+        "popularity": 0.0544,
+        "profile_path": "/o0CTsGESY3O6CQebFY2isqDJuXa.jpg",
+        "credit_id": "645bb17777d23b0153956be6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3019115,
+        "known_for_department": "Production",
+        "name": "Kara Durrett",
+        "original_name": "Kara Durrett",
+        "popularity": 0.1256,
+        "profile_path": null,
+        "credit_id": "66da0bafcd0b42a46b928612",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732136,
+        "known_for_department": "Production",
+        "name": "Lauren Haber",
+        "original_name": "Lauren Haber",
+        "popularity": 0.1428,
+        "profile_path": "/6j8Qg2v2WVVFuNPPGLKKlhvCuLL.jpg",
+        "credit_id": "66da0bb66babed6e6f3c34db",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161763,
+        "known_for_department": "Production",
+        "name": "Jenny Raskin",
+        "original_name": "Jenny Raskin",
+        "popularity": 0.1996,
+        "profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+        "credit_id": "66da0bbdb7a199680d8f2ae8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3824659,
+        "known_for_department": "Production",
+        "name": "Bill Reedy",
+        "original_name": "Bill Reedy",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "66da0bc5ac5ccaa8339da5e2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3824660,
+        "known_for_department": "Production",
+        "name": "Emily Reedy",
+        "original_name": "Emily Reedy",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "66da0bcbc3bea634c92a0d7b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2624382,
+        "known_for_department": "Production",
+        "name": "Robina Riccitiello",
+        "original_name": "Robina Riccitiello",
+        "popularity": 0.1345,
+        "profile_path": "/nK4SqqwX5Ky2Sgw70uOh0hFHiC.jpg",
+        "credit_id": "66da0bd34d5a860b7a8f2923",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33341,
+        "known_for_department": "Directing",
+        "name": "Rick Rosenthal",
+        "original_name": "Rick Rosenthal",
+        "popularity": 0.4562,
+        "profile_path": "/58Dpt3w7UBHDFpVExv9xaTgUlst.jpg",
+        "credit_id": "66da0bdad8e885ab846d0a19",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15508,
+        "known_for_department": "Acting",
+        "name": "Nancy Stephens",
+        "original_name": "Nancy Stephens",
+        "popularity": 0.4255,
+        "profile_path": "/6oS5nCeHAqszh2HgxoHXbmmnamB.jpg",
+        "credit_id": "66da0be48f73fe939d1ada45",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2562579,
+        "known_for_department": "Directing",
+        "name": "Christine Woodhouse",
+        "original_name": "Christine Woodhouse",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66da0bed5e7d3fadbb0989c7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2033403,
+        "known_for_department": "Production",
+        "name": "Andrea van Beuren",
+        "original_name": "Andrea van Beuren",
+        "popularity": 0.1149,
+        "profile_path": null,
+        "credit_id": "66da0bf6226772054a1849c7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18529,
+        "known_for_department": "Editing",
+        "name": "Sabine Emiliani",
+        "original_name": "Sabine Emiliani",
+        "popularity": 0.1006,
+        "profile_path": "/qAo3phaCFUdLLQ6FVFCM27CSKdL.jpg",
+        "credit_id": "66da0c0e11a5a563859d53f5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422252,
+        "known_for_department": "Sound",
+        "name": "Amine Bouhafa",
+        "original_name": "Amine Bouhafa",
+        "popularity": 0.2954,
+        "profile_path": "/21hvlXxVdEByncaIANqlmcbwFII.jpg",
+        "credit_id": "66da0c185e7d3fadbb0989ca",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4054880,
+        "known_for_department": "Directing",
+        "name": "Max Keegan",
+        "original_name": "Max Keegan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66da0c223de46c93ff0198c0",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sydney Film Festival",
+            "release_date": "2025-06-07T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Visions du Réel",
+            "release_date": "2025-04-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Camden International Film Festival",
+            "release_date": "2024-09-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

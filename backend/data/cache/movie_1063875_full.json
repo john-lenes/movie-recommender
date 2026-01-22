@@ -1,0 +1,752 @@
+{
+  "adult": false,
+  "backdrop_path": "/zT8LR9MkZuHZxJsaqgNpxUf9lxl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "História"
+    }
+  ],
+  "homepage": "",
+  "id": 1063875,
+  "imdb_id": "tt30192483",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Louise Violet",
+  "overview": "",
+  "popularity": 9.862,
+  "poster_path": "/hiLH2NmpQxInDszcjkMhBuStyQB.jpg",
+  "production_companies": [
+    {
+      "id": 57752,
+      "logo_path": "/2k3j1B8TEbZPQgckP6zh75pIb4s.png",
+      "name": "Nord-Ouest Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-11-06",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Louise Violet",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 52,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113617,
+        "known_for_department": "Acting",
+        "name": "Alexandra Lamy",
+        "original_name": "Alexandra Lamy",
+        "popularity": 0.5821,
+        "profile_path": "/m52fdEhVo6sBjEhgyM6bqFwC1HA.jpg",
+        "cast_id": 1,
+        "character": "Louise Violet",
+        "credit_id": "63a2bf0b51f99a345943caa2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223532,
+        "known_for_department": "Acting",
+        "name": "Grégory Gadebois",
+        "original_name": "Grégory Gadebois",
+        "popularity": 0.4463,
+        "profile_path": "/AvF337m0eGL9JLPEgG6Dy1T2Zu4.jpg",
+        "cast_id": 2,
+        "character": "Joseph",
+        "credit_id": "63a2bf1451f99a34d228eb56",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28857,
+        "known_for_department": "Acting",
+        "name": "Jérôme Kircher",
+        "original_name": "Jérôme Kircher",
+        "popularity": 0.4468,
+        "profile_path": "/tSq33zcalu13tdMlIvKwtt0OnEW.jpg",
+        "cast_id": 6,
+        "character": "Thermidor",
+        "credit_id": "647de5b193828e013378c952",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643364,
+        "known_for_department": "Acting",
+        "name": "Jérémy Lopez",
+        "original_name": "Jérémy Lopez",
+        "popularity": 0.2417,
+        "profile_path": "/qDwFvFMGG7dRDtqxtXP0l4tACGv.jpg",
+        "cast_id": 7,
+        "character": "Rémi",
+        "credit_id": "647de5b90e29a22bdebd003b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583722,
+        "known_for_department": "Acting",
+        "name": "Patrick Pineau",
+        "original_name": "Patrick Pineau",
+        "popularity": 0.3301,
+        "profile_path": "/h1Mht3F3ZmMWku3x0MUeOnWJgLi.jpg",
+        "cast_id": 8,
+        "character": "Père Francis",
+        "credit_id": "647de5be0fb39800a79fb245",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171422,
+        "known_for_department": "Acting",
+        "name": "Grégoire Tachnakian",
+        "original_name": "Grégoire Tachnakian",
+        "popularity": 0.2394,
+        "profile_path": "/vIcnUZ46VR7sZAHtVqmjlh0hNN.jpg",
+        "cast_id": 36,
+        "character": "Lucien",
+        "credit_id": "67976518702f492f478f456f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 286453,
+        "known_for_department": "Acting",
+        "name": "Annie Mercier",
+        "original_name": "Annie Mercier",
+        "popularity": 0.3891,
+        "profile_path": "/7U0E5nkjNGJn5nUEihyetSVmWmX.jpg",
+        "cast_id": 11,
+        "character": "Marthe",
+        "credit_id": "6596d527ef9d72412a12b503",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1695211,
+        "known_for_department": "Acting",
+        "name": "Julie Moulier",
+        "original_name": "Julie Moulier",
+        "popularity": 0.471,
+        "profile_path": "/t8Eaeed1bA7mCkolho9PLTdcymv.jpg",
+        "cast_id": 37,
+        "character": "Honorine",
+        "credit_id": "679765979ca029099c2b0b5c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 576402,
+        "known_for_department": "Acting",
+        "name": "Géraldine Martineau",
+        "original_name": "Géraldine Martineau",
+        "popularity": 0.6671,
+        "profile_path": "/rVUChTjrtXugAXm8aYeDoeoxAgB.jpg",
+        "cast_id": 38,
+        "character": "Félicie",
+        "credit_id": "679765b7192115901e8f4042",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2916923,
+        "known_for_department": "Acting",
+        "name": "Manon Maindivide",
+        "original_name": "Manon Maindivide",
+        "popularity": 0.1023,
+        "profile_path": "/2bGHO0KHfpXTSFMpeJwlUj530nt.jpg",
+        "cast_id": 34,
+        "character": "Flore",
+        "credit_id": "65fe8d403520e8014bd559b7",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5425,
+        "known_for_department": "Production",
+        "name": "Christophe Rossignon",
+        "original_name": "Christophe Rossignon",
+        "popularity": 0.1787,
+        "profile_path": "/xlEAUEu1owtvkFQNT9h684TryQV.jpg",
+        "credit_id": "6596d5370e64af0cf78c18e7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1177691,
+        "known_for_department": "Production",
+        "name": "Philip Boëffard",
+        "original_name": "Philip Boëffard",
+        "popularity": 0.2064,
+        "profile_path": "/eXH7tASz67uYdxx5td98cJV8hyz.jpg",
+        "credit_id": "6596d544ed96bc2dc3f76f3b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1014362,
+        "known_for_department": "Production",
+        "name": "Ève François Machuel",
+        "original_name": "Ève François Machuel",
+        "popularity": 0.0465,
+        "profile_path": "/nFKkvzXFTtGJkstBsZOGcpsbyOv.jpg",
+        "credit_id": "6596d5525cc11d77d87d1fae",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 47815,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Madeline Fontaine",
+        "original_name": "Madeline Fontaine",
+        "popularity": 0.2906,
+        "profile_path": "/dMglT2TUj7u0AVlaJUaKQcOtKf6.jpg",
+        "credit_id": "65b17798b76cbb01942be70b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49874,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Catherine Bruchon",
+        "original_name": "Catherine Bruchon",
+        "popularity": 0.1082,
+        "profile_path": null,
+        "credit_id": "65b177a0dd926a01944d6426",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198330,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Plume Meunier",
+        "original_name": "Plume Meunier",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "65b177ab2fe2fa01933d3377",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3194394,
+        "known_for_department": "Production",
+        "name": "johan lanoé",
+        "original_name": "johan lanoé",
+        "popularity": 0.1045,
+        "profile_path": null,
+        "credit_id": "65b177b4be6d880192441f44",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4498170,
+        "known_for_department": "Production",
+        "name": "Laure Launay",
+        "original_name": "Laure Launay",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "credit_id": "65b177bd2fe2fa01723d087d",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4498171,
+        "known_for_department": "Directing",
+        "name": "Robin Vergnes",
+        "original_name": "Robin Vergnes",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "credit_id": "65b177c5a3144001515aa8f8",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3492804,
+        "known_for_department": "Art",
+        "name": "Benjamin Evrard",
+        "original_name": "Benjamin Evrard",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "65b177ccea37e00172e485c4",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3057294,
+        "known_for_department": "Art",
+        "name": "Georges Kafian",
+        "original_name": "Georges Kafian",
+        "popularity": 0.0881,
+        "profile_path": null,
+        "credit_id": "65b177d52790bf0193568e95",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2006682,
+        "known_for_department": "Sound",
+        "name": "Fabien Devillers",
+        "original_name": "Fabien Devillers",
+        "popularity": 0.1169,
+        "profile_path": "/1moAEJbsG7Zwn6uRJZiFNIy0YS3.jpg",
+        "credit_id": "65b177deea37e00151e45a42",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3563168,
+        "known_for_department": "Sound",
+        "name": "Vincent Gregorio",
+        "original_name": "Vincent Gregorio",
+        "popularity": 0.13,
+        "profile_path": null,
+        "credit_id": "65b177e82fe2fa01503cd687",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1549023,
+        "known_for_department": "Visual Effects",
+        "name": "Aurelie Lajoux",
+        "original_name": "Aurelie Lajoux",
+        "popularity": 0.148,
+        "profile_path": null,
+        "credit_id": "65b177f1ea37e00193e4a517",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3171423,
+        "known_for_department": "Visual Effects",
+        "name": "Emilia Napame",
+        "original_name": "Emilia Napame",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "65b177fadd926a01524d1976",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4337752,
+        "known_for_department": "Camera",
+        "name": "Kévin Avrillon",
+        "original_name": "Kévin Avrillon",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "65b17802b76cbb01732bb62d",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3708110,
+        "known_for_department": "Camera",
+        "name": "Johan Lecomte",
+        "original_name": "Johan Lecomte",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "65b1780a8c315901523225de",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1724202,
+        "known_for_department": "Camera",
+        "name": "Océane Lavergne",
+        "original_name": "Océane Lavergne",
+        "popularity": 0.1327,
+        "profile_path": null,
+        "credit_id": "65b178138c31590194328673",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2660824,
+        "known_for_department": "Camera",
+        "name": "Gil Fontbonne",
+        "original_name": "Gil Fontbonne",
+        "popularity": 0.0768,
+        "profile_path": null,
+        "credit_id": "65b1781b2790bf0138560efb",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4331617,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clément Bottier",
+        "original_name": "Clément Bottier",
+        "popularity": 0.0781,
+        "profile_path": null,
+        "credit_id": "65b17825b9a0bd0193453dd0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3549092,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ludivine Roux",
+        "original_name": "Ludivine Roux",
+        "popularity": 0.1015,
+        "profile_path": null,
+        "credit_id": "65b178328c31590139320345",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4498178,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julie Vignot",
+        "original_name": "Julie Vignot",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "credit_id": "65b1783bb9a0bd0193453dde",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72266,
+        "known_for_department": "Writing",
+        "name": "Éric Besnard",
+        "original_name": "Éric Besnard",
+        "popularity": 0.4963,
+        "profile_path": "/8Sk5sBAkXhUMfsPoK6s01X3aDy2.jpg",
+        "credit_id": "63a2bf2d8ddc3414aa036be0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72266,
+        "known_for_department": "Writing",
+        "name": "Éric Besnard",
+        "original_name": "Éric Besnard",
+        "popularity": 0.4963,
+        "profile_path": "/8Sk5sBAkXhUMfsPoK6s01X3aDy2.jpg",
+        "credit_id": "63a2bf344f33ad00d5350676",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1681519,
+        "known_for_department": "Production",
+        "name": "David Bertrand",
+        "original_name": "David Bertrand",
+        "popularity": 0.0818,
+        "profile_path": "/vbk6Q8BNWVkDKygxbcx3menypG0.jpg",
+        "credit_id": "63a2bf52bcf8c9007d5ed4ea",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650259,
+        "known_for_department": "Production",
+        "name": "Philippe Logie",
+        "original_name": "Philippe Logie",
+        "popularity": 0.215,
+        "profile_path": "/8UmWy9KYlCRnmJ6ExNajmXxmOpJ.jpg",
+        "credit_id": "65fe8d710c1255014b0ac979",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2640059,
+        "known_for_department": "Directing",
+        "name": "Matthieu de la Mortière",
+        "original_name": "Matthieu de la Mortière",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "647de5cf0e29a22be08e0584",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3509434,
+        "known_for_department": "Directing",
+        "name": "Anne Juin",
+        "original_name": "Anne Juin",
+        "popularity": 0.1109,
+        "profile_path": null,
+        "credit_id": "647de5db0fb39800c12928a0",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6316,
+        "known_for_department": "Camera",
+        "name": "Laurent Dailland",
+        "original_name": "Laurent Dailland",
+        "popularity": 0.1362,
+        "profile_path": "/rGVdgjQ4ZOPHse7YF4DpNJJnUdy.jpg",
+        "credit_id": "67de19311cda1dbb467a9b2d",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161625,
+        "known_for_department": "Sound",
+        "name": "Cécile Coutelier",
+        "original_name": "Cécile Coutelier",
+        "popularity": 0.3516,
+        "profile_path": null,
+        "credit_id": "67de194cc70acdd9df69b754",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81820,
+        "known_for_department": "Editing",
+        "name": "Lydia Decobert",
+        "original_name": "Lydia Decobert",
+        "popularity": 0.0752,
+        "profile_path": null,
+        "credit_id": "67de19721cda1dbb467a9b4a",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "8",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "French Film Festival",
+            "release_date": "2025-03-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Discrimination",
+              "Threat",
+              "Stressful Scenes"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival de Nice Cineroman",
+            "release_date": "2024-10-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-Ray",
+            "release_date": "2025-03-12T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "OCS",
+            "release_date": "2025-09-15T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

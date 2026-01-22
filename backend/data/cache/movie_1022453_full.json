@@ -1,0 +1,1211 @@
+{
+  "adult": false,
+  "backdrop_path": "/kCwmLYy9ZMto1eMH8BI9KcVVIH2.jpg",
+  "belongs_to_collection": {
+    "id": 1614429,
+    "name": "The RajaSaab Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "",
+  "id": 1022453,
+  "imdb_id": "tt23790696",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "ది రాజాసాబ్",
+  "overview": "",
+  "popularity": 18.9236,
+  "poster_path": "/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+  "production_companies": [
+    {
+      "id": 106829,
+      "logo_path": null,
+      "name": "People Media Factory",
+      "origin_country": "IN"
+    },
+    {
+      "id": 239118,
+      "logo_path": null,
+      "name": "IVY Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-01-08",
+  "revenue": 21000000,
+  "runtime": 186,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "ది రాజాసాబ్",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237045,
+        "known_for_department": "Acting",
+        "name": "Prabhas",
+        "original_name": "Prabhas",
+        "popularity": 4.0089,
+        "profile_path": "/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
+        "cast_id": 31,
+        "character": "Raju / Rajasaab",
+        "credit_id": "67ab22f9216fbd0f879b9bc4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85881,
+        "known_for_department": "Acting",
+        "name": "Sanjay Dutt",
+        "original_name": "संजय दत्त",
+        "popularity": 1.0996,
+        "profile_path": "/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+        "cast_id": 70,
+        "character": "Pekamedala Kanakaraju",
+        "credit_id": "684fbfbccdece4fe2c3fe8e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94567,
+        "known_for_department": "Acting",
+        "name": "Zarina Wahab",
+        "original_name": "Zarina Wahab",
+        "popularity": 0.7853,
+        "profile_path": "/nY28L0JFjTlpIWdwt9qxO1p2HNn.jpg",
+        "cast_id": 88,
+        "character": "Gangamma",
+        "credit_id": "695269baf4f5338a1cc37cf3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1830991,
+        "known_for_department": "Acting",
+        "name": "Nidhhi Agerwal",
+        "original_name": "Nidhhi Agerwal",
+        "popularity": 1.5629,
+        "profile_path": "/ptGhRQJPWdQhVVGMrSZvLXHWKlO.jpg",
+        "cast_id": 9,
+        "character": "Bessy",
+        "credit_id": "6383349b229ae2155c534094",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1289455,
+        "known_for_department": "Acting",
+        "name": "Malavika Mohanan",
+        "original_name": "Malavika Mohanan",
+        "popularity": 0.991,
+        "profile_path": "/9ZRM7Tk080MKfrLiblQnsV4QAc1.jpg",
+        "cast_id": 3,
+        "character": "Bhairavi",
+        "credit_id": "631ad861245dbe00832d355f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1641604,
+        "known_for_department": "Acting",
+        "name": "Riddhi Kumar",
+        "original_name": "Riddhi Kumar",
+        "popularity": 1.5062,
+        "profile_path": "/kHFRGsX0HS3Viblm7Htns4lyJYn.jpg",
+        "cast_id": 10,
+        "character": "Priya",
+        "credit_id": "638334a62e0697024d2a0c97",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35779,
+        "known_for_department": "Acting",
+        "name": "Boman Irani",
+        "original_name": "Boman Irani",
+        "popularity": 0.8195,
+        "profile_path": "/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg",
+        "cast_id": 87,
+        "character": "Dr. Padmabhushan",
+        "credit_id": "69526517b773c3216cd79ab2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585397,
+        "known_for_department": "Acting",
+        "name": "Samuthirakani",
+        "original_name": "Samuthirakani",
+        "popularity": 0.9277,
+        "profile_path": "/hicCPOdDfSRCEYkeb9g53FOY19A.jpg",
+        "cast_id": 92,
+        "character": "Ganagaraju",
+        "credit_id": "6960c83db52999c79e363ff7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 565865,
+        "known_for_department": "Acting",
+        "name": "VTV Ganesh",
+        "original_name": "VTV Ganesh",
+        "popularity": 0.5828,
+        "profile_path": "/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg",
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "66eec2bb6fd7cc7d423b0b0e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412713,
+        "known_for_department": "Acting",
+        "name": "Saptagiri",
+        "original_name": "Saptagiri",
+        "popularity": 0.599,
+        "profile_path": "/h8G2HkmuwDuEgJEIAoUBvN8dSwN.jpg",
+        "cast_id": 89,
+        "character": "",
+        "credit_id": "695269f643afdd05817c727f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213431,
+        "known_for_department": "Acting",
+        "name": "Supreet",
+        "original_name": "Supreet",
+        "popularity": 0.3375,
+        "profile_path": "/3HZopNIG3zeaSpbGjEvsdmoXjaR.jpg",
+        "cast_id": 90,
+        "character": "",
+        "credit_id": "695269ff72f11d814074e6bc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1751759,
+        "known_for_department": "Acting",
+        "name": "Prabhas Sreenu",
+        "original_name": "Prabhas Sreenu",
+        "popularity": 0.5476,
+        "profile_path": "/nggCOeeye2bNm1tTodz0cgJPL2W.jpg",
+        "cast_id": 91,
+        "character": "",
+        "credit_id": "69526a186ff20316ce70f8a5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1361991,
+        "known_for_department": "Acting",
+        "name": "Anandhi",
+        "original_name": "Anandhi",
+        "popularity": 1.0169,
+        "profile_path": "/2pGgJ8TowhQfFG6So3pdbN6QCXT.jpg",
+        "cast_id": 93,
+        "character": "",
+        "credit_id": "6961ae47d8c544d910bd3586",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179683,
+        "known_for_department": "Directing",
+        "name": "Maruthi Dasari",
+        "original_name": "Maruthi Dasari",
+        "popularity": 1.4405,
+        "profile_path": "/lTMtTzNxi6U9kouoJDbEARsHoVJ.jpg",
+        "credit_id": "631ecd421ac292007aa7f97d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2459949,
+        "known_for_department": "Production",
+        "name": "Vivek Kuchibhotla",
+        "original_name": "Vivek Kuchibhotla",
+        "popularity": 0.2234,
+        "profile_path": "/vN4Rx7Rs1azGKJRXE9izBJzr3aS.jpg",
+        "credit_id": "65a4a8092973380124138a1c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2459948,
+        "known_for_department": "Production",
+        "name": "T G Vishwa Prasad",
+        "original_name": "T G Vishwa Prasad",
+        "popularity": 0.697,
+        "profile_path": null,
+        "credit_id": "65a4a7e1bd588b012e3ba1b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179683,
+        "known_for_department": "Directing",
+        "name": "Maruthi Dasari",
+        "original_name": "Maruthi Dasari",
+        "popularity": 1.4405,
+        "profile_path": "/lTMtTzNxi6U9kouoJDbEARsHoVJ.jpg",
+        "credit_id": "65eae8026a2227018698955b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1965140,
+        "known_for_department": "Crew",
+        "name": "Lakshman Chella",
+        "original_name": "Lakshman Chella",
+        "popularity": 0.3257,
+        "profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
+        "credit_id": "66a7801678feadca158dc5e0",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2045456,
+        "known_for_department": "Production",
+        "name": "Sriniwas Kumar Naidu",
+        "original_name": "Sriniwas Kumar Naidu",
+        "popularity": 0.1898,
+        "profile_path": null,
+        "credit_id": "66a780441b5fadb455abaed4",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1756349,
+        "known_for_department": "Crew",
+        "name": "Ram Chella",
+        "original_name": "Ram Chella",
+        "popularity": 0.4502,
+        "profile_path": "/nfgskgmIN8dqHR3JBZunJgx2X5W.jpg",
+        "credit_id": "66a7800fc290339ebe661ee2",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488793,
+        "known_for_department": "Editing",
+        "name": "Kotagiri Venkateswara Rao",
+        "original_name": "Kotagiri Venkateswara Rao",
+        "popularity": 0.2896,
+        "profile_path": "/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+        "credit_id": "66a77ff98d957ae1c097d1a4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2129754,
+        "known_for_department": "Visual Effects",
+        "name": "R. C. Kamalakannan",
+        "original_name": "R. C. Kamalakannan",
+        "popularity": 0.196,
+        "profile_path": null,
+        "credit_id": "66a78029ce08cb5cd8a34309",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1715414,
+        "known_for_department": "Camera",
+        "name": "Kharthik Palani",
+        "original_name": "Kharthik Palani",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "67f492666c3583c975995b76",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1999852,
+        "known_for_department": "Production",
+        "name": "Raja Subramanian",
+        "original_name": "Raja Subramanian",
+        "popularity": 0.1136,
+        "profile_path": null,
+        "credit_id": "67f4929e8cfccf7bafd93e33",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3545008,
+        "known_for_department": "Production",
+        "name": "Sunil Shah",
+        "original_name": "Sunil Shah",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "credit_id": "67f492afeddec28b03adc771",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1439810,
+        "known_for_department": "Art",
+        "name": "Rajeevan",
+        "original_name": "Rajeevan",
+        "popularity": 0.2837,
+        "profile_path": null,
+        "credit_id": "67f4931a8cfccf7bafd93e5f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2162375,
+        "known_for_department": "Crew",
+        "name": "King Solomon",
+        "original_name": "King Solomon",
+        "popularity": 0.1891,
+        "profile_path": null,
+        "credit_id": "67f4933a7b43bdce20ad6581",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585344,
+        "known_for_department": "Sound",
+        "name": "S. Thaman",
+        "original_name": "S. Thaman",
+        "popularity": 1.1055,
+        "profile_path": "/y2VYUPTSWr580Fx8hxUNcUTViUa.jpg",
+        "credit_id": "684fb770f9481de4f8344c2b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643578,
+        "known_for_department": "Sound",
+        "name": "Sachin Sudhakaran",
+        "original_name": "Sachin Sudhakaran",
+        "popularity": 0.2268,
+        "profile_path": "/uCr5Q0tx3MkVFFQC1XlNCUrRAeq.jpg",
+        "credit_id": "684fb780b518dfdcb23e010f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643577,
+        "known_for_department": "Sound",
+        "name": "Hari Haran",
+        "original_name": "Hari Haran",
+        "popularity": 0.4252,
+        "profile_path": "/p8eA1lehNhAsXeYI9o35IOXY7B4.jpg",
+        "credit_id": "684fb78db518dfdcb23e0113",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2399115,
+        "known_for_department": "Directing",
+        "name": "Anil Kumar Upadyaula",
+        "original_name": "Anil Kumar Upadyaula",
+        "popularity": 0.087,
+        "profile_path": null,
+        "credit_id": "684fb7ab8b5d3f30e1bb551d",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507813,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shambhu Kumar Rai Sanjay",
+        "original_name": "Shambhu Kumar Rai Sanjay",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "684fb907a3dbeaa1323dffbb",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5306300,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sushil Kumar Swami",
+        "original_name": "Sushil Kumar Swami",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "684fb9342712534a241ecd90",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507815,
+        "known_for_department": "Production",
+        "name": "Amogh Korgaonkar",
+        "original_name": "Amogh Korgaonkar",
+        "popularity": 0.0615,
+        "profile_path": null,
+        "credit_id": "684fb94772276fc73bbb53e5",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998591,
+        "known_for_department": "Acting",
+        "name": "Sai Kumar Pampana",
+        "original_name": "Sai Kumar Pampana",
+        "popularity": 0.1784,
+        "profile_path": "/lK5PpmmtIrqy9qZhxDJJ6ZjEIJz.jpg",
+        "credit_id": "684fb95921ccec3aa5344a01",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507817,
+        "known_for_department": "Art",
+        "name": "Shikha Bisht",
+        "original_name": "Shikha Bisht",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "684fb9692c638446f11bf6fd",
+        "department": "Art",
+        "job": "Additional Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507819,
+        "known_for_department": "Visual Effects",
+        "name": "Lingapogu Abhishikth",
+        "original_name": "Lingapogu Abhishikth",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "684fb97bb518dfdcb23e0120",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507820,
+        "known_for_department": "Production",
+        "name": "Ravi Varma Janagama",
+        "original_name": "Ravi Varma Janagama",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "684fb9a243b50130475c832c",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507821,
+        "known_for_department": "Visual Effects",
+        "name": "Jacys Cheng-Yu Lin",
+        "original_name": "Jacys Cheng-Yu Lin",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "684fb9af033c8753443e00a1",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507824,
+        "known_for_department": "Visual Effects",
+        "name": "Sreeram Nagineni",
+        "original_name": "Sreeram Nagineni",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "684fba3072276fc73bbb53f1",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507825,
+        "known_for_department": "Visual Effects",
+        "name": "Santosh Reddi",
+        "original_name": "Santosh Reddi",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "684fba4dcace8fd50bb0e618",
+        "department": "Visual Effects",
+        "job": "Visual Effects Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507826,
+        "known_for_department": "Visual Effects",
+        "name": "Vijay Bhasker Reddy Sanagali",
+        "original_name": "Vijay Bhasker Reddy Sanagali",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "684fba6770df840a281bf742",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507827,
+        "known_for_department": "Visual Effects",
+        "name": "Katta Srujan",
+        "original_name": "Katta Srujan",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "684fba78306ea3d60bbb548b",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3100043,
+        "known_for_department": "Editing",
+        "name": "R.K. Suchithan",
+        "original_name": "R.K. Suchithan",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "684fba85d669235de0bb5529",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284048,
+        "known_for_department": "Production",
+        "name": "Alla Venkat",
+        "original_name": "Alla Venkat",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "684fba9bd669235de0bb552c",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4487497,
+        "known_for_department": "Camera",
+        "name": "Manoj Mishra",
+        "original_name": "Manoj Mishra",
+        "popularity": 0.115,
+        "profile_path": null,
+        "credit_id": "684fbae97a71a3dba3bb5183",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507829,
+        "known_for_department": "Camera",
+        "name": "Vegi Naresh",
+        "original_name": "Vegi Naresh",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "684fbaf51fbdd9fa2fbb54d1",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507830,
+        "known_for_department": "Camera",
+        "name": "Bhim Samba",
+        "original_name": "Bhim Samba",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "credit_id": "684fbb0472276fc73bbb53fc",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5482235,
+        "known_for_department": "Camera",
+        "name": "Chintu Sarangi",
+        "original_name": "Chintu Sarangi",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "684fbb102c399022f01eca6e",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5507831,
+        "known_for_department": "Camera",
+        "name": "Sunil Kumar Tripathy",
+        "original_name": "Sunil Kumar Tripathy",
+        "popularity": 0.0843,
+        "profile_path": null,
+        "credit_id": "684fbb1d6b90ab1fc61bf6ca",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5498705,
+        "known_for_department": "Visual Effects",
+        "name": "Bobby Kasimedha",
+        "original_name": "Bobby Kasimedha",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "684fbb2e789ef510931ecb14",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3324291,
+        "known_for_department": "Editing",
+        "name": "R. Srikanth Patnaik",
+        "original_name": "R. Srikanth Patnaik",
+        "popularity": 0.095,
+        "profile_path": null,
+        "credit_id": "684fbb3b70e868b880b0e88c",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3969071,
+        "known_for_department": "Editing",
+        "name": "Peter Grainger",
+        "original_name": "Peter Grainger",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "684fbb4815854ca566344bd5",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3586776,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Swetha Thanay",
+        "original_name": "Swetha Thanay",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "684fbc255b83eb6b5db0e709",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3302441,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Thota Vijay Bhaskar",
+        "original_name": "Thota Vijay Bhaskar",
+        "popularity": 0.1372,
+        "profile_path": null,
+        "credit_id": "684fbc47d87a151c53344868",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3597920,
+        "known_for_department": "Crew",
+        "name": "Kishore Surapaneni",
+        "original_name": "Kishore Surapaneni",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "684fbc71deaa74a7273e00e7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1711015,
+        "known_for_department": "Visual Effects",
+        "name": "Surya Kambhampati",
+        "original_name": "Surya Kambhampati",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "684fbcdc5152def6a229515c",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2283479,
+        "known_for_department": "Editing",
+        "name": "S. B. Yugeandhran",
+        "original_name": "S. B. Yugeandhran",
+        "popularity": 0.0916,
+        "profile_path": null,
+        "credit_id": "684fbd0e61b42e75a95c8175",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1765046,
+        "known_for_department": "Crew",
+        "name": "Vamsi Kaka",
+        "original_name": "Vamsi Kaka",
+        "popularity": 0.3907,
+        "profile_path": "/7Q71Q3MvVHRn7z9uwkjyFWsgR9w.jpg",
+        "credit_id": "684fbd3af0993891e43feb30",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5512721,
+        "known_for_department": "Acting",
+        "name": "Hiya Maruthi Dasari",
+        "original_name": "Hiya Maruthi Dasari",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "6852c96fcc716e82f13127fc",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2205758,
+        "known_for_department": "Production",
+        "name": "Ishan Saksena",
+        "original_name": "Ishan Saksena",
+        "popularity": 0.1552,
+        "profile_path": null,
+        "credit_id": "6852d7b89da39202bd0e802b",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653866,
+        "known_for_department": "Crew",
+        "name": "Run Jashuva",
+        "original_name": "Run Jashuva",
+        "popularity": 0.1587,
+        "profile_path": null,
+        "credit_id": "6852d81e58d78ae8b758355f",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2252787,
+        "known_for_department": "Crew",
+        "name": "Venkat Nag",
+        "original_name": "Venkat Nag",
+        "popularity": 0.278,
+        "profile_path": null,
+        "credit_id": "6852d831298ead0ca9bbdcca",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3287796,
+        "known_for_department": "Crew",
+        "name": "GSK Media Kumar",
+        "original_name": "GSK Media Kumar",
+        "popularity": 0.1552,
+        "profile_path": null,
+        "credit_id": "6852d83dbae92965b9b6e63d",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1959933,
+        "known_for_department": "Editing",
+        "name": "Satya Giduturi",
+        "original_name": "Satya Giduturi",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "6852d866462b0bbc85312891",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2227379,
+        "known_for_department": "Production",
+        "name": "Siva Kiran",
+        "original_name": "Siva Kiran",
+        "popularity": 0.1546,
+        "profile_path": null,
+        "credit_id": "6852d88f01fe91d2b4583506",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2970388,
+        "known_for_department": "Directing",
+        "name": "Gulabi Srinu",
+        "original_name": "Gulabi Srinu",
+        "popularity": 0.1559,
+        "profile_path": null,
+        "credit_id": "6852d911462b0bbc85312896",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2293444,
+        "known_for_department": "Writing",
+        "name": "Krishna Kanth",
+        "original_name": "Krishna Kanth",
+        "popularity": 0.2011,
+        "profile_path": "/2MmRxA4GD4H6nHgCrAQQhuvJLHW.jpg",
+        "credit_id": "6942ee20fbd43497284e409c",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2156687,
+        "known_for_department": "Sound",
+        "name": "Vishal Mishra",
+        "original_name": "Vishal Mishra",
+        "popularity": 0.421,
+        "profile_path": "/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+        "credit_id": "6942ee30ff28dd70687a2c38",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2225048,
+        "known_for_department": "Sound",
+        "name": "Sruthi Ranjani",
+        "original_name": "Sruthi Ranjani",
+        "popularity": 0.0887,
+        "profile_path": null,
+        "credit_id": "6942ee3eb58a56df834e3ffb",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2091064,
+        "known_for_department": "Sound",
+        "name": "Sanjith Hegde",
+        "original_name": "Sanjith Hegde",
+        "popularity": 0.3396,
+        "profile_path": "/kK9HH6Usw6s5RRYkmZ2L9JmNiOf.jpg",
+        "credit_id": "6942ee98e66f2a6ce46b8bce",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2163267,
+        "known_for_department": "Sound",
+        "name": "Blaaze",
+        "original_name": "Blaaze",
+        "popularity": 0.1887,
+        "profile_path": null,
+        "credit_id": "6942eea1df48a48e1b85e4b6",
+        "department": "Sound",
+        "job": "Playback Singer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2035076,
+        "known_for_department": "Writing",
+        "name": "Ramajogayya Sastry",
+        "original_name": "Ramajogayya Sastry",
+        "popularity": 0.2364,
+        "profile_path": "/y9sxtSdukV0GS4JyJQMq67BnHDr.jpg",
+        "credit_id": "6942eeb02a1a3bb0381d2357",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5684558,
+        "known_for_department": "Production",
+        "name": "Krithi Prasad",
+        "original_name": "Krithi Prasad",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "6952642ce73b0ed169cbd583",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3358,
+        "name": "haunted house"
+      },
+      {
+        "id": 3363,
+        "name": "hypnosis"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 9799,
+        "name": "romcom"
+      },
+      {
+        "id": 234753,
+        "name": "ancient curse"
+      },
+      {
+        "id": 245358,
+        "name": "grandfather grandson relationship"
+      },
+      {
+        "id": 256183,
+        "name": "supernatural horror"
+      },
+      {
+        "id": 281776,
+        "name": "mysterious disappearance"
+      },
+      {
+        "id": 309974,
+        "name": "absurd"
+      },
+      {
+        "id": 317274,
+        "name": "horror romance"
+      },
+      {
+        "id": 323305,
+        "name": "romantic fantasy"
+      },
+      {
+        "id": 325763,
+        "name": "ambiguous"
+      },
+      {
+        "id": 325783,
+        "name": "cliché"
+      },
+      {
+        "id": 346454,
+        "name": "self hypnosis"
+      },
+      {
+        "id": 352581,
+        "name": "comedy horror"
+      },
+      {
+        "id": 363666,
+        "name": "supernatural romance"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U/A 16+",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-01-09T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "Paid Premieres",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "te",
+            "note": "",
+            "release_date": "2026-01-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,909 @@
+{
+  "adult": false,
+  "backdrop_path": "/so5jtbB00IiW3dKbeI5JTdGNmK2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 111969,
+  "imdb_id": "tt2205697",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stuck in Love",
+  "overview": "Esta comédia dramática apresenta um escritor de sucesso que se torna cada vez mais obcecado por sua ex-esposa, a ponto de criar problemas em sua nova família.",
+  "popularity": 6.2745,
+  "poster_path": "/gB7LZHirRX8VbDixkmk32uXxZSN.jpg",
+  "production_companies": [
+    {
+      "id": 24510,
+      "logo_path": null,
+      "name": "MICA Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 33768,
+      "logo_path": "/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png",
+      "name": "The Solution",
+      "origin_country": "US"
+    },
+    {
+      "id": 49705,
+      "logo_path": null,
+      "name": "Informant Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-06-14",
+  "revenue": 977671,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Uma história sobre primeiros amores e segundas chances.",
+  "title": "Ligados Pelo Amor",
+  "video": false,
+  "vote_average": 7.375,
+  "vote_count": 1983,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17141,
+        "known_for_department": "Acting",
+        "name": "Greg Kinnear",
+        "original_name": "Greg Kinnear",
+        "popularity": 2.1444,
+        "profile_path": "/fweC1tDqEWuMQK6OHcJLnmGBf5.jpg",
+        "cast_id": 1007,
+        "character": "William Borgens",
+        "credit_id": "52fe4b08c3a36847f81eebcb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6161,
+        "known_for_department": "Acting",
+        "name": "Jennifer Connelly",
+        "original_name": "Jennifer Connelly",
+        "popularity": 13.0587,
+        "profile_path": "/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg",
+        "cast_id": 1003,
+        "character": "Erica",
+        "credit_id": "52fe4b08c3a36847f81eebbb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112561,
+        "known_for_department": "Acting",
+        "name": "Lily Collins",
+        "original_name": "Lily Collins",
+        "popularity": 3.2601,
+        "profile_path": "/xomVgnPik1jvXpQptlH8JcRf9CW.jpg",
+        "cast_id": 1005,
+        "character": "Samantha 'Sam' Borgens",
+        "credit_id": "52fe4b08c3a36847f81eebc3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232006,
+        "known_for_department": "Acting",
+        "name": "Nat Wolff",
+        "original_name": "Nat Wolff",
+        "popularity": 1.559,
+        "profile_path": "/g9noCweddwSb3VBSRpX3vo7TbuP.jpg",
+        "cast_id": 1010,
+        "character": "Rusty Borgens",
+        "credit_id": "52fe4b08c3a36847f81eebd7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 60458,
+        "known_for_department": "Acting",
+        "name": "Liana Liberato",
+        "original_name": "Liana Liberato",
+        "popularity": 1.5177,
+        "profile_path": "/5EEvVU9EDZ1ricNizDYUgclG1BF.jpg",
+        "cast_id": 1008,
+        "character": "Kate",
+        "credit_id": "52fe4b08c3a36847f81eebcf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33235,
+        "known_for_department": "Acting",
+        "name": "Logan Lerman",
+        "original_name": "Logan Lerman",
+        "popularity": 4.2261,
+        "profile_path": "/wEte1WtpzwNzhA9adib1rJGbTvb.jpg",
+        "cast_id": 1002,
+        "character": "Lou",
+        "credit_id": "52fe4b08c3a36847f81eebb7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40462,
+        "known_for_department": "Acting",
+        "name": "Kristen Bell",
+        "original_name": "Kristen Bell",
+        "popularity": 4.5091,
+        "profile_path": "/rP74dJXl7EjinGM0shQtUOlH5s2.jpg",
+        "cast_id": 1004,
+        "character": "Tricia",
+        "credit_id": "52fe4b08c3a36847f81eebbf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35654,
+        "known_for_department": "Acting",
+        "name": "Spencer Breslin",
+        "original_name": "Spencer Breslin",
+        "popularity": 0.9285,
+        "profile_path": "/jqZRcEjEt3iodgXoGOZUaahozjm.jpg",
+        "cast_id": 1028,
+        "character": "Jason",
+        "credit_id": "5871c868925141355701130b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3027,
+        "known_for_department": "Writing",
+        "name": "Stephen King",
+        "original_name": "Stephen King",
+        "popularity": 2.1181,
+        "profile_path": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg",
+        "cast_id": 1006,
+        "character": "Self (voice)",
+        "credit_id": "52fe4b08c3a36847f81eebc7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053422,
+        "known_for_department": "Acting",
+        "name": "Patrick Schwarzenegger",
+        "original_name": "Patrick Schwarzenegger",
+        "popularity": 2.3552,
+        "profile_path": "/jKbI0OpFMMz4SPCU1VoMHXIbA3Y.jpg",
+        "cast_id": 1011,
+        "character": "Glen",
+        "credit_id": "52fe4b08c3a36847f81eebdb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 177508,
+        "known_for_department": "Acting",
+        "name": "Rusty Joiner",
+        "original_name": "Rusty Joiner",
+        "popularity": 0.4995,
+        "profile_path": "/aBKbYXtmPYZJ89z1h91TpnzXyfW.jpg",
+        "cast_id": 1009,
+        "character": "Martin",
+        "credit_id": "52fe4b08c3a36847f81eebd3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 174158,
+        "known_for_department": "Acting",
+        "name": "Barbara Weetman",
+        "original_name": "Barbara Weetman",
+        "popularity": 0.2875,
+        "profile_path": "/2J7cZigFhedlvmq2ZwfrLRMBq38.jpg",
+        "cast_id": 1015,
+        "character": "Diane",
+        "credit_id": "52fe4b09c3a36847f81eebeb",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053423,
+        "known_for_department": "Acting",
+        "name": "Alex ter Avest",
+        "original_name": "Alex ter Avest",
+        "popularity": 0.5965,
+        "profile_path": "/yACy7jx7rN5QhFcKxi1NqsYCiE1.jpg",
+        "cast_id": 1012,
+        "character": "Becky",
+        "credit_id": "52fe4b08c3a36847f81eebdf",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457291,
+        "known_for_department": "Acting",
+        "name": "David Carzell",
+        "original_name": "David Carzell",
+        "popularity": 0.4916,
+        "profile_path": "/kTF7LtGQciF7AlhdjwRURUeqmQM.jpg",
+        "cast_id": 1026,
+        "character": "Rodney",
+        "credit_id": "5871c8489251413564011383",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1370998,
+        "known_for_department": "Acting",
+        "name": "Zeeko Zaki",
+        "original_name": "Zeeko Zaki",
+        "popularity": 2.8098,
+        "profile_path": "/r38igYNkkjIYnuZQhFtGV5t8ZLs.jpg",
+        "cast_id": 1027,
+        "character": "Gus",
+        "credit_id": "5871c85cc3a3684f1d012ff6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053424,
+        "known_for_department": "Acting",
+        "name": "Karen Malina",
+        "original_name": "Karen Malina",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 1014,
+        "character": "Funeral Relative",
+        "credit_id": "52fe4b08c3a36847f81eebe7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83271,
+        "known_for_department": "Acting",
+        "name": "Glen Powell",
+        "original_name": "Glen Powell",
+        "popularity": 4.4649,
+        "profile_path": "/m6D6tSmgEvYGxo2q0zrwyo1a4of.jpg",
+        "cast_id": 1013,
+        "character": "Good Looking Frat Guy",
+        "credit_id": "52fe4b08c3a36847f81eebe3",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3031276,
+        "known_for_department": "Directing",
+        "name": "Scott Hardwick",
+        "original_name": "Scott Hardwick",
+        "popularity": 0.1264,
+        "profile_path": null,
+        "credit_id": "606399911130bd0055614967",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053420,
+        "known_for_department": "Directing",
+        "name": "Josh Boone",
+        "original_name": "Josh Boone",
+        "popularity": 0.3904,
+        "profile_path": "/Ak9d9uoTVIAJYOsl8vfcLICBIc5.jpg",
+        "credit_id": "52fe4b08c3a36847f81eebad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1024835,
+        "known_for_department": "Production",
+        "name": "Judy Cairo",
+        "original_name": "Judy Cairo",
+        "popularity": 0.5352,
+        "profile_path": "/dhq7lH97FtqZr0csjZLPSHwxSBH.jpg",
+        "credit_id": "52fe4b09c3a36847f81eebf1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 989833,
+        "known_for_department": "Sound",
+        "name": "Mike Mogis",
+        "original_name": "Mike Mogis",
+        "popularity": 0.1289,
+        "profile_path": null,
+        "credit_id": "52fe4b09c3a36847f81eebf7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 201210,
+        "known_for_department": "Sound",
+        "name": "Nate Walcott",
+        "original_name": "Nate Walcott",
+        "popularity": 0.1488,
+        "profile_path": null,
+        "credit_id": "52fe4b09c3a36847f81eebfd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72264,
+        "known_for_department": "Camera",
+        "name": "Tim Orr",
+        "original_name": "Tim Orr",
+        "popularity": 0.3902,
+        "profile_path": "/7ANEkhXONfNC1ftIlSvIg4HFH03.jpg",
+        "credit_id": "52fe4b09c3a36847f81eec03",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19661,
+        "known_for_department": "Editing",
+        "name": "Robb Sullivan",
+        "original_name": "Robb Sullivan",
+        "popularity": 0.1734,
+        "profile_path": null,
+        "credit_id": "52fe4b09c3a36847f81eec09",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404814,
+        "known_for_department": "Art",
+        "name": "John Sanders",
+        "original_name": "John Sanders",
+        "popularity": 0.5475,
+        "profile_path": null,
+        "credit_id": "54b2a3c7c3a368094e004bdd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1053420,
+        "known_for_department": "Directing",
+        "name": "Josh Boone",
+        "original_name": "Josh Boone",
+        "popularity": 0.3904,
+        "profile_path": "/Ak9d9uoTVIAJYOsl8vfcLICBIc5.jpg",
+        "credit_id": "5521170e9251415c7f0033c9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 987068,
+        "known_for_department": "Production",
+        "name": "Lisa Wilson",
+        "original_name": "Lisa Wilson",
+        "popularity": 0.5123,
+        "profile_path": null,
+        "credit_id": "55da111192514143f3005236",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1533532,
+        "known_for_department": "Sound",
+        "name": "Laura Katz",
+        "original_name": "Laura Katz",
+        "popularity": 0.1209,
+        "profile_path": null,
+        "credit_id": "564083b09251417057000be5",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1533101,
+        "known_for_department": "Sound",
+        "name": "Andy Ross",
+        "original_name": "Andy Ross",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "credit_id": "564083c0c3a368506d000cbb",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 561,
+        "known_for_department": "Production",
+        "name": "John Papsidera",
+        "original_name": "John Papsidera",
+        "popularity": 1.0259,
+        "profile_path": "/egwEVyrAmdWhtuLqE5fcThZf41E.jpg",
+        "credit_id": "65e68fc3e039f101863d8510",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54761,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kari Perkins",
+        "original_name": "Kari Perkins",
+        "popularity": 0.2456,
+        "profile_path": null,
+        "credit_id": "65e69051e559370163c75b41",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1408715,
+        "known_for_department": "Production",
+        "name": "Carole Peterman",
+        "original_name": "Carole Peterman",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "65e69097e039f101493d5e80",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101109,
+        "known_for_department": "Directing",
+        "name": "Michael A. Simpson",
+        "original_name": "Michael A. Simpson",
+        "popularity": 0.2846,
+        "profile_path": "/wdckRL1ShGrSt1LhU406v8614on.jpg",
+        "credit_id": "65e690b86332f7017c914118",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024837,
+        "known_for_department": "Production",
+        "name": "Eric Brenner",
+        "original_name": "Eric Brenner",
+        "popularity": 0.6113,
+        "profile_path": null,
+        "credit_id": "65e690c7e039f101863d8731",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2672249,
+        "known_for_department": "Production",
+        "name": "Patrick W. Dugan",
+        "original_name": "Patrick W. Dugan",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "65e690df097c49018665ea32",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 954441,
+        "known_for_department": "Production",
+        "name": "Jeff Rice",
+        "original_name": "Jeff Rice",
+        "popularity": 0.274,
+        "profile_path": null,
+        "credit_id": "65e690f5e559370163c75c3f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1014925,
+        "known_for_department": "Production",
+        "name": "Myles Nestel",
+        "original_name": "Myles Nestel",
+        "popularity": 0.2462,
+        "profile_path": null,
+        "credit_id": "65e69106097c49018665eab6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1408715,
+        "known_for_department": "Production",
+        "name": "Carole Peterman",
+        "original_name": "Carole Peterman",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "65e6a55c09dda4017cbde740",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546618,
+        "known_for_department": "Directing",
+        "name": "Rick Clark",
+        "original_name": "Rick Clark",
+        "popularity": 0.1115,
+        "profile_path": null,
+        "credit_id": "65e6a575f85958017b9a919a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4573632,
+        "known_for_department": "Directing",
+        "name": "James 'Billy' Burton",
+        "original_name": "James 'Billy' Burton",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65e6a60d1db65d01879340c8",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295831,
+        "known_for_department": "Production",
+        "name": "Lewis Horwitz",
+        "original_name": "Lewis Horwitz",
+        "popularity": 0.125,
+        "profile_path": null,
+        "credit_id": "694a83b70b107d2826b1d2b4",
+        "department": "Production",
+        "job": "Finance"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1332,
+        "name": "cheating"
+      },
+      {
+        "id": 970,
+        "name": "parent child relationship"
+      },
+      {
+        "id": 1731,
+        "name": "writing"
+      },
+      {
+        "id": 4543,
+        "name": "thanksgiving"
+      },
+      {
+        "id": 5922,
+        "name": "north carolina"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 13028,
+        "name": "writer"
+      },
+      {
+        "id": 13043,
+        "name": "dating"
+      },
+      {
+        "id": 14534,
+        "name": "relationship"
+      },
+      {
+        "id": 14964,
+        "name": "drugs"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 33910,
+        "name": "high school student"
+      },
+      {
+        "id": 34145,
+        "name": "beach house"
+      },
+      {
+        "id": 155251,
+        "name": "novelist"
+      },
+      {
+        "id": 156455,
+        "name": "unhappiness"
+      },
+      {
+        "id": 157303,
+        "name": "first love"
+      },
+      {
+        "id": 163758,
+        "name": "ex-husband ex-wife relationship"
+      },
+      {
+        "id": 184432,
+        "name": "divorced father"
+      },
+      {
+        "id": 190070,
+        "name": "reconnect"
+      },
+      {
+        "id": 207844,
+        "name": "college student"
+      },
+      {
+        "id": 228069,
+        "name": "stuck"
+      },
+      {
+        "id": 274507,
+        "name": "holidays"
+      },
+      {
+        "id": 286925,
+        "name": "affair"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-08-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-07-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Toronto International Film Festival",
+            "release_date": "2012-09-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-09-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-06-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-09-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-06-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2013-11-18T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "Κ-15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-08-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2014-01-16T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-06-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2014-05-27T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Phoenix Film Festival",
+            "release_date": "2013-04-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-07-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

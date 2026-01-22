@@ -1,0 +1,423 @@
+{
+  "adult": false,
+  "backdrop_path": "/uHzxIRoz0ksfZDh12UOrzUoF0Et.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1327881,
+  "imdb_id": "tt14940390",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Voice of Shadows",
+  "overview": "Uma jovem de origem humilde pode herdar uma grande propriedade, desde que ela e o namorado cumpram uma série de condições bizarras.",
+  "popularity": 38.8667,
+  "poster_path": "/mELMhjvb3AdEex5Vjl0hBfjjdVb.jpg",
+  "production_companies": [
+    {
+      "id": 236032,
+      "logo_path": null,
+      "name": "TheGseven",
+      "origin_country": ""
+    },
+    {
+      "id": 272411,
+      "logo_path": null,
+      "name": "Ark Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-17",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Voz das Sombras",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 13,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2517245,
+        "known_for_department": "Writing",
+        "name": "Guillermo Blanco",
+        "original_name": "Guillermo Blanco",
+        "popularity": 0.1414,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Gabriel",
+        "credit_id": "66b729c75626f97259e5efbf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3081833,
+        "known_for_department": "Acting",
+        "name": "Corrinne Mica",
+        "original_name": "Corrinne Mica",
+        "popularity": 0.1157,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Emma",
+        "credit_id": "66b729bfecc808bbc9c60af4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4339519,
+        "known_for_department": "Acting",
+        "name": "María José Vargas Agudelo",
+        "original_name": "María José Vargas Agudelo",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Celeste",
+        "credit_id": "66b729b71771b6558ea7b3c2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2785770,
+        "known_for_department": "Acting",
+        "name": "Jane Hammill",
+        "original_name": "Jane Hammill",
+        "popularity": 0.1955,
+        "profile_path": "/4uVq3i0TxU6qpZZNRZdrZqx0SG6.jpg",
+        "cast_id": 6,
+        "character": "Milda",
+        "credit_id": "66b729d07ee9f3b30f0738da",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1660536,
+        "known_for_department": "Acting",
+        "name": "Michael Paul Levin",
+        "original_name": "Michael Paul Levin",
+        "popularity": 0.1126,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Father John",
+        "credit_id": "66b729d8f7a63815fb1db499",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1199292,
+        "known_for_department": "Acting",
+        "name": "Martin Harris",
+        "original_name": "Martin Harris",
+        "popularity": 0.4893,
+        "profile_path": "/3CRHqBr5U8pexQdtB42P0ZzK9x0.jpg",
+        "cast_id": 2,
+        "character": "Ernesto",
+        "credit_id": "66b729b05d83aa505e282c30",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74309,
+        "known_for_department": "Acting",
+        "name": "Bee Vang",
+        "original_name": "Bee Vang",
+        "popularity": 0.422,
+        "profile_path": "/jsuIB1gCwm0tPyhRsEocEqWO0XO.jpg",
+        "cast_id": 1,
+        "character": "Father James",
+        "credit_id": "66b729a97d739ff29e9edb36",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4877325,
+        "known_for_department": "Acting",
+        "name": "Sean R Jr. Soukkala",
+        "original_name": "Sean R Jr. Soukkala",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Joseph",
+        "credit_id": "66b729edcf10bee8a8c60f30",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3734476,
+        "known_for_department": "Acting",
+        "name": "Kevin Lokey",
+        "original_name": "Kevin Lokey",
+        "popularity": 0.0831,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Mr. Birdie",
+        "credit_id": "66b729dfbad4946e2a5962c0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4877324,
+        "known_for_department": "Acting",
+        "name": "Betti Battocletti",
+        "original_name": "Betti Battocletti",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Mrs. Birdie",
+        "credit_id": "66b729e683a55fb98c017ba3",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4877328,
+        "known_for_department": "Directing",
+        "name": "Nicholas Bain",
+        "original_name": "Nicholas Bain",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "66b729fe8fd5b6a19aa8c43c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4877328,
+        "known_for_department": "Directing",
+        "name": "Nicholas Bain",
+        "original_name": "Nicholas Bain",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "67d00974ce20cf197260882f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4877328,
+        "known_for_department": "Directing",
+        "name": "Nicholas Bain",
+        "original_name": "Nicholas Bain",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "67d0097e42c0ccc3ca1ddc89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2517245,
+        "known_for_department": "Writing",
+        "name": "Guillermo Blanco",
+        "original_name": "Guillermo Blanco",
+        "popularity": 0.1414,
+        "profile_path": null,
+        "credit_id": "67d009db42c0ccc3ca1ddcc4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198812,
+        "known_for_department": "Acting",
+        "name": "Matthew Fahey",
+        "original_name": "Matthew Fahey",
+        "popularity": 0.8296,
+        "profile_path": "/aXvMnNXSaN4BB3lJZr3ADvGw4Jx.jpg",
+        "credit_id": "67d009f527c3960c2d1de57a",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1199292,
+        "known_for_department": "Acting",
+        "name": "Martin Harris",
+        "original_name": "Martin Harris",
+        "popularity": 0.4893,
+        "profile_path": "/3CRHqBr5U8pexQdtB42P0ZzK9x0.jpg",
+        "credit_id": "67d00a2f27c3960c2d1de5b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2213566,
+        "known_for_department": "Production",
+        "name": "Jamie Milne-Roberts",
+        "original_name": "Jamie Milne-Roberts",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67d00a7427c3960c2d1de5d6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1660529,
+        "known_for_department": "Acting",
+        "name": "Matt Roy",
+        "original_name": "Matt Roy",
+        "popularity": 0.1832,
+        "profile_path": "/tXh3y3fP61a3TipYBJFAf55bHiu.jpg",
+        "credit_id": "67d00a8a66892bad62812306",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2430560,
+        "known_for_department": "Sound",
+        "name": "Utkucan Eken",
+        "original_name": "Utkucan Eken",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "67d00a9742c0ccc3ca1ddcf9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4168332,
+        "known_for_department": "Crew",
+        "name": "Neil Murphy",
+        "original_name": "Neil Murphy",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "67d00acd3602026906811dff",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4422328,
+        "known_for_department": "Art",
+        "name": "Peter Dahl",
+        "original_name": "Peter Dahl",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "67d00aec66892bad62812348",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 15032,
+        "name": "gothic horror"
+      },
+      {
+        "id": 41411,
+        "name": "vengeful ghost"
+      },
+      {
+        "id": 172391,
+        "name": "catholic priest"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2025-01-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-09-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "adult": false,
+  "backdrop_path": "/eL8fgEK8mgDcJZRHzuxbLwevCcr.jpg",
+  "belongs_to_collection": {
+    "id": 1429624,
+    "name": "Kaptein Sabeltann Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 3700000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    }
+  ],
+  "homepage": "",
+  "id": 1342341,
+  "imdb_id": "tt33540970",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Kaptein Sabeltann og Grevinnen av Gral",
+  "overview": "",
+  "popularity": 6.1853,
+  "poster_path": "/dYtPDfhG5OMQnQVXCkZj2sopXG2.jpg",
+  "production_companies": [
+    {
+      "id": 32314,
+      "logo_path": "/eQ334MC49QQuy6lZnAO2RcxNREX.png",
+      "name": "Qvisten Animation",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2025-02-07",
+  "revenue": 2225596,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kaptein Sabeltann og Grevinnen av Gral",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76553,
+        "known_for_department": "Acting",
+        "name": "Kyrre Haugen Sydness",
+        "original_name": "Kyrre Haugen Sydness",
+        "popularity": 0.428,
+        "profile_path": "/6x0c1xQTvnpbd2hqXSk97rVokcZ.jpg",
+        "cast_id": 9,
+        "character": "Kaptein Sabeltann (voice)",
+        "credit_id": "6792d0b50a30d6d059237fda",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77980,
+        "known_for_department": "Acting",
+        "name": "Håvard Bakke",
+        "original_name": "Håvard Bakke",
+        "popularity": 0.2956,
+        "profile_path": "/aEUKJpA2hQHmpWRrQVWDYyMdLfj.jpg",
+        "cast_id": 10,
+        "character": "Langemann (voice)",
+        "credit_id": "6792d0f016a8fe8ece237c48",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2179610,
+        "known_for_department": "Acting",
+        "name": "Lisa Stokke",
+        "original_name": "Lisa Stokke",
+        "popularity": 0.1092,
+        "profile_path": "/dcrIuRdkIhkDkpfAD4NZE4s6bqX.jpg",
+        "cast_id": 11,
+        "character": "Sibylla - Grevinnen av Gral (voice)",
+        "credit_id": "6792d119c5081346f14821ca",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2930675,
+        "known_for_department": "Acting",
+        "name": "Fridtjof Stensæth Josefsen",
+        "original_name": "Fridtjof Stensæth Josefsen",
+        "popularity": 0.2892,
+        "profile_path": "/td7c3RXbNrbpRufL8Dt8n886KxT.jpg",
+        "cast_id": 12,
+        "character": "Benjamin (voice)",
+        "credit_id": "6792d13ac5081346f14821eb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3484193,
+        "known_for_department": "Acting",
+        "name": "David Leander Helgor",
+        "original_name": "David Leander Helgor",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Pinky (voice)",
+        "credit_id": "6792d151ee914276314829ad",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589188,
+        "known_for_department": "Acting",
+        "name": "Nils Jørgen Kaalstad",
+        "original_name": "Nils Jørgen Kaalstad",
+        "popularity": 0.4423,
+        "profile_path": "/zAbnFvjI0Mi4k8yiDD07wBPwCMd.jpg",
+        "cast_id": 14,
+        "character": "Pelle Pirat (voice)",
+        "credit_id": "6792d1703be0b7b6f3237d79",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1287263,
+        "known_for_department": "Acting",
+        "name": "Jeppe Beck Laursen",
+        "original_name": "Jeppe Beck Laursen",
+        "popularity": 0.5488,
+        "profile_path": "/v5RKCoJylSLpAfoTqYExwuRRrBD.jpg",
+        "cast_id": 15,
+        "character": "Pysa Pirat (voice)",
+        "credit_id": "6792d199c5081346f1482265",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348011,
+        "known_for_department": "Acting",
+        "name": "Jan Martin Johnsen",
+        "original_name": "Jan Martin Johnsen",
+        "popularity": 0.6703,
+        "profile_path": "/a5qXzR4HS7xxuLA4EEgnIAOSLZK.jpg",
+        "cast_id": 16,
+        "character": "Skalken (voice)",
+        "credit_id": "6792d1aec5081346f1482283",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5199487,
+        "known_for_department": "Acting",
+        "name": "Sienna Rose Schei",
+        "original_name": "Sienna Rose Schei",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Ravn (voice)",
+        "credit_id": "6792d1c83be0b7b6f3237daf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76917,
+        "known_for_department": "Acting",
+        "name": "Charlotte Frogner",
+        "original_name": "Charlotte Frogner",
+        "popularity": 0.3956,
+        "profile_path": "/xAaBmAepMzWoHuoI5sl1feYEKYx.jpg",
+        "cast_id": 18,
+        "character": "Rosa / Bella / Rik dame / Soldat (voice)",
+        "credit_id": "6792d1d9c5081346f148229a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81407,
+        "known_for_department": "Acting",
+        "name": "Espen Sandvik",
+        "original_name": "Espen Sandvik",
+        "popularity": 0.1199,
+        "profile_path": "/5RvbBvQHTYuSjhOjt9OPKiArW05.jpg",
+        "cast_id": 29,
+        "character": "Dragen / Soldat / Folkemengde (voice)",
+        "credit_id": "68ec46e2df790e8256784cf1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76555,
+        "known_for_department": "Acting",
+        "name": "Jakob Oftebro",
+        "original_name": "Jakob Oftebro",
+        "popularity": 0.9323,
+        "profile_path": "/ypyMSXwABVXHjTOfpEHW008cw1A.jpg",
+        "cast_id": 19,
+        "character": "Gusto / Gammel Mann / Soldat / Pirat uten briller / Pirat med lapper (voice)",
+        "credit_id": "6792d1e808c1729ec9183c6f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1138524,
+        "known_for_department": "Editing",
+        "name": "Lars-Petter Iversen",
+        "original_name": "Lars-Petter Iversen",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Billy (voice)",
+        "credit_id": "68ec48453eaa9d7237f118ce",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77889,
+        "known_for_department": "Acting",
+        "name": "Terje Formoe",
+        "original_name": "Terje Formoe",
+        "popularity": 0.1526,
+        "profile_path": "/tcMV9VxTbhlEISoESDiM08oowVR.jpg",
+        "cast_id": 21,
+        "character": "Trubadur (voice)",
+        "credit_id": "6792d224c5081346f14822d7",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5745895,
+        "known_for_department": "Acting",
+        "name": "Finn Jacob Wieberg",
+        "original_name": "Finn Jacob Wieberg",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Barn (voice)",
+        "credit_id": "68ec496a93ed351f18d68dd0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5745896,
+        "known_for_department": "Acting",
+        "name": "Ellinor Johanne Wieberg",
+        "original_name": "Ellinor Johanne Wieberg",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Barn (voice)",
+        "credit_id": "68ec4990d697918f4b9de93a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5745897,
+        "known_for_department": "Acting",
+        "name": "Klara Hansen Indgaard",
+        "original_name": "Klara Hansen Indgaard",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Barn (voice)",
+        "credit_id": "68ec49b2580da9868df118f4",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81398,
+        "known_for_department": "Writing",
+        "name": "Karsten Fullu",
+        "original_name": "Karsten Fullu",
+        "popularity": 0.2117,
+        "profile_path": null,
+        "credit_id": "66d5a522af45e3f9a3302662",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305441,
+        "known_for_department": "Visual Effects",
+        "name": "Yaprak Morali",
+        "original_name": "Yaprak Morali",
+        "popularity": 0.0863,
+        "profile_path": null,
+        "credit_id": "66d5a552eb48c4c9997e3494",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2574920,
+        "known_for_department": "Art",
+        "name": "Are Austnes",
+        "original_name": "Are Austnes",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "66d5a55ee26b52a56a45ac9b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2574920,
+        "known_for_department": "Art",
+        "name": "Are Austnes",
+        "original_name": "Are Austnes",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "66d5a514dbcef1a290cb75ec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81397,
+        "known_for_department": "Directing",
+        "name": "Rasmus A. Sivertsen",
+        "original_name": "Rasmus A. Sivertsen",
+        "popularity": 0.2957,
+        "profile_path": "/ysJ9u7SRW2U8CjajMCxX4QYux0k.jpg",
+        "credit_id": "66d5a4f513536f6deaa6d388",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305441,
+        "known_for_department": "Visual Effects",
+        "name": "Yaprak Morali",
+        "original_name": "Yaprak Morali",
+        "popularity": 0.0863,
+        "profile_path": null,
+        "credit_id": "66d5a505977fbe7ff7a6d2bd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2491497,
+        "known_for_department": "Writing",
+        "name": "Mina Juni Stenebråten",
+        "original_name": "Mina Juni Stenebråten",
+        "popularity": 0.1648,
+        "profile_path": null,
+        "credit_id": "66d5a534828b7e1340302385",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1513839,
+        "known_for_department": "Directing",
+        "name": "Rune Spaans",
+        "original_name": "Rune Spaans",
+        "popularity": 0.1185,
+        "profile_path": null,
+        "credit_id": "66d5a5450426fc8b690414b1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3145753,
+        "known_for_department": "Editing",
+        "name": "Morten Rørvig",
+        "original_name": "Morten Rørvig",
+        "popularity": 0.142,
+        "profile_path": null,
+        "credit_id": "67cdac438d0c44cf8f10ebd9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5292889,
+        "known_for_department": "Sound",
+        "name": "Martin Fuglestad",
+        "original_name": "Martin Fuglestad",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67cdb0a22bd21c806f10f234",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719121,
+        "known_for_department": "Sound",
+        "name": "Thomas Staugaard",
+        "original_name": "Thomas Staugaard",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "67cdb0de46d50f08cf2a7d41",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5322320,
+        "known_for_department": "Production",
+        "name": "Cecilie Tidemann",
+        "original_name": "Cecilie Tidemann",
+        "popularity": 0.1367,
+        "profile_path": null,
+        "credit_id": "67df5798b8e0fea93407c426",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629813,
+        "known_for_department": "Production",
+        "name": "Stian Tveiten",
+        "original_name": "Stian Tveiten",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "67df57a330e65e7beec70460",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1750788,
+        "known_for_department": "Production",
+        "name": "Ove Heiborg",
+        "original_name": "Ove Heiborg",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "67df57b3c0b4387a6ec707a0",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 320734,
+        "name": "sea pirates"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Children's International Film Festival ",
+            "release_date": "2025-06-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "hu",
+            "note": "",
+            "release_date": "2025-07-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "no",
+            "note": "",
+            "release_date": "2025-02-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

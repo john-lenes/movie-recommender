@@ -110,6 +110,34 @@ export type AuthResponse = {
 const BASE = "/api";
 let authToken: string | null = localStorage.getItem("authToken");
 
+// Retry com exponential backoff
+async function fetchWithRetry(
+  url: string,
+  options: RequestInit = {},
+  retries = 3,
+): Promise<Response> {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 10000); // 10s timeout
+
+      const response = await fetch(url, {
+        ...options,
+        signal: controller.signal,
+      });
+
+      clearTimeout(timeout);
+      return response;
+    } catch (error) {
+      if (i === retries - 1) throw error;
+      await new Promise((resolve) =>
+        setTimeout(resolve, Math.pow(2, i) * 1000),
+      );
+    }
+  }
+  throw new Error("Max retries reached");
+}
+
 function getHeaders() {
   const headers: HeadersInit = { "Content-Type": "application/json" };
   if (authToken) {
@@ -182,15 +210,28 @@ export async function logout() {
 }
 
 export async function getMe(): Promise<User> {
-  const r = await fetch(`${BASE}/auth/me`, { headers: getHeaders() });
-  if (!r.ok) throw new Error("Not authenticated");
+  const r = await fetchWithRetry(`${BASE}/auth/me`, { headers: getHeaders() });
+  if (!r.ok) throw new Error("Não autenticado");
   return r.json();
 }
 
 export async function getMovies(): Promise<Movie[]> {
-  const r = await fetch(`${BASE}/movies`);
-  if (!r.ok) throw new Error("Failed to fetch movies");
-  return r.json();
+  try {
+    const r = await fetchWithRetry(`${BASE}/movies`);
+    if (!r.ok) {
+      throw new Error(`Erro ao carregar filmes: ${r.status} ${r.statusText}`);
+    }
+    const data = await r.json();
+    if (!Array.isArray(data)) {
+      throw new Error("Formato de dados inválido");
+    }
+    return data;
+  } catch (error) {
+    if (error instanceof Error && error.name === "AbortError") {
+      throw new Error("Timeout: Servidor demorou muito para responder");
+    }
+    throw error;
+  }
 }
 
 export async function sendFeedback(

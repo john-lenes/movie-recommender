@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/ctckqAvz9aTZDtfXLmDUdMflesU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81334946",
+  "id": 785534,
+  "imdb_id": "tt13045890",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Kağıttan Hayatlar",
+  "overview": "Nas ruas de Istambul, Mehmet, um catador de papel, decide ajudar um garoto e acaba tendo que confrontar os traumas da própria infância.",
+  "popularity": 2.4714,
+  "poster_path": "/fdVOFZgwYlLb73ehiWLRm64K2rB.jpg",
+  "production_companies": [
+    {
+      "id": 142312,
+      "logo_path": null,
+      "name": "OGM Pictures",
+      "origin_country": "TR"
+    },
+    {
+      "id": 130393,
+      "logo_path": null,
+      "name": "OG Medya",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2021-03-12",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Filhos de Istambul",
+  "video": false,
+  "vote_average": 8.004,
+  "vote_count": 404,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252061,
+        "known_for_department": "Acting",
+        "name": "Çağatay Ulusoy",
+        "original_name": "Çağatay Ulusoy",
+        "popularity": 6.4848,
+        "profile_path": "/6anWOhuVKq64zoL2YCEN043B3SP.jpg",
+        "cast_id": 1,
+        "character": "Mehmet",
+        "credit_id": "5ffe68b4594c94003f8e6f05",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934254,
+        "known_for_department": "Acting",
+        "name": "Emir Ali Doğrul",
+        "original_name": "Emir Ali Doğrul",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ali",
+        "credit_id": "5ffe68bd223e200040af19c1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1948899,
+        "known_for_department": "Acting",
+        "name": "Ersin Arıcı",
+        "original_name": "Ersin Arıcı",
+        "popularity": 0.913,
+        "profile_path": "/5NOZpOapbhcGHPO3GhwTaQIuYc0.jpg",
+        "cast_id": 10,
+        "character": "Gonzales",
+        "credit_id": "603707e715959f003e870084",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143249,
+        "known_for_department": "Acting",
+        "name": "Turgay Tanülkü",
+        "original_name": "Turgay Tanülkü",
+        "popularity": 0.3464,
+        "profile_path": "/8SJXW2utHtBgV2RZZMYfIpNflP0.jpg",
+        "cast_id": 11,
+        "character": "Tahsin",
+        "credit_id": "603707f04c1d9a0041e1863d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1514727,
+        "known_for_department": "Acting",
+        "name": "Selen Öztürk",
+        "original_name": "Selen Öztürk",
+        "popularity": 0.5715,
+        "profile_path": "/xgiTYVwDQA7jYDmnFdJWJS87PmD.jpg",
+        "cast_id": 12,
+        "character": "Mom",
+        "credit_id": "603707f50d294400405d2500",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2056381,
+        "known_for_department": "Acting",
+        "name": "Tomris Çetinel",
+        "original_name": "Tomris Çetinel",
+        "popularity": 0.0563,
+        "profile_path": "/n3fVB62ZcVGXCj1J0xcZd5pyZz4.jpg",
+        "cast_id": 13,
+        "character": "Yaşlı Kadın",
+        "credit_id": "645d49c2ad50f000fe2fb8cf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5825770,
+        "known_for_department": "Crew",
+        "name": "Enver Aktay",
+        "original_name": "Enver Aktay",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Enver",
+        "credit_id": "691d2aa43767e7e03a2e1844",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4123750,
+        "known_for_department": "Sound",
+        "name": "Doğa Ebrişim",
+        "original_name": "Doğa Ebrişim",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "64933ccdd2147c0139ca5ab7",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1598214,
+        "known_for_department": "Writing",
+        "name": "Ercan Mehmet Erdem",
+        "original_name": "Ercan Mehmet Erdem",
+        "popularity": 0.184,
+        "profile_path": "/k7faGpUWppr1HjVNC3Jsaukew6w.jpg",
+        "credit_id": "5ffe68e90ff15a003f5a4ab6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1876416,
+        "known_for_department": "Directing",
+        "name": "Can Ulkay",
+        "original_name": "Can Ulkay",
+        "popularity": 0.2656,
+        "profile_path": "/37ZlEKDZUrYcysyHTD6YMee5EvI.jpg",
+        "credit_id": "5ffe68cfcf9ba3003fe2462d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1467514,
+        "known_for_department": "Art",
+        "name": "Vahit Yazıcı",
+        "original_name": "Vahit Yazıcı",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "603707893e01ea003f71de6b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584313,
+        "known_for_department": "Production",
+        "name": "Onur Güvenatam",
+        "original_name": "Onur Güvenatam",
+        "popularity": 1.9382,
+        "profile_path": "/9gKiwspH44VW0NFcPJwHQgheifa.jpg",
+        "credit_id": "603706fdb76cbb0040cba366",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556681,
+        "known_for_department": "Camera",
+        "name": "Serkan Güler",
+        "original_name": "Serkan Güler",
+        "popularity": 0.1247,
+        "profile_path": null,
+        "credit_id": "6037070b5b370d00403cce1c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304674,
+        "known_for_department": "Production",
+        "name": "Pelin Ekinci Kaya",
+        "original_name": "Pelin Ekinci Kaya",
+        "popularity": 0.1474,
+        "profile_path": null,
+        "credit_id": "603707054fd141003fae9c90",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2990029,
+        "known_for_department": "Art",
+        "name": "Tuncay Özcan",
+        "original_name": "Tuncay Özcan",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "603707b7b76cbb0040cba4db",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5825770,
+        "known_for_department": "Crew",
+        "name": "Enver Aktay",
+        "original_name": "Enver Aktay",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "credit_id": "691d2ab545a14494162e183a",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Netflix",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "16+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "tr",
+            "note": "Netflix",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-03-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

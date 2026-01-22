@@ -1,0 +1,800 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Q2CWHZTk48lb8QOMninYmzUfvc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    }
+  ],
+  "homepage": "",
+  "id": 1497348,
+  "imdb_id": "tt39018552",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Alas Roban",
+  "overview": "",
+  "popularity": 16.7973,
+  "poster_path": "/dtJmnGZYuA2Ngnj3iv0T9EqCHBH.jpg",
+  "production_companies": [
+    {
+      "id": 10658,
+      "logo_path": "/xVSK2AT9kEU6NyrrSs8Zb21iMFq.png",
+      "name": "Unlimited Production",
+      "origin_country": "ID"
+    },
+    {
+      "id": 230289,
+      "logo_path": "/cyj9j5rtUURqFU6dvnCF7sAGHAH.png",
+      "name": "Narasi Semesta",
+      "origin_country": "ID"
+    },
+    {
+      "id": 46840,
+      "logo_path": "/y5TYYZWMM6CoNyAMMRL9lJA10yD.png",
+      "name": "Legacy Pictures",
+      "origin_country": "ID"
+    },
+    {
+      "id": 181407,
+      "logo_path": "/g4IViidlRU68xwLcGPTQjoAvGPX.png",
+      "name": "Dwi Abisatya Persada",
+      "origin_country": "ID"
+    },
+    {
+      "id": 181408,
+      "logo_path": "/s0yN44Npsm0EzNbVfCElp9Ziw7l.png",
+      "name": "Lighthouse Capital Management",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2026-01-15",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alas Roban",
+  "video": false,
+  "vote_average": 5.333,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1645578,
+        "known_for_department": "Acting",
+        "name": "Michelle Ziudith",
+        "original_name": "Michelle Ziudith",
+        "popularity": 1.1932,
+        "profile_path": "/tPdN1dv7lSlOrjqi4NmfxCABn0j.jpg",
+        "cast_id": 1,
+        "character": "Nursita",
+        "credit_id": "684bc616789ef510931ebc9b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1028460,
+        "known_for_department": "Acting",
+        "name": "Rio Dewanto",
+        "original_name": "Rio Dewanto",
+        "popularity": 0.6311,
+        "profile_path": "/mkukGDtAAsdMUxV8gJI6KW8tQnE.jpg",
+        "cast_id": 4,
+        "character": "Supriyanto",
+        "credit_id": "684bc650cee7bada933df0a3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4009435,
+        "known_for_department": "Acting",
+        "name": "Fara Shakila",
+        "original_name": "Fara Shakila",
+        "popularity": 0.1612,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Gendis",
+        "credit_id": "684bc62cd669235de0bb45a6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1202392,
+        "known_for_department": "Acting",
+        "name": "Taskya Namya",
+        "original_name": "Taskya Namya",
+        "popularity": 1.8872,
+        "profile_path": "/cBlyNw0Ys8wlBOu1CGCfo8k0dGt.jpg",
+        "cast_id": 3,
+        "character": "Tika",
+        "credit_id": "684bc63a36288940823def9e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 235428,
+        "known_for_department": "Acting",
+        "name": "Imelda Therinne",
+        "original_name": "Imelda Therinne",
+        "popularity": 0.4222,
+        "profile_path": "/3TDirF0dVQPvsayFLnGO3y6fytu.jpg",
+        "cast_id": 5,
+        "character": "Dewi Raras",
+        "credit_id": "684bc663f9e72b4f49b0d8c8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2057248,
+        "known_for_department": "Acting",
+        "name": "Dewi Pakis",
+        "original_name": "Dewi Pakis",
+        "popularity": 0.2928,
+        "profile_path": "/9VqvXriHKYJyo5cOHnF8pyU9ouA.jpg",
+        "cast_id": 6,
+        "character": "Mrs. Emah",
+        "credit_id": "684bc672be05ae8fb13deff3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512589,
+        "known_for_department": "Acting",
+        "name": "Whani Darmawan",
+        "original_name": "Whani Darmawan",
+        "popularity": 0.4836,
+        "profile_path": "/xFFijmsdAkzHKLy9LxGrCxxFH3B.jpg",
+        "cast_id": 7,
+        "character": "Mbah Sakti",
+        "credit_id": "684bc68251197127641be759",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2124662,
+        "known_for_department": "Acting",
+        "name": "Pritt Timothy",
+        "original_name": "Pritt Timothy",
+        "popularity": 0.2127,
+        "profile_path": "/cgc0BBQAuL6tR4MwcK1HYIBkN0k.jpg",
+        "cast_id": 8,
+        "character": "Mbah Rejo",
+        "credit_id": "684bc6935aa37572d42944ae",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4706968,
+        "known_for_department": "Acting",
+        "name": "Saputra Kori",
+        "original_name": "Saputra Kori",
+        "popularity": 0.0443,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Forensic Officer",
+        "credit_id": "684bc6db2cedac61195c7268",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1982721,
+        "known_for_department": "Acting",
+        "name": "Della Dartyan",
+        "original_name": "Della Dartyan",
+        "popularity": 0.2935,
+        "profile_path": "/bBhOVR9T1FpEclbcMEHT9d9asVR.jpg",
+        "cast_id": 9,
+        "character": "Sri",
+        "credit_id": "684bc6a25cb27fb822343d88",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1296725,
+        "known_for_department": "Acting",
+        "name": "Agus Kuncoro",
+        "original_name": "Agus Kuncoro",
+        "popularity": 0.4749,
+        "profile_path": "/tNGAiEmY3EWy2VLJOxmwhBlrCq.jpg",
+        "cast_id": 11,
+        "character": "Dadang",
+        "credit_id": "684bc6bb4db2ecadbd1be703",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5678814,
+        "known_for_department": "Acting",
+        "name": "Agung Bla",
+        "original_name": "Agung Bla",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Surya",
+        "credit_id": "695aed5e6ff6cb07287c8423",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1202659,
+        "known_for_department": "Acting",
+        "name": "Rukman Rosadi",
+        "original_name": "Rukman Rosadi",
+        "popularity": 0.4035,
+        "profile_path": "/zZriBrc3b1N1iRZw5t5zIAMle06.jpg",
+        "cast_id": 10,
+        "character": "Yusman",
+        "credit_id": "684bc6b236288940823defb3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1878340,
+        "known_for_department": "Acting",
+        "name": "Ruth Marini",
+        "original_name": "Ruth Marini",
+        "popularity": 0.3903,
+        "profile_path": "/mLc3McLQaWeEJSijBA0orbulf0o.jpg",
+        "cast_id": 12,
+        "character": "Shaman/Sage",
+        "credit_id": "684bc6d2cee7bada933df0a8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5510817,
+        "known_for_department": "Camera",
+        "name": "Aldi Pratama",
+        "original_name": "Aldi Pratama",
+        "popularity": 0.095,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Wahyu",
+        "credit_id": "695aecc7aa308814184adede",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3845174,
+        "known_for_department": "Acting",
+        "name": "Yuyun Arfah",
+        "original_name": "Yuyun Arfah",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Dancer",
+        "credit_id": "695aed141389b535ba7c8428",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1669460,
+        "known_for_department": "Directing",
+        "name": "Hadrah Daeng Ratu",
+        "original_name": "Hadrah Daeng Ratu",
+        "popularity": 0.4114,
+        "profile_path": "/hkADolqaw4dehDOcNppX3kwKMiy.jpg",
+        "credit_id": "684bc782a5f6b5c9ab294135",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2109462,
+        "known_for_department": "Camera",
+        "name": "Adrian Sugiono",
+        "original_name": "Adrian Sugiono",
+        "popularity": 0.1758,
+        "profile_path": null,
+        "credit_id": "6856b5f1b01ab07cba492e53",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2304052,
+        "known_for_department": "Writing",
+        "name": "Evelyn Afnilia",
+        "original_name": "Evelyn Afnilia",
+        "popularity": 0.2922,
+        "profile_path": null,
+        "credit_id": "69438f1db0b556747b8bc7e8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1975374,
+        "known_for_department": "Production",
+        "name": "Oswin Bonifanz",
+        "original_name": "Oswin Bonifanz",
+        "popularity": 0.0663,
+        "profile_path": null,
+        "credit_id": "69438f37ecbd71605fd575f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3674226,
+        "known_for_department": "Acting",
+        "name": "Deni Saputra",
+        "original_name": "Deni Saputra",
+        "popularity": 0.1855,
+        "profile_path": "/c3NBfv9CFoEUHbJHjv0fBottwsC.jpg",
+        "credit_id": "695aedefc26e349bf3d79ede",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3723817,
+        "known_for_department": "Production",
+        "name": "Lisbeth Simarmata",
+        "original_name": "Lisbeth Simarmata",
+        "popularity": 0.1768,
+        "profile_path": null,
+        "credit_id": "695aee285a6a0d3da8cbd12e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5147251,
+        "known_for_department": "Production",
+        "name": "Ck Thye",
+        "original_name": "Ck Thye",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "695aee5cf4f88c6118d79c97",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4854881,
+        "known_for_department": "Production",
+        "name": "Dwi Yanto Fadjaray",
+        "original_name": "Dwi Yanto Fadjaray",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "695aee9a5a6a0d3da8cbd136",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5147252,
+        "known_for_department": "Production",
+        "name": "Kok Hoe Tat",
+        "original_name": "Kok Hoe Tat",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "695aeed203baaba87dcbd027",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5147253,
+        "known_for_department": "Production",
+        "name": "Lee Kuan Yee",
+        "original_name": "Lee Kuan Yee",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "695aef1459ff3c1c5f3be06a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4854883,
+        "known_for_department": "Production",
+        "name": "Sillvia Ingliany",
+        "original_name": "Sillvia Ingliany",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "695aef44147e3ac927cc978b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5147255,
+        "known_for_department": "Production",
+        "name": "Suhandoko Rimbo",
+        "original_name": "Suhandoko Rimbo",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "695aef7ee73b0ed169cc0004",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3264989,
+        "known_for_department": "Production",
+        "name": "Armand Darmadji",
+        "original_name": "Armand Darmadji",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "695aefb359ff3c1c5f3be07b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4456238,
+        "known_for_department": "Production",
+        "name": "William Sutanto",
+        "original_name": "William Sutanto",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "695aeffa4e361e972a4adab7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5918093,
+        "known_for_department": "Production",
+        "name": "Evy Ruslie",
+        "original_name": "Evy Ruslie",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "695af03967274c801d4afded",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2530174,
+        "known_for_department": "Production",
+        "name": "Ishak Harryanto",
+        "original_name": "Ishak Harryanto",
+        "popularity": 0.0339,
+        "profile_path": null,
+        "credit_id": "695af0c6b26ec44d92cc9146",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4227863,
+        "known_for_department": "Production",
+        "name": "Donis Pratama",
+        "original_name": "Donis Pratama",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "695af117650a414493e437fb",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4910517,
+        "known_for_department": "Production",
+        "name": "Hanafi",
+        "original_name": "Hanafi",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "695af187198abab033d7c88a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3507155,
+        "known_for_department": "Art",
+        "name": "Arizone Mai",
+        "original_name": "Arizone Mai",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "695af1c3afa1e6ced33be341",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1821407,
+        "known_for_department": "Acting",
+        "name": "Mastita Chipa",
+        "original_name": "Mastita Chipa",
+        "popularity": 0.0666,
+        "profile_path": "/yYXzdGW0110SPmgcOXdTf81ukTy.jpg",
+        "credit_id": "695af1fb31394de71d7c9ec6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2530171,
+        "known_for_department": "Crew",
+        "name": "Yahya Jakaria",
+        "original_name": "Yahya Jakaria",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "695af2399349c4ce1974e1b0",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2431313,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ernaka Puspita Dewi",
+        "original_name": "Ernaka Puspita Dewi",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "credit_id": "695af26d3f5867198a7c833b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1771808,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aldie Harra",
+        "original_name": "Aldie Harra",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "695af2a486206ef91674e260",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2876736,
+        "known_for_department": "Sound",
+        "name": "Syaifullah Praditya",
+        "original_name": "Syaifullah Praditya",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "695af2e1a9d9a4e3c5750661",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2708848,
+        "known_for_department": "Sound",
+        "name": "Raden Anom Prakoso",
+        "original_name": "Raden Anom Prakoso",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "695af315f9bca077e24b0045",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2478871,
+        "known_for_department": "Sound",
+        "name": "Ofel Obaja",
+        "original_name": "Ofel Obaja",
+        "popularity": 0.1145,
+        "profile_path": null,
+        "credit_id": "695af352bda5cff5c04adcc6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2081759,
+        "known_for_department": "Editing",
+        "name": "Teguh Raharjo",
+        "original_name": "Teguh Raharjo",
+        "popularity": 0.1726,
+        "profile_path": null,
+        "credit_id": "695af38d45dd480354cc9b5a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4038092,
+        "known_for_department": "Editing",
+        "name": "Charis Aru",
+        "original_name": "Charis Aru",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "695af3cc60f3a4658374e0ca",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4368308,
+        "known_for_department": "Visual Effects",
+        "name": "Ardhie Benyamin",
+        "original_name": "Ardhie Benyamin",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "696ecfa56897fd6c1b20dad7",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023710,
+        "known_for_department": "Directing",
+        "name": "Adit Mazaya",
+        "original_name": "Adit Mazaya",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "696ecfe378cfacdbeaf95502",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2418220,
+        "known_for_department": "Directing",
+        "name": "Mahesa Arjas Puri",
+        "original_name": "Mahesa Arjas Puri",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "696ed024695591492c20dc59",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5600,
+        "name": "daughter"
+      },
+      {
+        "id": 992,
+        "name": "bus"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 13031,
+        "name": "creature"
+      },
+      {
+        "id": 14768,
+        "name": "single mother"
+      },
+      {
+        "id": 162846,
+        "name": "ghost"
+      },
+      {
+        "id": 189092,
+        "name": "journey"
+      },
+      {
+        "id": 208841,
+        "name": "incident"
+      },
+      {
+        "id": 227686,
+        "name": "myth"
+      },
+      {
+        "id": 239533,
+        "name": "route"
+      },
+      {
+        "id": 254844,
+        "name": "blind child"
+      },
+      {
+        "id": 270308,
+        "name": "terror"
+      },
+      {
+        "id": 332138,
+        "name": "haunted road"
+      },
+      {
+        "id": 355253,
+        "name": "child"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "17+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

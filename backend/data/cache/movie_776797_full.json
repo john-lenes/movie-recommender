@@ -1,0 +1,784 @@
+{
+  "adult": false,
+  "backdrop_path": "/1McO40rFBnUSz0EB2EwYQlUv9LV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 776797,
+  "imdb_id": "tt13872248",
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "哭悲",
+  "overview": "Um jovem casal tenta se reencontrar no meio de uma cidade devastada por uma praga que transforma suas vítimas em sádicos insanos e sanguinários.",
+  "popularity": 9.4117,
+  "poster_path": "/qu7leaIvLWzwoHUEFHZj4vfut7N.jpg",
+  "production_companies": [
+    {
+      "id": 157638,
+      "logo_path": "/Ald7xs1VHUiJge0oNEPgwzkB6PR.png",
+      "name": "Machi Xcelsior Studios",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "2021-01-22",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Tristeza",
+  "video": false,
+  "vote_average": 6.822,
+  "vote_count": 1043,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2407771,
+        "known_for_department": "Acting",
+        "name": "朱軒洋",
+        "original_name": "朱軒洋",
+        "popularity": 0.6393,
+        "profile_path": "/dWCVwm3MecRuo9nNnxAMwbbIyVD.jpg",
+        "cast_id": 1,
+        "character": "Jim",
+        "credit_id": "5fda3c7f385202003ff57c74",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2874730,
+        "known_for_department": "Acting",
+        "name": "雷嘉汭",
+        "original_name": "雷嘉汭",
+        "popularity": 0.9974,
+        "profile_path": "/gnd2t2Ya9AfAKAlOovqXZbMVXp2.jpg",
+        "cast_id": 2,
+        "character": "Kat",
+        "credit_id": "5fda3c85385202003ef606ce",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2889663,
+        "known_for_department": "Acting",
+        "name": "王自強",
+        "original_name": "王自強",
+        "popularity": 0.4565,
+        "profile_path": "/3Y5dNXJnM6zZpmrQPPXUsniAwiA.jpg",
+        "cast_id": 3,
+        "character": "Business Man",
+        "credit_id": "5fda3c8d9408ec003dde03d8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2896620,
+        "known_for_department": "Acting",
+        "name": "陳映如",
+        "original_name": "陳映如",
+        "popularity": 0.4227,
+        "profile_path": "/rzCPFtMrR4vZO3ORojPk3gJbKTj.jpg",
+        "cast_id": 5,
+        "character": "Molly",
+        "credit_id": "5fda411bcf48a1003f44c855",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2298208,
+        "known_for_department": "Acting",
+        "name": "Lan Wei-Hua",
+        "original_name": "Lan Wei-Hua",
+        "popularity": 1.1035,
+        "profile_path": "/rqJjuV8DCxCoGkteinJECz4p6AK.jpg",
+        "cast_id": 6,
+        "character": "Dr. Alan Wong",
+        "credit_id": "5fda4182706e560041d24348",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473997,
+        "known_for_department": "Acting",
+        "name": "Ralf Chiu",
+        "original_name": "Ralf Chiu",
+        "popularity": 0.4043,
+        "profile_path": "/u6ngmSDRqPpYSoJGCL0E5Wf4KdQ.jpg",
+        "cast_id": 4,
+        "character": "Mr. Lin",
+        "credit_id": "5fda3cd6cf4b8b003e9dec5a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3491259,
+        "known_for_department": "Acting",
+        "name": "黃略耕",
+        "original_name": "黃略耕",
+        "popularity": 0.3228,
+        "profile_path": "/oetVPX69HCsmodxRIbmjjtuv45m.jpg",
+        "cast_id": 16,
+        "character": "Kevin / MRT Employee",
+        "credit_id": "624fc386109cd000668e6525",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1260978,
+        "known_for_department": "Acting",
+        "name": "蔡昌憲",
+        "original_name": "蔡昌憲",
+        "popularity": 0.7407,
+        "profile_path": "/hLKscapHezzzTLo7l2dSWw6XoXH.jpg",
+        "cast_id": 7,
+        "character": "Warren Liu",
+        "credit_id": "5fda418a0d5d85003e2dfe87",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3300391,
+        "known_for_department": "Acting",
+        "name": "周之民",
+        "original_name": "周之民",
+        "popularity": 0.1727,
+        "profile_path": "/v3Cp0c9t6SL0rECzLk2LQDk6o6k.jpg",
+        "cast_id": 40,
+        "character": "Old Woman",
+        "credit_id": "68bd7e125e0d47b0758cefcd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5676010,
+        "known_for_department": "Acting",
+        "name": "蔡岸龍",
+        "original_name": "蔡岸龍",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "President",
+        "credit_id": "68bd80b477e17450c398bb32",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2891478,
+        "known_for_department": "Acting",
+        "name": "劉昌翰",
+        "original_name": "劉昌翰",
+        "popularity": 0.247,
+        "profile_path": "/1QEe1JK2dGsH8tvTgNBvxXviOvW.jpg",
+        "cast_id": 17,
+        "character": "General",
+        "credit_id": "624fc3a56840cc00a2dbb50a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1901157,
+        "known_for_department": "Acting",
+        "name": "蔡承邑",
+        "original_name": "蔡承邑",
+        "popularity": 0.2568,
+        "profile_path": "/6PMnLXxoKcViqVJPbWRTOkmn5K3.jpg",
+        "cast_id": 36,
+        "character": "Cafe Owner (uncredited)",
+        "credit_id": "659a283c4d0e8d014897e0ca",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2312880,
+        "known_for_department": "Acting",
+        "name": "鄭永岳",
+        "original_name": "鄭永岳",
+        "popularity": 0.2676,
+        "profile_path": "/Gre50qVpcKw0MDQRXE3vLsjyRc.jpg",
+        "cast_id": 29,
+        "character": "Man Wearing Sunglasses on the Subway (uncredited)",
+        "credit_id": "634589f02dffd8007a397d14",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5089774,
+        "known_for_department": "Acting",
+        "name": "劉丞",
+        "original_name": "劉丞",
+        "popularity": 0.2184,
+        "profile_path": "/fIUcwUsxhhabcv6sKGzrJKsldUu.jpg",
+        "cast_id": 39,
+        "character": "Man Who Has His Eyes Gouged Out on the Subway (uncredited)",
+        "credit_id": "6762fb3240d2c02ecdab0e2f",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3061802,
+        "known_for_department": "Production",
+        "name": "Li-Cheng Huang",
+        "original_name": "Li-Cheng Huang",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "credit_id": "6259ab245f2db100a8561460",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445916,
+        "known_for_department": "Directing",
+        "name": "Rob Jabbaz",
+        "original_name": "Rob Jabbaz",
+        "popularity": 0.3583,
+        "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+        "credit_id": "6259ab92fe6c18009f1461a6",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3507919,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Azzurro Kuo",
+        "original_name": "Azzurro Kuo",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "credit_id": "6259ab39a0f1a200666e416d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3507932,
+        "known_for_department": "Art",
+        "name": "Teyen Liu",
+        "original_name": "Teyen Liu",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6259ac1fc92c5d1968a039d3",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3507922,
+        "known_for_department": "Art",
+        "name": "Chin-Fu Liu",
+        "original_name": "Chin-Fu Liu",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6259ab7ee0ec51195a3ebf99",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1539990,
+        "known_for_department": "Sound",
+        "name": "Ric Schnupp",
+        "original_name": "Ric Schnupp",
+        "popularity": 0.227,
+        "profile_path": "/AjJjCuP1sHIkYch92muQ7le4fzy.jpg",
+        "credit_id": "6259ab49dff66e0051b18436",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3507931,
+        "known_for_department": "Art",
+        "name": "Bonnie Chen",
+        "original_name": "Bonnie Chen",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "6259ac0efe6c180068e89dc5",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3507936,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Naoto Tung",
+        "original_name": "Naoto Tung",
+        "popularity": 0.0782,
+        "profile_path": null,
+        "credit_id": "6259ac605e120012c60ecabc",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3507933,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nina Chiang",
+        "original_name": "Nina Chiang",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "6259ac3decaef515fd0269b8",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445916,
+        "known_for_department": "Directing",
+        "name": "Rob Jabbaz",
+        "original_name": "Rob Jabbaz",
+        "popularity": 0.3583,
+        "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+        "credit_id": "60f63d67f1759c005f32bf5d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3164406,
+        "known_for_department": "Camera",
+        "name": "白杰立",
+        "original_name": "白杰立",
+        "popularity": 0.0785,
+        "profile_path": "/kczuRewJ1R9MRegI0rvBNF9kngY.jpg",
+        "credit_id": "60f63d7012c604007448215a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3164404,
+        "known_for_department": "Production",
+        "name": "Wei-Chun Lu",
+        "original_name": "Wei-Chun Lu",
+        "popularity": 0.1626,
+        "profile_path": null,
+        "credit_id": "60f63d5de72fe8002f8af980",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3746546,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alina Chen",
+        "original_name": "Alina Chen",
+        "popularity": 0.09,
+        "profile_path": null,
+        "credit_id": "634ef248869e750085b03aa3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3746552,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emily Chiang",
+        "original_name": "Emily Chiang",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "634ef265076ce800917546a9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3746554,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elaine Ye",
+        "original_name": "Elaine Ye",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "634ef284880c9200796b6423",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3312981,
+        "known_for_department": "Production",
+        "name": "Eunice Cheng",
+        "original_name": "Eunice Cheng",
+        "popularity": 0.093,
+        "profile_path": null,
+        "credit_id": "634ef1a5076ce8007fff2a09",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3154409,
+        "known_for_department": "Visual Effects",
+        "name": "Logan Sprangers",
+        "original_name": "Logan Sprangers",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "634ef2d3869e75007d0333ac",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4552539,
+        "known_for_department": "Production",
+        "name": "David Barker",
+        "original_name": "David Barker",
+        "popularity": 0.1081,
+        "profile_path": "/4FtRPomrp4eSaIvZnDvycIht15b.jpg",
+        "credit_id": "65d81bd5944a57017c23fab3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2539600,
+        "known_for_department": "Directing",
+        "name": "Schiele Lee",
+        "original_name": "Schiele Lee",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "65d967ec688cd0016310c83b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445916,
+        "known_for_department": "Directing",
+        "name": "Rob Jabbaz",
+        "original_name": "Rob Jabbaz",
+        "popularity": 0.3583,
+        "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+        "credit_id": "5fda428b29c62600411e73a8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445916,
+        "known_for_department": "Directing",
+        "name": "Rob Jabbaz",
+        "original_name": "Rob Jabbaz",
+        "popularity": 0.3583,
+        "profile_path": "/3sSUxIrREBVHPhUt6a0Qa5VoEgv.jpg",
+        "credit_id": "5fda4400609750003e9e0c0f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3164407,
+        "known_for_department": "Sound",
+        "name": "Tzechar",
+        "original_name": "Tzechar",
+        "popularity": 0.0297,
+        "profile_path": "/80hVNosdOXxCrYF0xxoOWW1Ub7L.jpg",
+        "credit_id": "68bd869555ff55b5e58cebb3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 1583,
+        "name": "mass murder"
+      },
+      {
+        "id": 14624,
+        "name": "cruelty"
+      },
+      {
+        "id": 188957,
+        "name": "virus"
+      },
+      {
+        "id": 188973,
+        "name": "pandemic"
+      },
+      {
+        "id": 242410,
+        "name": "depraved"
+      },
+      {
+        "id": 278235,
+        "name": "cannibalism"
+      },
+      {
+        "id": 328072,
+        "name": "fight for survival"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-02-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasia International Film Festival",
+            "release_date": "2021-08-21T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Locarno Film Festival",
+            "release_date": "2021-08-12T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-02-03T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K Blu-ray",
+            "release_date": "2022-04-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-07-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Gérardmer Film Festival",
+            "release_date": "2022-01-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-07-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2022-10-06T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-Ray",
+            "release_date": "2022-11-09T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shudder",
+            "release_date": "2022-05-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bucheon International Fantastic Film Festival",
+            "release_date": "2022-07-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "44th Moscow International Film Festival",
+            "release_date": "2022-09-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-08-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-01-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "by GaragePlay",
+            "release_date": "2022-05-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shudder",
+            "release_date": "2022-05-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

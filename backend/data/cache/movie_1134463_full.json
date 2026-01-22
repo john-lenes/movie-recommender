@@ -1,0 +1,962 @@
+{
+  "adult": false,
+  "backdrop_path": "/i1Aa25l2TtKwp528wM5g2MK4ER6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://imagemfilmes.com.br/filme/sonhos",
+  "id": 1134463,
+  "imdb_id": "tt31710990",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Dreams",
+  "overview": "Jennifer é uma influente socialite de São Francisco. Sua vida cuidadosamente construída entra em risco quando ela se envolve com Fernando, um jovem bailarino mexicano que sonha em atuar numa grande escola de balé. Impulsionado pelo amor e pela esperança de um recomeço, ele atravessa a fronteira para estar ao lado dela, uma decisão que ameaça desestabilizar o mundo que Jennifer tanto lutou para preservar. Determinada a manter seu império intacto, ela será capaz de tudo, mesmo que isso revele o lado mais obscuro desse romance.",
+  "popularity": 8.4612,
+  "poster_path": "/ytYZu3j9Yoz3cI5Mw0FrIbfixC3.jpg",
+  "production_companies": [
+    {
+      "id": 122196,
+      "logo_path": "/qht0d59SJNY9jSu8QM3g3KXl9pY.png",
+      "name": "Teorema",
+      "origin_country": "MX"
+    },
+    {
+      "id": 83210,
+      "logo_path": "/5aYKTLP4Kw75wOZ9AHIFc1HpkN0.png",
+      "name": "Freckle Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 127483,
+      "logo_path": "/oVlJwTWBSfyRNJBM68TwWgDbZmI.png",
+      "name": "AR Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 283619,
+      "logo_path": null,
+      "name": "Eastern Film",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-07-10",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sonhos",
+  "video": false,
+  "vote_average": 5.667,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83002,
+        "known_for_department": "Acting",
+        "name": "Jessica Chastain",
+        "original_name": "Jessica Chastain",
+        "popularity": 5.301,
+        "profile_path": "/bXFXSlfCzoE5Py7KBP9P0Y0Ot1v.jpg",
+        "cast_id": 1,
+        "character": "Jennifer McCarthy",
+        "credit_id": "64778dade323f301274fdc74",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2630093,
+        "known_for_department": "Acting",
+        "name": "Isaac Hernández",
+        "original_name": "Isaac Hernández",
+        "popularity": 0.2922,
+        "profile_path": "/aJX3oGAmCNCXfgmXcs734H3GloJ.jpg",
+        "cast_id": 4,
+        "character": "Fernando",
+        "credit_id": "6500fe296a2227011a7adce9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36669,
+        "known_for_department": "Acting",
+        "name": "Rupert Friend",
+        "original_name": "Rupert Friend",
+        "popularity": 3.8127,
+        "profile_path": "/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg",
+        "cast_id": 5,
+        "character": "Jake McCarthy",
+        "credit_id": "6500fe3fdb4ed6103856101e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3041,
+        "known_for_department": "Acting",
+        "name": "Marshall Bell",
+        "original_name": "Marshall Bell",
+        "popularity": 0.8121,
+        "profile_path": "/3AdZRUFlmV9KvArzqSVEVZVl0Sa.jpg",
+        "cast_id": 6,
+        "character": "Michael McCarthy",
+        "credit_id": "678f879f437589f3865b32f0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 985456,
+        "known_for_department": "Acting",
+        "name": "Eligio Meléndez",
+        "original_name": "Eligio Meléndez",
+        "popularity": 0.5263,
+        "profile_path": "/9fxr0eAMl2DXVv8as4juIGXkD08.jpg",
+        "cast_id": 22,
+        "character": "Fernando's Father",
+        "credit_id": "67a24db035d30975b6030ee2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1486120,
+        "known_for_department": "Acting",
+        "name": "Mercedes Hernández",
+        "original_name": "Mercedes Hernández",
+        "popularity": 0.4854,
+        "profile_path": "/2pC5Lv1eiItvAxeEe8KTbRlM1wY.jpg",
+        "cast_id": 23,
+        "character": "Fernando's Mother",
+        "credit_id": "67a24dbb716bfd74ece2da7a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1511592,
+        "known_for_department": "Acting",
+        "name": "Tatiana Ronderos",
+        "original_name": "Tatiana Ronderos",
+        "popularity": 0.2977,
+        "profile_path": "/kiyYHVJiTtMhfwLL0qpqHVHjpAP.jpg",
+        "cast_id": 21,
+        "character": "Juanita",
+        "credit_id": "679885eba6e41283f12b5a9f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4013868,
+        "known_for_department": "Acting",
+        "name": "Bobby August Jr.",
+        "original_name": "Bobby August Jr.",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Crosby",
+        "credit_id": "67b46aeaf35d4102096dd14a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617775,
+        "known_for_department": "Acting",
+        "name": "Nessa Dougherty",
+        "original_name": "Nessa Dougherty",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Sienna",
+        "credit_id": "67b46b0a5dc988b1bb9fc5e9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5254330,
+        "known_for_department": "Acting",
+        "name": "Jayden Leavitt",
+        "original_name": "Jayden Leavitt",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Tom",
+        "credit_id": "67b46bab91d7e66c656dccb1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4133330,
+        "known_for_department": "Acting",
+        "name": "Lee Braithwaite",
+        "original_name": "Lee Braithwaite",
+        "popularity": 0.0923,
+        "profile_path": "/dM05oLEPGBBKZ8wb2ItXo0FcJWh.jpg",
+        "cast_id": 25,
+        "character": "Photographer",
+        "credit_id": "67b46af4e5e1a7ed7ce12c49",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1793283,
+        "known_for_department": "Acting",
+        "name": "Phillip Caires",
+        "original_name": "Phillip Caires",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Ballet Patron",
+        "credit_id": "67b46b046113c493dc6e00cf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5254327,
+        "known_for_department": "Acting",
+        "name": "Nicholas Gould",
+        "original_name": "Nicholas Gould",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Ballet Greeter / Ballet Patron",
+        "credit_id": "67b46b36f35d4102096dd16a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605399,
+        "known_for_department": "Acting",
+        "name": "Scott Jordan",
+        "original_name": "Scott Jordan",
+        "popularity": 0.0516,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Ballet Patron / Museum Ceremony Attendee",
+        "credit_id": "67b46b86e5e1a7ed7ce12cb1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160129,
+        "known_for_department": "Acting",
+        "name": "David B. Schively",
+        "original_name": "David B. Schively",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Ballet Patron",
+        "credit_id": "67b46ba4e5e1a7ed7ce12cda",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3709705,
+        "known_for_department": "Acting",
+        "name": "Rachel Thurow",
+        "original_name": "Rachel Thurow",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Ballet Attendee",
+        "credit_id": "67b46bb5e5e1a7ed7ce12ce3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5254331,
+        "known_for_department": "Acting",
+        "name": "Harris Warren",
+        "original_name": "Harris Warren",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Ballet Patron",
+        "credit_id": "67b46bbfe5e1a7ed7ce12d02",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082434,
+        "known_for_department": "Directing",
+        "name": "Michel Franco",
+        "original_name": "Michel Franco",
+        "popularity": 0.5915,
+        "profile_path": "/9pcGCe3CD4woEB4D8t6V3A4q2vQ.jpg",
+        "credit_id": "64778dbccf4b8b00a875ecd6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082434,
+        "known_for_department": "Directing",
+        "name": "Michel Franco",
+        "original_name": "Michel Franco",
+        "popularity": 0.5915,
+        "profile_path": "/9pcGCe3CD4woEB4D8t6V3A4q2vQ.jpg",
+        "credit_id": "64778dc8076ce801079b1bfa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4174408,
+        "known_for_department": "Directing",
+        "name": "Володимир Артеменко",
+        "original_name": "Володимир Артеменко",
+        "popularity": 0.2246,
+        "profile_path": "/fXhXBk944nZIVEI6es39Vx9gsyY.jpg",
+        "credit_id": "679880cbba4f941f448f333d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72209,
+        "known_for_department": "Production",
+        "name": "Kelly Carmichael",
+        "original_name": "Kelly Carmichael",
+        "popularity": 0.7429,
+        "profile_path": null,
+        "credit_id": "679880d5013209f8918f7ab3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83002,
+        "known_for_department": "Acting",
+        "name": "Jessica Chastain",
+        "original_name": "Jessica Chastain",
+        "popularity": 5.301,
+        "profile_path": "/bXFXSlfCzoE5Py7KBP9P0Y0Ot1v.jpg",
+        "credit_id": "679880dea6e41283f12b59d8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082434,
+        "known_for_department": "Directing",
+        "name": "Michel Franco",
+        "original_name": "Michel Franco",
+        "popularity": 0.5915,
+        "profile_path": "/9pcGCe3CD4woEB4D8t6V3A4q2vQ.jpg",
+        "credit_id": "679880edba4f941f448f334a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2392456,
+        "known_for_department": "Production",
+        "name": "Erendira Nuñez Larios",
+        "original_name": "Erendira Nuñez Larios",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "6798851809c252e3ab24029d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040898,
+        "known_for_department": "Production",
+        "name": "Александр Роднянский",
+        "original_name": "Александр Роднянский",
+        "popularity": 0.3302,
+        "profile_path": "/458yBfbGmbx7DJoZ02SuDCBAQgr.jpg",
+        "credit_id": "67988536a6e41283f12b5a81",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1025264,
+        "known_for_department": "Camera",
+        "name": "Yves Cape",
+        "original_name": "Yves Cape",
+        "popularity": 0.0936,
+        "profile_path": null,
+        "credit_id": "67988556702f492f478f72bc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7363,
+        "known_for_department": "Editing",
+        "name": "Óscar Figueroa",
+        "original_name": "Óscar Figueroa",
+        "popularity": 0.1412,
+        "profile_path": null,
+        "credit_id": "679885643a72b25b642ad588",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082434,
+        "known_for_department": "Directing",
+        "name": "Michel Franco",
+        "original_name": "Michel Franco",
+        "popularity": 0.5915,
+        "profile_path": "/9pcGCe3CD4woEB4D8t6V3A4q2vQ.jpg",
+        "credit_id": "6798856fa6e41283f12b5a86",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5208364,
+        "known_for_department": "Art",
+        "name": "Alfredo Wigueras",
+        "original_name": "Alfredo Wigueras",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "6798858609c252e3ab2402b2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1472148,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mitchell Travers",
+        "original_name": "Mitchell Travers",
+        "popularity": 0.1331,
+        "profile_path": "/Kh1YBj7sTMZjtSdtqT603eIM3A.jpg",
+        "credit_id": "6798859509c252e3ab2402b5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2241781,
+        "known_for_department": "Sound",
+        "name": "Brian Copenhagen",
+        "original_name": "Brian Copenhagen",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "679885a6a6e41283f12b5a95",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13065,
+        "known_for_department": "Production",
+        "name": "Sarah Kliban",
+        "original_name": "Sarah Kliban",
+        "popularity": 0.14,
+        "profile_path": null,
+        "credit_id": "679885b70a30d6d0592437ae",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13064,
+        "known_for_department": "Production",
+        "name": "Nina Henninger",
+        "original_name": "Nina Henninger",
+        "popularity": 0.347,
+        "profile_path": null,
+        "credit_id": "679885c309c252e3ab2402cf",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1316504,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Linda Dowds",
+        "original_name": "Linda Dowds",
+        "popularity": 0.4487,
+        "profile_path": null,
+        "credit_id": "686c4622df11df65fa5405cc",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1525886,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stephanie Ingram",
+        "original_name": "Stephanie Ingram",
+        "popularity": 0.2661,
+        "profile_path": null,
+        "credit_id": "686c463b6036f1898754015e",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2234133,
+        "known_for_department": "Directing",
+        "name": "Jeremiah Kelleher",
+        "original_name": "Jeremiah Kelleher",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "686c46561b9a8ab1e8a95c03",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 51088,
+        "known_for_department": "Sound",
+        "name": "Aviv Aldema",
+        "original_name": "Aviv Aldema",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "686c478b364bef0384cee902",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 51088,
+        "known_for_department": "Sound",
+        "name": "Aviv Aldema",
+        "original_name": "Aviv Aldema",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "686c4797a09f4f060f6e8644",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 51088,
+        "known_for_department": "Sound",
+        "name": "Aviv Aldema",
+        "original_name": "Aviv Aldema",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "686c479f1d0ef79eab70322f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1638036,
+        "known_for_department": "Production",
+        "name": "Megan Carlson",
+        "original_name": "Megan Carlson",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "696084b15fb5c00fd6595add",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9408,
+        "known_for_department": "Sound",
+        "name": "Frank Gaeta",
+        "original_name": "Frank Gaeta",
+        "popularity": 0.2354,
+        "profile_path": "/73Y6F6VOjS1HofdwRdFXeu0dkzb.jpg",
+        "credit_id": "696084e21b3773e2a61d7ec7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sydney Film Festival",
+            "release_date": "2025-06-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival",
+            "release_date": "2025-08-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [
+              "Sexual Content",
+              "Nudity",
+              "Extreme Violence"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Karlovy Vary International Film Festival",
+            "release_date": "2025-07-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2025-02-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cairo International Film Festival",
+            "release_date": "2025-11-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BFI London Film Festival",
+            "release_date": "2025-10-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Busan International Film Festival",
+            "release_date": "2025-09-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "N-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "C",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BNP Paribas New Horizons International Film Festival",
+            "release_date": "2025-07-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BNP Paribas Two Riversides Film and Art Festival",
+            "release_date": "2025-07-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-09T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tribeca Festival Lisboa",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [
+              "Violence / Horror",
+              "Sexuality",
+              "Negative examples"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hamptons International Film Festival",
+            "release_date": "2025-10-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AFI Latin American Film Festival",
+            "release_date": "2025-10-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Philadelphia Film Festival",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

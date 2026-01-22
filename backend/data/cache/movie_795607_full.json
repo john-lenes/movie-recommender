@@ -1,0 +1,589 @@
+{
+  "adult": false,
+  "backdrop_path": "/rhJgHS28BVc5o2rBWVwZa3aMJCF.jpg",
+  "belongs_to_collection": {
+    "id": 836546,
+    "name": "A Serpente Branca: Coleção",
+    "poster_path": "/xFkrdui47i95gSXjkbDaKWI2ChN.jpg",
+    "backdrop_path": "/vYkfPSV3tzps2zZIHqX5QOH2lPE.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    }
+  ],
+  "homepage": "",
+  "id": 795607,
+  "imdb_id": "tt15000314",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "白蛇2：青蛇劫起",
+  "overview": "Ao tentar libertar a irmã das garras de Fahai, Xiao Qing chega em uma cidade distópica e encontra um homem misterioso que não se lembra do passado.",
+  "popularity": 4.4242,
+  "poster_path": "/kKrdS3he8ckFWa0wySI8kfYHWw6.jpg",
+  "production_companies": [
+    {
+      "id": 67089,
+      "logo_path": "/1wnxolUB5NHZARmeeZjVXKpGKaI.png",
+      "name": "Light Chaser Animation Studios",
+      "origin_country": "CN"
+    },
+    {
+      "id": 69484,
+      "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+      "name": "Alibaba Pictures Group",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2021-07-23",
+  "revenue": 87212911,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A dependência surge da vida anterior.",
+  "title": "A Serpente Verde",
+  "video": false,
+  "vote_average": 8.099,
+  "vote_count": 348,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2508433,
+        "known_for_department": "Acting",
+        "name": "唐小喜",
+        "original_name": "唐小喜",
+        "popularity": 0.5478,
+        "profile_path": "/gsqR3dgkDYSmKUpHAF1XUPSLyS4.jpg",
+        "cast_id": 4,
+        "character": "Xiao Qing (voice)",
+        "credit_id": "61000bcf4e52ed00758113c5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3174708,
+        "known_for_department": "Acting",
+        "name": "Zhang Fuzheng",
+        "original_name": "张福正",
+        "popularity": 0.701,
+        "profile_path": "/gB3NHNnG2WSC1SnjGQ36Z9qD8Rp.jpg",
+        "cast_id": 7,
+        "character": "Masked Man (voice)",
+        "credit_id": "61000d08568463002da89f5f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2199340,
+        "known_for_department": "Acting",
+        "name": "Wei Chao",
+        "original_name": "魏超",
+        "popularity": 0.5278,
+        "profile_path": "/aPYAEWrS1lb1UYwCFejIcJOOGSU.jpg",
+        "cast_id": 6,
+        "character": "Sima (voice)",
+        "credit_id": "61000c504e52ed00758114bd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2339332,
+        "known_for_department": "Acting",
+        "name": "Zhao Mingzhou",
+        "original_name": "趙銘洲",
+        "popularity": 0.3537,
+        "profile_path": "/pXUlknCuP3u5FIfC7DluQzsKWAz.jpg",
+        "cast_id": 9,
+        "character": "牛头帮主 (voice)",
+        "credit_id": "61031a188ee49c0046552181",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2508434,
+        "known_for_department": "Acting",
+        "name": "Zheng Xiaopu",
+        "original_name": "Zheng Xiaopu",
+        "popularity": 0.2914,
+        "profile_path": "/gREy73I5Ds5jTS5yc0r8H9PVY9n.jpg",
+        "cast_id": 10,
+        "character": "宝青坊主(voice)",
+        "credit_id": "61031a3b8ee49c005e0e6d71",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2508435,
+        "known_for_department": "Acting",
+        "name": "Cheng Ma",
+        "original_name": "Cheng Ma",
+        "popularity": 0.4316,
+        "profile_path": "/a6vob4kODHlktSWET3TtBCp8Z4t.jpg",
+        "cast_id": 11,
+        "character": "老狐狸宝青坊主 (voice)",
+        "credit_id": "61031d3a4f33ad007ecdb4fe",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3178033,
+        "known_for_department": "Acting",
+        "name": "Song Xuchen",
+        "original_name": "Song Xuchen",
+        "popularity": 0.2334,
+        "profile_path": "/b7NldVZg8OVhXWHTwnqBqph6ihv.jpg",
+        "cast_id": 12,
+        "character": "Fa Hai (voice)",
+        "credit_id": "61031d7e8ee49c005e0e7384",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3091125,
+        "known_for_department": "Acting",
+        "name": "Qiu Qiu",
+        "original_name": "Qiu Qiu",
+        "popularity": 0.4133,
+        "profile_path": "/g9eAyjW1gxEU4YQUOETP1zQVzDJ.jpg",
+        "cast_id": 13,
+        "character": "孙姐(voice)",
+        "credit_id": "61031e1d4f33ad002d8ceca8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3340968,
+        "known_for_department": "Acting",
+        "name": "Kai Zhang",
+        "original_name": "Kai Zhang",
+        "popularity": 0.3088,
+        "profile_path": "/nrNXUQz0ATf3vTpVWjCYdYvwvNY.jpg",
+        "cast_id": 14,
+        "character": "(voice)",
+        "credit_id": "61b1386635c30a00607715e6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2104118,
+        "known_for_department": "Acting",
+        "name": "Xu Jiaqi",
+        "original_name": "徐佳琦",
+        "popularity": 0.4279,
+        "profile_path": "/1CzUSgTj3NPZ2WkT2j9c1fFzJGL.jpg",
+        "cast_id": 15,
+        "character": "(voice)",
+        "credit_id": "61b1388f1684f70061c1e71f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2720416,
+        "known_for_department": "Acting",
+        "name": "Guan Shuai",
+        "original_name": "关帅",
+        "popularity": 0.436,
+        "profile_path": "/1rTmvuKnSKQs2DqDTKfWBWaIOmi.jpg",
+        "cast_id": 16,
+        "character": "(voice)",
+        "credit_id": "61b138adda9ef2001d35c28c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2511705,
+        "known_for_department": "Acting",
+        "name": "Zhang Biyu",
+        "original_name": "Zhang Biyu",
+        "popularity": 0.1814,
+        "profile_path": "/63ypypjXSLZfwSxO2y2nTzyM54m.jpg",
+        "cast_id": 17,
+        "character": "(voice)",
+        "credit_id": "61b1396c1e259a001a6d11c4",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2844582,
+        "known_for_department": "Acting",
+        "name": "张喆",
+        "original_name": "张喆",
+        "popularity": 0.6062,
+        "profile_path": "/lmOs5BVt0iHqHNBbhuFwNfjfDrL.jpg",
+        "cast_id": 8,
+        "character": "Blanca (voice)",
+        "credit_id": "610317f88d1b8e002a6995b8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185754,
+        "known_for_department": "Acting",
+        "name": "Yang Tianxiang",
+        "original_name": "杨天翔",
+        "popularity": 0.8699,
+        "profile_path": "/jEwKu9VEtl0ecc6oA264U3iJV08.jpg",
+        "cast_id": 18,
+        "character": "(voice)",
+        "credit_id": "61b139809a64c1001c2fb89b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1837238,
+        "known_for_department": "Acting",
+        "name": "Baomu Zhongyang",
+        "original_name": "宝木中阳",
+        "popularity": 0.6512,
+        "profile_path": "/ivP7HNs61U6LFWmqXE2zEUIbwph.jpg",
+        "cast_id": 19,
+        "character": "(voice)",
+        "credit_id": "61b139da7ac829001d1282c2",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2207403,
+        "known_for_department": "Acting",
+        "name": "林強",
+        "original_name": "林強",
+        "popularity": 0.6846,
+        "profile_path": "/SX5ckTBqf0GpZlpR9nnFOPTgzX.jpg",
+        "cast_id": 20,
+        "character": "(voice)",
+        "credit_id": "61b139e82866fa0061ba3b4e",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1665495,
+        "known_for_department": "Editing",
+        "name": "Di Cui",
+        "original_name": "Di Cui",
+        "popularity": 0.1383,
+        "profile_path": "/h1bvdl6YfGuU3DSREoa6bx3g30i.jpg",
+        "credit_id": "6087c10184448e0059f4aad8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2257667,
+        "known_for_department": "Writing",
+        "name": "Damao",
+        "original_name": "Damao",
+        "popularity": 0.2295,
+        "profile_path": null,
+        "credit_id": "6087c011bc2cb30057f33a89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2217620,
+        "known_for_department": "Directing",
+        "name": "Amp Wong",
+        "original_name": "Amp Wong",
+        "popularity": 0.2989,
+        "profile_path": "/igbwZbS8ENmpbkMSP6fpXIZYtwE.jpg",
+        "credit_id": "6087bfa3bc2cb30040dec474",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5028865,
+        "known_for_department": "Production",
+        "name": "谢坤泽",
+        "original_name": "谢坤泽",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "67206f819ff681d9e0a4c6f9",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 278823,
+        "name": "3d animation"
+      },
+      {
+        "id": 279600,
+        "name": "white snake"
+      },
+      {
+        "id": 315535,
+        "name": "donghua"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing",
+            "release_date": "2021-07-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-07-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-09-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-10-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-12-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

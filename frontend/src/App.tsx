@@ -15,6 +15,115 @@ import AuthModal from "./AuthModal";
 import { Toaster, toast } from "./components/Toaster";
 import { usePagination } from "./hooks/usePagination";
 
+// Mapeamento de ícones e cores para gêneros
+const GENRE_CONFIG: Record<
+  string,
+  { icon: string; color: string; darkColor: string }
+> = {
+  Action: {
+    icon: "💥",
+    color: "bg-red-100 text-red-700 border-red-200",
+    darkColor: "dark:bg-red-900/30 dark:text-red-300 dark:border-red-800",
+  },
+  Adventure: {
+    icon: "🗺️",
+    color: "bg-amber-100 text-amber-700 border-amber-200",
+    darkColor: "dark:bg-amber-900/30 dark:text-amber-300 dark:border-amber-800",
+  },
+  Animation: {
+    icon: "🎨",
+    color: "bg-purple-100 text-purple-700 border-purple-200",
+    darkColor:
+      "dark:bg-purple-900/30 dark:text-purple-300 dark:border-purple-800",
+  },
+  Comedy: {
+    icon: "😄",
+    color: "bg-yellow-100 text-yellow-700 border-yellow-200",
+    darkColor:
+      "dark:bg-yellow-900/30 dark:text-yellow-300 dark:border-yellow-800",
+  },
+  Crime: {
+    icon: "🔫",
+    color: "bg-slate-100 text-slate-700 border-slate-200",
+    darkColor: "dark:bg-slate-900/30 dark:text-slate-300 dark:border-slate-800",
+  },
+  Documentary: {
+    icon: "🎥",
+    color: "bg-teal-100 text-teal-700 border-teal-200",
+    darkColor: "dark:bg-teal-900/30 dark:text-teal-300 dark:border-teal-800",
+  },
+  Drama: {
+    icon: "🎭",
+    color: "bg-indigo-100 text-indigo-700 border-indigo-200",
+    darkColor:
+      "dark:bg-indigo-900/30 dark:text-indigo-300 dark:border-indigo-800",
+  },
+  Fantasy: {
+    icon: "🧙",
+    color: "bg-violet-100 text-violet-700 border-violet-200",
+    darkColor:
+      "dark:bg-violet-900/30 dark:text-violet-300 dark:border-violet-800",
+  },
+  Horror: {
+    icon: "👻",
+    color: "bg-red-100 text-red-800 border-red-300",
+    darkColor: "dark:bg-red-950/50 dark:text-red-400 dark:border-red-900",
+  },
+  Mystery: {
+    icon: "🔍",
+    color: "bg-slate-100 text-slate-800 border-slate-200",
+    darkColor: "dark:bg-slate-900/40 dark:text-slate-300 dark:border-slate-800",
+  },
+  Romance: {
+    icon: "💕",
+    color: "bg-pink-100 text-pink-700 border-pink-200",
+    darkColor: "dark:bg-pink-900/30 dark:text-pink-300 dark:border-pink-800",
+  },
+  "Science Fiction": {
+    icon: "🚀",
+    color: "bg-blue-100 text-blue-700 border-blue-200",
+    darkColor: "dark:bg-blue-900/30 dark:text-blue-300 dark:border-blue-800",
+  },
+  "Sci-Fi": {
+    icon: "🚀",
+    color: "bg-blue-100 text-blue-700 border-blue-200",
+    darkColor: "dark:bg-blue-900/30 dark:text-blue-300 dark:border-blue-800",
+  },
+  Thriller: {
+    icon: "⚡",
+    color: "bg-orange-100 text-orange-700 border-orange-200",
+    darkColor:
+      "dark:bg-orange-900/30 dark:text-orange-300 dark:border-orange-800",
+  },
+  War: {
+    icon: "⚔️",
+    color: "bg-red-100 text-red-800 border-red-200",
+    darkColor: "dark:bg-red-900/40 dark:text-red-300 dark:border-red-800",
+  },
+  Western: {
+    icon: "🤠",
+    color: "bg-amber-100 text-amber-800 border-amber-200",
+    darkColor: "dark:bg-amber-900/30 dark:text-amber-300 dark:border-amber-800",
+  },
+  Music: {
+    icon: "🎵",
+    color: "bg-fuchsia-100 text-fuchsia-700 border-fuchsia-200",
+    darkColor:
+      "dark:bg-fuchsia-900/30 dark:text-fuchsia-300 dark:border-fuchsia-800",
+  },
+  History: {
+    icon: "📜",
+    color: "bg-stone-100 text-stone-700 border-stone-200",
+    darkColor: "dark:bg-stone-900/30 dark:text-stone-300 dark:border-stone-800",
+  },
+  Family: {
+    icon: "👨‍👩‍👧‍👦",
+    color: "bg-emerald-100 text-emerald-700 border-emerald-200",
+    darkColor:
+      "dark:bg-emerald-900/30 dark:text-emerald-300 dark:border-emerald-800",
+  },
+};
+
 const Badge = memo(function Badge({
   children,
   variant = "default",
@@ -23,13 +132,21 @@ const Badge = memo(function Badge({
   variant?: "default" | "neutral";
 }) {
   const baseClasses =
-    "inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium border";
-  const variantClasses =
-    variant === "neutral"
+    "inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-xs font-semibold border transition-all duration-200 hover:scale-105";
+
+  const config = GENRE_CONFIG[children];
+  const variantClasses = config
+    ? `${config.color} ${config.darkColor}`
+    : variant === "neutral"
       ? "bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300 border-gray-200 dark:border-gray-700"
       : "bg-primary-100 text-primary-800 dark:bg-primary-900/30 dark:text-primary-300 border-primary-200 dark:border-primary-800";
 
-  return <span className={`${baseClasses} ${variantClasses}`}>{children}</span>;
+  return (
+    <span className={`${baseClasses} ${variantClasses}`}>
+      {config && <span>{config.icon}</span>}
+      {children}
+    </span>
+  );
 });
 
 const StarRating = memo(function StarRating({
@@ -81,97 +198,166 @@ const MovieCard = memo(function MovieCard({
     : null;
 
   return (
-    <div className="glass rounded-xl p-4 space-y-3 transition-all duration-300 shadow-lg hover:shadow-2xl flex flex-col">
-      <div className="flex items-start gap-3">
-        {posterUrl && (
-          <img
-            src={posterUrl}
-            alt={m.title}
-            loading="lazy"
-            className="object-cover rounded-lg shadow-md flex-shrink-0 w-24 h-36"
-          />
-        )}
-        <div className="flex-1 min-w-0">
-          <h3 className="text-base sm:text-lg font-bold text-gray-900 dark:text-white mb-1">
-            {m.title}
-          </h3>
-          <div className="flex items-center gap-2 mt-1 flex-wrap">
-            <span className="text-sm text-gray-600 dark:text-gray-400">
-              {m.year}
-            </span>
-            {m.vote_average && (
-              <div className="flex items-center gap-1">
-                <span className="text-yellow-400">★</span>
-                <span className="text-sm font-semibold text-gray-700 dark:text-gray-300">
-                  {m.vote_average.toFixed(1)}/10
-                </span>
-                {m.vote_count && (
-                  <span className="text-xs text-gray-500 dark:text-gray-500">
-                    ({m.vote_count})
-                  </span>
-                )}
+    <div className="group glass rounded-xl p-5 space-y-4 transition-all duration-300 shadow-lg hover:shadow-2xl hover:scale-[1.02] flex flex-col">
+      <div className="flex items-start gap-4">
+        {posterUrl ? (
+          <div className="relative flex-shrink-0">
+            <img
+              src={posterUrl}
+              alt={m.title}
+              loading="lazy"
+              className="object-cover rounded-lg shadow-lg w-28 h-40 transition-transform duration-300 group-hover:scale-105"
+            />
+            {m.vote_average && m.vote_average >= 8 && (
+              <div className="absolute -top-2 -right-2 bg-yellow-400 text-yellow-900 rounded-full w-10 h-10 flex items-center justify-center shadow-lg font-bold text-sm border-2 border-white dark:border-gray-800">
+                ⭐
               </div>
             )}
           </div>
+        ) : (
+          <div className="w-28 h-40 bg-gradient-to-br from-gray-200 to-gray-300 dark:from-gray-700 dark:to-gray-800 rounded-lg flex items-center justify-center shadow-inner flex-shrink-0">
+            <span className="text-5xl opacity-50">🎬</span>
+          </div>
+        )}
+        <div className="flex-1 min-w-0 space-y-2">
+          <div>
+            <h3 className="text-lg font-bold text-gray-900 dark:text-white leading-tight mb-1 line-clamp-2 group-hover:text-gray-700 dark:group-hover:text-gray-200 transition-colors">
+              {m.title}
+            </h3>
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 text-xs font-semibold">
+                📅 {m.year}
+              </span>
+              {m.vote_average && (
+                <div className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-300 text-xs font-semibold">
+                  <span>⭐</span>
+                  <span>{m.vote_average.toFixed(1)}</span>
+                  {m.vote_count && (
+                    <span className="text-[10px] opacity-75">
+                      (
+                      {m.vote_count > 1000
+                        ? `${(m.vote_count / 1000).toFixed(1)}k`
+                        : m.vote_count}
+                      )
+                    </span>
+                  )}
+                </div>
+              )}
+              {m.director && (
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs font-semibold truncate max-w-[150px]">
+                  🎬 {m.director}
+                </span>
+              )}
+            </div>
+          </div>
+          {m.certification && (
+            <span className="inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300 border border-red-200 dark:border-red-800">
+              {m.certification}
+            </span>
+          )}
         </div>
       </div>
 
-      <div className="flex flex-wrap gap-1.5">
-        {m.genres.map((g) => (
-          <Badge key={g} variant="neutral">
-            {g}
-          </Badge>
+      <div className="flex flex-wrap gap-2">
+        {m.genres.slice(0, 4).map((g) => (
+          <Badge key={g}>{g}</Badge>
         ))}
+        {m.genres.length > 4 && (
+          <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400">
+            +{m.genres.length - 4}
+          </span>
+        )}
       </div>
 
-      <div className="pt-2 border-t border-gray-200 dark:border-gray-700">
-        <p className="text-sm text-gray-700 dark:text-gray-300 leading-relaxed">
+      <div className="pt-3 border-t border-gray-200 dark:border-gray-700 space-y-2">
+        <p className="text-sm text-gray-700 dark:text-gray-300 leading-relaxed line-clamp-3">
           {m.description || m.overview || "Sem sinopse disponível"}
         </p>
+        {(m.runtime || m.budget || m.revenue) && (
+          <div className="flex flex-wrap gap-2 text-xs text-gray-600 dark:text-gray-400">
+            {m.runtime && (
+              <span className="inline-flex items-center gap-1 px-2 py-1 rounded bg-gray-100 dark:bg-gray-800">
+                ⏱️ {m.runtime} min
+              </span>
+            )}
+            {m.budget && m.budget > 0 && (
+              <span className="inline-flex items-center gap-1 px-2 py-1 rounded bg-gray-100 dark:bg-gray-800">
+                💰 ${(m.budget / 1000000).toFixed(0)}M
+              </span>
+            )}
+            {m.revenue && m.revenue > 0 && (
+              <span className="inline-flex items-center gap-1 px-2 py-1 rounded bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300">
+                📈 ${(m.revenue / 1000000).toFixed(0)}M
+              </span>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Keywords/Tags */}
       {m.keywords && m.keywords.length > 0 && (
-        <div className="pt-2 border-t border-gray-200 dark:border-gray-700">
-          <p className="text-xs font-semibold text-gray-600 dark:text-gray-400 mb-1">
-            Tags:
-          </p>
-          <div className="flex flex-wrap gap-1">
-            {m.keywords.slice(0, 8).map((kw, idx) => (
+        <div className="pt-3 border-t border-gray-200 dark:border-gray-700">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-sm">🏷️</span>
+            <p className="text-xs font-bold text-gray-600 dark:text-gray-400 uppercase tracking-wide">
+              Temas
+            </p>
+          </div>
+          <div className="flex flex-wrap gap-1.5">
+            {m.keywords.slice(0, 6).map((kw, idx) => (
               <span
                 key={idx}
-                className="text-xs px-2 py-0.5 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded"
+                className="text-[11px] px-2.5 py-1 bg-gradient-to-r from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-800 text-gray-700 dark:text-gray-300 rounded-full font-medium hover:scale-105 transition-transform cursor-default border border-gray-200 dark:border-gray-600"
               >
                 {kw}
               </span>
             ))}
+            {m.keywords.length > 6 && (
+              <span className="text-[11px] px-2.5 py-1 text-gray-500 dark:text-gray-500 font-medium">
+                +{m.keywords.length - 6}
+              </span>
+            )}
           </div>
         </div>
       )}
 
-      <div className="space-y-2 pt-2 border-t border-gray-200 dark:border-gray-700">
-        <StarRating rating={userRating} onRate={onRate} />
+      <div className="space-y-3 pt-3 border-t border-gray-200 dark:border-gray-700">
+        <div className="space-y-1.5">
+          <div className="flex items-center justify-between">
+            <span className="text-xs font-bold text-gray-600 dark:text-gray-400 uppercase tracking-wide">
+              Sua Avaliação
+            </span>
+            {userRating > 0 && (
+              <span className="text-xs text-gray-500 dark:text-gray-500 font-medium">
+                {userRating} estrela{userRating > 1 ? "s" : ""}
+              </span>
+            )}
+          </div>
+          <StarRating rating={userRating} onRate={onRate} />
+        </div>
 
-        <div className="flex gap-2">
+        <div className="grid grid-cols-2 gap-2">
           <button
             onClick={() => onVote("like")}
-            className={`flex-1 py-2 rounded-lg text-center transition-all duration-200 font-medium ${
+            className={`group py-2.5 rounded-lg text-center transition-all duration-200 font-semibold text-sm flex items-center justify-center gap-2 ${
               isLiked
-                ? "bg-gradient-to-r from-gray-600 to-gray-700 text-white shadow-lg"
-                : "glass hover:scale-105"
+                ? "bg-gradient-to-r from-green-600 to-emerald-600 text-white shadow-lg ring-2 ring-green-500/50"
+                : "glass hover:scale-[1.02] hover:shadow-md text-gray-700 dark:text-gray-300"
             }`}
           >
-            👍
+            <span className="text-lg">{isLiked ? "✓" : "👍"}</span>
+            <span>{isLiked ? "Curtido" : "Curtir"}</span>
           </button>
           <button
             onClick={() => onVote("dislike")}
-            className={`flex-1 py-2 rounded-lg text-center transition-all duration-200 font-medium ${
+            className={`group py-2.5 rounded-lg text-center transition-all duration-200 font-semibold text-sm flex items-center justify-center gap-2 ${
               isDisliked
-                ? "bg-gray-600 text-white shadow-lg"
-                : "glass hover:scale-105"
+                ? "bg-gradient-to-r from-red-600 to-rose-600 text-white shadow-lg ring-2 ring-red-500/50"
+                : "glass hover:scale-[1.02] hover:shadow-md text-gray-700 dark:text-gray-300"
             }`}
           >
-            👎
+            <span className="text-lg">{isDisliked ? "✗" : "👎"}</span>
+            <span>{isDisliked ? "Não curti" : "Não curtir"}</span>
           </button>
         </div>
       </div>
@@ -191,6 +377,10 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [theme, setTheme] = useState<"dark" | "light">("dark");
   const [sortBy, setSortBy] = useState<"year" | "title" | "rating">("year");
+  const [showFilters, setShowFilters] = useState(false);
+  const [connectionStatus, setConnectionStatus] = useState<
+    "checking" | "connected" | "error"
+  >("checking");
 
   // Carregar preferências do localStorage
   useEffect(() => {
@@ -212,8 +402,15 @@ export default function App() {
     (async () => {
       try {
         setLoading(true);
+        setConnectionStatus("checking");
+
         const data = await getMovies();
         setMovies(data);
+        setConnectionStatus("connected");
+
+        if (data.length === 0) {
+          setError("Nenhum filme disponível no momento");
+        }
 
         // Tentar autenticar com token existente
         const token = getAuthToken();
@@ -232,10 +429,14 @@ export default function App() {
             }
           } catch (authError) {
             // Token inválido, limpar
+            setAuthToken(null);
           }
         }
       } catch (e: any) {
-        setError(e?.message ?? "Erro desconhecido");
+        setConnectionStatus("error");
+        const errorMsg = e?.message ?? "Erro ao conectar com o servidor";
+        setError(errorMsg);
+        toast.error(errorMsg);
       } finally {
         setLoading(false);
       }
@@ -310,6 +511,7 @@ export default function App() {
 
   async function onVote(movieId: number, action: "like" | "dislike") {
     if (!user) {
+      toast.error("Faça login para curtir filmes");
       setShowAuthModal(true);
       return;
     }
@@ -323,11 +525,15 @@ export default function App() {
       const rr = await getRecommendations(10);
       setRecs(rr.recommendations);
 
+      const movie = movies.find((m) => m.id === movieId);
+      const movieTitle = movie ? ` "${movie.title}"` : "";
       toast.success(
-        action === "like" ? "Filme curtido!" : "Feedback registrado!",
+        action === "like"
+          ? `✓ Filme${movieTitle} curtido!`
+          : `✓ Feedback registrado para${movieTitle}!`,
       );
     } catch (e: any) {
-      const errorMsg = e?.message ?? "Erro ao votar";
+      const errorMsg = e?.message ?? "Erro ao registrar feedback";
       setError(errorMsg);
       toast.error(errorMsg);
     }
@@ -335,16 +541,26 @@ export default function App() {
 
   async function handleRate(movieId: number, stars: number) {
     if (!user) {
+      toast.error("Faça login para avaliar filmes");
       setShowAuthModal(true);
       return;
     }
 
+    if (stars < 1 || stars > 5) {
+      toast.error("Avaliação deve ser entre 1 e 5 estrelas");
+      return;
+    }
+
     try {
+      const movie = movies.find((m) => m.id === movieId);
       const response = await rateMovie(movieId, stars);
       setUser(response.user);
-      toast.success(`Avaliado com ${stars} estrela${stars > 1 ? "s" : ""}!`);
+      const movieTitle = movie ? ` "${movie.title}"` : "";
+      toast.success(
+        `✓ ${movieTitle} avaliado com ${stars} estrela${stars > 1 ? "s" : ""}!`,
+      );
     } catch (e: any) {
-      const errorMsg = e?.message ?? "Erro ao avaliar";
+      const errorMsg = e?.message ?? "Erro ao registrar avaliação";
       setError(errorMsg);
       toast.error(errorMsg);
     }
@@ -396,8 +612,16 @@ export default function App() {
             🎬 Recomendador de Filmes
           </h1>
           <p className="text-gray-600 dark:text-gray-400">
-            Carregando dados do TMDB...
+            {connectionStatus === "checking" && "Conectando ao servidor..."}
+            {connectionStatus === "connected" && "Carregando filmes do TMDB..."}
+            {connectionStatus === "error" && "Erro ao conectar com o servidor"}
           </p>
+          {connectionStatus === "connected" && (
+            <div className="flex items-center justify-center gap-2 text-sm text-green-600 dark:text-green-400">
+              <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></span>
+              <span>Conectado</span>
+            </div>
+          )}
         </div>
       </div>
     );
@@ -421,11 +645,19 @@ export default function App() {
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-gray-700 via-gray-800 to-gray-900 dark:from-gray-300 dark:via-gray-200 dark:to-gray-100 bg-clip-text text-transparent">
                 🎬 Recomendador de Filmes
               </h1>
-              <p className="text-sm sm:text-base text-gray-600 dark:text-gray-400">
-                {user
-                  ? `Olá, ${user.username}! Sistema inteligente com dados do TMDB`
-                  : "Sistema inteligente com dados do TMDB"}
-              </p>
+              <div className="flex items-center gap-3">
+                <p className="text-sm sm:text-base text-gray-600 dark:text-gray-400">
+                  {user
+                    ? `Olá, ${user.username}! Sistema inteligente com dados do TMDB`
+                    : "Sistema inteligente com dados do TMDB"}
+                </p>
+                {connectionStatus === "connected" && (
+                  <span className="flex items-center gap-1.5 text-xs text-green-600 dark:text-green-400 bg-green-50 dark:bg-green-900/20 px-2 py-1 rounded-full">
+                    <span className="w-1.5 h-1.5 bg-green-500 rounded-full animate-pulse"></span>
+                    Online
+                  </span>
+                )}
+              </div>
             </div>
 
             <div className="flex flex-wrap items-center gap-3 sm:gap-4">
@@ -555,113 +787,144 @@ export default function App() {
             </section>
           )}
 
-        {/* Catálogo */}
-        <section className="glass-strong rounded-2xl p-4 sm:p-6 lg:p-8 shadow-xl space-y-4 sm:space-y-6 animate-slide-up">
-          <div className="flex flex-col sm:flex-row gap-4 sm:items-center sm:justify-between">
-            <h2 className="text-2xl sm:text-3xl font-bold flex items-center gap-3">
-              <span>🎥</span>
-              <span className="bg-gradient-to-r from-gray-700 to-gray-900 dark:from-gray-300 dark:to-gray-100 bg-clip-text text-transparent">
-                Catálogo ({filtered.length} filmes)
+        {/* Catálogo com Sidebar */}
+        <section className="relative">
+          {/* Mobile Filter Toggle */}
+          <button
+            onClick={() => setShowFilters(!showFilters)}
+            className="lg:hidden fixed bottom-6 right-6 z-40 p-4 rounded-full bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-2xl hover:scale-110 transition-all duration-200 flex items-center gap-2"
+          >
+            <span className="text-xl">🎯</span>
+            {(selectedGenres.size > 0 ||
+              yearRange[0] !== yearBounds.min ||
+              yearRange[1] !== yearBounds.max) && (
+              <span className="absolute -top-1 -right-1 w-6 h-6 bg-red-500 rounded-full flex items-center justify-center text-xs font-bold">
+                {selectedGenres.size +
+                  (yearRange[0] !== yearBounds.min ||
+                  yearRange[1] !== yearBounds.max
+                    ? 1
+                    : 0)}
               </span>
-            </h2>
+            )}
+          </button>
 
-            <input
-              type="text"
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="Buscar por título, diretor, gênero..."
-              className="w-full sm:w-80 px-4 py-3 rounded-xl glass focus:ring-2 focus:ring-primary-500 focus:outline-none transition-all duration-200 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400"
+          {/* Overlay para mobile */}
+          {showFilters && (
+            <div
+              className="lg:hidden fixed inset-0 bg-black/50 backdrop-blur-sm z-30"
+              onClick={() => setShowFilters(false)}
             />
-          </div>
+          )}
 
-          {/* Filtros */}
-          <div className="glass-strong rounded-xl overflow-hidden border border-gray-200/50 dark:border-gray-700/50">
-            {/* Header dos Filtros */}
-            <div className="flex items-center justify-between p-4 sm:p-5 border-b border-gray-200/50 dark:border-gray-700/50 bg-gradient-to-r from-gray-50/50 to-slate-50/50 dark:from-gray-800/30 dark:to-slate-800/30">
-              <div className="flex items-center gap-3">
-                <span className="text-2xl">🎯</span>
-                <h3 className="text-lg font-bold text-gray-800 dark:text-gray-200">
-                  Filtros
-                </h3>
-                {(selectedGenres.size > 0 ||
-                  yearRange[0] !== yearBounds.min ||
-                  yearRange[1] !== yearBounds.max) && (
-                  <span className="px-2.5 py-1 rounded-full bg-gray-600 dark:bg-gray-500 text-white text-xs font-semibold">
-                    {selectedGenres.size +
-                      (yearRange[0] !== yearBounds.min ||
-                      yearRange[1] !== yearBounds.max
-                        ? 1
-                        : 0)}
-                  </span>
-                )}
-              </div>
-              {(selectedGenres.size > 0 ||
-                yearRange[0] !== yearBounds.min ||
-                yearRange[1] !== yearBounds.max) && (
-                <button
-                  onClick={() => {
-                    setSelectedGenres(new Set());
-                    setYearRange([yearBounds.min, yearBounds.max]);
-                  }}
-                  className="px-3 py-1.5 rounded-lg text-xs font-medium text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 hover:bg-gray-200/50 dark:hover:bg-gray-700/50 transition-all duration-200"
-                >
-                  Limpar filtros
-                </button>
-              )}
-            </div>
-
-            <div className="p-4 sm:p-5 space-y-6">
-              {/* Gêneros */}
-              <div className="space-y-3">
-                <div className="flex items-center gap-2">
-                  <span className="text-lg">🎭</span>
-                  <label className="text-sm font-semibold text-gray-700 dark:text-gray-300">
-                    Gêneros
-                  </label>
-                  {selectedGenres.size > 0 && (
-                    <span className="text-xs text-gray-500 dark:text-gray-400">
-                      ({selectedGenres.size} selecionado
-                      {selectedGenres.size > 1 ? "s" : ""})
+          <div className="flex gap-6">
+            {/* Sidebar de Filtros */}
+            <aside
+              className={`
+                fixed lg:sticky top-0 left-0 lg:left-auto
+                h-screen lg:h-auto lg:top-6
+                w-80 lg:w-72 xl:w-80
+                bg-white dark:bg-gray-900 lg:glass-strong
+                rounded-none lg:rounded-2xl
+                shadow-2xl lg:shadow-xl
+                z-40 lg:z-auto
+                transition-transform duration-300
+                overflow-y-auto
+                ${showFilters ? "translate-x-0" : "-translate-x-full lg:translate-x-0"}
+              `}
+            >
+              {/* Header da Sidebar */}
+              <div className="sticky top-0 bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm p-5 border-b border-gray-200 dark:border-gray-700 flex items-center justify-between">
+                <div className="flex items-center gap-3">
+                  <span className="text-2xl">🎯</span>
+                  <h3 className="text-xl font-bold text-gray-800 dark:text-gray-200">
+                    Filtros
+                  </h3>
+                  {(selectedGenres.size > 0 ||
+                    yearRange[0] !== yearBounds.min ||
+                    yearRange[1] !== yearBounds.max) && (
+                    <span className="px-2.5 py-1 rounded-full bg-gray-600 text-white text-xs font-semibold">
+                      {selectedGenres.size +
+                        (yearRange[0] !== yearBounds.min ||
+                        yearRange[1] !== yearBounds.max
+                          ? 1
+                          : 0)}
                     </span>
                   )}
                 </div>
-                <div className="flex flex-wrap gap-2">
-                  {allGenres.map((genre) => (
-                    <button
-                      key={genre}
-                      onClick={() => toggleGenre(genre)}
-                      className={`group px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                        selectedGenres.has(genre)
-                          ? "bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-md scale-105 ring-2 ring-gray-600/50"
-                          : "glass hover:scale-105 hover:shadow-md text-gray-700 dark:text-gray-300"
-                      }`}
-                    >
-                      <span className="flex items-center gap-1.5">
-                        {selectedGenres.has(genre) && (
-                          <span className="text-xs">✓</span>
-                        )}
-                        {genre}
-                      </span>
-                    </button>
-                  ))}
-                </div>
+                <button
+                  onClick={() => setShowFilters(false)}
+                  className="lg:hidden p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
+                >
+                  <span className="text-2xl">✕</span>
+                </button>
               </div>
 
-              {/* Separador */}
-              <div className="h-px bg-gradient-to-r from-transparent via-gray-300 dark:via-gray-600 to-transparent"></div>
+              <div className="p-5 space-y-6">
+                {/* Limpar Filtros */}
+                {(selectedGenres.size > 0 ||
+                  yearRange[0] !== yearBounds.min ||
+                  yearRange[1] !== yearBounds.max) && (
+                  <button
+                    onClick={() => {
+                      setSelectedGenres(new Set());
+                      setYearRange([yearBounds.min, yearBounds.max]);
+                    }}
+                    className="w-full py-2.5 px-4 rounded-lg text-sm font-semibold text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
+                  >
+                    🗑️ Limpar todos os filtros
+                  </button>
+                )}
 
-              {/* Ano e Ordenação */}
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                {/* Filtro de Ano */}
+                {/* Gêneros */}
+                <div className="space-y-3">
+                  <div className="flex items-center gap-2">
+                    <span className="text-lg">🎭</span>
+                    <label className="text-sm font-bold text-gray-700 dark:text-gray-300 uppercase tracking-wide">
+                      Gêneros
+                    </label>
+                    {selectedGenres.size > 0 && (
+                      <span className="text-xs text-gray-500 dark:text-gray-400">
+                        ({selectedGenres.size})
+                      </span>
+                    )}
+                  </div>
+                  <div className="space-y-2 max-h-96 overflow-y-auto pr-2">
+                    {allGenres.map((genre) => {
+                      const config = GENRE_CONFIG[genre];
+                      const isSelected = selectedGenres.has(genre);
+                      return (
+                        <button
+                          key={genre}
+                          onClick={() => toggleGenre(genre)}
+                          className={`w-full px-3 py-2.5 rounded-lg text-sm font-semibold transition-all duration-200 flex items-center gap-2.5 ${
+                            isSelected
+                              ? "bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-md"
+                              : "glass hover:shadow-md text-gray-700 dark:text-gray-300"
+                          }`}
+                        >
+                          {config && (
+                            <span className="text-base">{config.icon}</span>
+                          )}
+                          <span className="flex-1 text-left">{genre}</span>
+                          {isSelected && <span className="text-xs">✓</span>}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+
+                {/* Separador */}
+                <div className="h-px bg-gradient-to-r from-transparent via-gray-300 dark:via-gray-600 to-transparent"></div>
+
+                {/* Período */}
                 <div className="space-y-3">
                   <div className="flex items-center gap-2">
                     <span className="text-lg">📅</span>
-                    <label className="text-sm font-semibold text-gray-700 dark:text-gray-300">
+                    <label className="text-sm font-bold text-gray-700 dark:text-gray-300 uppercase tracking-wide">
                       Período
                     </label>
                   </div>
-                  <div className="p-4 rounded-lg bg-gray-50/50 dark:bg-gray-800/30 space-y-4">
-                    {/* Inputs manuais */}
+                  <div className="space-y-4">
                     <div className="grid grid-cols-2 gap-3">
                       <div className="space-y-1.5">
                         <label className="text-xs text-gray-600 dark:text-gray-400 font-medium">
@@ -672,13 +935,6 @@ export default function App() {
                           min={yearBounds.min}
                           max={yearBounds.max}
                           value={yearRange[0]}
-                          onBlur={(e) => {
-                            const val = Math.max(
-                              yearBounds.min,
-                              Math.min(+e.target.value, yearRange[1]),
-                            );
-                            setYearRange([val, yearRange[1]]);
-                          }}
                           onChange={(e) => {
                             const val = +e.target.value;
                             if (!isNaN(val)) {
@@ -697,13 +953,6 @@ export default function App() {
                           min={yearBounds.min}
                           max={yearBounds.max}
                           value={yearRange[1]}
-                          onBlur={(e) => {
-                            const val = Math.min(
-                              yearBounds.max,
-                              Math.max(+e.target.value, yearRange[0]),
-                            );
-                            setYearRange([yearRange[0], val]);
-                          }}
                           onChange={(e) => {
                             const val = +e.target.value;
                             if (!isNaN(val)) {
@@ -714,100 +963,158 @@ export default function App() {
                         />
                       </div>
                     </div>
-
-                    {/* Range disponível */}
-                    <div className="flex justify-between text-xs text-gray-500 dark:text-gray-400 font-medium px-1">
-                      <span>Disponível: {yearBounds.min}</span>
-                      <span>{yearBounds.max}</span>
+                    <div className="px-2">
+                      <input
+                        type="range"
+                        min={yearBounds.min}
+                        max={yearBounds.max}
+                        value={yearRange[0]}
+                        onChange={(e) =>
+                          setYearRange([+e.target.value, yearRange[1]])
+                        }
+                        className="w-full"
+                      />
+                      <input
+                        type="range"
+                        min={yearBounds.min}
+                        max={yearBounds.max}
+                        value={yearRange[1]}
+                        onChange={(e) =>
+                          setYearRange([yearRange[0], +e.target.value])
+                        }
+                        className="w-full mt-2"
+                      />
                     </div>
                   </div>
                 </div>
+
+                {/* Separador */}
+                <div className="h-px bg-gradient-to-r from-transparent via-gray-300 dark:via-gray-600 to-transparent"></div>
 
                 {/* Ordenação */}
                 <div className="space-y-3">
                   <div className="flex items-center gap-2">
                     <span className="text-lg">🔄</span>
-                    <label className="text-sm font-semibold text-gray-700 dark:text-gray-300">
-                      Ordenação
+                    <label className="text-sm font-bold text-gray-700 dark:text-gray-300 uppercase tracking-wide">
+                      Ordenar por
                     </label>
                   </div>
-                  <div className="p-4 rounded-lg bg-gray-50/50 dark:bg-gray-800/30">
-                    <select
-                      value={sortBy}
-                      onChange={(e) => setSortBy(e.target.value as any)}
-                      className="w-full px-4 py-3 rounded-lg glass focus:ring-2 focus:ring-gray-600 dark:focus:ring-gray-400 focus:outline-none transition-all duration-200 text-gray-900 dark:text-white cursor-pointer font-medium shadow-sm"
-                    >
-                      <option value="year">📆 Ano (mais recente)</option>
-                      <option value="title">🔤 Título (A-Z)</option>
-                      <option value="rating">⭐ Avaliação</option>
-                    </select>
+                  <div className="space-y-2">
+                    {(
+                      [
+                        { value: "year", label: "Ano", icon: "📅" },
+                        { value: "title", label: "Título", icon: "🔤" },
+                        { value: "rating", label: "Avaliação", icon: "⭐" },
+                      ] as const
+                    ).map((option) => (
+                      <button
+                        key={option.value}
+                        onClick={() => setSortBy(option.value)}
+                        className={`w-full px-3 py-2.5 rounded-lg text-sm font-semibold transition-all duration-200 flex items-center gap-2.5 ${
+                          sortBy === option.value
+                            ? "bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-md"
+                            : "glass hover:shadow-md text-gray-700 dark:text-gray-300"
+                        }`}
+                      >
+                        <span className="text-base">{option.icon}</span>
+                        <span className="flex-1 text-left">{option.label}</span>
+                        {sortBy === option.value && (
+                          <span className="text-xs">✓</span>
+                        )}
+                      </button>
+                    ))}
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
+            </aside>
 
-          {/* Paginação */}
-          {pagination.totalPages > 1 && (
-            <div className="flex items-center justify-center gap-2 flex-wrap">
-              <button
-                onClick={pagination.prevPage}
-                disabled={!pagination.hasPrev}
-                className="px-4 py-2 rounded-lg glass hover:scale-105 transition-all disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 font-medium"
-              >
-                ← Anterior
-              </button>
+            {/* Área Principal do Catálogo */}
+            <div className="flex-1 space-y-6">
+              <div className="glass-strong rounded-2xl p-4 sm:p-6 lg:p-8 shadow-xl space-y-4 sm:space-y-6">
+                <div className="flex flex-col sm:flex-row gap-4 sm:items-center sm:justify-between">
+                  <h2 className="text-2xl sm:text-3xl font-bold flex items-center gap-3">
+                    <span>🎥</span>
+                    <span className="bg-gradient-to-r from-gray-700 to-gray-900 dark:from-gray-300 dark:to-gray-100 bg-clip-text text-transparent">
+                      Catálogo
+                    </span>
+                    <span className="text-lg text-gray-500 dark:text-gray-400 font-normal">
+                      ({filtered.length} filmes)
+                    </span>
+                  </h2>
 
-              <div className="flex gap-2">
-                {Array.from(
-                  { length: Math.min(5, pagination.totalPages) },
-                  (_, i) => {
-                    const pageNum = i + 1;
-                    return (
-                      <button
-                        key={pageNum}
-                        onClick={() => pagination.goToPage(pageNum)}
-                        className={`w-10 h-10 rounded-lg font-semibold transition-all ${
-                          pagination.currentPage === pageNum
-                            ? "bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-lg scale-110"
-                            : "glass hover:scale-105"
-                        }`}
-                      >
-                        {pageNum}
-                      </button>
-                    );
-                  },
+                  <input
+                    type="text"
+                    value={query}
+                    onChange={(e) => setQuery(e.target.value)}
+                    placeholder="Buscar por título, diretor, gênero..."
+                    className="w-full sm:w-80 px-4 py-3 rounded-xl glass focus:ring-2 focus:ring-primary-500 focus:outline-none transition-all duration-200 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400"
+                  />
+                </div>
+
+                {/* Paginação */}
+                {pagination.totalPages > 1 && (
+                  <div className="flex items-center justify-center gap-2 flex-wrap">
+                    <button
+                      onClick={pagination.prevPage}
+                      disabled={!pagination.hasPrev}
+                      className="px-4 py-2 rounded-lg glass hover:scale-105 transition-all disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 font-medium"
+                    >
+                      ← Anterior
+                    </button>
+
+                    <div className="flex gap-2">
+                      {Array.from(
+                        { length: Math.min(5, pagination.totalPages) },
+                        (_, i) => {
+                          const pageNum = i + 1;
+                          return (
+                            <button
+                              key={pageNum}
+                              onClick={() => pagination.goToPage(pageNum)}
+                              className={`w-10 h-10 rounded-lg font-semibold transition-all ${
+                                pagination.currentPage === pageNum
+                                  ? "bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-lg scale-110"
+                                  : "glass hover:scale-105"
+                              }`}
+                            >
+                              {pageNum}
+                            </button>
+                          );
+                        },
+                      )}
+                    </div>
+
+                    <button
+                      onClick={pagination.nextPage}
+                      disabled={!pagination.hasNext}
+                      className="px-4 py-2 rounded-lg glass hover:scale-105 transition-all disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 font-medium"
+                    >
+                      Próximo →
+                    </button>
+
+                    <span className="text-sm text-gray-600 dark:text-gray-400 ml-4">
+                      Página {pagination.currentPage} de {pagination.totalPages}{" "}
+                      ({pagination.totalItems} filmes)
+                    </span>
+                  </div>
                 )}
+
+                {/* Grid de Filmes */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-5">
+                  {pagination.items.map((m) => (
+                    <MovieCard
+                      key={m.id}
+                      movie={m}
+                      userRating={user?.ratings[m.id] || 0}
+                      isLiked={user?.liked_movies.includes(m.id) || false}
+                      isDisliked={user?.disliked_movies.includes(m.id) || false}
+                      onRate={(stars) => handleRate(m.id, stars)}
+                      onVote={(action) => onVote(m.id, action)}
+                    />
+                  ))}
+                </div>
               </div>
-
-              <button
-                onClick={pagination.nextPage}
-                disabled={!pagination.hasNext}
-                className="px-4 py-2 rounded-lg glass hover:scale-105 transition-all disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100 font-medium"
-              >
-                Próximo →
-              </button>
-
-              <span className="text-sm text-gray-600 dark:text-gray-400 ml-4">
-                Página {pagination.currentPage} de {pagination.totalPages} (
-                {pagination.totalItems} filmes)
-              </span>
             </div>
-          )}
-
-          {/* Grid de Filmes */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-5">
-            {pagination.items.map((m) => (
-              <MovieCard
-                key={m.id}
-                movie={m}
-                userRating={user?.ratings[m.id] || 0}
-                isLiked={user?.liked_movies.includes(m.id) || false}
-                isDisliked={user?.disliked_movies.includes(m.id) || false}
-                onRate={(stars) => handleRate(m.id, stars)}
-                onVote={(action) => onVote(m.id, action)}
-              />
-            ))}
           </div>
         </section>
 

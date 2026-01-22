@@ -1,0 +1,796 @@
+{
+  "adult": false,
+  "backdrop_path": "/8VGiUMkjdevsVYHZ8tIpHl6EbbF.jpg",
+  "belongs_to_collection": {
+    "id": 1311628,
+    "name": "100% Lobo: Coleção",
+    "poster_path": "/zW2SgHSRYy3dqHSp3Jsbd8HpI7F.jpg",
+    "backdrop_path": "/nEEW3hwDI82CmPeXy8Dn2WpvHzG.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 974663,
+  "imdb_id": "tt27722575",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "200% Wolf",
+  "overview": "",
+  "popularity": 11.7897,
+  "poster_path": "/euv7pScUHGekVkq3yBzeA3IxDb7.jpg",
+  "production_companies": [
+    {
+      "id": 51863,
+      "logo_path": "/qkh0kHmfKanKxoi4hlL8BeU7SRm.png",
+      "name": "Studio 100 Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 20187,
+      "logo_path": "/bYdzRm9r74bIWlSRKIWZeZyDBFD.png",
+      "name": "Flying Bark Productions",
+      "origin_country": "AU"
+    },
+    {
+      "id": 227119,
+      "logo_path": null,
+      "name": "Atlantika Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 148211,
+      "logo_path": null,
+      "name": "Siamese",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-07-04",
+  "revenue": 4543,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "200% Wolf",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 41,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1372369,
+        "known_for_department": "Acting",
+        "name": "Samara Weaving",
+        "original_name": "Samara Weaving",
+        "popularity": 3.7103,
+        "profile_path": "/7ThO37CpqkBRgrosep0ROVs2q5s.jpg",
+        "cast_id": 7,
+        "character": "Batty (voice)",
+        "credit_id": "65586ee7b5400214d3ca9393",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12094,
+        "known_for_department": "Acting",
+        "name": "Jennifer Saunders",
+        "original_name": "Jennifer Saunders",
+        "popularity": 1.3062,
+        "profile_path": "/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg",
+        "cast_id": 10,
+        "character": "Max (voice)",
+        "credit_id": "6629f66333a533009bd1c6b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2634036,
+        "known_for_department": "Acting",
+        "name": "Ilai Swindells",
+        "original_name": "Ilai Swindells",
+        "popularity": 0.3907,
+        "profile_path": "/nfKgkkaT4g3H0jwRfanTN50cqn4.jpg",
+        "cast_id": 8,
+        "character": "Freddy Lupin (voice)",
+        "credit_id": "65586ef47f054018d3429e1b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 221573,
+        "known_for_department": "Acting",
+        "name": "Akmal Saleh",
+        "original_name": "Akmal Saleh",
+        "popularity": 0.5499,
+        "profile_path": "/qg130R8vuLfaxqn3zATZBEszYPF.jpg",
+        "cast_id": 9,
+        "character": "Hamish (voice)",
+        "credit_id": "65586f0153866e00abacb975",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2451397,
+        "known_for_department": "Acting",
+        "name": "Peter McCallum",
+        "original_name": "Peter McCallum",
+        "popularity": 0.2066,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Hotspur / Flasheart (voice)",
+        "credit_id": "662a08e04cbe1200a5f9ff3e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2280416,
+        "known_for_department": "Acting",
+        "name": "Sarah Rose Harper",
+        "original_name": "Sarah Rose Harper",
+        "popularity": 0.1698,
+        "profile_path": "/6SQxT5Jy12czW43vSxoiGXIBcbl.jpg",
+        "cast_id": 12,
+        "character": "Twitchy (voice)",
+        "credit_id": "662a08eed18b24009ede03cb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1645748,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Nabben",
+        "original_name": "Elizabeth Nabben",
+        "popularity": 0.2027,
+        "profile_path": "/oqVA67BHxS1eyK58WkSTCA0GzS2.jpg",
+        "cast_id": 13,
+        "character": "Moopoo (voice)",
+        "credit_id": "66962c83e12a1b57f8fd9206",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4832332,
+        "known_for_department": "Acting",
+        "name": "Janice Petersen",
+        "original_name": "Janice Petersen",
+        "popularity": 0.143,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Felicity Hazzard (voice)",
+        "credit_id": "66962ca5d62385765a780169",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135227,
+        "known_for_department": "Production",
+        "name": "Michael Bourchier",
+        "original_name": "Michael Bourchier",
+        "popularity": 0.2499,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Lord Hightail (voice)",
+        "credit_id": "66962cb84777a7bc3804df0b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4832334,
+        "known_for_department": "Acting",
+        "name": "Heather Mitchell",
+        "original_name": "Heather Mitchell",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Lady Hightail (voice)",
+        "credit_id": "66962cdab34b37d6de73ae9b",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2030781,
+        "known_for_department": "Writing",
+        "name": "Jayne Lyons",
+        "original_name": "Jayne Lyons",
+        "popularity": 0.1444,
+        "profile_path": null,
+        "credit_id": "63611ac11b7294009489a257",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 56667,
+        "known_for_department": "Production",
+        "name": "Max Howard",
+        "original_name": "Max Howard",
+        "popularity": 0.1253,
+        "profile_path": null,
+        "credit_id": "66962d68ec740a5ae57b87e0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2452436,
+        "known_for_department": "Production",
+        "name": "Nano Arrieta",
+        "original_name": "Nano Arrieta",
+        "popularity": 0.1333,
+        "profile_path": null,
+        "credit_id": "66962d5bc0d3ae3f647b88ce",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2111618,
+        "known_for_department": "Sound",
+        "name": "Ash Gibson Grieg",
+        "original_name": "Ash Gibson Grieg",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "66962d3cad40c777a578013c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4181634,
+        "known_for_department": "Production",
+        "name": "Carmen Pérez-Marsá Roca",
+        "original_name": "Carmen Pérez-Marsá Roca",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "64c1547213a320011c5f4d4b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1414901,
+        "known_for_department": "Writing",
+        "name": "Fin Edquist",
+        "original_name": "Fin Edquist",
+        "popularity": 0.379,
+        "profile_path": null,
+        "credit_id": "64c1560cdf86a800ae011144",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1304466,
+        "known_for_department": "Directing",
+        "name": "Alexs Stadermann",
+        "original_name": "Alexs Stadermann",
+        "popularity": 0.2697,
+        "profile_path": "/2Mh2pn5AZQjiU6tfJ6VpPDW7V9W.jpg",
+        "credit_id": "64c15394097c4900e3f34f78",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2030780,
+        "known_for_department": "Production",
+        "name": "Barbara Stephen",
+        "original_name": "Barbara Stephen",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "64c154811cfe3a0eb0a78358",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2030779,
+        "known_for_department": "Production",
+        "name": "Alexia Gates-Foale",
+        "original_name": "Alexia Gates-Foale",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "credit_id": "64c153a32f1be0010c81ddd8",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 12564,
+        "name": "werewolf"
+      },
+      {
+        "id": 15101,
+        "name": "based on children's book"
+      },
+      {
+        "id": 15162,
+        "name": "dog"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-06T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "cut ",
+            "release_date": "2024-08-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "da",
+            "note": "",
+            "release_date": "2025-05-19T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "da",
+            "note": "",
+            "release_date": "2025-05-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-09-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "hr",
+            "note": "",
+            "release_date": "2024-09-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "V",
+            "descriptors": [],
+            "iso_639_1": "lt",
+            "note": "",
+            "release_date": "2024-08-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "AA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [
+              "Fear",
+              "Coarse Language"
+            ],
+            "iso_639_1": "nl",
+            "note": "",
+            "release_date": "2024-10-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-07-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "uk",
+            "note": "",
+            "release_date": "2024-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-08-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

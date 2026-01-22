@@ -1,0 +1,813 @@
+{
+  "adult": false,
+  "backdrop_path": "/rgL7KXlvA3ACS1wHWjXUU4qSPO3.jpg",
+  "belongs_to_collection": null,
+  "budget": 400000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Faroeste"
+    }
+  ],
+  "homepage": "",
+  "id": 37481,
+  "imdb_id": "tt0052724",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Day of the Outlaw",
+  "overview": "Fugindo com o saque de um assalto milionário, o implacável Jack Bruhn e seu bando de renegados dominam um remoto povoado do Oeste que está ilhado pela nevasca. Entre os moradores tomados como reféns está o rancheiro Blaise Starrett, que resolve usar de astúcia para enfrentar o bando de assassinos e salvar a cidade - e a mulher que ama.",
+  "popularity": 5.9674,
+  "poster_path": "/js4P9y1gyU9bqrzE8s49gSNljQX.jpg",
+  "production_companies": [
+    {
+      "id": 4388,
+      "logo_path": null,
+      "name": "Security Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1959-05-14",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Veja o que acontece com as mulheres... veja o oeste explodir!",
+  "title": "Quadrilha Maldita",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 104,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8253,
+        "known_for_department": "Acting",
+        "name": "Robert Ryan",
+        "original_name": "Robert Ryan",
+        "popularity": 0.8326,
+        "profile_path": "/hpWgaPTbBLGCdYXHcEVLIWaA3m0.jpg",
+        "cast_id": 8,
+        "character": "Blaise Starrett",
+        "credit_id": "52fe464d9251416c9105007d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2753,
+        "known_for_department": "Acting",
+        "name": "Burl Ives",
+        "original_name": "Burl Ives",
+        "popularity": 0.5307,
+        "profile_path": "/qRefQVFPdXwkHLLgDLFPeRgcLu4.jpg",
+        "cast_id": 9,
+        "character": "Jack Bruhn",
+        "credit_id": "52fe464d9251416c91050081",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29910,
+        "known_for_department": "Acting",
+        "name": "Tina Louise",
+        "original_name": "Tina Louise",
+        "popularity": 1.4767,
+        "profile_path": "/c4Sl8tnnI5XY6PnKkdaiUJjNZ2e.jpg",
+        "cast_id": 10,
+        "character": "Helen Crane",
+        "credit_id": "52fe464d9251416c91050085",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78854,
+        "known_for_department": "Acting",
+        "name": "Alan Marshal",
+        "original_name": "Alan Marshal",
+        "popularity": 0.4398,
+        "profile_path": "/3s50CuZjKmKwaXqATJxkEKR0nDy.jpg",
+        "cast_id": 11,
+        "character": "Hal Crane",
+        "credit_id": "52fe464d9251416c91050089",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117765,
+        "known_for_department": "Acting",
+        "name": "Venetia Stevenson",
+        "original_name": "Venetia Stevenson",
+        "popularity": 0.3464,
+        "profile_path": "/zVReaiPqNTgSkxhDuYZvlTOQYIX.jpg",
+        "cast_id": 12,
+        "character": "Ernine, Vic's Daughter",
+        "credit_id": "52fe464d9251416c9105008d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59778,
+        "known_for_department": "Acting",
+        "name": "David Nelson",
+        "original_name": "David Nelson",
+        "popularity": 0.3697,
+        "profile_path": "/ptPihffGwkR8OkUQH1sXKYbQ9VS.jpg",
+        "cast_id": 13,
+        "character": "Gene, Bruhn's Gang",
+        "credit_id": "52fe464d9251416c91050091",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3160,
+        "known_for_department": "Acting",
+        "name": "Nehemiah Persoff",
+        "original_name": "Nehemiah Persoff",
+        "popularity": 0.9082,
+        "profile_path": "/vJoqhr7HVxP9HLTqt2rxo5OsSvq.jpg",
+        "cast_id": 14,
+        "character": "Dan, Starret's Foreman",
+        "credit_id": "52fe464d9251416c91050095",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103054,
+        "known_for_department": "Acting",
+        "name": "Jack Lambert",
+        "original_name": "Jack Lambert",
+        "popularity": 0.5521,
+        "profile_path": "/de0XtKjvjdJZrXnz6jmJWJlSYEe.jpg",
+        "cast_id": 15,
+        "character": "Tex, Bruhn's gang",
+        "credit_id": "52fe464d9251416c91050099",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50574,
+        "known_for_department": "Acting",
+        "name": "Frank De Kova",
+        "original_name": "Frank De Kova",
+        "popularity": 0.5891,
+        "profile_path": "/lVlseygvknUVOgCVOPVDzURKOst.jpg",
+        "cast_id": 16,
+        "character": "Denver, Bruhn's Gang",
+        "credit_id": "52fe464d9251416c9105009d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12354,
+        "known_for_department": "Acting",
+        "name": "Lance Fuller",
+        "original_name": "Lance Fuller",
+        "popularity": 0.4259,
+        "profile_path": "/mwVv57nP36YgbMFTEAcqOWPDidj.jpg",
+        "cast_id": 17,
+        "character": "Pace, Bruhn's Gang",
+        "credit_id": "52fe464d9251416c910500a1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3339,
+        "known_for_department": "Acting",
+        "name": "Elisha Cook Jr.",
+        "original_name": "Elisha Cook Jr.",
+        "popularity": 0.7567,
+        "profile_path": "/lM7n3Feg9t2mkcMUmdJ5fCi54wJ.jpg",
+        "cast_id": 18,
+        "character": "Larry Teter,  Town Barber",
+        "credit_id": "52fe464d9251416c910500a5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6805,
+        "known_for_department": "Acting",
+        "name": "Dabbs Greer",
+        "original_name": "Dabbs Greer",
+        "popularity": 1.2564,
+        "profile_path": "/7hWClK3p8gYZgTBJJSkZP3iJEew.jpg",
+        "cast_id": 19,
+        "character": "Doc Langer, Veterinarian",
+        "credit_id": "52fe464d9251416c910500a9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117766,
+        "known_for_department": "Acting",
+        "name": "Betsy Jones-Moreland",
+        "original_name": "Betsy Jones-Moreland",
+        "popularity": 0.2079,
+        "profile_path": "/gzpSCdKz3u5eOk3YXSR5XyIhXn8.jpg",
+        "cast_id": 20,
+        "character": "Mrs. Preston",
+        "credit_id": "52fe464d9251416c910500ad",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29644,
+        "known_for_department": "Acting",
+        "name": "Helen Westcott",
+        "original_name": "Helen Westcott",
+        "popularity": 0.466,
+        "profile_path": "/oF3eOcS70IjF9WVRXRNjywco4GX.jpg",
+        "cast_id": 21,
+        "character": "Vivian",
+        "credit_id": "52fe464d9251416c910500b1",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16172,
+        "known_for_department": "Acting",
+        "name": "Donald Elson",
+        "original_name": "Donald Elson",
+        "popularity": 0.4084,
+        "profile_path": "/2Yw8JYyZXKdK0SMAyNglf2apQUd.jpg",
+        "cast_id": 22,
+        "character": "Vic, General Store Owner",
+        "credit_id": "52fe464d9251416c910500b5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56444,
+        "known_for_department": "Acting",
+        "name": "Robert Cornthwaite",
+        "original_name": "Robert Cornthwaite",
+        "popularity": 0.2837,
+        "profile_path": "/rvMy2QFjwdZAKOXzJWbw15wlRMT.jpg",
+        "cast_id": 23,
+        "character": "Tommy Preston, Wyoming Hotel Owner",
+        "credit_id": "52fe464d9251416c910500b9",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103322,
+        "known_for_department": "Acting",
+        "name": "Michael McGreevey",
+        "original_name": "Michael McGreevey",
+        "popularity": 0.5462,
+        "profile_path": "/9dA11zW6b1ClQpcwRebge6heEPc.jpg",
+        "cast_id": 24,
+        "character": "Bobby, Vic's Son",
+        "credit_id": "52fe464d9251416c910500bd",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151845,
+        "known_for_department": "Acting",
+        "name": "Dan Sheridan",
+        "original_name": "Dan Sheridan",
+        "popularity": 0.5382,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Lewis",
+        "credit_id": "649609c6955c6500ac885d9d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1538074,
+        "known_for_department": "Acting",
+        "name": "George Ross",
+        "original_name": "George Ross",
+        "popularity": 0.133,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "",
+        "credit_id": "6562fa89fb529900e3e36977",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15992,
+        "known_for_department": "Acting",
+        "name": "William Schallert",
+        "original_name": "William Schallert",
+        "popularity": 1.4223,
+        "profile_path": "/cWwLO0UxvKupMFqu4jyMnycSE1o.jpg",
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "6562fa96a6c104011bde0eb5",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34365,
+        "known_for_department": "Acting",
+        "name": "Arthur Space",
+        "original_name": "Arthur Space",
+        "popularity": 0.4238,
+        "profile_path": "/1Knee5z0h89xsRWQIdCl1sd6DDf.jpg",
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "6562faa1706e5600acf087f3",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151727,
+        "known_for_department": "Acting",
+        "name": "Paul Wexler",
+        "original_name": "Paul Wexler",
+        "popularity": 0.6535,
+        "profile_path": "/9g7fq97hqkHeQ1lbU6CqZJsaeOp.jpg",
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "6562faacfb5299013e2a6cb1",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 956518,
+        "known_for_department": "Acting",
+        "name": "Jack Woody",
+        "original_name": "Jack Woody",
+        "popularity": 0.1836,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "6562fabb706e5600e1539279",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 117764,
+        "known_for_department": "Writing",
+        "name": "Lee E. Wells",
+        "original_name": "Lee E. Wells",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "52fe464d9251416c9105005b",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81799,
+        "known_for_department": "Directing",
+        "name": "André de Toth",
+        "original_name": "André de Toth",
+        "popularity": 0.4443,
+        "profile_path": "/7kWxhZ01Hdht9mWeleHXtbgnW1y.jpg",
+        "credit_id": "52fe464d9251416c91050055",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89816,
+        "known_for_department": "Production",
+        "name": "Sidney Harmon",
+        "original_name": "Sidney Harmon",
+        "popularity": 0.2132,
+        "profile_path": null,
+        "credit_id": "52fe464d9251416c91050067",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761,
+        "known_for_department": "Sound",
+        "name": "Alexander Courage",
+        "original_name": "Alexander Courage",
+        "popularity": 0.4164,
+        "profile_path": "/nVTrM70knWjQcOvATsu2Uric9sl.jpg",
+        "credit_id": "52fe464d9251416c9105006d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4308,
+        "known_for_department": "Camera",
+        "name": "Russell Harlan",
+        "original_name": "Russell Harlan",
+        "popularity": 0.2498,
+        "profile_path": "/h7Jv06fnqNAfeJc3SsGlHVr8GbS.jpg",
+        "credit_id": "52fe464d9251416c91050073",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85453,
+        "known_for_department": "Writing",
+        "name": "Philip Yordan",
+        "original_name": "Philip Yordan",
+        "popularity": 0.3281,
+        "profile_path": "/koeSy5PxThCDaVZDglBglXcQtZ1.jpg",
+        "credit_id": "52fe464d9251416c91050061",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14491,
+        "known_for_department": "Editing",
+        "name": "Robert Lawrence",
+        "original_name": "Robert Lawrence",
+        "popularity": 0.1361,
+        "profile_path": null,
+        "credit_id": "52fe464d9251416c91050079",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1419937,
+        "known_for_department": "Crew",
+        "name": "Daniel Hays",
+        "original_name": "Daniel Hays",
+        "popularity": 0.1272,
+        "profile_path": null,
+        "credit_id": "63269052761421007df0a241",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 178267,
+        "known_for_department": "Production",
+        "name": "Ralph E. Black",
+        "original_name": "Ralph E. Black",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "6326900121118f007bc1442b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1341042,
+        "known_for_department": "Sound",
+        "name": "Ben Winkler",
+        "original_name": "Ben Winkler",
+        "popularity": 0.2728,
+        "profile_path": null,
+        "credit_id": "63269027a14e100092c268c7",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3179,
+        "known_for_department": "Sound",
+        "name": "George Brand",
+        "original_name": "George Brand",
+        "popularity": 0.2203,
+        "profile_path": null,
+        "credit_id": "6326906f53866e007d7f5ce0",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8344,
+        "known_for_department": "Production",
+        "name": "Leon Chooluck",
+        "original_name": "Leon Chooluck",
+        "popularity": 0.1924,
+        "profile_path": null,
+        "credit_id": "56d9accd9251412fe8006832",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1494610,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elva Martien",
+        "original_name": "Elva Martien",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "56d9ad07925141391f00edfd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1461547,
+        "known_for_department": "Art",
+        "name": "Lyle B. Reifsnider",
+        "original_name": "Lyle B. Reifsnider",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "credit_id": "56d9acfbc3a3681e4a021b0d",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586289,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Robert Martien",
+        "original_name": "Robert Martien",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "56d9ad14925141429100a6ed",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85453,
+        "known_for_department": "Writing",
+        "name": "Philip Yordan",
+        "original_name": "Philip Yordan",
+        "popularity": 0.3281,
+        "profile_path": "/koeSy5PxThCDaVZDglBglXcQtZ1.jpg",
+        "credit_id": "56d9acda92514162b700b048",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1339123,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jack Dusick",
+        "original_name": "Jack Dusick",
+        "popularity": 0.1244,
+        "profile_path": null,
+        "credit_id": "56d9ad209251416ff2006fc2",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1048633,
+        "known_for_department": "Art",
+        "name": "Jack Poplin",
+        "original_name": "Jack Poplin",
+        "popularity": 0.207,
+        "profile_path": null,
+        "credit_id": "56d9acedc3a3681e4a021b0b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1099169,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lillian Shore",
+        "original_name": "Lillian Shore",
+        "popularity": 0.0983,
+        "profile_path": null,
+        "credit_id": "56d9ad34925141391f00ee06",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 196258,
+        "known_for_department": "Acting",
+        "name": "Al Wyatt Sr.",
+        "original_name": "Al Wyatt Sr.",
+        "popularity": 0.3455,
+        "profile_path": "/8Vh3IHU75JDzeJLf0NwTTJDaCxi.jpg",
+        "credit_id": "64c869bc08cf8700c544a68d",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108236,
+        "known_for_department": "Acting",
+        "name": "Boyd 'Red' Morgan",
+        "original_name": "Boyd 'Red' Morgan",
+        "popularity": 0.1564,
+        "profile_path": "/xdRf08XIB24BZrXDwNisYHNnJf3.jpg",
+        "credit_id": "64c869c1d5191f011c655de0",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2339322,
+        "known_for_department": "Directing",
+        "name": "Joe Franklin",
+        "original_name": "Joe Franklin",
+        "popularity": 0.0836,
+        "profile_path": null,
+        "credit_id": "5d07961e0e0a2660b2ca5144",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1442,
+        "name": "winter"
+      },
+      {
+        "id": 9503,
+        "name": "outlaw"
+      },
+      {
+        "id": 10950,
+        "name": "shootout"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "West Germany",
+            "release_date": "1959-10-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1959-08-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2012-10-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2016-01-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2010-07-06T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "London",
+            "release_date": "1959-05-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1959-09-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2015-12-07T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinemateca Portuguesa",
+            "release_date": "2025-02-12T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-07-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Washington, District of Columbia",
+            "release_date": "1959-07-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1959-07-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

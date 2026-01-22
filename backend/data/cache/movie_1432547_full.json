@@ -1,0 +1,513 @@
+{
+  "adult": false,
+  "backdrop_path": "/yFDR62ZwlorTho3p9ZgAco5seI8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    }
+  ],
+  "homepage": "",
+  "id": 1432547,
+  "imdb_id": "tt36148135",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ALL YOU NEED IS KILL",
+  "overview": "Ambientada no ano 20XX, a história acompanha Rita, uma jovem que se voluntaria para ajudar na reconstrução do Japão após o misterioso surgimento de uma enorme flor alienígena conhecida como \"Darol\". No entanto, quando Darol inesperadamente liberara criaturas monstruosas que dizimam a população, Rita é pega pela destruição e acaba morta. Mas então ela acorda novamente. E novamente. Presa em um loop temporal infinito, ela precisa lidar com o trauma e a repetição da morte até cruzar o caminho de Keiji, um jovem tímido que está no mesmo ciclo. Juntos, eles lutam para se libertar do loop e encontrar um sentido para o caos ao seu redor.",
+  "popularity": 6.4617,
+  "poster_path": "/y8mUXNllYasEJ37IsZaLrrR2yaW.jpg",
+  "production_companies": [
+    {
+      "id": 10868,
+      "logo_path": "/9779IFPDaVxYmmWOHHfRyH17qnx.png",
+      "name": "STUDIO4℃",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3627,
+      "logo_path": "/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png",
+      "name": "Warner Bros. Japan",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2026-01-09",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "ALL YOU NEED IS KILL",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3086952,
+        "known_for_department": "Acting",
+        "name": "見上愛",
+        "original_name": "見上愛",
+        "popularity": 1.062,
+        "profile_path": "/rj9P9XKrsW8n9ECX7HyaiwezmdU.jpg",
+        "cast_id": 10,
+        "character": "Rita (voice)",
+        "credit_id": "6831b05cc7ff56358beb2a2e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256603,
+        "known_for_department": "Acting",
+        "name": "Natsuki Hanae",
+        "original_name": "花江夏樹",
+        "popularity": 1.9492,
+        "profile_path": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg",
+        "cast_id": 11,
+        "character": "Keiji (voice)",
+        "credit_id": "6831b077155bf9d93583741e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119143,
+        "known_for_department": "Acting",
+        "name": "Kana Hanazawa",
+        "original_name": "花澤香菜",
+        "popularity": 8.2851,
+        "profile_path": "/5bK9ttcRydQBWmyZp7gXDmJYOPF.jpg",
+        "cast_id": 12,
+        "character": "Shasta (voice)",
+        "credit_id": "684bff01deaa74a7273df103",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3457521,
+        "known_for_department": "Acting",
+        "name": "ヒコロヒー",
+        "original_name": "ヒコロヒー",
+        "popularity": 0.2181,
+        "profile_path": "/4FkbgNnjZxj0aVOYfliYGZzGCiU.jpg",
+        "cast_id": 13,
+        "character": "Raychell (voice)",
+        "credit_id": "684bff29256989cb361be7dd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3803704,
+        "known_for_department": "Acting",
+        "name": "もう中学生",
+        "original_name": "もう中学生",
+        "popularity": 0.1282,
+        "profile_path": "/xcE4sb2nLMpce2WGW2MKOq1jacw.jpg",
+        "cast_id": 14,
+        "character": "Yonaval (voice)",
+        "credit_id": "684bff4f104285654a1be905",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3118033,
+        "known_for_department": "Art",
+        "name": "秋本賢一郎",
+        "original_name": "秋本賢一郎",
+        "popularity": 0.1386,
+        "profile_path": null,
+        "credit_id": "67d255392575f01b3a6083fe",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1842749,
+        "known_for_department": "Writing",
+        "name": "木戸雄一郎",
+        "original_name": "木戸雄一郎",
+        "popularity": 0.59,
+        "profile_path": "/cYUd0inbJrBFmfczaL59MwB90G9.jpg",
+        "credit_id": "6831aed6794f0e3db2837512",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3243625,
+        "known_for_department": "Visual Effects",
+        "name": "IZMOJUKI",
+        "original_name": "IZMOJUKI",
+        "popularity": 0.3072,
+        "profile_path": null,
+        "credit_id": "6831af03fca5da67032b6a85",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3536114,
+        "known_for_department": "Visual Effects",
+        "name": "中島隆紀",
+        "original_name": "中島隆紀",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "6831af1894584af5ae054982",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2032174,
+        "known_for_department": "Art",
+        "name": "久保友孝",
+        "original_name": "久保友孝",
+        "popularity": 0.2977,
+        "profile_path": null,
+        "credit_id": "6831af3968a13bc035837611",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119238,
+        "known_for_department": "Sound",
+        "name": "笠松広司",
+        "original_name": "笠松広司",
+        "popularity": 0.3414,
+        "profile_path": null,
+        "credit_id": "6831af51a639fcf1732b696c",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90162,
+        "known_for_department": "Production",
+        "name": "田中栄子",
+        "original_name": "田中栄子",
+        "popularity": 0.1657,
+        "profile_path": "/sMkSRVn8d36f5NIbDICqi46O3Q5.jpg",
+        "credit_id": "6831af7065b5510b26eb2a01",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1579843,
+        "known_for_department": "Sound",
+        "name": "土肥範子",
+        "original_name": "土肥範子",
+        "popularity": 0.2735,
+        "profile_path": null,
+        "credit_id": "6831afd4a639fcf1732b6971",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5756028,
+        "known_for_department": "Production",
+        "name": "青木正貴",
+        "original_name": "青木正貴",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "68f2fc902ac7c2c90078de0e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1106823,
+        "known_for_department": "Writing",
+        "name": "桜坂洋",
+        "original_name": "桜坂洋",
+        "popularity": 0.2195,
+        "profile_path": "/5frHNwrlIO0cHwwo8A2ovVerRsn.jpg",
+        "credit_id": "6949b3bbedfc44b8a97ac69d",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937514,
+        "known_for_department": "Sound",
+        "name": "Yasuhiro Maeda",
+        "original_name": "Yasuhiro Maeda",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6966c33c5368c5af8aa62f11",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2062,
+        "name": "restart"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 10854,
+        "name": "time loop"
+      },
+      {
+        "id": 13065,
+        "name": "soldier"
+      },
+      {
+        "id": 14909,
+        "name": "alien invasion"
+      },
+      {
+        "id": 18543,
+        "name": "combat"
+      },
+      {
+        "id": 162365,
+        "name": "military"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 273967,
+        "name": "war"
+      },
+      {
+        "id": 319900,
+        "name": "based on light novel"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Japannual",
+            "release_date": "2025-10-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasia International Film Festival",
+            "release_date": "2025-08-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Both Japanese w/e.s.t. & English dub",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Annecy International Animation Film Festival",
+            "release_date": "2025-06-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Scotland Loves Anime",
+            "release_date": "2025-11-02T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "IIA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bucheon International Animation Festival",
+            "release_date": "2025-10-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Animator International Animated Film Festival",
+            "release_date": "2025-07-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Taipei Golden Horse Film Festival",
+            "release_date": "2025-11-21T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Comic Con",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Animation Is Film Festival",
+            "release_date": "2025-10-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

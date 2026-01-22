@@ -1,0 +1,966 @@
+{
+  "adult": false,
+  "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1164355,
+  "imdb_id": "tt29899715",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Lembayung",
+  "overview": "",
+  "popularity": 4.6001,
+  "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
+  "production_companies": [
+    {
+      "id": 69003,
+      "logo_path": "/myijutPRTtVLlwUZjLAvAuzf8db.png",
+      "name": "MNC Pictures",
+      "origin_country": "ID"
+    },
+    {
+      "id": 191451,
+      "logo_path": "/mPCLrgX4vjGwkE1ZIdoxP1F9ul6.png",
+      "name": "Tiger Wong Entertainment",
+      "origin_country": "ID"
+    },
+    {
+      "id": 235789,
+      "logo_path": null,
+      "name": "Prime Eagle Studios (ID)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2024-09-19",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lembayung",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1202392,
+        "known_for_department": "Acting",
+        "name": "Taskya Namya",
+        "original_name": "Taskya Namya",
+        "popularity": 1.8872,
+        "profile_path": "/cBlyNw0Ys8wlBOu1CGCfo8k0dGt.jpg",
+        "cast_id": 3,
+        "character": "Pica",
+        "credit_id": "6601731737806201623a209e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443671,
+        "known_for_department": "Acting",
+        "name": "Yasamin Jasem",
+        "original_name": "Yasamin Jasem",
+        "popularity": 0.4599,
+        "profile_path": "/2nZntBT1kMn7OpBKJ6UaaTahZQO.jpg",
+        "cast_id": 4,
+        "character": "Arum",
+        "credit_id": "6601732a04733f017def2d3f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2112788,
+        "known_for_department": "Acting",
+        "name": "Arya Saloka",
+        "original_name": "Arya Saloka",
+        "popularity": 0.4422,
+        "profile_path": "/ioRwfjaRoPls96kKN91IdsDipvD.jpg",
+        "cast_id": 5,
+        "character": "Doctor Teto",
+        "credit_id": "66017345197de401861b3e15",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2984549,
+        "known_for_department": "Acting",
+        "name": "Anna Jobling",
+        "original_name": "Anna Jobling",
+        "popularity": 1.3551,
+        "profile_path": "/4YO4Kt3cMTQExUzcvIJBPselP5Y.jpg",
+        "cast_id": 29,
+        "character": "Tantri",
+        "credit_id": "66989a35035bb676ace83b58",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3700455,
+        "known_for_department": "Acting",
+        "name": "Daffa Wardhana",
+        "original_name": "Daffa Wardhana",
+        "popularity": 0.1196,
+        "profile_path": "/QV8krRWRKwOPARa4UPP4CWYr7n.jpg",
+        "cast_id": 6,
+        "character": "Dimas",
+        "credit_id": "6601735b770700017c0f5899",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154465,
+        "known_for_department": "Acting",
+        "name": "Oka Antara",
+        "original_name": "Oka Antara",
+        "popularity": 0.5117,
+        "profile_path": "/hxa27iexJSLga0x1NNxmpzQLh8V.jpg",
+        "cast_id": 27,
+        "character": "Ringgo",
+        "credit_id": "66989a0abc67fe481e721d10",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1155281,
+        "known_for_department": "Acting",
+        "name": "Tio Pakusadewo",
+        "original_name": "Tio Pakusadewo",
+        "popularity": 0.3366,
+        "profile_path": "/uAbKPJPbXVg1pi1bAEEkaMxc0Br.jpg",
+        "cast_id": 7,
+        "character": "Doctor Teto's Father",
+        "credit_id": "66017373226c56016470ede2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1399094,
+        "known_for_department": "Acting",
+        "name": "Paula Verhoeven",
+        "original_name": "Paula Verhoeven",
+        "popularity": 0.1247,
+        "profile_path": "/usVuFzhK1vwWd8NxQCLcjPAHoqP.jpg",
+        "cast_id": 8,
+        "character": "Dimas's Mother",
+        "credit_id": "6601738b37806201623a210a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1379137,
+        "known_for_department": "Acting",
+        "name": "Mario Maulana",
+        "original_name": "Mario Maulana",
+        "popularity": 0.2159,
+        "profile_path": "/7PNmdAaEC6CwKH2ZnR0BItZMxXH.jpg",
+        "cast_id": 9,
+        "character": "Jeki",
+        "credit_id": "660173a31b1f3c014996ddca",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1331142,
+        "known_for_department": "Acting",
+        "name": "Dayu Wijanto",
+        "original_name": "Dayu Wijanto",
+        "popularity": 0.2934,
+        "profile_path": "/n3UD9W4Rm4XNdgLIMpw0zT3ZJr4.jpg",
+        "cast_id": 10,
+        "character": "Arum's Mother",
+        "credit_id": "660173bd197de401861b3e88",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1822123,
+        "known_for_department": "Acting",
+        "name": "Erick Estrada",
+        "original_name": "Erick Estrada",
+        "popularity": 0.1626,
+        "profile_path": "/A90SDdRq7smXC45wGIaM478Hxgb.jpg",
+        "cast_id": 11,
+        "character": "Moming",
+        "credit_id": "660173d31b1f3c017c9bfe45",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1823308,
+        "known_for_department": "Acting",
+        "name": "Asri Welas",
+        "original_name": "Asri Welas",
+        "popularity": 0.2818,
+        "profile_path": "/vhFQbWx3LIZNITGgHAASQRj0aDr.jpg",
+        "cast_id": 12,
+        "character": "Ida",
+        "credit_id": "660173e8b84cdd0164f595f2",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1157713,
+        "known_for_department": "Acting",
+        "name": "Ence Bagus",
+        "original_name": "Ence Bagus",
+        "popularity": 0.4868,
+        "profile_path": "/xac6cCVJOmp4QMVUDvsCBh4h3Wn.jpg",
+        "cast_id": 13,
+        "character": "Heru",
+        "credit_id": "660173fa1b1f3c0130960090",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1297503,
+        "known_for_department": "Acting",
+        "name": "Wulan Guritno",
+        "original_name": "Wulan Guritno",
+        "popularity": 0.7513,
+        "profile_path": "/2tkB93wcHClEb4ieIkauH5UGmLp.jpg",
+        "cast_id": 25,
+        "character": "Ayu",
+        "credit_id": "669899d9be30042d64232e90",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2425567,
+        "known_for_department": "Acting",
+        "name": "Sari Nila",
+        "original_name": "Sari Nila",
+        "popularity": 0.114,
+        "profile_path": "/khARTbCY2MT84eFQl2rXzY0COOg.jpg",
+        "cast_id": 26,
+        "character": "Ibu Teto",
+        "credit_id": "669899e80dea309d110f6ff6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4835878,
+        "known_for_department": "Acting",
+        "name": "Kiano Tiger Wong",
+        "original_name": "Kiano Tiger Wong",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Adik Dimas",
+        "credit_id": "66989a1e6b1de3d826800f9e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5281496,
+        "known_for_department": "Acting",
+        "name": "Immanuel Cahyo",
+        "original_name": "Immanuel Cahyo",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Arum's Father",
+        "credit_id": "67c627b8ccfc749af29217e2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2747818,
+        "known_for_department": "Acting",
+        "name": "Dyah Mulani",
+        "original_name": "Dyah Mulani",
+        "popularity": 0.2137,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Heni",
+        "credit_id": "67c627c2c7caba424c921f30",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3253581,
+        "known_for_department": "Acting",
+        "name": "Dimas Herjuna Tuwek",
+        "original_name": "Dimas Herjuna Tuwek",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Mr. RT",
+        "credit_id": "67c627d2fded3b516f921c4b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4059907,
+        "known_for_department": "Acting",
+        "name": "Rayyan",
+        "original_name": "Rayyan",
+        "popularity": 0.0521,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Little Teto",
+        "credit_id": "67c627f3fded3b516f921c64",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3325202,
+        "known_for_department": "Acting",
+        "name": "Ellen Martha",
+        "original_name": "Ellen Martha",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Host News",
+        "credit_id": "67c6281ca893f8daa5e7928c",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5281503,
+        "known_for_department": "Acting",
+        "name": "Anang Darwanto",
+        "original_name": "Anang Darwanto",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Motorcycle Taxi Driver",
+        "credit_id": "67c62840881c013ede7aa296",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3111527,
+        "known_for_department": "Acting",
+        "name": "Heru Prasetyo",
+        "original_name": "Heru Prasetyo",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Dukun",
+        "credit_id": "67c62849881c013ede7aa29f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3375106,
+        "known_for_department": "Production",
+        "name": "Dayat Hasibuan",
+        "original_name": "Dayat Hasibuan",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Ugal Ugalan Bus Driver",
+        "credit_id": "67c6285fc7caba424c921f7e",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1260451,
+        "known_for_department": "Acting",
+        "name": "Baim Wong",
+        "original_name": "Baim Wong",
+        "popularity": 0.2754,
+        "profile_path": "/1YpQpo9aHspJUQJNDmqPdtKn59I.jpg",
+        "credit_id": "650acb7781c7be00e3149dd6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2445275,
+        "known_for_department": "Production",
+        "name": "Ruben Adrian S.",
+        "original_name": "Ruben Adrian S.",
+        "popularity": 0.1312,
+        "profile_path": null,
+        "credit_id": "650acb610d5d85011aed2f56",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515568,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Meutia Setijono Pudjowarsito",
+        "original_name": "Meutia Setijono Pudjowarsito",
+        "popularity": 0.1017,
+        "profile_path": null,
+        "credit_id": "660177817f6c8d01636ff8a4",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1260451,
+        "known_for_department": "Acting",
+        "name": "Baim Wong",
+        "original_name": "Baim Wong",
+        "popularity": 0.2754,
+        "profile_path": "/1YpQpo9aHspJUQJNDmqPdtKn59I.jpg",
+        "credit_id": "6601763f04733f0164eaecdf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455454,
+        "known_for_department": "Art",
+        "name": "Allan Sebastian",
+        "original_name": "Allan Sebastian",
+        "popularity": 0.1098,
+        "profile_path": "/tyZNX64QZ8LFqA5Abd4eJ7aEMav.jpg",
+        "credit_id": "660176c00929f601649bb4af",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1571813,
+        "known_for_department": "Editing",
+        "name": "Yoga Krispratama",
+        "original_name": "Yoga Krispratama",
+        "popularity": 0.1443,
+        "profile_path": null,
+        "credit_id": "660176a41b1f3c014996debc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1260451,
+        "known_for_department": "Acting",
+        "name": "Baim Wong",
+        "original_name": "Baim Wong",
+        "popularity": 0.2754,
+        "profile_path": "/1YpQpo9aHspJUQJNDmqPdtKn59I.jpg",
+        "credit_id": "66017665b84cdd0164f59688",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1828733,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Novie Ariyanti",
+        "original_name": "Novie Ariyanti",
+        "popularity": 0.075,
+        "profile_path": null,
+        "credit_id": "660176e262f335017d53a11f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3230505,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dodi Setiadi",
+        "original_name": "Dodi Setiadi",
+        "popularity": 0.0625,
+        "profile_path": null,
+        "credit_id": "660176f33520e8017ed9c11d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2511354,
+        "known_for_department": "Production",
+        "name": "Emilka",
+        "original_name": "Emilka",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "6601767b3520e8017ed9c0c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142027,
+        "known_for_department": "Sound",
+        "name": "Satrio Budiono",
+        "original_name": "Satrio Budiono",
+        "popularity": 0.2082,
+        "profile_path": "/wkPHKCNVvw9bb5PdHfUOIr4VdwA.jpg",
+        "credit_id": "66989aeff5f27dce9d721bf4",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1828733,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Novie Ariyanti",
+        "original_name": "Novie Ariyanti",
+        "popularity": 0.075,
+        "profile_path": null,
+        "credit_id": "66989a9d8c7f1558ab0f6f1d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1648253,
+        "known_for_department": "Sound",
+        "name": "Yusuf A. Patawari",
+        "original_name": "Yusuf A. Patawari",
+        "popularity": 0.0817,
+        "profile_path": null,
+        "credit_id": "66989abce13408dc68abb43a",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455452,
+        "known_for_department": "Camera",
+        "name": "Ipung Rachmat Syaiful",
+        "original_name": "Ipung Rachmat Syaiful",
+        "popularity": 0.4805,
+        "profile_path": "/de3LRajyJctewQ9eV88lMbkouI0.jpg",
+        "credit_id": "66989a7a5ca6f3dc22abb04c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4835881,
+        "known_for_department": "Writing",
+        "name": "Gemati Rahayu",
+        "original_name": "Gemati Rahayu",
+        "popularity": 0.0976,
+        "profile_path": null,
+        "credit_id": "66989a62fcfe613f8fa46fd1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2515568,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Meutia Setijono Pudjowarsito",
+        "original_name": "Meutia Setijono Pudjowarsito",
+        "popularity": 0.1017,
+        "profile_path": null,
+        "credit_id": "66989aaa780e5d4c9f29a7fd",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2513305,
+        "known_for_department": "Production",
+        "name": "Filriady Kusmara",
+        "original_name": "Filriady Kusmara",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "66b6b53386cd6c9ecba7a542",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4876909,
+        "known_for_department": "Production",
+        "name": "Jentoni Pakpahan",
+        "original_name": "Jentoni Pakpahan",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "66b6b6a10021bb1839d76d1c",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381751,
+        "known_for_department": "Production",
+        "name": "Chairul Rijal",
+        "original_name": "Chairul Rijal",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "66b6b5a0190bf3d7f527179a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2513304,
+        "known_for_department": "Production",
+        "name": "Valencia Tanoesoedibjo",
+        "original_name": "Valencia Tanoesoedibjo",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "66b6b4c85cd039dee8260de1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2511354,
+        "known_for_department": "Production",
+        "name": "Emilka",
+        "original_name": "Emilka",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "66b6b99c0c5cb94fe028217d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4021638,
+        "known_for_department": "Visual Effects",
+        "name": "Kalvin Irawan",
+        "original_name": "Kalvin Irawan",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "credit_id": "66b6ba93758d41940c072c22",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2445275,
+        "known_for_department": "Production",
+        "name": "Ruben Adrian S.",
+        "original_name": "Ruben Adrian S.",
+        "popularity": 0.1312,
+        "profile_path": null,
+        "credit_id": "66b6b7256c58a2eb5ca77528",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4876918,
+        "known_for_department": "Writing",
+        "name": "El Shinta Pica",
+        "original_name": "El Shinta Pica",
+        "popularity": 1.6162,
+        "profile_path": null,
+        "credit_id": "66b6ba240da4654c8827191c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512564,
+        "known_for_department": "Production",
+        "name": "Yaya Said",
+        "original_name": "Yaya Said",
+        "popularity": 0.1203,
+        "profile_path": null,
+        "credit_id": "66b6b60e22de809e18d7679d",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1699841,
+        "known_for_department": "Production",
+        "name": "Bakti Adhitama",
+        "original_name": "Bakti Adhitama",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "66b6b788fb1d735878a7a8ed",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2511353,
+        "known_for_department": "Production",
+        "name": "Faradillah Tri R.",
+        "original_name": "Faradillah Tri R.",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "66b6b869d1e96563bcf41c1e",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2100830,
+        "known_for_department": "Production",
+        "name": "Elhan Shaleh",
+        "original_name": "Elhan Shaleh",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "66b6b7f0cf4d941d0444a61e",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1571811,
+        "known_for_department": "Sound",
+        "name": "Ricky Lionardi",
+        "original_name": "Ricky Lionardi",
+        "popularity": 0.2156,
+        "profile_path": "/vdiZfTXsKaTKtRMzZWhYbAtsZv9.jpg",
+        "credit_id": "67c6277648ee9015ab7aa4d7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 10224,
+        "name": "haunting"
+      },
+      {
+        "id": 11322,
+        "name": "female protagonist"
+      },
+      {
+        "id": 11612,
+        "name": "hospital"
+      },
+      {
+        "id": 162846,
+        "name": "ghost"
+      },
+      {
+        "id": 221776,
+        "name": "haunted hospital"
+      },
+      {
+        "id": 270308,
+        "name": "terror"
+      },
+      {
+        "id": 331911,
+        "name": "based on twitter thread"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Indonesian Film Festival",
+            "release_date": "2025-05-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jakarta",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "17+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "NC16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "adult": false,
+  "backdrop_path": "/bbXkDYnZEpEUD6MN0KcJJ2s85NH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    }
+  ],
+  "homepage": "",
+  "id": 574151,
+  "imdb_id": "tt9165664",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love You to Death",
+  "overview": "Mãe aparentemente atenciosa, Camile é encontrada esfaqueada, e sua filha Esme desaparece. O descobrimento do cadáver faz com que uma série de segredos horripilantes sejam revelados.",
+  "popularity": 5.9261,
+  "poster_path": "/42Y8lRpaNZBMvzz1Rnv7RSQfqNs.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 3431,
+      "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+      "name": "Lifetime",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-01-26",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Te Amo Até a Morte",
+  "video": false,
+  "vote_average": 7.607,
+  "vote_count": 104,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4726,
+        "known_for_department": "Acting",
+        "name": "Marcia Gay Harden",
+        "original_name": "Marcia Gay Harden",
+        "popularity": 1.8459,
+        "profile_path": "/5vxcHIHABJxqhweAsTiXVOhT4SE.jpg",
+        "cast_id": 1,
+        "character": "Camile Stoller",
+        "credit_id": "5c37c9090e0a2654b0d2b8f1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1685881,
+        "known_for_department": "Acting",
+        "name": "Emily Skeggs",
+        "original_name": "Emily Skeggs",
+        "popularity": 0.4736,
+        "profile_path": "/96LI0AHM4Pmbbl77L2bnCvFTRng.jpg",
+        "cast_id": 2,
+        "character": "Esme Stoller",
+        "credit_id": "5c37c9389251414a8570798e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15455,
+        "known_for_department": "Acting",
+        "name": "Tate Donovan",
+        "original_name": "Tate Donovan",
+        "popularity": 1.0215,
+        "profile_path": "/uYgYbd842mtRY66Ehw441aKkOC5.jpg",
+        "cast_id": 3,
+        "character": "Travis Stoller",
+        "credit_id": "5c37c96b9251414a6d708471",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1590221,
+        "known_for_department": "Acting",
+        "name": "Brennan Keel Cook",
+        "original_name": "Brennan Keel Cook",
+        "popularity": 0.3984,
+        "profile_path": "/b0NxheUvSB4zoll1Glj3uMhvB3N.jpg",
+        "cast_id": 6,
+        "character": "Scott",
+        "credit_id": "62ce6a0a719aeb004db231e3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1887278,
+        "known_for_department": "Acting",
+        "name": "Kayla Deorksen",
+        "original_name": "Kayla Deorksen",
+        "popularity": 0.3644,
+        "profile_path": "/oL0syT7zESyeNDIBRyDUvXzR5gJ.jpg",
+        "cast_id": 9,
+        "character": "Denise",
+        "credit_id": "62ce6a6868b1ea004c85bc5d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512168,
+        "known_for_department": "Acting",
+        "name": "Kurt Ostlund",
+        "original_name": "Kurt Ostlund",
+        "popularity": 0.5509,
+        "profile_path": "/htHMw6xNU09rYX3lN1SWHHKKytg.jpg",
+        "cast_id": 10,
+        "character": "Alan",
+        "credit_id": "62ce6a8ce62719004f670ccf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79351,
+        "known_for_department": "Acting",
+        "name": "Alison Araya",
+        "original_name": "Alison Araya",
+        "popularity": 0.933,
+        "profile_path": "/wnpzNYpekkq1n85OvqjAoVzJwEo.jpg",
+        "cast_id": 7,
+        "character": "Oncologist",
+        "credit_id": "62ce6a35d144430240a14cdb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83423,
+        "known_for_department": "Acting",
+        "name": "Heather Doerksen",
+        "original_name": "Heather Doerksen",
+        "popularity": 0.6462,
+        "profile_path": "/jf5agJ6xYVQ4Ozr7zXf0Ov9AOVj.jpg",
+        "cast_id": 8,
+        "character": "Dr. Yarrow",
+        "credit_id": "62ce6a4cd75bd601f79b440a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1927073,
+        "known_for_department": "Acting",
+        "name": "Nevis Unipan",
+        "original_name": "Nevis Unipan",
+        "popularity": 0.8643,
+        "profile_path": "/9pYgHEOpW4uvDo42VzHSr8oRK3d.jpg",
+        "cast_id": 11,
+        "character": "Young Esme",
+        "credit_id": "62ce6aa9d4cc8e004e27d61b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62709,
+        "known_for_department": "Acting",
+        "name": "Garfield Wilson",
+        "original_name": "Garfield Wilson",
+        "popularity": 0.5343,
+        "profile_path": "/d1ycbA0KKegwqKXsswagsuvRypU.jpg",
+        "cast_id": 12,
+        "character": "Dr. Price",
+        "credit_id": "62ce6ad52dc9dc0054d4421a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59185,
+        "known_for_department": "Acting",
+        "name": "Kendall Cross",
+        "original_name": "Kendall Cross",
+        "popularity": 1.1804,
+        "profile_path": "/97d4hAGHcgExV1QR3nTXdChu7Ll.jpg",
+        "cast_id": 33,
+        "character": "Woman",
+        "credit_id": "6864c589b8717a3db7eef74d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1233159,
+        "known_for_department": "Acting",
+        "name": "Elizabeth McCarthy",
+        "original_name": "Elizabeth McCarthy",
+        "popularity": 0.2907,
+        "profile_path": "/q6PdvwIVclWSxBHgBYVpbK0PM02.jpg",
+        "cast_id": 34,
+        "character": "Nurse April",
+        "credit_id": "6864c5cf07c870e1b51f833f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1904638,
+        "known_for_department": "Acting",
+        "name": "Nevin Burkholder",
+        "original_name": "Nevin Burkholder",
+        "popularity": 0.2478,
+        "profile_path": "/civ1nIZbuz4FvPxxhLmEGFUmy8O.jpg",
+        "cast_id": 35,
+        "character": "Pawn Shop Clerk",
+        "credit_id": "6864c5f923b0b9b09e5325bf",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1288837,
+        "known_for_department": "Acting",
+        "name": "Jennifer Oleksiuk",
+        "original_name": "Jennifer Oleksiuk",
+        "popularity": 0.4589,
+        "profile_path": "/7LtzgBtJU0nR6BZSqPVVMGpMYes.jpg",
+        "cast_id": 36,
+        "character": "Check Cashing Clerk",
+        "credit_id": "6864c608fb87e465cbeef746",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1368788,
+        "known_for_department": "Acting",
+        "name": "Jennifer Juniper Angeli",
+        "original_name": "Jennifer Juniper Angeli",
+        "popularity": 0.4271,
+        "profile_path": "/7k9mnpmphjgeZN6fXGkXSFpA6gs.jpg",
+        "cast_id": 37,
+        "character": "Mother at Clinic (as Jennifer Angeli)",
+        "credit_id": "6864c64027e3e3a648d126d3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239253,
+        "known_for_department": "Acting",
+        "name": "Demord Dann",
+        "original_name": "Demord Dann",
+        "popularity": 0.3246,
+        "profile_path": "/2YldPW7ucXaU4x2f4yb7mf5fz0l.jpg",
+        "cast_id": 38,
+        "character": "Cop #1",
+        "credit_id": "6864c66507b87d92061f8220",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5539355,
+        "known_for_department": "Acting",
+        "name": "Don McLeod",
+        "original_name": "Don McLeod",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Cop #2",
+        "credit_id": "6864c68df72572d9534d103c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1507854,
+        "known_for_department": "Acting",
+        "name": "Deni DeLory",
+        "original_name": "Deni DeLory",
+        "popularity": 0.4765,
+        "profile_path": "/bfUJiqcIt87jxynJAuFpCGPJ12G.jpg",
+        "cast_id": 40,
+        "character": "Detective Keller",
+        "credit_id": "6864c6a58788e24d754d0ff3",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1903389,
+        "known_for_department": "Acting",
+        "name": "Devina Briggs",
+        "original_name": "Devina Briggs",
+        "popularity": 0.1272,
+        "profile_path": "/ps2cUnQBXQYoRpvTZ5gMm59uDNq.jpg",
+        "cast_id": 41,
+        "character": "Cosplay Girl #1",
+        "credit_id": "6864c6b7695966ce201f83c8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94478,
+        "known_for_department": "Acting",
+        "name": "Kelly Metzger",
+        "original_name": "Kelly Metzger",
+        "popularity": 0.3679,
+        "profile_path": "/stE2VTi1FefZRtNTCNb0fHunuQy.jpg",
+        "cast_id": 42,
+        "character": "Female Arresting Officer",
+        "credit_id": "6864c6ceb8717a3db7eef761",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224889,
+        "known_for_department": "Acting",
+        "name": "J. Douglas Stewart",
+        "original_name": "J. Douglas Stewart",
+        "popularity": 0.4621,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Attorney",
+        "credit_id": "6864c6e811340d5f0eeef760",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1808625,
+        "known_for_department": "Acting",
+        "name": "Elan Ross Gibson",
+        "original_name": "Elan Ross Gibson",
+        "popularity": 0.2935,
+        "profile_path": "/pYwKO2Ox38IEvd47VsgoNFXNvnb.jpg",
+        "cast_id": 44,
+        "character": "Elderly Woman",
+        "credit_id": "6864c70811340d5f0eeef764",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129986,
+        "known_for_department": "Acting",
+        "name": "Bronwen Smith",
+        "original_name": "Bronwen Smith",
+        "popularity": 0.3976,
+        "profile_path": "/eakVZe6yoBqMBYOHp2lPtXCexTv.jpg",
+        "cast_id": 45,
+        "character": "Psychologist",
+        "credit_id": "6864c71daecded363fbb3d85",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2298501,
+        "known_for_department": "Acting",
+        "name": "Danielle Butlin",
+        "original_name": "Danielle Butlin",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Physical Therapist",
+        "credit_id": "6864c7335d147de72cbb3bbf",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2860486,
+        "known_for_department": "Acting",
+        "name": "Katrina Reynolds",
+        "original_name": "Katrina Reynolds",
+        "popularity": 0.5484,
+        "profile_path": "/ipw2NwtMc4nGw0KcsNdP1NoSNj5.jpg",
+        "cast_id": 47,
+        "character": "Nurse (uncredited)",
+        "credit_id": "6864c74907b87d92061f822d",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7230,
+        "known_for_department": "Editing",
+        "name": "Nicolas De Toth",
+        "original_name": "Nicolas De Toth",
+        "popularity": 0.3389,
+        "profile_path": null,
+        "credit_id": "6674d5e05a4c16e9fa6c6181",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1282778,
+        "known_for_department": "Production",
+        "name": "Jamie Goehring",
+        "original_name": "Jamie Goehring",
+        "popularity": 0.1791,
+        "profile_path": "/8CLOcsrG733mo57kHBSqKbDpUNq.jpg",
+        "credit_id": "6674d5c3fda07990194ed7c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116419,
+        "known_for_department": "Crew",
+        "name": "Mike Carpenter",
+        "original_name": "Mike Carpenter",
+        "popularity": 0.6225,
+        "profile_path": "/2Zon1uHOw6M9apuPBcyZS8uZalj.jpg",
+        "credit_id": "6674d6507469d57868fc7316",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224673,
+        "known_for_department": "Acting",
+        "name": "Paul Wu",
+        "original_name": "Paul Wu",
+        "popularity": 0.6095,
+        "profile_path": "/2iauxrpbggkerBg0bnkZKHjEHdH.jpg",
+        "credit_id": "6674d647567b40bc730f3507",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 962063,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patricia Hargreaves",
+        "original_name": "Patricia Hargreaves",
+        "popularity": 0.1355,
+        "profile_path": null,
+        "credit_id": "6674d6119f1ebf26e7c5156b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1424467,
+        "known_for_department": "Production",
+        "name": "Jordan Davis",
+        "original_name": "Jordan Davis",
+        "popularity": 0.0586,
+        "profile_path": null,
+        "credit_id": "6674d5ee6283a6acca16dee4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 25405,
+        "known_for_department": "Crew",
+        "name": "Joel Echallier",
+        "original_name": "Joel Echallier",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "6674d627b1b669feab8f31c0",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285529,
+        "known_for_department": "Crew",
+        "name": "Robert Musnicki",
+        "original_name": "Robert Musnicki",
+        "popularity": 0.2087,
+        "profile_path": null,
+        "credit_id": "6674d657f2cb5a18e492da54",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2043,
+        "known_for_department": "Production",
+        "name": "John Davis",
+        "original_name": "John Davis",
+        "popularity": 0.5812,
+        "profile_path": "/kpXOBMUBZe8XpHYk7s0721kjjIk.jpg",
+        "credit_id": "6674d5f517265dc1cfc50738",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2694775,
+        "known_for_department": "Directing",
+        "name": "Greg Fawcett",
+        "original_name": "Greg Fawcett",
+        "popularity": 0.0888,
+        "profile_path": null,
+        "credit_id": "6674d63ccc33939a33b040ea",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1483773,
+        "known_for_department": "Writing",
+        "name": "Kevin Leeson",
+        "original_name": "Kevin Leeson",
+        "popularity": 0.2901,
+        "profile_path": null,
+        "credit_id": "6674d5bd3db8aef3588f3101",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1904674,
+        "known_for_department": "Crew",
+        "name": "Landon Jackle",
+        "original_name": "Landon Jackle",
+        "popularity": 0.2401,
+        "profile_path": "/tHpFIHgK0oznwUVUMhAxFYb4YGa.jpg",
+        "credit_id": "6674d66078af22e21516f179",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1457663,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patricia Murray",
+        "original_name": "Patricia Murray",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6674d62e82348bac7f0f4189",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17629,
+        "known_for_department": "Camera",
+        "name": "Peter Menzies Jr.",
+        "original_name": "Peter Menzies Jr.",
+        "popularity": 0.2592,
+        "profile_path": "/jp1zdpTY4A2Qjdaf7MzK34aVbrF.jpg",
+        "credit_id": "6674d5d85903b54bbf71d8f4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 12383,
+        "known_for_department": "Art",
+        "name": "Chris August",
+        "original_name": "Chris August",
+        "popularity": 0.2362,
+        "profile_path": null,
+        "credit_id": "6674d606a86fd9d74792e057",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43901,
+        "known_for_department": "Production",
+        "name": "Shawn Williamson",
+        "original_name": "Shawn Williamson",
+        "popularity": 0.5508,
+        "profile_path": null,
+        "credit_id": "6674d5caaabaf052b871e3c6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3077198,
+        "known_for_department": "Art",
+        "name": "Myleen MacMillan",
+        "original_name": "Myleen MacMillan",
+        "popularity": 0.1543,
+        "profile_path": null,
+        "credit_id": "6674d600c2431e8dcafc717f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2272767,
+        "known_for_department": "Art",
+        "name": "Laura Lola Maier",
+        "original_name": "Laura Lola Maier",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6674d61749ba8464d928e800",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1466075,
+        "known_for_department": "Directing",
+        "name": "Alex Kalymnios",
+        "original_name": "Alex Kalymnios",
+        "popularity": 0.3608,
+        "profile_path": "/bozXL8PeOAfRcGVej75wotd05XQ.jpg",
+        "credit_id": "5c37c99a0e0a2654a2d2b74f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129607,
+        "known_for_department": "Writing",
+        "name": "Anthony Jaswinski",
+        "original_name": "Anthony Jaswinski",
+        "popularity": 0.3343,
+        "profile_path": null,
+        "credit_id": "5c37c9be9251414a70708a45",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1589504,
+        "known_for_department": "Sound",
+        "name": "Amie Doherty",
+        "original_name": "Amie Doherty",
+        "popularity": 0.1246,
+        "profile_path": "/uO9Uic5Ai6d12NWOZYsNzlCJUEy.jpg",
+        "credit_id": "6864c3456559b35e6653256c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 240315,
+        "name": "mother daughter relationship"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2021-10-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lifetime",
+            "release_date": "2019-01-26T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

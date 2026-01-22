@@ -1,0 +1,833 @@
+{
+  "adult": false,
+  "backdrop_path": "/xuO9vN0v1yNHTvsI3YuIgm1aIJ6.jpg",
+  "belongs_to_collection": {
+    "id": 425164,
+    "name": "Dragon Ball Z: Coleção",
+    "poster_path": "/2VMZ1zRFPnUQtQp5K4WRXvDYBjh.jpg",
+    "backdrop_path": "/7PcbijxTfwi9vjWEfXdS0ReAw8q.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    }
+  ],
+  "homepage": "",
+  "id": 34433,
+  "imdb_id": "tt0142242",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ドラゴンボールＺ 燃え尽きろ!!熱戦・烈戦・超激戦",
+  "overview": "O Sr. Kaioh descobre na Galáxia do Sul a existência de um Lendário Super Saiyajin, que está destruindo todos os planetas pertencentes a essa galáxia. Temendo uma nova devastação, ele chama Goku para investigar o ocorrido. Enquanto isso na Terra, surge um Saiyajin chamado Paragus, que pede ajuda a Vegeta para eliminar esse suposto Saiyajin. Então Vegeta, Trunks, Gohan, Kuririn, e o Mestre Kame partem a um planeta que Paragus construiu para que o príncipe Vegeta reinasse e lá descobrem que o Lendário Super Saiyajin é Broly, filho de Paragus, que armou uma emboscada para explodir o novo Planeta Vegeta com os Guerreiros Z junto e, assim dominar a Terra. Goku segue o rastro de Ki até este planeta, onde trava uma luta com Broly. Conseguirá Goku, deter este monstro insano?",
+  "popularity": 8.9291,
+  "poster_path": "/qwgp3aihvSPONoQh0gqWU4LrPDb.jpg",
+  "production_companies": [
+    {
+      "id": 5822,
+      "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+      "name": "Toei Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 24051,
+      "logo_path": null,
+      "name": "Bird Studios",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5542,
+      "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+      "name": "Toei Animation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1993-03-06",
+  "revenue": 21658982,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Um novo guerreiro lendário é descoberto.",
+  "title": "Dragon Ball Z: O Poder Invencível",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 970,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115790,
+        "known_for_department": "Acting",
+        "name": "島田敏",
+        "original_name": "島田敏",
+        "popularity": 1.2886,
+        "profile_path": "/5jJgMyFAP3GgQtFxP2qe0oE4LHk.jpg",
+        "cast_id": 4,
+        "character": "Broly (voice)",
+        "credit_id": "52fe45649251416c91030a39",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 90496,
+        "known_for_department": "Acting",
+        "name": "Masako Nozawa",
+        "original_name": "野沢雅子",
+        "popularity": 1.2763,
+        "profile_path": "/jxbXdejmPoiKnNoQz7Dkb80qC26.jpg",
+        "cast_id": 8,
+        "character": "Son Goku / Son Gohan (voice)",
+        "credit_id": "52fe45649251416c91030a49",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122501,
+        "known_for_department": "Acting",
+        "name": "Ryo Horikawa",
+        "original_name": "堀川りょう",
+        "popularity": 1.0158,
+        "profile_path": "/vZ69WQJfR5D2xow5FkddduRjq6c.jpg",
+        "cast_id": 5,
+        "character": "Vegeta (voice)",
+        "credit_id": "52fe45649251416c91030a3d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 625,
+        "known_for_department": "Acting",
+        "name": "家弓家正",
+        "original_name": "家弓家正",
+        "popularity": 0.6804,
+        "profile_path": "/645IcH3dtGiZyMNq1i1041jVdyW.jpg",
+        "cast_id": 16,
+        "character": "Paragus (voice)",
+        "credit_id": "5aa87d1e9251415e4b02799f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1686,
+        "known_for_department": "Acting",
+        "name": "草尾毅",
+        "original_name": "草尾毅",
+        "popularity": 1.0089,
+        "profile_path": "/gDiYLUdl9zXXJmhE0bAuB1Jm3FJ.jpg",
+        "cast_id": 14,
+        "character": "Trunks (voice)",
+        "credit_id": "5aa87c7cc3a36839d102bbba",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65510,
+        "known_for_department": "Acting",
+        "name": "Mayumi Tanaka",
+        "original_name": "田中真弓",
+        "popularity": 2.5674,
+        "profile_path": "/by4t1tYtEXsfbFj9TvOjozBmQla.jpg",
+        "cast_id": 6,
+        "character": "Kuririn (voice)",
+        "credit_id": "52fe45649251416c91030a41",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85286,
+        "known_for_department": "Acting",
+        "name": "Toshio Furukawa",
+        "original_name": "古川登志夫",
+        "popularity": 1.0372,
+        "profile_path": "/zZjO0NxIbEhYW3507gXVnvWeRkG.jpg",
+        "cast_id": 7,
+        "character": "Piccolo (voice)",
+        "credit_id": "52fe45649251416c91030a45",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 618,
+        "known_for_department": "Acting",
+        "name": "宮内幸平",
+        "original_name": "宮内幸平",
+        "popularity": 0.7476,
+        "profile_path": "/zmA0Pf53wW2VbaBT54NDtGCPQNQ.jpg",
+        "cast_id": 12,
+        "character": "Kame Sen'nin (voice)",
+        "credit_id": "52fe45649251416c91030a59",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122373,
+        "known_for_department": "Acting",
+        "name": "Naoki Tatsuta",
+        "original_name": "龍田直樹",
+        "popularity": 0.931,
+        "profile_path": "/hgQOOPATD48vqos1YnRwqDTV2ab.jpg",
+        "cast_id": 24,
+        "character": "Oolong / Tako Kagaku-sha (voice)",
+        "credit_id": "5f388c10c5840d00329a693f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122193,
+        "known_for_department": "Acting",
+        "name": "鶴ひろみ",
+        "original_name": "鶴ひろみ",
+        "popularity": 0.7751,
+        "profile_path": "/oFU9CCNLUhklLhEuLutM0FyTUbt.jpg",
+        "cast_id": 11,
+        "character": "Bulma / Baby Trunks (voice)",
+        "credit_id": "52fe45649251416c91030a55",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122192,
+        "known_for_department": "Acting",
+        "name": "渡辺菜生子",
+        "original_name": "渡辺菜生子",
+        "popularity": 0.7299,
+        "profile_path": "/wgX2xT2y21Tv0eKIMSyMXf6CC0U.jpg",
+        "cast_id": 10,
+        "character": "Chi-Chi (voice)",
+        "credit_id": "52fe45649251416c91030a51",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554387,
+        "known_for_department": "Acting",
+        "name": "佐藤正治",
+        "original_name": "佐藤正治",
+        "popularity": 0.7379,
+        "profile_path": "/lSmnhprafAe4RI27AZMzDpQ3Rjz.jpg",
+        "cast_id": 15,
+        "character": "King Vegeta (voice)",
+        "credit_id": "5aa87d009251415e45027d71",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 619,
+        "known_for_department": "Acting",
+        "name": "八奈見乗児",
+        "original_name": "八奈見乗児",
+        "popularity": 0.6816,
+        "profile_path": "/khkGvegnYvx50pAEF1lms7ZKBqy.jpg",
+        "cast_id": 17,
+        "character": "Kaiô / Burîfu hakase / Narrator (voice)",
+        "credit_id": "5aa87d37c3a36839cb02a235",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122482,
+        "known_for_department": "Acting",
+        "name": "江森浩子",
+        "original_name": "江森浩子",
+        "popularity": 0.7163,
+        "profile_path": "/igA6ftYG0lxckcsxH40cZ9y4zh2.jpg",
+        "cast_id": 25,
+        "character": "Mrs. Brief (voice)",
+        "credit_id": "5f388c4a519bbb0034702371",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552052,
+        "known_for_department": "Acting",
+        "name": "川津泰彦",
+        "original_name": "川津泰彦",
+        "popularity": 0.4914,
+        "profile_path": "/zHAZRK18YjtcchtKKV08QDliAC3.jpg",
+        "cast_id": 26,
+        "character": "Moah (voice)",
+        "credit_id": "5f388c55efcea900369b0a68",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122194,
+        "known_for_department": "Production",
+        "name": "ゲン・フクナガ",
+        "original_name": "ゲン・フクナガ",
+        "popularity": 0.2871,
+        "profile_path": null,
+        "credit_id": "52fe45649251416c91030a2f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81853,
+        "known_for_department": "Directing",
+        "name": "山内重保",
+        "original_name": "山内重保",
+        "popularity": 0.6522,
+        "profile_path": "/axvVXHyg2YNYzSaLx7tco6UKRh3.jpg",
+        "credit_id": "55b4aa8fc3a3682ff9012b06",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1815001,
+        "known_for_department": "Visual Effects",
+        "name": "八島善孝",
+        "original_name": "八島善孝",
+        "popularity": 0.2571,
+        "profile_path": null,
+        "credit_id": "636ebcf1813831008084ce19",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1845944,
+        "known_for_department": "Visual Effects",
+        "name": "木下和栄",
+        "original_name": "木下和栄",
+        "popularity": 0.1812,
+        "profile_path": null,
+        "credit_id": "636ebc7df14dad00c7581dd2",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81718,
+        "known_for_department": "Directing",
+        "name": "細田守",
+        "original_name": "細田守",
+        "popularity": 0.8527,
+        "profile_path": "/MBrgo5yaOdV454lUgDJsqvbdxP.jpg",
+        "credit_id": "636ebcd9d7fbda008875c5f7",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082551,
+        "known_for_department": "Visual Effects",
+        "name": "Tetsuya Saeki",
+        "original_name": "Tetsuya Saeki",
+        "popularity": 0.2342,
+        "profile_path": null,
+        "credit_id": "636ebce29bcd0f00819c1a99",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3781510,
+        "known_for_department": "Visual Effects",
+        "name": "田辺由憲",
+        "original_name": "田辺由憲",
+        "popularity": 0.2594,
+        "profile_path": null,
+        "credit_id": "636ebceb9bcd0f00c203c5ac",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781505,
+        "known_for_department": "Visual Effects",
+        "name": "Hitoshi Ehara",
+        "original_name": "Hitoshi Ehara",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "636ebc85813831008b7bf99e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3217384,
+        "known_for_department": "Visual Effects",
+        "name": "井手武生",
+        "original_name": "井手武生",
+        "popularity": 0.4621,
+        "profile_path": null,
+        "credit_id": "636ebca121621b00777d26e5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3261578,
+        "known_for_department": "Visual Effects",
+        "name": "高瀬言",
+        "original_name": "高瀬言",
+        "popularity": 0.1823,
+        "profile_path": null,
+        "credit_id": "636ebc8b81383100abf5d37c",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3781481,
+        "known_for_department": "Visual Effects",
+        "name": "柴田則子",
+        "original_name": "柴田則子",
+        "popularity": 0.2396,
+        "profile_path": null,
+        "credit_id": "636ebd02fd4f8000cdfab6a8",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1677286,
+        "known_for_department": "Directing",
+        "name": "宮原直樹",
+        "original_name": "宮原直樹",
+        "popularity": 0.3938,
+        "profile_path": null,
+        "credit_id": "636ebcc0ca4f67009b5457fa",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781492,
+        "known_for_department": "Visual Effects",
+        "name": "Tetsuya Numako",
+        "original_name": "Tetsuya Numako",
+        "popularity": 0.1273,
+        "profile_path": null,
+        "credit_id": "636ebcf99bcd0f00db10a855",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1814993,
+        "known_for_department": "Visual Effects",
+        "name": "Koji Nashizawa",
+        "original_name": "Koji Nashizawa",
+        "popularity": 0.2668,
+        "profile_path": null,
+        "credit_id": "636ebcc9fd4f800091cb26e8",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781506,
+        "known_for_department": "Visual Effects",
+        "name": "Akemi Seki",
+        "original_name": "Akemi Seki",
+        "popularity": 0.2223,
+        "profile_path": null,
+        "credit_id": "636ebc92fd4f80007af929e9",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491896,
+        "known_for_department": "Visual Effects",
+        "name": "菅野 利之",
+        "original_name": "菅野 利之",
+        "popularity": 0.2856,
+        "profile_path": null,
+        "credit_id": "636ebc9aca4f6700bbbf3669",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2647443,
+        "known_for_department": "Visual Effects",
+        "name": "志田直俊",
+        "original_name": "志田直俊",
+        "popularity": 0.3307,
+        "profile_path": null,
+        "credit_id": "636ebca821621b00b49e6494",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781508,
+        "known_for_department": "Visual Effects",
+        "name": "Kyoko Chino",
+        "original_name": "Kyoko Chino",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "credit_id": "636ebcd3ca4f67007fc27ad6",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2052740,
+        "known_for_department": "Visual Effects",
+        "name": "稲上晃",
+        "original_name": "稲上晃",
+        "popularity": 0.3015,
+        "profile_path": null,
+        "credit_id": "638a1ccd5690b5007cffcd77",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3781484,
+        "known_for_department": "Visual Effects",
+        "name": "沖本日出子",
+        "original_name": "沖本日出子",
+        "popularity": 0.2448,
+        "profile_path": null,
+        "credit_id": "638a1cd7f3b49a0096830e01",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2140472,
+        "known_for_department": "Visual Effects",
+        "name": "大西陽一",
+        "original_name": "大西陽一",
+        "popularity": 0.2866,
+        "profile_path": null,
+        "credit_id": "638a1d1a1b722c0084d3f928",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3217375,
+        "known_for_department": "Visual Effects",
+        "name": "Hitoshi Inaba",
+        "original_name": "Hitoshi Inaba",
+        "popularity": 0.2426,
+        "profile_path": null,
+        "credit_id": "638a1cec5690b500d1b6beaa",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781513,
+        "known_for_department": "Visual Effects",
+        "name": "Hiroyuki Yokota",
+        "original_name": "Hiroyuki Yokota",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "638a1cde3f8ede0086e9d3a2",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060541,
+        "known_for_department": "Writing",
+        "name": "小山高生",
+        "original_name": "小山高生",
+        "popularity": 0.6962,
+        "profile_path": null,
+        "credit_id": "5aa87dad0e0a263dcd02b42e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138451,
+        "known_for_department": "Sound",
+        "name": "菊池俊輔",
+        "original_name": "菊池俊輔",
+        "popularity": 0.4204,
+        "profile_path": "/j0lC1P2POW23Mewt3glc2XGhLPe.jpg",
+        "credit_id": "5aa87dbc9251415e390296b7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78322,
+        "known_for_department": "Writing",
+        "name": "鳥山明",
+        "original_name": "鳥山明",
+        "popularity": 1.266,
+        "profile_path": "/9YorJMvF6DgfJcpATHbGyivZpS5.jpg",
+        "credit_id": "5aa87d94c3a36839da028dac",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060541,
+        "known_for_department": "Writing",
+        "name": "小山高生",
+        "original_name": "小山高生",
+        "popularity": 0.6962,
+        "profile_path": null,
+        "credit_id": "5aa87da70e0a263dc702ae37",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9678,
+        "name": "mind control"
+      },
+      {
+        "id": 779,
+        "name": "martial arts"
+      },
+      {
+        "id": 3754,
+        "name": "legend"
+      },
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 4375,
+        "name": "transformation"
+      },
+      {
+        "id": 3801,
+        "name": "space travel"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 14941,
+        "name": "martial artist"
+      },
+      {
+        "id": 33637,
+        "name": "super power"
+      },
+      {
+        "id": 163074,
+        "name": "super villain"
+      },
+      {
+        "id": 207826,
+        "name": "shounen"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 240119,
+        "name": "father son relationship"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-12-30T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2011-11-25T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD / Blu-ray",
+            "release_date": "2020-11-23T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2003-04-07T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-10-25T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2021-05-28T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-12-30T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1997-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-01-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

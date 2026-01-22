@@ -1,0 +1,2537 @@
+{
+  "adult": false,
+  "backdrop_path": "/sdwjQEM869JFwMytTmvr6ggvaUl.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    }
+  ],
+  "homepage": "",
+  "id": 670,
+  "imdb_id": "tt0364569",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "올드보이",
+  "overview": "Dae-Su é raptado e mantido em cativeiro por 15 anos num quarto de hotel, sem qualquer contato com o mundo externo. Quando ele é inexplicavelmente solto, descobre que é acusado pelo assassinato da esposa e embarca numa missão obsessiva por vingança.",
+  "popularity": 14.1903,
+  "poster_path": "/vHHxEpNwnHNJTPFxaSfSF0b2kBH.jpg",
+  "production_companies": [
+    {
+      "id": 399,
+      "logo_path": null,
+      "name": "Show East",
+      "origin_country": "KR"
+    },
+    {
+      "id": 118802,
+      "logo_path": null,
+      "name": "Egg Film",
+      "origin_country": "KR"
+    },
+    {
+      "id": 685,
+      "logo_path": null,
+      "name": "Cineclick Asia",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2003-11-21",
+  "revenue": 17500000,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ria e o mundo ri com você. Chore, e você chora sozinho.",
+  "title": "Oldboy",
+  "video": false,
+  "vote_average": 8.243,
+  "vote_count": 9479,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64880,
+        "known_for_department": "Acting",
+        "name": "최민식",
+        "original_name": "최민식",
+        "popularity": 1.2315,
+        "profile_path": "/sd7gIA6nEkq6zumkDCfxSE0YSSV.jpg",
+        "cast_id": 13,
+        "character": "Oh Dae-Su",
+        "credit_id": "52fe4267c3a36847f801bd6f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10112,
+        "known_for_department": "Acting",
+        "name": "유지태",
+        "original_name": "유지태",
+        "popularity": 1.3679,
+        "profile_path": "/gGGV2gc0orgssYJ0Q9MSomdYo2I.jpg",
+        "cast_id": 23,
+        "character": "Lee Woo-jin",
+        "credit_id": "52fe4267c3a36847f801bd8b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1299317,
+        "known_for_department": "Acting",
+        "name": "강혜정",
+        "original_name": "강혜정",
+        "popularity": 0.8845,
+        "profile_path": "/46RDs0JLTEmI9Fp6hzU50LmJqId.jpg",
+        "cast_id": 29,
+        "character": "Mi-do",
+        "credit_id": "5319bbf2c3a3685c3d002dc7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77182,
+        "known_for_department": "Acting",
+        "name": "김병옥",
+        "original_name": "김병옥",
+        "popularity": 0.6169,
+        "profile_path": "/oGVs2OmYTyXR0KT9xvzVWCAKx8t.jpg",
+        "cast_id": 52,
+        "character": "Mr. Han",
+        "credit_id": "5ba39301c3a368338f01d9f9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77180,
+        "known_for_department": "Acting",
+        "name": "지대한",
+        "original_name": "지대한",
+        "popularity": 0.7349,
+        "profile_path": "/9aoOX8p2oxUAwOaT8jT6GWfjs01.jpg",
+        "cast_id": 49,
+        "character": "No Joo-hwan",
+        "credit_id": "5b7dd5f3c3a368340b005822",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77188,
+        "known_for_department": "Acting",
+        "name": "오달수",
+        "original_name": "오달수",
+        "popularity": 0.8811,
+        "profile_path": "/hd72oGjq0YKYdgZKMnqtV00MV28.jpg",
+        "cast_id": 21,
+        "character": "Park Cheol-woong",
+        "credit_id": "52fe4267c3a36847f801bd83",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 554330,
+        "known_for_department": "Acting",
+        "name": "이승신",
+        "original_name": "이승신",
+        "popularity": 0.3811,
+        "profile_path": "/w9d73Yl1LFPyKAnLyd1gGCD3SYM.jpg",
+        "cast_id": 31,
+        "character": "Hypnotist",
+        "credit_id": "54972ac19251417315001bd4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117504,
+        "known_for_department": "Acting",
+        "name": "윤진서",
+        "original_name": "윤진서",
+        "popularity": 0.7849,
+        "profile_path": "/5br9jHiVLUTmiNxqswpmDg7Zowb.jpg",
+        "cast_id": 24,
+        "character": "Lee Soo-ah",
+        "credit_id": "52fe4267c3a36847f801bd8f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77183,
+        "known_for_department": "Acting",
+        "name": "오태경",
+        "original_name": "오태경",
+        "popularity": 0.7765,
+        "profile_path": "/xde1lSXPGhqEHL8DzLIn3YtuLhb.jpg",
+        "cast_id": 18,
+        "character": "Young Dae-su",
+        "credit_id": "52fe4267c3a36847f801bd7b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587675,
+        "known_for_department": "Acting",
+        "name": "유연석",
+        "original_name": "유연석",
+        "popularity": 1.5307,
+        "profile_path": "/cB95no6uPnMu5FdlVWK3cO9k5xR.jpg",
+        "cast_id": 37,
+        "character": "Young Woo-jin",
+        "credit_id": "56b4a4afc3a36806f10048b7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1291042,
+        "known_for_department": "Acting",
+        "name": "유일한",
+        "original_name": "유일한",
+        "popularity": 0.2412,
+        "profile_path": null,
+        "cast_id": 68,
+        "character": "Young Joo-hwan",
+        "credit_id": "5d458b822d1e403b46bf29ea",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2621220,
+        "known_for_department": "Acting",
+        "name": "이영희",
+        "original_name": "이영희",
+        "popularity": 0.1977,
+        "profile_path": "/pQRbuB9LNPOnct1JElZldZsJqbk.jpg",
+        "cast_id": 93,
+        "character": "Clock Store Lady",
+        "credit_id": "62d043f36d9fe80942ddd0c7",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 496937,
+        "known_for_department": "Acting",
+        "name": "김영애",
+        "original_name": "김영애",
+        "popularity": 0.501,
+        "profile_path": "/hxXVhuYkjneV4UCGazlYgNz5OU3.jpg",
+        "cast_id": 103,
+        "character": "Elevator Lady",
+        "credit_id": "6622e1a5ccde04016405f4c3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1903902,
+        "known_for_department": "Acting",
+        "name": "이미미",
+        "original_name": "이미미",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "cast_id": 120,
+        "character": "Dental Nurse",
+        "credit_id": "6622e552e640d600bec27425",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293633,
+        "known_for_department": "Production",
+        "name": "한재덕",
+        "original_name": "한재덕",
+        "popularity": 0.6022,
+        "profile_path": "/a6zhNtrj9kkNa8iGAzogxFTPTnz.jpg",
+        "cast_id": 94,
+        "character": "Night Teacher",
+        "credit_id": "62d0441e2d8ef300c2e38c06",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1294536,
+        "known_for_department": "Costume & Make-Up",
+        "name": "곽정애",
+        "original_name": "곽정애",
+        "popularity": 0.4455,
+        "profile_path": null,
+        "cast_id": 96,
+        "character": "Nun Teacher",
+        "credit_id": "62d0c82a35811d005430dc29",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3624448,
+        "known_for_department": "Acting",
+        "name": "김산",
+        "original_name": "김산",
+        "popularity": 0.1834,
+        "profile_path": null,
+        "cast_id": 95,
+        "character": "Electronics Store Owner",
+        "credit_id": "62d0c75eb3e6270050dc6c67",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663548,
+        "known_for_department": "Acting",
+        "name": "장채수",
+        "original_name": "장채수",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "cast_id": 106,
+        "character": "Woo-jin's Doctor",
+        "credit_id": "6622e2267a3c5201644ccd0b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663549,
+        "known_for_department": "Acting",
+        "name": "임설아",
+        "original_name": "임설아",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 107,
+        "character": "Nurse",
+        "credit_id": "6622e230ecc7e8017ee3c5db",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10105,
+        "known_for_department": "Production",
+        "name": "임승용",
+        "original_name": "임승용",
+        "popularity": 0.1921,
+        "profile_path": "/vOOJLMDOQSeRrY4eaF1YTXobjb3.jpg",
+        "cast_id": 92,
+        "character": "Rude Man",
+        "credit_id": "62d043dd394a8704ae5c55a6",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663550,
+        "known_for_department": "Acting",
+        "name": "최창학",
+        "original_name": "최창학",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "cast_id": 108,
+        "character": "1988 Guard",
+        "credit_id": "6622e24a78570e017e11b15d",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663551,
+        "known_for_department": "Acting",
+        "name": "신비준",
+        "original_name": "신비준",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "cast_id": 109,
+        "character": "1988 Guard",
+        "credit_id": "6622e2520d11f20164024aa9",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663554,
+        "known_for_department": "Acting",
+        "name": "성석제",
+        "original_name": "성석제",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "cast_id": 110,
+        "character": "1996 Guard",
+        "credit_id": "6622e26b7a3c52017d4e0847",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 572173,
+        "known_for_department": "Acting",
+        "name": "최재섭",
+        "original_name": "최재섭",
+        "popularity": 0.4627,
+        "profile_path": "/AblXBoGtLVLCiKIDvt175DMdk6d.jpg",
+        "cast_id": 111,
+        "character": "2003 Guard",
+        "credit_id": "6622e274e4c9eb017cf757e3",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1377271,
+        "known_for_department": "Crew",
+        "name": "윤진율",
+        "original_name": "윤진율",
+        "popularity": 0.5439,
+        "profile_path": null,
+        "cast_id": 99,
+        "character": "Woo-jin's Bodyguard",
+        "credit_id": "62d1954caf4324004c8b2d5a",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2863459,
+        "known_for_department": "Acting",
+        "name": "문성복",
+        "original_name": "문성복",
+        "popularity": 0.5192,
+        "profile_path": "/raIjI3CtAW7hBF54w7WL9eLhpOd.jpg",
+        "cast_id": 84,
+        "character": "Woo-jin's Bodyguard",
+        "credit_id": "60754d4efb834600578fb88b",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267862,
+        "known_for_department": "Acting",
+        "name": "박재웅",
+        "original_name": "박재웅",
+        "popularity": 0.1321,
+        "profile_path": "/jtFdGvN1uzd3YLVZxJ5NGq2d0Cp.jpg",
+        "cast_id": 102,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "631f05ec67dcc9007afb2297",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1664920,
+        "known_for_department": "Acting",
+        "name": "오순태",
+        "original_name": "오순태",
+        "popularity": 0.5556,
+        "profile_path": "/deE937OZKgXGRky9LJMTtujy8KQ.jpg",
+        "cast_id": 113,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e321bb10570189d38a7c",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3037246,
+        "known_for_department": "Acting",
+        "name": "Lee Hong-pyo",
+        "original_name": "Lee Hong-pyo",
+        "popularity": 0.2181,
+        "profile_path": null,
+        "cast_id": 146,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "679bc949b23629e7f8fbec7d",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4663570,
+        "known_for_department": "Crew",
+        "name": "박근석",
+        "original_name": "박근석",
+        "popularity": 0.1459,
+        "profile_path": null,
+        "cast_id": 115,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e4400d11f20187038e45",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2879867,
+        "known_for_department": "Crew",
+        "name": "허명행",
+        "original_name": "허명행",
+        "popularity": 0.5043,
+        "profile_path": "/l08CuexUYW8iZgLm864N9qzDmmY.jpg",
+        "cast_id": 116,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e44a8a88b20185cbd9c0",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615320,
+        "known_for_department": "Crew",
+        "name": "김원중",
+        "original_name": "김원중",
+        "popularity": 0.2578,
+        "profile_path": "/i3XqSgV4DGqDkBlZyZbrLkOhmY1.jpg",
+        "cast_id": 117,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e4717a3c52017d4e0938",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663573,
+        "known_for_department": "Acting",
+        "name": "박성규",
+        "original_name": "박성규",
+        "popularity": 0.062,
+        "profile_path": null,
+        "cast_id": 118,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e50287ae7b0188d99ee3",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663575,
+        "known_for_department": "Acting",
+        "name": "이정필",
+        "original_name": "이정필",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "cast_id": 119,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e5180231f20163123fdc",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663581,
+        "known_for_department": "Acting",
+        "name": "한성랑",
+        "original_name": "한성랑",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "cast_id": 121,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e59b0d11f20187038f0c",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4663582,
+        "known_for_department": "Acting",
+        "name": "신범식",
+        "original_name": "신범식",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "cast_id": 122,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e5a3960cde0164a737cd",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663584,
+        "known_for_department": "Acting",
+        "name": "한정옥",
+        "original_name": "한정옥",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 123,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e5ac87ae7b014cd80872",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2499770,
+        "known_for_department": "Acting",
+        "name": "백동현",
+        "original_name": "백동현",
+        "popularity": 0.1541,
+        "profile_path": null,
+        "cast_id": 124,
+        "character": "Cheol-woong's Gang",
+        "credit_id": "6622e5bb78570e016410a158",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4789527,
+        "known_for_department": "Acting",
+        "name": "주명철",
+        "original_name": "주명철",
+        "popularity": 0.072,
+        "profile_path": null,
+        "cast_id": 125,
+        "character": "Cigarette Thug",
+        "credit_id": "6622e5cd3f48330163746953",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1386062,
+        "known_for_department": "Acting",
+        "name": "박지훈",
+        "original_name": "박지훈",
+        "popularity": 0.1297,
+        "profile_path": null,
+        "cast_id": 126,
+        "character": "Cigarette Thug",
+        "credit_id": "6622e5e1ae384301872ab3c3",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663590,
+        "known_for_department": "Crew",
+        "name": "최춘범",
+        "original_name": "최춘범",
+        "popularity": 0.1682,
+        "profile_path": null,
+        "cast_id": 127,
+        "character": "Cigarette Thug",
+        "credit_id": "6622e605ae384301872ab3d9",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3037131,
+        "known_for_department": "Acting",
+        "name": "Seo Myeong-Seok",
+        "original_name": "Seo Myeong-Seok",
+        "popularity": 0.3011,
+        "profile_path": null,
+        "cast_id": 83,
+        "character": "Cigarette Thug",
+        "credit_id": "60747dd9c39266006f8b0e4a",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2478932,
+        "known_for_department": "Crew",
+        "name": "Jeon Woo-jae",
+        "original_name": "Jeon Woo-jae",
+        "popularity": 0.1144,
+        "profile_path": null,
+        "cast_id": 128,
+        "character": "Cigarette Thug",
+        "credit_id": "6622e62a0443c90164766dcb",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43570,
+        "known_for_department": "Costume & Make-Up",
+        "name": "조상경",
+        "original_name": "조상경",
+        "popularity": 0.5897,
+        "profile_path": "/aTd5Tq5P6a41Q4kYRn9yxuj8xy8.jpg",
+        "cast_id": 129,
+        "character": "Dae-su's Wife",
+        "credit_id": "6622e6400d11f20187038f68",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3140396,
+        "known_for_department": "Acting",
+        "name": "Oh Young-joo",
+        "original_name": "Oh Young-joo",
+        "popularity": 0.3727,
+        "profile_path": "/rvFz6N35sS1I1otEl6IuNCgakt6.jpg",
+        "cast_id": 130,
+        "character": "Young Mi-do",
+        "credit_id": "6622e64dbb10570189d38c16",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4663614,
+        "known_for_department": "Acting",
+        "name": "이지혜",
+        "original_name": "이지혜",
+        "popularity": 0.0674,
+        "profile_path": null,
+        "cast_id": 135,
+        "character": "Young Mi-do",
+        "credit_id": "6622e9190231f2017c138ba7",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663611,
+        "known_for_department": "Acting",
+        "name": "Joong-hyun Ji",
+        "original_name": "Joong-hyun Ji",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "cast_id": 133,
+        "character": "Stunts",
+        "credit_id": "6622e8100443c90164766e16",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4663612,
+        "known_for_department": "Acting",
+        "name": "Sang-moo Moon",
+        "original_name": "Sang-moo Moon",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "cast_id": 134,
+        "character": "Stunts",
+        "credit_id": "6622e8288a88b20185cbdbde",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 528339,
+        "known_for_department": "Acting",
+        "name": "오광록",
+        "original_name": "오광록",
+        "popularity": 0.5151,
+        "profile_path": "/t7Yltcz3OFproWSWcPLav61LgK0.jpg",
+        "cast_id": 36,
+        "character": "Suicidal Man",
+        "credit_id": "55cc80589251417645002a4b",
+        "order": 48
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39258,
+        "known_for_department": "Acting",
+        "name": "이대연",
+        "original_name": "이대연",
+        "popularity": 0.6426,
+        "profile_path": "/vv6WMIPEikHNsiYldGJJQ2ty9Zt.jpg",
+        "cast_id": 101,
+        "character": "Beggar",
+        "credit_id": "631f059c0d2f53007f5d9613",
+        "order": 49
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96663,
+        "known_for_department": "Acting",
+        "name": "박명신",
+        "original_name": "박명신",
+        "popularity": 0.7895,
+        "profile_path": "/4VXJXafwdzVMugBeTtTHf6RtDKS.jpg",
+        "cast_id": 50,
+        "character": "Young-ja",
+        "credit_id": "5b959267925141431c025641",
+        "order": 50
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299249,
+        "known_for_department": "Acting",
+        "name": "김수현",
+        "original_name": "김수현",
+        "popularity": 0.2407,
+        "profile_path": "/A2U3yIfIcHsvfvsA4YLLRwU8Q9s.jpg",
+        "cast_id": 51,
+        "character": "Chief Secretary",
+        "credit_id": "5b9834d8c3a3686c72006753",
+        "order": 51
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109642,
+        "known_for_department": "Acting",
+        "name": "Yong-ih",
+        "original_name": "Yong-ih",
+        "popularity": 0.151,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Delivery Man",
+        "credit_id": "5f87f453a1a9ba00364e3691",
+        "order": 52
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5186428,
+        "known_for_department": "Acting",
+        "name": "Kim Won-jung",
+        "original_name": "Kim Won-jung",
+        "popularity": 0.2676,
+        "profile_path": "/t7QX9hWst9qbDKcSe0KqT15GBFl.jpg",
+        "cast_id": 145,
+        "character": "Cheol-woong’s gang member",
+        "credit_id": "678adcbcccfbfb1e0e864c10",
+        "order": 53
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10107,
+        "known_for_department": "Camera",
+        "name": "정정훈",
+        "original_name": "정정훈",
+        "popularity": 0.7225,
+        "profile_path": "/wv47g1BRjVZ8wnW5luSwYJjXxyk.jpg",
+        "credit_id": "52fe4267c3a36847f801bd9b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10102,
+        "known_for_department": "Writing",
+        "name": "황조윤",
+        "original_name": "황조윤",
+        "popularity": 0.511,
+        "profile_path": null,
+        "credit_id": "52fe4267c3a36847f801bd41",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10103,
+        "known_for_department": "Writing",
+        "name": "Lim Joon-hyung",
+        "original_name": "Lim Joon-hyung",
+        "popularity": 0.4434,
+        "profile_path": null,
+        "credit_id": "52fe4267c3a36847f801bd47",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10108,
+        "known_for_department": "Editing",
+        "name": "김상범",
+        "original_name": "김상범",
+        "popularity": 0.8155,
+        "profile_path": "/nojYhmyW89hLohQsRw1uIbeCBSa.jpg",
+        "credit_id": "52fe4267c3a36847f801bd65",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10099,
+        "known_for_department": "Directing",
+        "name": "Park Chan-wook",
+        "original_name": "박찬욱",
+        "popularity": 2.7437,
+        "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg",
+        "credit_id": "52fe4267c3a36847f801bd53",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 37929,
+        "known_for_department": "Sound",
+        "name": "Choi Seung-hyun",
+        "original_name": "Choi Seung-hyun",
+        "popularity": 0.185,
+        "profile_path": null,
+        "credit_id": "6111fc6df04d010072f6dcc2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3194242,
+        "known_for_department": "Art",
+        "name": "Woo Seung-mie",
+        "original_name": "Woo Seung-mie",
+        "popularity": 0.2455,
+        "profile_path": null,
+        "credit_id": "62d042c40c3ec802d2f01dc8",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1678932,
+        "known_for_department": "Sound",
+        "name": "Lee Sang-wook",
+        "original_name": "Lee Sang-wook",
+        "popularity": 0.1873,
+        "profile_path": null,
+        "credit_id": "62d04188d5ffcb005442e8fa",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1294536,
+        "known_for_department": "Costume & Make-Up",
+        "name": "곽정애",
+        "original_name": "곽정애",
+        "popularity": 0.4455,
+        "profile_path": null,
+        "credit_id": "62d0437c0ce1bc004c3340ee",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38016,
+        "known_for_department": "Editing",
+        "name": "Kim Jae-beom",
+        "original_name": "Kim Jae-beom",
+        "popularity": 0.2372,
+        "profile_path": null,
+        "credit_id": "62d0414cdff66e006c7e13e8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3623736,
+        "known_for_department": "Art",
+        "name": "Jeon Ro-bin",
+        "original_name": "Jeon Ro-bin",
+        "popularity": 0.0793,
+        "profile_path": null,
+        "credit_id": "62d041df6dc507004c6b9a4f",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615320,
+        "known_for_department": "Crew",
+        "name": "김원중",
+        "original_name": "김원중",
+        "popularity": 0.2578,
+        "profile_path": "/i3XqSgV4DGqDkBlZyZbrLkOhmY1.jpg",
+        "credit_id": "62d0c8f6fd4a96004c8c8f4b",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3625106,
+        "known_for_department": "Crew",
+        "name": "지중현",
+        "original_name": "지중현",
+        "popularity": 0.1722,
+        "profile_path": null,
+        "credit_id": "62d19424a3e4ba004f94f19e",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2499617,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shin Jae-ho",
+        "original_name": "Shin Jae-ho",
+        "popularity": 0.2643,
+        "profile_path": null,
+        "credit_id": "62d21ac65f4b7300560cf0c9",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43570,
+        "known_for_department": "Costume & Make-Up",
+        "name": "조상경",
+        "original_name": "조상경",
+        "popularity": 0.5897,
+        "profile_path": "/aTd5Tq5P6a41Q4kYRn9yxuj8xy8.jpg",
+        "credit_id": "57d93fd7c3a36852e0005144",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10109,
+        "known_for_department": "Art",
+        "name": "류성희",
+        "original_name": "류성희",
+        "popularity": 0.3764,
+        "profile_path": "/u7HVjLQiCuia9TwsGefkH2QyJRS.jpg",
+        "credit_id": "57dda2559251417855001daf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1981616,
+        "known_for_department": "Art",
+        "name": "Yang Hong-sam",
+        "original_name": "Yang Hong-sam",
+        "popularity": 0.3065,
+        "profile_path": null,
+        "credit_id": "5a8b3c8ec3a368637c080d5e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1137829,
+        "known_for_department": "Writing",
+        "name": "Garon Tsuchiya",
+        "original_name": "Garon Tsuchiya",
+        "popularity": 0.2026,
+        "profile_path": null,
+        "credit_id": "667976a759155515a6d97ff1",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 10101,
+        "known_for_department": "Writing",
+        "name": "Nobuaki Minegishi",
+        "original_name": "Nobuaki Minegishi",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "667976afd7f9655500904ef6",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10110,
+        "known_for_department": "Sound",
+        "name": "Lee Seung-chul",
+        "original_name": "Lee Seung-chul",
+        "popularity": 0.2486,
+        "profile_path": null,
+        "credit_id": "5c3589f80e0a2654d3d9c677",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293633,
+        "known_for_department": "Production",
+        "name": "한재덕",
+        "original_name": "한재덕",
+        "popularity": 0.6022,
+        "profile_path": "/a6zhNtrj9kkNa8iGAzogxFTPTnz.jpg",
+        "credit_id": "5c20d8dcc3a3686fffeb6761",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10105,
+        "known_for_department": "Production",
+        "name": "임승용",
+        "original_name": "임승용",
+        "popularity": 0.1921,
+        "profile_path": "/vOOJLMDOQSeRrY4eaF1YTXobjb3.jpg",
+        "credit_id": "5c2112939251414c16c0cd7f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87535,
+        "known_for_department": "Sound",
+        "name": "Shim Hyun-jung",
+        "original_name": "Shim Hyun-jung",
+        "popularity": 0.3153,
+        "profile_path": null,
+        "credit_id": "5cac2e5f925141191db42873",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16255,
+        "known_for_department": "Production",
+        "name": "Kim Dong-joo",
+        "original_name": "Kim Dong-joo",
+        "popularity": 0.2443,
+        "profile_path": null,
+        "credit_id": "5cdbd1469251410c9dd28cc9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1607300,
+        "known_for_department": "Directing",
+        "name": "Seok Min-u",
+        "original_name": "Seok Min-u",
+        "popularity": 0.2178,
+        "profile_path": null,
+        "credit_id": "5ce937b40e0a26381cd57d96",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112017,
+        "known_for_department": "Writing",
+        "name": "Jung Sik",
+        "original_name": "Jung Sik",
+        "popularity": 0.1982,
+        "profile_path": null,
+        "credit_id": "5ce9374bc3a3682d8f1ef31b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2286108,
+        "known_for_department": "Camera",
+        "name": "주성림",
+        "original_name": "주성림",
+        "popularity": 0.1764,
+        "profile_path": "/hiecFCYgOp8eqRV3daI8xu41ro1.jpg",
+        "credit_id": "5ce936f7925141522bb8eeef",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293610,
+        "known_for_department": "Camera",
+        "name": "유억",
+        "original_name": "유억",
+        "popularity": 0.1686,
+        "profile_path": null,
+        "credit_id": "5ce936dc92514159e9bd2970",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 577473,
+        "known_for_department": "Directing",
+        "name": "Lee Kae-byeok",
+        "original_name": "Lee Kae-byeok",
+        "popularity": 0.4248,
+        "profile_path": null,
+        "credit_id": "5ce93733925141578bb8fdab",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106036,
+        "known_for_department": "Production",
+        "name": "Kim Jang-wook",
+        "original_name": "Kim Jang-wook",
+        "popularity": 0.2604,
+        "profile_path": null,
+        "credit_id": "5ce933ad0e0a26643fca5bac",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2078588,
+        "known_for_department": "Costume & Make-Up",
+        "name": "송종희",
+        "original_name": "송종희",
+        "popularity": 0.1987,
+        "profile_path": null,
+        "credit_id": "5cd7e0430e0a2659cdcabe73",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2405628,
+        "known_for_department": "Directing",
+        "name": "Han Jang-hyuk",
+        "original_name": "Han Jang-hyuk",
+        "popularity": 0.2232,
+        "profile_path": null,
+        "credit_id": "5d7384d51277780012288d58",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1295395,
+        "known_for_department": "Sound",
+        "name": "이지수",
+        "original_name": "이지수",
+        "popularity": 0.2199,
+        "profile_path": null,
+        "credit_id": "5dd81acab5bc210016c4172f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2167013,
+        "known_for_department": "Editing",
+        "name": "이용기",
+        "original_name": "이용기",
+        "popularity": 0.1891,
+        "profile_path": null,
+        "credit_id": "5e1094cb58361b0012c213c7",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2501028,
+        "known_for_department": "Editing",
+        "name": "Han Jae-min",
+        "original_name": "Han Jae-min",
+        "popularity": 0.277,
+        "profile_path": null,
+        "credit_id": "5e120bdd9020120018b60944",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1293631,
+        "known_for_department": "Production",
+        "name": "Kuk Su-ran",
+        "original_name": "Kuk Su-ran",
+        "popularity": 0.2318,
+        "profile_path": null,
+        "credit_id": "5e3bfa2c0c27100013773213",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552068,
+        "known_for_department": "Visual Effects",
+        "name": "이전형",
+        "original_name": "이전형",
+        "popularity": 0.3548,
+        "profile_path": "/kzOkohw8eoNfYRUVYjKl2waWaaY.jpg",
+        "credit_id": "5e40ef9d9603310017eebd0f",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10099,
+        "known_for_department": "Directing",
+        "name": "Park Chan-wook",
+        "original_name": "박찬욱",
+        "popularity": 2.7437,
+        "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg",
+        "credit_id": "5ebc2c9e614c6d001e8f62d7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2499825,
+        "known_for_department": "Lighting",
+        "name": "박현원",
+        "original_name": "박현원",
+        "popularity": 0.2502,
+        "profile_path": null,
+        "credit_id": "5fa3ee568c7b0f003f7424de",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2708605,
+        "known_for_department": "Crew",
+        "name": "Yang Gil-yeong",
+        "original_name": "Yang Gil-yeong",
+        "popularity": 0.2779,
+        "profile_path": "/t9ff1TSe0DtrXkt5A7uvU9RIb7h.jpg",
+        "credit_id": "60068500f9a3fb003b3815a0",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2500007,
+        "known_for_department": "Visual Effects",
+        "name": "정성진",
+        "original_name": "정성진",
+        "popularity": 0.4179,
+        "profile_path": "/iOlzedKr4E870tLNIvl4mxw80Nw.jpg",
+        "credit_id": "601f42e03ff2df003eb8d14b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480986,
+        "known_for_department": "Directing",
+        "name": "백",
+        "original_name": "백",
+        "popularity": 0.5271,
+        "profile_path": null,
+        "credit_id": "601b624cd7a70a003d36d524",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4663570,
+        "known_for_department": "Crew",
+        "name": "박근석",
+        "original_name": "박근석",
+        "popularity": 0.1459,
+        "profile_path": null,
+        "credit_id": "670934d3265a5f8bc570c429",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1294599,
+        "known_for_department": "Camera",
+        "name": "정훈",
+        "original_name": "정훈",
+        "popularity": 0.242,
+        "profile_path": null,
+        "credit_id": "6741a92df0f2ed8f9851ff55",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37930,
+        "known_for_department": "Sound",
+        "name": "조영욱",
+        "original_name": "조영욱",
+        "popularity": 0.3624,
+        "profile_path": "/jSBt4j7LXz5PjDchUAyFOpD88wY.jpg",
+        "credit_id": "6741a953703e85589d188454",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5076599,
+        "known_for_department": "Visual Effects",
+        "name": "이정수",
+        "original_name": "이정수",
+        "popularity": 0.1476,
+        "profile_path": null,
+        "credit_id": "6741a994f0f2ed8f9851ffc8",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4840553,
+        "known_for_department": "Production",
+        "name": "지영준",
+        "original_name": "지영준",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "6741ab26015d2e0f702e2419",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5600,
+        "name": "daughter"
+      },
+      {
+        "id": 3927,
+        "name": "rage and hate"
+      },
+      {
+        "id": 6062,
+        "name": "hostility"
+      },
+      {
+        "id": 4375,
+        "name": "transformation"
+      },
+      {
+        "id": 2883,
+        "name": "imprisonment"
+      },
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 3363,
+        "name": "hypnosis"
+      },
+      {
+        "id": 3364,
+        "name": "sushi restaurant"
+      },
+      {
+        "id": 5585,
+        "name": "notebook"
+      },
+      {
+        "id": 3667,
+        "name": "time"
+      },
+      {
+        "id": 7412,
+        "name": "sin"
+      },
+      {
+        "id": 7464,
+        "name": "alcoholism"
+      },
+      {
+        "id": 9856,
+        "name": "flashback"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 9957,
+        "name": "loneliness"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 14778,
+        "name": "urination"
+      },
+      {
+        "id": 14837,
+        "name": "rage"
+      },
+      {
+        "id": 18047,
+        "name": "anger"
+      },
+      {
+        "id": 18396,
+        "name": "catholic"
+      },
+      {
+        "id": 33841,
+        "name": "incest"
+      },
+      {
+        "id": 202371,
+        "name": "aggressive"
+      },
+      {
+        "id": 206219,
+        "name": "captivity"
+      },
+      {
+        "id": 207268,
+        "name": "neo-noir"
+      },
+      {
+        "id": 232938,
+        "name": "brother sister sex"
+      },
+      {
+        "id": 240303,
+        "name": "father daughter relationship"
+      },
+      {
+        "id": 241445,
+        "name": "asian origins"
+      },
+      {
+        "id": 244917,
+        "name": "remade"
+      },
+      {
+        "id": 261681,
+        "name": "south korea"
+      },
+      {
+        "id": 273593,
+        "name": "hammer"
+      },
+      {
+        "id": 308204,
+        "name": "driven to suicide"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      },
+      {
+        "id": 325854,
+        "name": "tragic"
+      },
+      {
+        "id": 350360,
+        "name": "brother sister incest"
+      },
+      {
+        "id": 350553,
+        "name": "father daughter incest"
+      },
+      {
+        "id": 361521,
+        "name": "hipnotismo"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-11-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Vienna International Film Festival",
+            "release_date": "2004-10-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-12-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "R 18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-05-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "R 18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2007-02-01T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "R 18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2022-12-07T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "KNT/ENA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-10-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-05-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2004-09-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-09-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmasia Film Festival",
+            "release_date": "2005-12-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Karlovy Vary International Film Festival",
+            "release_date": "2004-07-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin Fantasy Filmfest",
+            "release_date": "2004-08-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-09-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Best of Cinema",
+            "release_date": "2026-03-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Copenhagen International Film Festival",
+            "release_date": "2004-08-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2006-05-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-06-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sitges Film Festival, December 2-11",
+            "release_date": "2004-12-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-01-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Helsinki International Film Festival",
+            "release_date": "2004-09-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-12-10T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2023-03-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival",
+            "release_date": "2004-05-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-09-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2016-05-11T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2021-10-22T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "UMD",
+            "release_date": "2005-12-23T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2005-04-19T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-Ray",
+            "release_date": "2009-09-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-10-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "2 Disc Special Edition DVD",
+            "release_date": "2005-02-28T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Single Disc DVD",
+            "release_date": "2007-02-01T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tartan Video Blu-ray",
+            "release_date": "2007-10-22T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Arrow Blu-ray",
+            "release_date": "2019-10-07T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Arrow 4K Blu-ray",
+            "release_date": "2021-01-25T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-issue",
+            "release_date": "2023-09-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Korean Film Festival",
+            "release_date": "2004-09-30T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "III",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-10-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-02-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-10-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jio MAMI Film Festival",
+            "release_date": "2023-10-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IS",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-01-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-05-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K Re-release",
+            "release_date": "2021-06-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2003-11-21T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "re-release",
+            "release_date": "2013-11-21T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Standard Edition DVD",
+            "release_date": "2004-05-14T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ultimate Edition DVD",
+            "release_date": "2004-11-24T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Final Edition DVD",
+            "release_date": "2004-12-17T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2010-10-21T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Plain Archive Exclusive SteelBook Blu-ray (#1-#3)",
+            "release_date": "2016-11-07T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Plain Archive Limited Deluxe Box Edition SteelBook Blu-ray (#4)",
+            "release_date": "2016-12-30T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "N-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-02-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "C",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-09-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2005-04-21T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bergen International Film Festival, October 14-20",
+            "release_date": "2004-10-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Oslo International Film Festival",
+            "release_date": "2004-11-23T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-09-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "R-18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2009-09-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K re-release",
+            "release_date": "2024-10-08T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K restoration",
+            "release_date": "2023-09-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-03-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Moscow Film Festival",
+            "release_date": "2004-06-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-11-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2020-01-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2023-09-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2026-04-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-06-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Stockholm International Film Festival",
+            "release_date": "2004-11-23T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-01-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "R21",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-08-17T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "R21",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-10-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "R21",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "re-release",
+            "release_date": "2022-04-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bangkok International Film Festival, January 13-24",
+            "release_date": "2005-01-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Istanbul FilmOctober Film Week",
+            "release_date": "2004-10-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18+ ",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-10-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "R-18 ",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-10-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sundance Film Festival",
+            "release_date": "2005-01-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-03-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4k restoration",
+            "release_date": "2023-08-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cleveland International Film Festival",
+            "release_date": "2005-03-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K restoration",
+            "release_date": "2023-09-05T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2023-12-24T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2005-08-23T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "4K Blu-ray",
+            "release_date": "2023-12-12T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Three-Disc Ultimate Collector's Edition DVD",
+            "release_date": "2006-11-14T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2007-11-06T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1710 @@
+{
+  "adult": false,
+  "backdrop_path": "/2L8U8rUyWeFTb6n1egTNeJsEsvj.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 284,
+  "imdb_id": "tt0053604",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Apartment",
+  "overview": "Um funcionário ambicioso descobre um atalho para subir na companhia em que trabalha: Ceder seu apartamento para os encontros amorosos de seus chefes. A tática inicialmente dá certo, mas passa a ser ameaçada quando ele se apaixona pela amante de um de seus chefes.",
+  "popularity": 4.1625,
+  "poster_path": "/omZs5505ceaHXhh4FL2TpmpVC94.jpg",
+  "production_companies": [
+    {
+      "id": 219,
+      "logo_path": null,
+      "name": "The Mirisch Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1960-06-21",
+  "revenue": 25000000,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ele emprestou seu apartamento para o amor",
+  "title": "Se Meu Apartamento Falasse",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 2547,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3151,
+        "known_for_department": "Acting",
+        "name": "Jack Lemmon",
+        "original_name": "Jack Lemmon",
+        "popularity": 1.4243,
+        "profile_path": "/7jWVWLr1VJqQrN3d4YJaATCIHRw.jpg",
+        "cast_id": 1,
+        "character": "C.C. Baxter",
+        "credit_id": "52fe4232c3a36847f800b417",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4090,
+        "known_for_department": "Acting",
+        "name": "Shirley MacLaine",
+        "original_name": "Shirley MacLaine",
+        "popularity": 4.5782,
+        "profile_path": "/mpW9c34IAFPW0ODuKR8J0FAqN5i.jpg",
+        "cast_id": 2,
+        "character": "Fran Kubelik",
+        "credit_id": "52fe4232c3a36847f800b41b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4091,
+        "known_for_department": "Acting",
+        "name": "Fred MacMurray",
+        "original_name": "Fred MacMurray",
+        "popularity": 0.8016,
+        "profile_path": "/lxxixlFMNH0JuA9K0K3mJmigYcc.jpg",
+        "cast_id": 3,
+        "character": "Jeff D. Sheldrake",
+        "credit_id": "52fe4232c3a36847f800b41f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4093,
+        "known_for_department": "Acting",
+        "name": "Ray Walston",
+        "original_name": "Ray Walston",
+        "popularity": 1.0122,
+        "profile_path": "/pRVUmhdc9nxflBI5GJvokz0nPPb.jpg",
+        "cast_id": 4,
+        "character": "Joe Dobisch",
+        "credit_id": "52fe4232c3a36847f800b423",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4094,
+        "known_for_department": "Acting",
+        "name": "Jack Kruschen",
+        "original_name": "Jack Kruschen",
+        "popularity": 0.7377,
+        "profile_path": "/3QOPlFyLfFR8cLe0pseRjrm3lra.jpg",
+        "cast_id": 5,
+        "character": "Dr. Dreyfuss",
+        "credit_id": "52fe4232c3a36847f800b427",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 571911,
+        "known_for_department": "Acting",
+        "name": "David Lewis",
+        "original_name": "David Lewis",
+        "popularity": 0.5409,
+        "profile_path": "/nwEuF8nyeN7tlHL7GsJuVCOsmI7.jpg",
+        "cast_id": 28,
+        "character": "Al Kirkeby",
+        "credit_id": "52fe4232c3a36847f800b4a5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4097,
+        "known_for_department": "Acting",
+        "name": "Hope Holiday",
+        "original_name": "Hope Holiday",
+        "popularity": 1.2217,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Mrs. Margie MacDougall",
+        "credit_id": "52fe4232c3a36847f800b42f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3161,
+        "known_for_department": "Acting",
+        "name": "Joan Shawlee",
+        "original_name": "Joan Shawlee",
+        "popularity": 0.6548,
+        "profile_path": "/oUmK5YF1jcGs5eEGStI1I3iF5vd.jpg",
+        "cast_id": 9,
+        "character": "Sylvia",
+        "credit_id": "52fe4232c3a36847f800b437",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4096,
+        "known_for_department": "Acting",
+        "name": "Naomi Stevens",
+        "original_name": "Naomi Stevens",
+        "popularity": 0.3847,
+        "profile_path": "/3s8sSpWsA2iZr20Db47nEbTcAYo.jpg",
+        "cast_id": 6,
+        "character": "Mrs. Mildred Dreyfuss",
+        "credit_id": "52fe4232c3a36847f800b42b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4099,
+        "known_for_department": "Acting",
+        "name": "Johnny Seven",
+        "original_name": "Johnny Seven",
+        "popularity": 0.5097,
+        "profile_path": "/kn6k8OPk4OnAGl2aKp9zOBXfMyw.jpg",
+        "cast_id": 10,
+        "character": "Karl Matuschka",
+        "credit_id": "52fe4232c3a36847f800b43b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40381,
+        "known_for_department": "Acting",
+        "name": "Joyce Jameson",
+        "original_name": "Joyce Jameson",
+        "popularity": 0.631,
+        "profile_path": "/wSkhDflX3GiIMx8AQx0gKKwxE9m.jpg",
+        "cast_id": 29,
+        "character": "The Blonde",
+        "credit_id": "5676fb96c3a368168900611e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87517,
+        "known_for_department": "Acting",
+        "name": "Willard Waterman",
+        "original_name": "Willard Waterman",
+        "popularity": 0.5598,
+        "profile_path": "/t0QsePvJiJgTvusWlS8exxXFwsj.jpg",
+        "cast_id": 30,
+        "character": "Mr. Vanderhoff",
+        "credit_id": "5676fbbbc3a368168e006b6f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141694,
+        "known_for_department": "Acting",
+        "name": "David White",
+        "original_name": "David White",
+        "popularity": 0.7407,
+        "profile_path": "/h6jZkxOg7Z6I8SxkicURKqIHEn9.jpg",
+        "cast_id": 31,
+        "character": "Mr. Eichelberger",
+        "credit_id": "5676fbf9c3a368168500663f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4098,
+        "known_for_department": "Acting",
+        "name": "Edie Adams",
+        "original_name": "Edie Adams",
+        "popularity": 0.6053,
+        "profile_path": "/wA8UQVoIG2OFZe6goZWmNGPuaBR.jpg",
+        "cast_id": 8,
+        "character": "Miss Olsen",
+        "credit_id": "52fe4232c3a36847f800b433",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234545,
+        "known_for_department": "Acting",
+        "name": "Dorothy Abbott",
+        "original_name": "Dorothy Abbott",
+        "popularity": 0.3367,
+        "profile_path": "/bheDciblNfOsKTvRNRyWJ5BNUJS.jpg",
+        "cast_id": 32,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "5676fcca92514179e30062b8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551605,
+        "known_for_department": "Acting",
+        "name": "Ralph Moratz",
+        "original_name": "Ralph Moratz",
+        "popularity": 0.2089,
+        "profile_path": "/ax2d7RI6kcHIzV6PBnoE7hafNbs.jpg",
+        "cast_id": 33,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "5676fd0292514179e1006467",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1250242,
+        "known_for_department": "Acting",
+        "name": "Joe Palma",
+        "original_name": "Joe Palma",
+        "popularity": 0.3709,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Office Maintenance Man (uncredited)",
+        "credit_id": "5676feae92514179e30062f1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16527,
+        "known_for_department": "Acting",
+        "name": "Bill Baldwin",
+        "original_name": "Bill Baldwin",
+        "popularity": 0.6433,
+        "profile_path": "/lxPg2ucKAdQJ2L3jT0Ob3E6kvS0.jpg",
+        "cast_id": 35,
+        "character": "TV Movie Host (uncredited)",
+        "credit_id": "5676fedc925141691a002c3b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 120555,
+        "known_for_department": "Acting",
+        "name": "Benny Burt",
+        "original_name": "Benny Burt",
+        "popularity": 0.2099,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Charlie - Bartender (uncredited)",
+        "credit_id": "5676ff06925141691a002c40",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98166,
+        "known_for_department": "Acting",
+        "name": "Lynn Cartwright",
+        "original_name": "Lynn Cartwright",
+        "popularity": 0.8252,
+        "profile_path": "/p6gqVvZUKKR9IS4anwJFwMJmwxn.jpg",
+        "cast_id": 37,
+        "character": "Elevator Supervisor with Clicker (uncredited)",
+        "credit_id": "5676ff3d925141691a002c49",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225439,
+        "known_for_department": "Acting",
+        "name": "Mason Curry",
+        "original_name": "Mason Curry",
+        "popularity": 0.2532,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Bit Part (uncredited)",
+        "credit_id": "5676ffa4c3a368167a006c04",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 153413,
+        "known_for_department": "Acting",
+        "name": "David Macklin",
+        "original_name": "David Macklin",
+        "popularity": 0.4872,
+        "profile_path": "/pjVvJcWLFXKX2GZfEsHajJal34P.jpg",
+        "cast_id": 39,
+        "character": "Messenger (uncredited)",
+        "credit_id": "5676fff092514179d20066a8",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25627,
+        "known_for_department": "Acting",
+        "name": "Hal Smith",
+        "original_name": "Hal Smith",
+        "popularity": 0.8925,
+        "profile_path": "/xVXbKpSgCHvP5ymJNeB1fyf4GMP.jpg",
+        "cast_id": 40,
+        "character": "Man in Santa Claus Suit (uncredited)",
+        "credit_id": "5677002c92514179d40065ff",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1594339,
+        "known_for_department": "Acting",
+        "name": "Paul Bradley",
+        "original_name": "Paul Bradley",
+        "popularity": 0.3992,
+        "profile_path": null,
+        "cast_id": 66,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "6264ff9b6ca9a000aa6d1f0c",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 191823,
+        "known_for_department": "Acting",
+        "name": "Steve Carruthers",
+        "original_name": "Steve Carruthers",
+        "popularity": 0.485,
+        "profile_path": "/lafDxGcaP7zzYGi5s1BlVjnMNjy.jpg",
+        "cast_id": 67,
+        "character": "Restaurant Patron (uncredited)",
+        "credit_id": "6264ffeda35c8e10e04ed071",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1600501,
+        "known_for_department": "Acting",
+        "name": "Dick Cherney",
+        "original_name": "Dick Cherney",
+        "popularity": 0.3796,
+        "profile_path": null,
+        "cast_id": 68,
+        "character": "Bar Patron (uncredited)",
+        "credit_id": "626500062fdec600a7f47166",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 975597,
+        "known_for_department": "Acting",
+        "name": "Franklyn Farnum",
+        "original_name": "Franklyn Farnum",
+        "popularity": 0.4092,
+        "profile_path": "/273KbcYjCmFpDMUcFtNKf7hNTRV.jpg",
+        "cast_id": 69,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "62650038d1a8937095487b66",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1598135,
+        "known_for_department": "Acting",
+        "name": "Herschel Graham",
+        "original_name": "Herschel Graham",
+        "popularity": 0.4166,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Restaurant Patron (uncredited)",
+        "credit_id": "62650049d1a89370937c63b5",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1507184,
+        "known_for_department": "Acting",
+        "name": "Lars Hensen",
+        "original_name": "Lars Hensen",
+        "popularity": 0.3591,
+        "profile_path": null,
+        "cast_id": 71,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "62650058713ed4005047f4bd",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89313,
+        "known_for_department": "Acting",
+        "name": "Eugene Jackson",
+        "original_name": "Eugene Jackson",
+        "popularity": 0.2356,
+        "profile_path": "/7RMdrhnV73hsCiJiWyHCVlAFTDf.jpg",
+        "cast_id": 72,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "626500738fdda90050667273",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3520811,
+        "known_for_department": "Acting",
+        "name": "Frances Weintraub Lax",
+        "original_name": "Frances Weintraub Lax",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "cast_id": 73,
+        "character": "Mrs. Lieberman (uncredited)",
+        "credit_id": "626500a71495651655fba7b1",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 983505,
+        "known_for_department": "Acting",
+        "name": "William Meader",
+        "original_name": "William Meader",
+        "popularity": 0.3677,
+        "profile_path": null,
+        "cast_id": 74,
+        "character": "Executive (uncredited)",
+        "credit_id": "6265011b7fcab371e7024c43",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1368758,
+        "known_for_department": "Acting",
+        "name": "Monty O'Grady",
+        "original_name": "Monty O'Grady",
+        "popularity": 0.3707,
+        "profile_path": "/1yz4sQu0J0EAYvUWvjGgT0udItr.jpg",
+        "cast_id": 75,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "6265013b1f33190065bfc05d",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 151891,
+        "known_for_department": "Acting",
+        "name": "Paul Power",
+        "original_name": "Paul Power",
+        "popularity": 0.3442,
+        "profile_path": null,
+        "cast_id": 76,
+        "character": "Bar Patron (uncredited)",
+        "credit_id": "62650165202e1108ac7aec53",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1581532,
+        "known_for_department": "Acting",
+        "name": "Tony Regan",
+        "original_name": "Tony Regan",
+        "popularity": 0.2727,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "Executive (uncredited)",
+        "credit_id": "626501ec1495651655fba9c8",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2100076,
+        "known_for_department": "Acting",
+        "name": "Clark Ross",
+        "original_name": "Clark Ross",
+        "popularity": 0.3731,
+        "profile_path": null,
+        "cast_id": 78,
+        "character": "Restaurant Patron (uncredited)",
+        "credit_id": "62650246e32943009d3b5807",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 122067,
+        "known_for_department": "Acting",
+        "name": "Norman Stevans",
+        "original_name": "Norman Stevans",
+        "popularity": 0.294,
+        "profile_path": null,
+        "cast_id": 79,
+        "character": "Office Worker (uncredited)",
+        "credit_id": "62650281aaec710067bc992e",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1289627,
+        "known_for_department": "Acting",
+        "name": "Sid Troy",
+        "original_name": "Sid Troy",
+        "popularity": 0.2313,
+        "profile_path": null,
+        "cast_id": 80,
+        "character": "Williams (uncredited)",
+        "credit_id": "62650299a35c8e129d796a5a",
+        "order": 37
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3146,
+        "known_for_department": "Directing",
+        "name": "Billy Wilder",
+        "original_name": "Billy Wilder",
+        "popularity": 1.0729,
+        "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+        "credit_id": "52fe4232c3a36847f800b441",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4100,
+        "known_for_department": "Sound",
+        "name": "Adolph Deutsch",
+        "original_name": "Adolph Deutsch",
+        "popularity": 0.3142,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b453",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4101,
+        "known_for_department": "Camera",
+        "name": "Joseph LaShelle",
+        "original_name": "Joseph LaShelle",
+        "popularity": 0.3189,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b459",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4102,
+        "known_for_department": "Editing",
+        "name": "Daniel Mandell",
+        "original_name": "Daniel Mandell",
+        "popularity": 0.1514,
+        "profile_path": "/i0E71PSow73Gix42CIJTRv0UP0f.jpg",
+        "credit_id": "52fe4232c3a36847f800b45f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4103,
+        "known_for_department": "Art",
+        "name": "Alexandre Trauner",
+        "original_name": "Alexandre Trauner",
+        "popularity": 0.2229,
+        "profile_path": "/A7dZ4YPZIfxOGiZFjpC3fGY8B0H.jpg",
+        "credit_id": "52fe4232c3a36847f800b465",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4104,
+        "known_for_department": "Art",
+        "name": "Edward G. Boyle",
+        "original_name": "Edward G. Boyle",
+        "popularity": 0.2453,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b46b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4105,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Harry Ray",
+        "original_name": "Harry Ray",
+        "popularity": 0.2013,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b471",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4106,
+        "known_for_department": "Production",
+        "name": "Allen K. Wood",
+        "original_name": "Allen K. Wood",
+        "popularity": 0.1896,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b477",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4107,
+        "known_for_department": "Crew",
+        "name": "Milt Rice",
+        "original_name": "Milt Rice",
+        "popularity": 0.2277,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b47d",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4108,
+        "known_for_department": "Lighting",
+        "name": "Don Stott",
+        "original_name": "Don Stott",
+        "popularity": 0.267,
+        "profile_path": null,
+        "credit_id": "52fe4232c3a36847f800b483",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3146,
+        "known_for_department": "Directing",
+        "name": "Billy Wilder",
+        "original_name": "Billy Wilder",
+        "popularity": 1.0729,
+        "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+        "credit_id": "52fe4232c3a36847f800b489",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3146,
+        "known_for_department": "Directing",
+        "name": "Billy Wilder",
+        "original_name": "Billy Wilder",
+        "popularity": 1.0729,
+        "profile_path": "/nWV9BDDCbRegP7etiPjl3vYnJEq.jpg",
+        "credit_id": "626502bb8fdda9009ca4fedc",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3147,
+        "known_for_department": "Writing",
+        "name": "I. A. L. Diamond",
+        "original_name": "I. A. L. Diamond",
+        "popularity": 0.5504,
+        "profile_path": "/tm4mgbRqYYQMqbIps8F6iKmOBM9.jpg",
+        "credit_id": "626502c88fdda90050667648",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4103,
+        "known_for_department": "Art",
+        "name": "Alexandre Trauner",
+        "original_name": "Alexandre Trauner",
+        "popularity": 0.2229,
+        "profile_path": "/A7dZ4YPZIfxOGiZFjpC3fGY8B0H.jpg",
+        "credit_id": "62a1e950c8f85800a53b8446",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1454978,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alice Monte",
+        "original_name": "Alice Monte",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "credit_id": "567839ff9251411187000040",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18379,
+        "known_for_department": "Production",
+        "name": "Hal W. Polaire",
+        "original_name": "Hal W. Polaire",
+        "popularity": 0.2002,
+        "profile_path": null,
+        "credit_id": "56783a35925141117b000034",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1551963,
+        "known_for_department": "Production",
+        "name": "David Salven",
+        "original_name": "David Salven",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "credit_id": "56783aa6c3a3684742000057",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1551974,
+        "known_for_department": "Sound",
+        "name": "Del Harris",
+        "original_name": "Del Harris",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "credit_id": "56783d55925141117d0000ad",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14828,
+        "known_for_department": "Sound",
+        "name": "Robert Martin",
+        "original_name": "Robert Martin",
+        "popularity": 0.1674,
+        "profile_path": null,
+        "credit_id": "56783df5c3a36847470000be",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1551980,
+        "known_for_department": "Camera",
+        "name": "William Schurr",
+        "original_name": "William Schurr",
+        "popularity": 0.0864,
+        "profile_path": null,
+        "credit_id": "56783f6ac3a3684753000114",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 121343,
+        "known_for_department": "Sound",
+        "name": "Sid Sidney",
+        "original_name": "Sid Sidney",
+        "popularity": 0.1548,
+        "profile_path": null,
+        "credit_id": "5678407c92514111830000e8",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 491,
+        "known_for_department": "Sound",
+        "name": "John Williams",
+        "original_name": "John Williams",
+        "popularity": 0.9287,
+        "profile_path": "/KFyMqUWeiBdP9tJcZyGWOqnrgK.jpg",
+        "credit_id": "567840dc925141118c00012c",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1250242,
+        "known_for_department": "Acting",
+        "name": "Joe Palma",
+        "original_name": "Joe Palma",
+        "popularity": 0.3709,
+        "profile_path": null,
+        "credit_id": "567841aa925141118a000157",
+        "department": "Crew",
+        "job": "Stand In"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3159,
+        "known_for_department": "Editing",
+        "name": "Doane Harrison",
+        "original_name": "Doane Harrison",
+        "popularity": 0.2299,
+        "profile_path": null,
+        "credit_id": "56a7797492514129fb0031df",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1825945,
+        "known_for_department": "Directing",
+        "name": "May Wale Brown",
+        "original_name": "May Wale Brown",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "59cfd43c92514113fc001362",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1897584,
+        "known_for_department": "Art",
+        "name": "Tom Plews",
+        "original_name": "Tom Plews",
+        "popularity": 0.0936,
+        "profile_path": null,
+        "credit_id": "59cfd482c3a36879290012b5",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3147,
+        "known_for_department": "Writing",
+        "name": "I. A. L. Diamond",
+        "original_name": "I. A. L. Diamond",
+        "popularity": 0.5504,
+        "profile_path": "/tm4mgbRqYYQMqbIps8F6iKmOBM9.jpg",
+        "credit_id": "59fce0d1925141168f001f42",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10919,
+        "known_for_department": "Sound",
+        "name": "Fred Lau",
+        "original_name": "Fred Lau",
+        "popularity": 0.1827,
+        "profile_path": null,
+        "credit_id": "5afc116bc3a368071b006f30",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2043642,
+        "known_for_department": "Sound",
+        "name": "Gordon Sawyer",
+        "original_name": "Gordon Sawyer",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "5afc117192514107a6005135",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2043643,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Forrest T. Butler",
+        "original_name": "Forrest T. Butler",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "5afc11b60e0a26345a0055db",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1551984,
+        "known_for_department": "Crew",
+        "name": "Miriam Nelson",
+        "original_name": "Miriam Nelson",
+        "popularity": 0.1673,
+        "profile_path": "/nps1ihmQZsmAKBlbhBWq87zI8S1.jpg",
+        "credit_id": "5c31faf30e0a2655ee429aaf",
+        "department": "Crew",
+        "job": "Choreographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 613,
+        "name": "new year's eve"
+      },
+      {
+        "id": 242,
+        "name": "new york city"
+      },
+      {
+        "id": 725,
+        "name": "lovesickness"
+      },
+      {
+        "id": 1443,
+        "name": "clerk"
+      },
+      {
+        "id": 1442,
+        "name": "winter"
+      },
+      {
+        "id": 965,
+        "name": "age difference"
+      },
+      {
+        "id": 1252,
+        "name": "suicide attempt"
+      },
+      {
+        "id": 1438,
+        "name": "office"
+      },
+      {
+        "id": 1439,
+        "name": "flat"
+      },
+      {
+        "id": 1440,
+        "name": "spaghetti"
+      },
+      {
+        "id": 1487,
+        "name": "tennis racket"
+      },
+      {
+        "id": 9799,
+        "name": "romcom"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 14720,
+        "name": "love affair"
+      },
+      {
+        "id": 34094,
+        "name": "extramarital affair"
+      },
+      {
+        "id": 179173,
+        "name": "quitting a job"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      },
+      {
+        "id": 286239,
+        "name": "apartment"
+      },
+      {
+        "id": 325782,
+        "name": "cheerful"
+      },
+      {
+        "id": 362041,
+        "name": "réveillon"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2001-11-26T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-10-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-12-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-06-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-08-10T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2003-08-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-09-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2008-02-05T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "14A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-06-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing International Film Festival",
+            "release_date": "2016-04-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "West Germany",
+            "release_date": "1960-09-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "East Germany",
+            "release_date": "1963-09-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2001-06-29T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2022-12-13T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Barcelona",
+            "release_date": "1962-12-23T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Madrid",
+            "release_date": "1963-12-19T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-10-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-09-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1997-11-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-07-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2012-06-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "Κ",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-07-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2008-06-05T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2007-05-21T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-10-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "KN",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-07-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-09-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2022-03-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2012-01-31T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "1960-08-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-10-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release, restored versio",
+            "release_date": "2018-12-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-10-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-03-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-10-21T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2004-08-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2007-08-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2015-10-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2018-01-26T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-11-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1962-05-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-22T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2021-04-18T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-02-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Molodist Kyiv International Film Festival ",
+            "release_date": "2025-10-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City, New York",
+            "release_date": "1960-06-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Los Angeles, California",
+            "release_date": "1960-06-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "XC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1963-10-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1960-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

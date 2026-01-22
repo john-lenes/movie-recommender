@@ -1,0 +1,1009 @@
+{
+  "adult": false,
+  "backdrop_path": "/jJMayZ9Pz66DEU7AocbiU4HuejC.jpg",
+  "belongs_to_collection": null,
+  "budget": 170000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 36,
+      "name": "História"
+    }
+  ],
+  "homepage": "",
+  "id": 508466,
+  "imdb_id": "tt6997426",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Sad Hill Unearthed",
+  "overview": "Província de Burgos, norte da Espanha, outubro de 2015. Um grupo de fãs empreende a tarefa titânica de restaurar o local da última cena de “Três Homens em Conflito”, o mítico western spaghetti dirigido pelo cineasta italiano Sergio Leone em 1966.",
+  "popularity": 3.3054,
+  "poster_path": "/hD5KOgzcji8Scpi0uOYuE3apps6.jpg",
+  "production_companies": [
+    {
+      "id": 110364,
+      "logo_path": null,
+      "name": "Zapruder Pictures",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2018-10-19",
+  "revenue": 22834,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sad Hill Unearthed",
+  "video": false,
+  "vote_average": 6.942,
+  "vote_count": 112,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2506022,
+        "known_for_department": "Acting",
+        "name": "David Alba",
+        "original_name": "David Alba",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Self - AC Sad Hill Member",
+        "credit_id": "5e1897fc25cd8500154e83fc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2506023,
+        "known_for_department": "Acting",
+        "name": "Sergio García",
+        "original_name": "Sergio García",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Self - AC Sad Hill Member",
+        "credit_id": "5e18980725cd8500114eb961",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506024,
+        "known_for_department": "Acting",
+        "name": "Diego Montero",
+        "original_name": "Diego Montero",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Self - AC Sad Hill Member",
+        "credit_id": "5e1898111ad93b00153f31b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506021,
+        "known_for_department": "Acting",
+        "name": "Joseba del Valle",
+        "original_name": "Joseba del Valle",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Self - AC Sad Hill Member",
+        "credit_id": "5e1897e9ffd44d00145e0c09",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1095450,
+        "known_for_department": "Acting",
+        "name": "Christopher Frayling",
+        "original_name": "Christopher Frayling",
+        "popularity": 0.1893,
+        "profile_path": "/3c4RaWW6ZONpifZ0f1FhB9NanXd.jpg",
+        "cast_id": 19,
+        "character": "Self - Sergio Leone's Biographer",
+        "credit_id": "5bcc5db3c3a368285e006b91",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156545,
+        "known_for_department": "Acting",
+        "name": "Peter J. Hanley",
+        "original_name": "Peter J. Hanley",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self - Biologist / Author",
+        "credit_id": "5bcc5d90925141612a006361",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5821,
+        "known_for_department": "Editing",
+        "name": "Eugenio Alabiso",
+        "original_name": "Eugenio Alabiso",
+        "popularity": 0.3854,
+        "profile_path": "/8NXkXuYueRwoHslgCZqHls7U27l.jpg",
+        "cast_id": 17,
+        "character": "Self - Film Editor (1966)",
+        "credit_id": "5bcc5d74925141613e006455",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53196,
+        "known_for_department": "Camera",
+        "name": "Sergio Salvati",
+        "original_name": "Sergio Salvati",
+        "popularity": 0.4333,
+        "profile_path": "/jEvEwsI2pCWvJ6gWQVezWOUS77H.jpg",
+        "cast_id": 15,
+        "character": "Self - Assistant Camera Operator (1966)",
+        "credit_id": "5bcc5cfac3a36828660074e2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57637,
+        "known_for_department": "Acting",
+        "name": "James Hetfield",
+        "original_name": "James Hetfield",
+        "popularity": 0.5894,
+        "profile_path": "/1DBDpjWorXCwvMQLZeDIGfDQ5sJ.jpg",
+        "cast_id": 14,
+        "character": "Self - Musician",
+        "credit_id": "5bcc5cdc92514161260062a2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4600,
+        "known_for_department": "Directing",
+        "name": "Joe Dante",
+        "original_name": "Joe Dante",
+        "popularity": 1.0877,
+        "profile_path": "/2Aev68oWboAC31dj8eJnEUzH41x.jpg",
+        "cast_id": 10,
+        "character": "Self - Filmmaker",
+        "credit_id": "5bcc5c8fc3a368286600746b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57865,
+        "known_for_department": "Directing",
+        "name": "Álex de la Iglesia",
+        "original_name": "Álex de la Iglesia",
+        "popularity": 0.5883,
+        "profile_path": "/n67diBAoT58ODgqXNHHyPWIE1Nc.jpg",
+        "cast_id": 12,
+        "character": "Self - Filmmaker",
+        "credit_id": "5bcc5caf0e0a260162007029",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259,
+        "known_for_department": "Sound",
+        "name": "Ennio Morricone",
+        "original_name": "Ennio Morricone",
+        "popularity": 0.5005,
+        "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+        "cast_id": 9,
+        "character": "Self - Film Composer (1966)",
+        "credit_id": "5bcc5c7dc3a368286a007a14",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 190,
+        "known_for_department": "Acting",
+        "name": "Clint Eastwood",
+        "original_name": "Clint Eastwood",
+        "popularity": 7.4587,
+        "profile_path": "/8TwdCfeOZH7ucRlfLZ6wObxa7cO.jpg",
+        "cast_id": 11,
+        "character": "Self - Actor (1966)",
+        "credit_id": "5bcc5c9fc3a36828630072a0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506025,
+        "known_for_department": "Acting",
+        "name": "Stephen Leigh",
+        "original_name": "Stephen Leigh",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Self - Film Critic",
+        "credit_id": "5e18983d25cd8500114eba37",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405335,
+        "known_for_department": "Acting",
+        "name": "Juan José de la Horra",
+        "original_name": "Juan José de la Horra",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Self - Film Extra (1966)",
+        "credit_id": "6568e151d05a0300ea07ce95",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405338,
+        "known_for_department": "Acting",
+        "name": "José Urrutia",
+        "original_name": "José Urrutia",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Self - Film Extra (1966)",
+        "credit_id": "6568e192ea84c7013c5f72e1",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405340,
+        "known_for_department": "Acting",
+        "name": "Rafael Solana",
+        "original_name": "Rafael Solana",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Self - Film Extra (1966)",
+        "credit_id": "6568e1cc813cb600abd3ccb8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405363,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Lanoue",
+        "original_name": "Jean-Pierre Lanoue",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Self - Sad Hill Volunteer",
+        "credit_id": "6568e3e42f8d090139cb160f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405368,
+        "known_for_department": "Acting",
+        "name": "Anne-Marie Lanoue",
+        "original_name": "Anne-Marie Lanoue",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Self - Sad Hill Volunteer",
+        "credit_id": "6568e4702f8d0900c5d817cf",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405545,
+        "known_for_department": "Acting",
+        "name": "José Luis Martín",
+        "original_name": "José Luis Martín",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Self - Sad Hill Volunteer",
+        "credit_id": "6568f540dbf144013cb55900",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1035044,
+        "known_for_department": "Art",
+        "name": "Carlo Leva",
+        "original_name": "Carlo Leva",
+        "popularity": 0.1783,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Self - Assistant Art Director (1966)",
+        "credit_id": "6568e9a0d05a0300ea07d0d1",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405455,
+        "known_for_department": "Acting",
+        "name": "Giuditta Simi",
+        "original_name": "Giuditta Simi",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Self - Art Director Carlo Simi's Daughter",
+        "credit_id": "6568ee2077c01f00eae018bf",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4385,
+        "known_for_department": "Directing",
+        "name": "Sergio Leone",
+        "original_name": "Sergio Leone",
+        "popularity": 1.3074,
+        "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "cast_id": 51,
+        "character": "Self - Filmmaker (archive footage)",
+        "credit_id": "6568d9a4813cb600e0818bc8",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488922,
+        "known_for_department": "Directing",
+        "name": "Willa Ross",
+        "original_name": "Willa Ross",
+        "popularity": 0.072,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Self - Filmmaker (archive footage)",
+        "credit_id": "6568dba72f8d090139cb1389",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200560,
+        "known_for_department": "Directing",
+        "name": "Devan Scott",
+        "original_name": "Devan Scott",
+        "popularity": 0.0808,
+        "profile_path": "/eRuSdkV2OcusH8DvcYqqd16fxY9.jpg",
+        "cast_id": 53,
+        "character": "Self - Filmmaker (archive footage)",
+        "credit_id": "6568dc08ea84c7010164e5ff",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2776927,
+        "known_for_department": "Production",
+        "name": "Daniel Jeffery",
+        "original_name": "Daniel Jeffery",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Self - Film Editor (archive footage)",
+        "credit_id": "6568dcfcdbf144013cb55290",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152935,
+        "known_for_department": "Directing",
+        "name": "Guillermo de Oliveira",
+        "original_name": "Guillermo de Oliveira",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "6568d55b77c01f00c9d3b890",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156493,
+        "known_for_department": "Editing",
+        "name": "Javier Duch",
+        "original_name": "Javier Duch",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "credit_id": "6568d4b96f6a990100847fe1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4385,
+        "known_for_department": "Directing",
+        "name": "Sergio Leone",
+        "original_name": "Sergio Leone",
+        "popularity": 1.3074,
+        "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "credit_id": "6568f8ea813cb600fd600eb5",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3309281,
+        "known_for_department": "Sound",
+        "name": "Péter Illényi",
+        "original_name": "Péter Illényi",
+        "popularity": 0.1682,
+        "profile_path": null,
+        "credit_id": "6568f80cdbf14400c62cca32",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4655,
+        "known_for_department": "Art",
+        "name": "Carlo Simi",
+        "original_name": "Carlo Simi",
+        "popularity": 0.4573,
+        "profile_path": null,
+        "credit_id": "6568f8fd6f6a990206a4325b",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156493,
+        "known_for_department": "Editing",
+        "name": "Javier Duch",
+        "original_name": "Javier Duch",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "credit_id": "6568f6a82f8d0900ffe4bb9c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1657705,
+        "known_for_department": "Sound",
+        "name": "Alex Alcántara",
+        "original_name": "Alex Alcántara",
+        "popularity": 0.1057,
+        "profile_path": null,
+        "credit_id": "6568f76f813cb600fd600e49",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2454243,
+        "known_for_department": "Sound",
+        "name": "Alejandro Rochette",
+        "original_name": "Alejandro Rochette",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "6568f72877c01f012c39b9f0",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506014,
+        "known_for_department": "Visual Effects",
+        "name": "Alberto Sobreviela Falces",
+        "original_name": "Alberto Sobreviela Falces",
+        "popularity": 0.0462,
+        "profile_path": "/7s2DDVM0yThSLwnyP5Rz23xLWm6.jpg",
+        "credit_id": "6568f91cdbf14400c62cca7d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152935,
+        "known_for_department": "Directing",
+        "name": "Guillermo de Oliveira",
+        "original_name": "Guillermo de Oliveira",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "6568f626ea84c700e4d03da5",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1657899,
+        "known_for_department": "Sound",
+        "name": "Pepe Pleguezuelos",
+        "original_name": "Pepe Pleguezuelos",
+        "popularity": 0.141,
+        "profile_path": null,
+        "credit_id": "6568f6d6ea84c7013c5f78f1",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1657706,
+        "known_for_department": "Sound",
+        "name": "Toño Cubillo",
+        "original_name": "Toño Cubillo",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "6568f742dbf144011d5b4aa3",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506013,
+        "known_for_department": "Directing",
+        "name": "Juls Gars",
+        "original_name": "Juls Gars",
+        "popularity": 0.0382,
+        "profile_path": "/vzOoIZsosHpcsVvB68ZGGmoEdzC.jpg",
+        "credit_id": "6568f9362f8d090139cb1b8d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3576002,
+        "known_for_department": "Acting",
+        "name": "Iñaki Villuendas",
+        "original_name": "Iñaki Villuendas",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "656a4eda88055100e36e952a",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152935,
+        "known_for_department": "Directing",
+        "name": "Guillermo de Oliveira",
+        "original_name": "Guillermo de Oliveira",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "5bc74d4a0e0a267611010460",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152935,
+        "known_for_department": "Directing",
+        "name": "Guillermo de Oliveira",
+        "original_name": "Guillermo de Oliveira",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "5bc74d400e0a26761101045b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156492,
+        "known_for_department": "Production",
+        "name": "Luisa Cowell",
+        "original_name": "Luisa Cowell",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5bcc37d90e0a26016b0045d8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2156493,
+        "known_for_department": "Editing",
+        "name": "Javier Duch",
+        "original_name": "Javier Duch",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "credit_id": "5bcc3847925141612600417e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152935,
+        "known_for_department": "Directing",
+        "name": "Guillermo de Oliveira",
+        "original_name": "Guillermo de Oliveira",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "5bcc37f5925141613b00425f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2152935,
+        "known_for_department": "Directing",
+        "name": "Guillermo de Oliveira",
+        "original_name": "Guillermo de Oliveira",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "5bcc38260e0a260151004a32",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506011,
+        "known_for_department": "Production",
+        "name": "Csaba Mészáros",
+        "original_name": "Csaba Mészáros",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "5e1895831ad93b00153f2bd4",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2506009,
+        "known_for_department": "Production",
+        "name": "Alejandro F. Larrañaga",
+        "original_name": "Alejandro F. Larrañaga",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5e189565ffd44d00175de10e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2506007,
+        "known_for_department": "Production",
+        "name": "Cédric Biscay",
+        "original_name": "Cédric Biscay",
+        "popularity": 0.0362,
+        "profile_path": "/uWjMrC1EtqhACdGirgZjKYQ6caY.jpg",
+        "credit_id": "5e189549ffd44d00125dbccb",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1116673,
+        "known_for_department": "Sound",
+        "name": "Zeltia Montes",
+        "original_name": "Zeltia Montes",
+        "popularity": 0.104,
+        "profile_path": null,
+        "credit_id": "5e189598c267960019520bac",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2506010,
+        "known_for_department": "Production",
+        "name": "Richard D. Jensen",
+        "original_name": "Richard D. Jensen",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "5e189574ffd44d00125dbd44",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506018,
+        "known_for_department": "Camera",
+        "name": "Ignacio Sánchez de Bustamante",
+        "original_name": "Ignacio Sánchez de Bustamante",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "5e18974effd44d00145e09be",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506015,
+        "known_for_department": "Camera",
+        "name": "Malores Fernández de Olivera",
+        "original_name": "Malores Fernández de Olivera",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5e1896f11ad93b00113f3180",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2012570,
+        "known_for_department": "Sound",
+        "name": "Joan Martorell",
+        "original_name": "Joan Martorell",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "5e1897781ad93b00113f3298",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506016,
+        "known_for_department": "Camera",
+        "name": "Pedro González Kuhn",
+        "original_name": "Pedro González Kuhn",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5e1896ff1ad93b00113f3195",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506019,
+        "known_for_department": "Editing",
+        "name": "Ezequiel Romero",
+        "original_name": "Ezequiel Romero",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5e189761c267960019520f02",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1867972,
+        "known_for_department": "Acting",
+        "name": "Leroy Kincaide",
+        "original_name": "Leroy Kincaide",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "credit_id": "5e18971125cd8500154e8295",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2506017,
+        "known_for_department": "Camera",
+        "name": "Naftali Beane Rutter",
+        "original_name": "Naftali Beane Rutter",
+        "popularity": 0.1383,
+        "profile_path": null,
+        "credit_id": "5e189728c267960014522877",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6026,
+        "name": "cinema on cinema"
+      },
+      {
+        "id": 33490,
+        "name": "filmmaking"
+      },
+      {
+        "id": 156212,
+        "name": "spaghetti western"
+      },
+      {
+        "id": 166512,
+        "name": "graveyard"
+      },
+      {
+        "id": 184793,
+        "name": "movie set"
+      },
+      {
+        "id": 220266,
+        "name": "fandom"
+      },
+      {
+        "id": 316782,
+        "name": "burgos, spain"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bafici",
+            "release_date": "2018-04-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sitges Film Festival",
+            "release_date": "2018-10-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AWFF",
+            "release_date": "2018-10-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-10-19T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2018-12-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinémathèque Française",
+            "release_date": "2018-12-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tertio Millennio Film Fest",
+            "release_date": "2018-12-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo International Film Festival",
+            "release_date": "2017-10-31T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Periferias Festival",
+            "release_date": "2020-08-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "SBIFF",
+            "release_date": "2018-02-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

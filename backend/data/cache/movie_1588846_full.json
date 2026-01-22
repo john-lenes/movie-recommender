@@ -1,0 +1,355 @@
+{
+  "adult": false,
+  "backdrop_path": "/3pJx6MzdvdWQACLTYQtDW3IgzV0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1588846,
+  "imdb_id": "tt39018730",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Ekis",
+  "overview": "",
+  "popularity": 21.2623,
+  "poster_path": "/vuUvGqqGabV422qzjGWPlhRuvN0.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2025-12-19",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ekis",
+  "video": false,
+  "vote_average": 7.333,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3363708,
+        "known_for_department": "Acting",
+        "name": "Angela Morena",
+        "original_name": "Angela Morena",
+        "popularity": 3.9028,
+        "profile_path": "/fgyajd1CpzMNpeKygLFbWfvNhIB.jpg",
+        "cast_id": 3,
+        "character": "Alison Vergara",
+        "credit_id": "6928a3b4293a672a51245bf3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5630018,
+        "known_for_department": "Acting",
+        "name": "Cheena Dizon",
+        "original_name": "Cheena Dizon",
+        "popularity": 0.8206,
+        "profile_path": "/aNZHynNSy2JBvBxsSEys9cXzALV.jpg",
+        "cast_id": 2,
+        "character": "Dolor Castillo",
+        "credit_id": "6928a3ab1f7534ad60245d66",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5165492,
+        "known_for_department": "Acting",
+        "name": "Aliya Raymundo",
+        "original_name": "Aliya Raymundo",
+        "popularity": 4.8267,
+        "profile_path": "/qSZGqJscT4cPO7g4lqzYjGYc3Or.jpg",
+        "cast_id": 1,
+        "character": "Gina Cruz",
+        "credit_id": "6928a39dda82e265a82490cf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5536858,
+        "known_for_department": "Acting",
+        "name": "Astrid Lee",
+        "original_name": "Astrid Lee",
+        "popularity": 1.9525,
+        "profile_path": "/h0sQk1TkRHHDMuNIG2CSfiZu8ks.jpg",
+        "cast_id": 5,
+        "character": "Roxy Mercado",
+        "credit_id": "6928a3ccc26d3846c726c64c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 576125,
+        "known_for_department": "Acting",
+        "name": "Arnold Reyes",
+        "original_name": "Arnold Reyes",
+        "popularity": 0.6614,
+        "profile_path": "/7tKvFbusy0yaf5Qsb8q5o3cCdxW.jpg",
+        "cast_id": 20,
+        "character": "George Castillo",
+        "credit_id": "693f72af64c035ec52226e26",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3653070,
+        "known_for_department": "Acting",
+        "name": "Cess Garcia",
+        "original_name": "Cess Garcia",
+        "popularity": 2.1219,
+        "profile_path": "/zsSh4YNwwJGYGhaYCIAOHA8cAkq.jpg",
+        "cast_id": 19,
+        "character": "Pia",
+        "credit_id": "693f72533dbf84abd483ec96",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1319939,
+        "known_for_department": "Acting",
+        "name": "Yda Manzano",
+        "original_name": "Yda Manzano",
+        "popularity": 4.1487,
+        "profile_path": "/9ZZbVcCl8U3GqnqHeBREsAilpNh.jpg",
+        "cast_id": 4,
+        "character": "Elsa Robles",
+        "credit_id": "6928a3be0a9b7f7ec1d9cfd9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4534709,
+        "known_for_department": "Acting",
+        "name": "Ralph Engle",
+        "original_name": "Ralph Engle",
+        "popularity": 0.3251,
+        "profile_path": "/xHnaYDypbAWEYxyRUpcB5yxmRCv.jpg",
+        "cast_id": 6,
+        "character": "Iñigo",
+        "credit_id": "6928a3dd9441301f2ac1281a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401573,
+        "known_for_department": "Acting",
+        "name": "Mark Dionisio",
+        "original_name": "Mark Dionisio",
+        "popularity": 0.738,
+        "profile_path": "/29rcLa6859piOuVxBSq3fVD1P0U.jpg",
+        "cast_id": 7,
+        "character": "Nico",
+        "credit_id": "6928a3f001823e51fe26c6a9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5842941,
+        "known_for_department": "Acting",
+        "name": "Jio Yoshida",
+        "original_name": "Jio Yoshida",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Iñigo's Besfriend",
+        "credit_id": "6928a42dcb2c58a363c12717",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5842942,
+        "known_for_department": "Acting",
+        "name": "Stanley frank",
+        "original_name": "Stanley frank",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Iñigo's Bodyguard",
+        "credit_id": "6928a454efce93e70526c6c8",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617642,
+        "known_for_department": "Writing",
+        "name": "Christian Paolo Lat",
+        "original_name": "Christian Paolo Lat",
+        "popularity": 0.2855,
+        "profile_path": "/rGXhH8LUmCwUp8G24FVhNISRFRc.jpg",
+        "credit_id": "6928a470d8135ae325a75e80",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617644,
+        "known_for_department": "Writing",
+        "name": "Lester Caacbay",
+        "original_name": "Lester Caacbay",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6928a4845b39bb2ce1249302",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3617642,
+        "known_for_department": "Writing",
+        "name": "Christian Paolo Lat",
+        "original_name": "Christian Paolo Lat",
+        "popularity": 0.2855,
+        "profile_path": "/rGXhH8LUmCwUp8G24FVhNISRFRc.jpg",
+        "credit_id": "6928a49d3514a02cfdeaa693",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3378221,
+        "known_for_department": "Acting",
+        "name": "Sigrid Polon",
+        "original_name": "Sigrid Polon",
+        "popularity": 0.3731,
+        "profile_path": "/7vHDtDsqSotb8WSaj4OrTJyFKvG.jpg",
+        "credit_id": "6928a4b11dd378966bd9d16c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3158317,
+        "known_for_department": "Editing",
+        "name": "Sebastian Olvidelo",
+        "original_name": "Sebastian Olvidelo",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "692be3d16d91b296f0aa4014",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1442028,
+        "known_for_department": "Production",
+        "name": "Krisma Fajardo",
+        "original_name": "Krisma Fajardo",
+        "popularity": 0.311,
+        "profile_path": "/sPQtAqg6Ftw33PH0As4defPNh97.jpg",
+        "credit_id": "692be3e162c4edd6bfaa4165",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2502837,
+        "known_for_department": "Crew",
+        "name": "Dom Dycaico",
+        "original_name": "Dom Dycaico",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "692be412b5e1d04ca717ceda",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1303480,
+        "known_for_department": "Art",
+        "name": "Virgo Arambulo",
+        "original_name": "Virgo Arambulo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "692be42657e7da58d217ce29",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2501779,
+        "known_for_department": "Crew",
+        "name": "Kayley Carrigan",
+        "original_name": "Kayley Carrigan",
+        "popularity": 0.1633,
+        "profile_path": "/90Nxh5KzJx60YoIWWlsE3cHfkR.jpg",
+        "credit_id": "692be43cfb0a5afc5117ceaf",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "R-18",
+            "descriptors": [],
+            "iso_639_1": "tl",
+            "note": "",
+            "release_date": "2025-12-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

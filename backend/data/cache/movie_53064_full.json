@@ -1,0 +1,519 @@
+{
+  "adult": false,
+  "backdrop_path": "/hII4gDYkG9DJZ6iysUO4cNjkD2p.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 53064,
+  "imdb_id": "tt0930902",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "地下幻燈劇画 少女椿",
+  "overview": "Uma garotinha vendedora de flores perde a mãe e se encontra perdida no mundo, até que ela recebe um convite para participar de um circo, mas ela não esperava que essa fosse ser a pior escolha de sua vida.",
+  "popularity": 6.8007,
+  "poster_path": "/nBFocRpiGQQlkAwYf0wd6gCjqr0.jpg",
+  "production_companies": [
+    {
+      "id": 77004,
+      "logo_path": null,
+      "name": "Kiryûkan",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1992-05-02",
+  "revenue": 0,
+  "runtime": 48,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Midori",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 157,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107767,
+        "known_for_department": "Acting",
+        "name": "Minako Naka",
+        "original_name": "Minako Naka",
+        "popularity": 0.2422,
+        "profile_path": "/vZvTURVJ8FoSpogDqqIS3CTUuHf.jpg",
+        "cast_id": 5,
+        "character": "Midori (voice)",
+        "credit_id": "52fe4851c3a36847f81613ab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107768,
+        "known_for_department": "Acting",
+        "name": "Norihiko Morishita",
+        "original_name": "Norihiko Morishita",
+        "popularity": 0.1262,
+        "profile_path": "/ye2Wusz0AyLZBvJvGeXqSZVTJzh.jpg",
+        "cast_id": 6,
+        "character": "Wandâ Masamitsu (voice)",
+        "credit_id": "52fe4851c3a36847f81613af",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107769,
+        "known_for_department": "Acting",
+        "name": "Keinosuke Okamoto",
+        "original_name": "Keinosuke Okamoto",
+        "popularity": 0.1488,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Koijirô Arashi (voice)",
+        "credit_id": "52fe4851c3a36847f81613b3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107770,
+        "known_for_department": "Acting",
+        "name": "林和義",
+        "original_name": "林和義",
+        "popularity": 0.4839,
+        "profile_path": "/59ntsdRx3WqpBpaxKo8AVChcOVM.jpg",
+        "cast_id": 8,
+        "character": "Akaza (voice)",
+        "credit_id": "52fe4851c3a36847f81613b7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107771,
+        "known_for_department": "Acting",
+        "name": "Yoshifumi Nomura",
+        "original_name": "Yoshifumi Nomura",
+        "popularity": 0.1495,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Muchisute (voice)",
+        "credit_id": "52fe4851c3a36847f81613bb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107772,
+        "known_for_department": "Acting",
+        "name": "Sanae Katô",
+        "original_name": "Sanae Katô",
+        "popularity": 0.2116,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Benietsu (voice)",
+        "credit_id": "52fe4851c3a36847f81613bf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107773,
+        "known_for_department": "Acting",
+        "name": "Yumiko Takagi",
+        "original_name": "Yumiko Takagi",
+        "popularity": 0.124,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Kanabun (voice)",
+        "credit_id": "52fe4851c3a36847f81613c3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107774,
+        "known_for_department": "Writing",
+        "name": "Akiko Tanaka",
+        "original_name": "Akiko Tanaka",
+        "popularity": 0.2291,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Midori's Mother (voice)",
+        "credit_id": "52fe4851c3a36847f81613c7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107775,
+        "known_for_department": "Acting",
+        "name": "Kôji Imoto",
+        "original_name": "Kôji Imoto",
+        "popularity": 0.1991,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Hiroshi Inagaki (voice)",
+        "credit_id": "52fe4851c3a36847f81613cb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805535,
+        "known_for_department": "Acting",
+        "name": "Yoshihiko Matsui",
+        "original_name": "Yoshihiko Matsui",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "(voice)",
+        "credit_id": "638432d35b4fed0086b38807",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805536,
+        "known_for_department": "Acting",
+        "name": "Kinu Yoshimi",
+        "original_name": "Kinu Yoshimi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "(voice)",
+        "credit_id": "638432ddb3316b0084a80db3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805537,
+        "known_for_department": "Acting",
+        "name": "Karuki Tamazukuri",
+        "original_name": "Karuki Tamazukuri",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "(voice)",
+        "credit_id": "638432e95e14e500b806c150",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "原田浩",
+        "original_name": "原田浩",
+        "popularity": 1.175,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "52fe4851c3a36847f81613dd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107777,
+        "known_for_department": "Camera",
+        "name": "菅谷信行",
+        "original_name": "菅谷信行",
+        "popularity": 0.141,
+        "profile_path": null,
+        "credit_id": "6384327dbf09d100afd17d60",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107766,
+        "known_for_department": "Writing",
+        "name": "丸尾末広",
+        "original_name": "丸尾末広",
+        "popularity": 0.2434,
+        "profile_path": "/7tv0ncDzyKpGWskftVQ9dlvLx4s.jpg",
+        "credit_id": "6384322e1b157d007a4302f5",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170115,
+        "known_for_department": "Sound",
+        "name": "J・A・シーザー",
+        "original_name": "J・A・シーザー",
+        "popularity": 0.3431,
+        "profile_path": "/xkNsmZTia04ZEH8pt65I4eFZrai.jpg",
+        "credit_id": "6384326b8fdda9009fdea9e8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352120,
+        "known_for_department": "Art",
+        "name": "針生勝文",
+        "original_name": "針生勝文",
+        "popularity": 0.2772,
+        "profile_path": null,
+        "credit_id": "6392b82bd7fbda0095ed0680",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "原田浩",
+        "original_name": "原田浩",
+        "popularity": 1.175,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "6392b8189e458600b9015883",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65443,
+        "known_for_department": "Editing",
+        "name": "尾形治敏",
+        "original_name": "尾形治敏",
+        "popularity": 0.2073,
+        "profile_path": null,
+        "credit_id": "6641a95b08cd508acfc17744",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "原田浩",
+        "original_name": "原田浩",
+        "popularity": 1.175,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "66f34517505132830e21669e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107765,
+        "known_for_department": "Directing",
+        "name": "原田浩",
+        "original_name": "原田浩",
+        "popularity": 1.175,
+        "profile_path": "/8Th2PEySXMRjNP4KB5LWdI3mSq7.jpg",
+        "credit_id": "68bb3ab665e6732d2f9bbac8",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2337,
+        "name": "pedophilia"
+      },
+      {
+        "id": 516,
+        "name": "child abuse"
+      },
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 4662,
+        "name": "illusion"
+      },
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 11322,
+        "name": "female protagonist"
+      },
+      {
+        "id": 12663,
+        "name": "little girl"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 14576,
+        "name": "pedophile"
+      },
+      {
+        "id": 157164,
+        "name": "animal death"
+      },
+      {
+        "id": 162735,
+        "name": "disability"
+      },
+      {
+        "id": 200234,
+        "name": "shocking"
+      },
+      {
+        "id": 202760,
+        "name": "hopeless"
+      },
+      {
+        "id": 206750,
+        "name": "transgression"
+      },
+      {
+        "id": 207545,
+        "name": "freak show"
+      },
+      {
+        "id": 207876,
+        "name": "1920s"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 210730,
+        "name": "illusionist"
+      },
+      {
+        "id": 215492,
+        "name": "amputee"
+      },
+      {
+        "id": 222792,
+        "name": "grooming"
+      },
+      {
+        "id": 234125,
+        "name": "child protagonist"
+      },
+      {
+        "id": 239393,
+        "name": "hermaphrodite"
+      },
+      {
+        "id": 267122,
+        "name": "sex"
+      },
+      {
+        "id": 283085,
+        "name": "body horror"
+      },
+      {
+        "id": 323809,
+        "name": "depressing"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-03-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Encounters Short Film Festival",
+            "release_date": "2010-11-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo",
+            "release_date": "1992-05-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo International Fantastic Film Festival",
+            "release_date": "2004-10-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Yubari International Fantastic Film Festival",
+            "release_date": "2010-02-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

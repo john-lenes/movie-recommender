@@ -1,0 +1,2218 @@
+{
+  "adult": false,
+  "backdrop_path": "/h3KN24PrOheHVYs9ypuOIdFBEpX.jpg",
+  "belongs_to_collection": {
+    "id": 89137,
+    "name": "Como Treinar o Seu Dragão: Coleção",
+    "poster_path": "/cUBgJx9G4CdKhOlj7R7kWbEQMAY.jpg",
+    "backdrop_path": "/vBSuGU5OyJ5lGamkqXo2kVAe01F.jpg"
+  },
+  "budget": 129000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    }
+  ],
+  "homepage": "",
+  "id": 166428,
+  "imdb_id": "tt2386490",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "How to Train Your Dragon: The Hidden World",
+  "overview": "Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.",
+  "popularity": 10.6418,
+  "poster_path": "/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-01-03",
+  "revenue": 539987993,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A amizade de uma vida.",
+  "title": "Como Treinar o Seu Dragão 3",
+  "video": false,
+  "vote_average": 7.748,
+  "vote_count": 6927,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 449,
+        "known_for_department": "Acting",
+        "name": "Jay Baruchel",
+        "original_name": "Jay Baruchel",
+        "popularity": 1.6667,
+        "profile_path": "/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg",
+        "cast_id": 41,
+        "character": "Hiccup (voice)",
+        "credit_id": "5c6d150b0e0a262c999fbcb3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59174,
+        "known_for_department": "Acting",
+        "name": "America Ferrera",
+        "original_name": "America Ferrera",
+        "popularity": 1.3582,
+        "profile_path": "/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg",
+        "cast_id": 42,
+        "character": "Astrid (voice)",
+        "credit_id": "5c6d150bc3a36843c6ea004e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1164,
+        "known_for_department": "Acting",
+        "name": "F. Murray Abraham",
+        "original_name": "F. Murray Abraham",
+        "popularity": 3.0486,
+        "profile_path": "/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg",
+        "cast_id": 43,
+        "character": "Grimmel (voice)",
+        "credit_id": "5c6d150b925141250a0f1fcd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 112,
+        "known_for_department": "Acting",
+        "name": "Cate Blanchett",
+        "original_name": "Cate Blanchett",
+        "popularity": 5.6821,
+        "profile_path": "/vq4vuAVhYngfzVNn8SbnG0JEy15.jpg",
+        "cast_id": 44,
+        "character": "Valka (voice)",
+        "credit_id": "5c6d150b0e0a266dacabb49d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17276,
+        "known_for_department": "Acting",
+        "name": "Gerard Butler",
+        "original_name": "Gerard Butler",
+        "popularity": 5.9248,
+        "profile_path": "/rTO5opVC3Gs6hPYAxWSP9eEjogi.jpg",
+        "cast_id": 45,
+        "character": "Stoick (voice)",
+        "credit_id": "5c6d150cc3a3683bf0df7ad4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24264,
+        "known_for_department": "Acting",
+        "name": "Craig Ferguson",
+        "original_name": "Craig Ferguson",
+        "popularity": 1.143,
+        "profile_path": "/mBxNrOxdQeM7bVBveE47Syj9ES6.jpg",
+        "cast_id": 46,
+        "character": "Gobber (voice)",
+        "credit_id": "5c6d150c0e0a265627a81179",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21007,
+        "known_for_department": "Acting",
+        "name": "Jonah Hill",
+        "original_name": "Jonah Hill",
+        "popularity": 2.8226,
+        "profile_path": "/5aE4GgJADHzN1QsS6zkzElZSEYq.jpg",
+        "cast_id": 47,
+        "character": "Snotlout (voice)",
+        "credit_id": "5c6d150cc3a3684f97eb19f4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54691,
+        "known_for_department": "Acting",
+        "name": "Christopher Mintz-Plasse",
+        "original_name": "Christopher Mintz-Plasse",
+        "popularity": 1.9208,
+        "profile_path": "/dnj2qyxmPt5JF5uurbXQLegppAx.jpg",
+        "cast_id": 48,
+        "character": "Fishlegs (voice)",
+        "credit_id": "5c6d150d0e0a262c999fbd18",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 41091,
+        "known_for_department": "Acting",
+        "name": "Kristen Wiig",
+        "original_name": "Kristen Wiig",
+        "popularity": 3.1146,
+        "profile_path": "/oddvykQHx71hEZlvKinCzB3Vcfh.jpg",
+        "cast_id": 49,
+        "character": "Ruffnut (voice)",
+        "credit_id": "5c6d150dc3a36843c6ea0051",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239019,
+        "known_for_department": "Acting",
+        "name": "Kit Harington",
+        "original_name": "Kit Harington",
+        "popularity": 3.9882,
+        "profile_path": "/iCFQAQqb0SgvxEdVYhJtZLhM9kp.jpg",
+        "cast_id": 50,
+        "character": "Eret (voice)",
+        "credit_id": "5c6d150d0e0a260e9e9b974d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1718135,
+        "known_for_department": "Acting",
+        "name": "Justin Rupple",
+        "original_name": "Justin Rupple",
+        "popularity": 0.2367,
+        "profile_path": "/w4vVSxrdC1kzzpEkUvQsPSYsIBS.jpg",
+        "cast_id": 51,
+        "character": "Tuffnut (voice)",
+        "credit_id": "5c6d150d9251417df40c093b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130081,
+        "known_for_department": "Acting",
+        "name": "Robin Atkin Downes",
+        "original_name": "Robin Atkin Downes",
+        "popularity": 0.9975,
+        "profile_path": "/qb4xPIJGiKyiQ2MhSDQzFWxN0jS.jpg",
+        "cast_id": 52,
+        "character": "Ack (voice)",
+        "credit_id": "5c6d150ec3a36848f1df6f23",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138620,
+        "known_for_department": "Acting",
+        "name": "Kieron Elliott",
+        "original_name": "Kieron Elliott",
+        "popularity": 0.2105,
+        "profile_path": "/81KvtzBIaTUg02cLG5FEOgRHsqg.jpg",
+        "cast_id": 53,
+        "character": "Hoark (voice)",
+        "credit_id": "5c6d150e0e0a267f9d98a5ef",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2246293,
+        "known_for_department": "Acting",
+        "name": "Julia Emelin",
+        "original_name": "Julia Emelin",
+        "popularity": 0.26,
+        "profile_path": "/vni2jcr1IfgHdboctxqILC1yWH8.jpg",
+        "cast_id": 54,
+        "character": "Griselda the Grevious (voice)",
+        "credit_id": "5c6d150ec3a3684f97eb1a07",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35981,
+        "known_for_department": "Acting",
+        "name": "Gideon Emery",
+        "original_name": "Gideon Emery",
+        "popularity": 0.8472,
+        "profile_path": "/o7BHjTmmZ9D5tEK33JHKfB2FQqD.jpg",
+        "cast_id": 55,
+        "character": "Trapper (voice)",
+        "credit_id": "5c6d150f0e0a265627a811d2",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 55398,
+        "known_for_department": "Acting",
+        "name": "Ashley Jensen",
+        "original_name": "Ashley Jensen",
+        "popularity": 1.686,
+        "profile_path": "/iDewhUriZzdJ2vbehTQD5cxi1yv.jpg",
+        "cast_id": 56,
+        "character": "Phlegma (voice)",
+        "credit_id": "5c6d150f925141250a0f1fd0",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2246294,
+        "known_for_department": "Acting",
+        "name": "AJ Kane",
+        "original_name": "AJ Kane",
+        "popularity": 0.2196,
+        "profile_path": "/o2yaWeVMeBVxWUxqjOZwYoYFrXm.jpg",
+        "cast_id": 57,
+        "character": "Young Hiccup (voice)",
+        "credit_id": "5c6d150f925141250a0f1fd9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110902,
+        "known_for_department": "Acting",
+        "name": "Ólafur Darri Ólafsson",
+        "original_name": "Ólafur Darri Ólafsson",
+        "popularity": 2.0742,
+        "profile_path": "/5ZlxkgsiKh9d4fWzR23sDf8d3HO.jpg",
+        "cast_id": 58,
+        "character": "Ragnar the Rock (voice)",
+        "credit_id": "5c6d1510925141250a0f1fdc",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154657,
+        "known_for_department": "Acting",
+        "name": "James Sie",
+        "original_name": "James Sie",
+        "popularity": 0.4568,
+        "profile_path": "/yZ8SFsJJNmhgtNizwcWfknyBoBt.jpg",
+        "cast_id": 59,
+        "character": "Chaghatai Khan (voice)",
+        "credit_id": "5c6d15100e0a260e9e9b9750",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20049,
+        "known_for_department": "Acting",
+        "name": "David Tennant",
+        "original_name": "David Tennant",
+        "popularity": 2.4713,
+        "profile_path": "/pQHLJEOEcKpPpyiIheh47AJ5INS.jpg",
+        "cast_id": 60,
+        "character": "Spitelout / Ivar the Whitless (voice)",
+        "credit_id": "5c6d15109251412a74033bdf",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42267,
+        "known_for_department": "Sound",
+        "name": "Randy Thom",
+        "original_name": "Randy Thom",
+        "popularity": 0.4149,
+        "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+        "cast_id": 93,
+        "character": "Toothless (voice)",
+        "credit_id": "68e2e97c039d42b270bd9733",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7963,
+        "known_for_department": "Visual Effects",
+        "name": "Carter Goodrich",
+        "original_name": "Carter Goodrich",
+        "popularity": 0.2787,
+        "profile_path": "/v0w5eSNuIt05zJWiMUOFa57GEFC.jpg",
+        "credit_id": "62118244e92d8300428b291a",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2006502,
+        "known_for_department": "Editing",
+        "name": "Brit DeLillo",
+        "original_name": "Brit DeLillo",
+        "popularity": 0.1316,
+        "profile_path": "/xbeuxuWPk20OIHAQ5nuBBeHbDmh.jpg",
+        "credit_id": "60fbe428848eb900494b8953",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1769896,
+        "known_for_department": "Art",
+        "name": "Nelson Yokota",
+        "original_name": "Nelson Yokota",
+        "popularity": 0.145,
+        "profile_path": null,
+        "credit_id": "62d00e92394a8704b0223852",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69797,
+        "known_for_department": "Directing",
+        "name": "Dean DeBlois",
+        "original_name": "Dean DeBlois",
+        "popularity": 0.8104,
+        "profile_path": "/nnaiwvrJdfjpsdqjuyYlq9S0uMA.jpg",
+        "credit_id": "54cd6a08c3a3687f8000238e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1447381,
+        "known_for_department": "Visual Effects",
+        "name": "Simon Otto",
+        "original_name": "Simon Otto",
+        "popularity": 0.3366,
+        "profile_path": "/fwa4xcFic7w42r3sUQb9LGIN6x9.jpg",
+        "credit_id": "55404d63c3a36829e5000702",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11098,
+        "known_for_department": "Sound",
+        "name": "John Powell",
+        "original_name": "John Powell",
+        "popularity": 0.9872,
+        "profile_path": "/trywZMdhKM04PL1lH5OECXRxL1u.jpg",
+        "credit_id": "63971c832cefc200d1738434",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1999453,
+        "known_for_department": "Visual Effects",
+        "name": "Andrew Harkins",
+        "original_name": "Andrew Harkins",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "63ba11affa40460087555cef",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2008023,
+        "known_for_department": "Editing",
+        "name": "Natalia Cronembold",
+        "original_name": "Natalia Cronembold",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "credit_id": "63c836bf142ef100dacf976e",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276559,
+        "known_for_department": "Production",
+        "name": "John Powers Middleton",
+        "original_name": "John Powers Middleton",
+        "popularity": 0.3826,
+        "profile_path": "/l1h0ZfBBCzCzbHnD9LF1YM0M2Ho.jpg",
+        "credit_id": "585d457b92514123bf00baff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726864,
+        "known_for_department": "Visual Effects",
+        "name": "Christina N. de Juan",
+        "original_name": "Christina N. de Juan",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "585d461dc3a368409600d2f8",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516077,
+        "known_for_department": "Production",
+        "name": "Michael A. Connolly",
+        "original_name": "Michael A. Connolly",
+        "popularity": 0.0893,
+        "profile_path": "/cOhSHNUcPiVpCo9UYOBkWKO0ZRg.jpg",
+        "credit_id": "585d4518c3a368409000caf4",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21035,
+        "known_for_department": "Production",
+        "name": "Doug Davison",
+        "original_name": "Doug Davison",
+        "popularity": 0.2203,
+        "profile_path": null,
+        "credit_id": "585d4525c3a368409000cafd",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1464419,
+        "known_for_department": "Visual Effects",
+        "name": "Megha Davalath",
+        "original_name": "Megha Davalath",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "585d46b7c3a368408a00b430",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1690241,
+        "known_for_department": "Sound",
+        "name": "Chris Hewitt",
+        "original_name": "Chris Hewitt",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "585d46f39251410fd9002c97",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1438903,
+        "known_for_department": "Sound",
+        "name": "Tighe Sheldon",
+        "original_name": "Tighe Sheldon",
+        "popularity": 0.2126,
+        "profile_path": null,
+        "credit_id": "585d45e2c3a368409000cb73",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21036,
+        "known_for_department": "Production",
+        "name": "Roy Lee",
+        "original_name": "Roy Lee",
+        "popularity": 0.5381,
+        "profile_path": "/fMY0MiVyrGaK44ejqWzT2txcRVI.jpg",
+        "credit_id": "585d455492514123c500b676",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726862,
+        "known_for_department": "Production",
+        "name": "Brent Hutchins",
+        "original_name": "Brent Hutchins",
+        "popularity": 0.1964,
+        "profile_path": null,
+        "credit_id": "585d45b592514123b900ba74",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726865,
+        "known_for_department": "Visual Effects",
+        "name": "Willem Drees",
+        "original_name": "Willem Drees",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "585d463092514123c200bb82",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726866,
+        "known_for_department": "Visual Effects",
+        "name": "Colleen O'Hagan",
+        "original_name": "Colleen O'Hagan",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "585d4648c3a368408600bc46",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12894,
+        "known_for_department": "Production",
+        "name": "Bonnie Arnold",
+        "original_name": "Bonnie Arnold",
+        "popularity": 0.1946,
+        "profile_path": "/fFU68wkvil1w8gOjwCzzHysKJP0.jpg",
+        "credit_id": "585d450692514123c200bad1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726869,
+        "known_for_department": "Visual Effects",
+        "name": "Leo Sanchez Barbosa",
+        "original_name": "Leo Sanchez Barbosa",
+        "popularity": 0.1958,
+        "profile_path": null,
+        "credit_id": "585d46cf92514123c800b583",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726871,
+        "known_for_department": "Production",
+        "name": "Tucker Scott Alleborn",
+        "original_name": "Tucker Scott Alleborn",
+        "popularity": 0.0786,
+        "profile_path": null,
+        "credit_id": "585d4724c3a368408c00ad07",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69797,
+        "known_for_department": "Directing",
+        "name": "Dean DeBlois",
+        "original_name": "Dean DeBlois",
+        "popularity": 0.8104,
+        "profile_path": "/nnaiwvrJdfjpsdqjuyYlq9S0uMA.jpg",
+        "credit_id": "585d453c92514123b600b431",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726867,
+        "known_for_department": "Visual Effects",
+        "name": "Hongseo Park",
+        "original_name": "Hongseo Park",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "585d465fc3a368408c00acb5",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726868,
+        "known_for_department": "Visual Effects",
+        "name": "Dave Walvoord",
+        "original_name": "Dave Walvoord",
+        "popularity": 0.1616,
+        "profile_path": null,
+        "credit_id": "585d467892514123c200bba0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726872,
+        "known_for_department": "Crew",
+        "name": "Jennifer J. Pan",
+        "original_name": "Jennifer J. Pan",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "585d475792514123c500b79e",
+        "department": "Crew",
+        "job": "Supervising Technical Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3167383,
+        "known_for_department": "Directing",
+        "name": "Stephanie Ma Stine",
+        "original_name": "Stephanie Ma Stine",
+        "popularity": 0.1104,
+        "profile_path": "/iIIz49ZbLKgIYP3hG2TSWbEJDiH.jpg",
+        "credit_id": "644a7846b1131f05711a88b0",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64150,
+        "known_for_department": "Writing",
+        "name": "Cressida Cowell",
+        "original_name": "Cressida Cowell",
+        "popularity": 0.178,
+        "profile_path": "/z0E63bgCszJjWAEeD4uIwfCWwOZ.jpg",
+        "credit_id": "647662dd1f98d10283a6006b",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42267,
+        "known_for_department": "Sound",
+        "name": "Randy Thom",
+        "original_name": "Randy Thom",
+        "popularity": 0.4149,
+        "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+        "credit_id": "648de0ca2f8d09011d23d49e",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42267,
+        "known_for_department": "Sound",
+        "name": "Randy Thom",
+        "original_name": "Randy Thom",
+        "popularity": 0.4149,
+        "profile_path": "/oWv5U4r7NcIlQjs0IxMWE3dsx2l.jpg",
+        "credit_id": "648de07e2f8d0900e3854ff0",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1561360,
+        "known_for_department": "Sound",
+        "name": "Brian Chumney",
+        "original_name": "Brian Chumney",
+        "popularity": 0.2524,
+        "profile_path": "/hioKZVbtglGhL0rdI9mjqf2AwEe.jpg",
+        "credit_id": "648de115263462010cbbaaae",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32532,
+        "known_for_department": "Production",
+        "name": "Bradford Lewis",
+        "original_name": "Bradford Lewis",
+        "popularity": 0.2792,
+        "profile_path": "/vNLowLsybQndFzQH1FKNMgVXjqf.jpg",
+        "credit_id": "648de03b559d2200e20612ce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138618,
+        "known_for_department": "Sound",
+        "name": "Gary Rizzo",
+        "original_name": "Gary Rizzo",
+        "popularity": 0.4903,
+        "profile_path": "/m8vT9fYRLwM8WPpJiq8QIMBSueQ.jpg",
+        "credit_id": "648de14c559d2200ff10af06",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1415463,
+        "known_for_department": "Sound",
+        "name": "Scott R. Lewis",
+        "original_name": "Scott R. Lewis",
+        "popularity": 0.2277,
+        "profile_path": null,
+        "credit_id": "648de170559d2200e206137e",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2017134,
+        "known_for_department": "Sound",
+        "name": "Batu Sener",
+        "original_name": "Batu Sener",
+        "popularity": 0.1452,
+        "profile_path": "/xh1v2k9JL0vSHb9cIpnG5k7Ydr2.jpg",
+        "credit_id": "66b2af720aa2189f515171e2",
+        "department": "Crew",
+        "job": "Additional Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69613,
+        "known_for_department": "Editing",
+        "name": "John K. Carr",
+        "original_name": "John K. Carr",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "5c5b0f92c3a3684c23870739",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001795,
+        "known_for_department": "Art",
+        "name": "Pierre-Olivier Vincent",
+        "original_name": "Pierre-Olivier Vincent",
+        "popularity": 0.1559,
+        "profile_path": null,
+        "credit_id": "5c5b0fb9c3a3683cc487ceb6",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726870,
+        "known_for_department": "Camera",
+        "name": "Gil Zimmerman",
+        "original_name": "Gil Zimmerman",
+        "popularity": 0.1393,
+        "profile_path": null,
+        "credit_id": "5d681a4f13af5f0011bbc09f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1814572,
+        "known_for_department": "Production",
+        "name": "Jed Schlanger",
+        "original_name": "Jed Schlanger",
+        "popularity": 0.0767,
+        "profile_path": null,
+        "credit_id": "5df01779eda4b7001803a041",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017048,
+        "known_for_department": "Production",
+        "name": "Peter Litvack",
+        "original_name": "Peter Litvack",
+        "popularity": 0.068,
+        "profile_path": null,
+        "credit_id": "5df017e6c5c1ef0013a0e728",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1516075,
+        "known_for_department": "Production",
+        "name": "Kate Spencer",
+        "original_name": "Kate Spencer",
+        "popularity": 0.0853,
+        "profile_path": "/5V0CSPoRxDH51sLRcTjval3dGpQ.jpg",
+        "credit_id": "5df017956a34480018c71532",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66193,
+        "known_for_department": "Directing",
+        "name": "Chris Sanders",
+        "original_name": "Chris Sanders",
+        "popularity": 1.5818,
+        "profile_path": "/6CtrIOCxggJ5eIAWeFQqd4Hs9FP.jpg",
+        "credit_id": "5df017634b0c6300134a51e8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2132731,
+        "known_for_department": "Production",
+        "name": "Henri Hovhanesyan",
+        "original_name": "Henri Hovhanesyan",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "5df017cb1dbc880012ac24c8",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017479,
+        "known_for_department": "Production",
+        "name": "Mary Melendez",
+        "original_name": "Mary Melendez",
+        "popularity": 0.047,
+        "profile_path": null,
+        "credit_id": "5df017f51dbc880016ac2a1b",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1726862,
+        "known_for_department": "Production",
+        "name": "Brent Hutchins",
+        "original_name": "Brent Hutchins",
+        "popularity": 0.1964,
+        "profile_path": null,
+        "credit_id": "5df017d91dbc880012ac24cc",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2012548,
+        "known_for_department": "Production",
+        "name": "Tyler Shelton",
+        "original_name": "Tyler Shelton",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5df01803688cd00017226eff",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2479789,
+        "known_for_department": "Production",
+        "name": "Allison Bernardi Stauth",
+        "original_name": "Allison Bernardi Stauth",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "5df01811688cd00017226f0c",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2479786,
+        "known_for_department": "Production",
+        "name": "Jessica Bayliss",
+        "original_name": "Jessica Bayliss",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5df017bb4b0c6300154a34af",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2627293,
+        "known_for_department": "Directing",
+        "name": "Chris Palmer",
+        "original_name": "Chris Palmer",
+        "popularity": 0.335,
+        "profile_path": "/oTMXuXkfqJHnaLSZPmFIzSUP3TT.jpg",
+        "credit_id": "5eb275ca1fb94f001cf2acbe",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2867496,
+        "known_for_department": "Crew",
+        "name": "Lisa Curtis Saunders",
+        "original_name": "Lisa Curtis Saunders",
+        "popularity": 0.1782,
+        "profile_path": null,
+        "credit_id": "5fbc12c3d5569700411b5791",
+        "department": "Visual Effects",
+        "job": "Pipeline Technical Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1618836,
+        "known_for_department": "Sound",
+        "name": "Danielle Dupre",
+        "original_name": "Danielle Dupre",
+        "popularity": 0.2631,
+        "profile_path": "/sQBwFVHY40P1KngSw1HS3EVrSWQ.jpg",
+        "credit_id": "67b66ca8ff827e10c4ca3d37",
+        "department": "Sound",
+        "job": "Sound Re-Recording Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69797,
+        "known_for_department": "Directing",
+        "name": "Dean DeBlois",
+        "original_name": "Dean DeBlois",
+        "popularity": 0.8104,
+        "profile_path": "/nnaiwvrJdfjpsdqjuyYlq9S0uMA.jpg",
+        "credit_id": "68c9f70189674e3b61c7f391",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 334,
+        "name": "flying"
+      },
+      {
+        "id": 2803,
+        "name": "affectation"
+      },
+      {
+        "id": 3289,
+        "name": "villain"
+      },
+      {
+        "id": 4232,
+        "name": "melancholy"
+      },
+      {
+        "id": 5895,
+        "name": "vikings (norsemen)"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 5113,
+        "name": "overpopulation"
+      },
+      {
+        "id": 12554,
+        "name": "dragon"
+      },
+      {
+        "id": 13118,
+        "name": "love interest"
+      },
+      {
+        "id": 15101,
+        "name": "based on children's book"
+      },
+      {
+        "id": 159103,
+        "name": "mourning"
+      },
+      {
+        "id": 190531,
+        "name": "speculative"
+      },
+      {
+        "id": 197582,
+        "name": "mysterious"
+      },
+      {
+        "id": 210434,
+        "name": "thoughtful"
+      },
+      {
+        "id": 211659,
+        "name": "somber"
+      },
+      {
+        "id": 212737,
+        "name": "philosophical"
+      },
+      {
+        "id": 225219,
+        "name": "reflective"
+      },
+      {
+        "id": 239797,
+        "name": "complex"
+      },
+      {
+        "id": 240422,
+        "name": "wonder"
+      },
+      {
+        "id": 259376,
+        "name": "playful"
+      },
+      {
+        "id": 269808,
+        "name": "introspective"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      },
+      {
+        "id": 291153,
+        "name": "grand"
+      },
+      {
+        "id": 292593,
+        "name": "intimate"
+      },
+      {
+        "id": 303310,
+        "name": "joyous"
+      },
+      {
+        "id": 311315,
+        "name": "dramatic"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      },
+      {
+        "id": 315310,
+        "name": "reminiscent"
+      },
+      {
+        "id": 319319,
+        "name": "sentimental"
+      },
+      {
+        "id": 319397,
+        "name": "witty"
+      },
+      {
+        "id": 321464,
+        "name": "intense"
+      },
+      {
+        "id": 324429,
+        "name": "romantic"
+      },
+      {
+        "id": 324713,
+        "name": "whimsical"
+      },
+      {
+        "id": 325761,
+        "name": "admiring"
+      },
+      {
+        "id": 325762,
+        "name": "adoring"
+      },
+      {
+        "id": 325763,
+        "name": "ambiguous"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 325768,
+        "name": "apologetic"
+      },
+      {
+        "id": 325769,
+        "name": "appreciative"
+      },
+      {
+        "id": 325770,
+        "name": "approving"
+      },
+      {
+        "id": 325775,
+        "name": "awestruck"
+      },
+      {
+        "id": 325778,
+        "name": "bold"
+      },
+      {
+        "id": 325781,
+        "name": "celebratory"
+      },
+      {
+        "id": 325784,
+        "name": "comforting"
+      },
+      {
+        "id": 325786,
+        "name": "compassionate"
+      },
+      {
+        "id": 325787,
+        "name": "complicated"
+      },
+      {
+        "id": 325806,
+        "name": "empathetic"
+      },
+      {
+        "id": 325807,
+        "name": "enchant"
+      },
+      {
+        "id": 325809,
+        "name": "enthusiastic"
+      },
+      {
+        "id": 325813,
+        "name": "exuberant"
+      },
+      {
+        "id": 325840,
+        "name": "optimistic"
+      },
+      {
+        "id": 325842,
+        "name": "powerful"
+      },
+      {
+        "id": 325849,
+        "name": "sincere"
+      },
+      {
+        "id": 325853,
+        "name": "sympathetic"
+      },
+      {
+        "id": 325856,
+        "name": "vibrant"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "Atp",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "8",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "KT/EA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "B",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-05-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-06-14T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2019-06-05T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2022-02-12T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Netflix",
+            "release_date": "2026-01-09T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu-Ray & 4K UHD",
+            "release_date": "2019-06-12T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Gulli",
+            "release_date": "2025-12-12T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-06-10T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "K",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-04-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "I",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu-ray, 4k UHD",
+            "release_date": "2019-06-27T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-01-16T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "SU",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Italia 1",
+            "release_date": "2021-04-24T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-12-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "V",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-03-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "P13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu ray",
+            "release_date": "2019-06-05T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "Apt",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "R-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-20T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-18T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "b.o.",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "AP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "ZA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": " B&H",
+            "release_date": "2019-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-05-07T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-05-21T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "P",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "7-9",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

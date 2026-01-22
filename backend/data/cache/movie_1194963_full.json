@@ -1,0 +1,940 @@
+{
+  "adult": false,
+  "backdrop_path": "/zeMMVjOFwXPfRIW6HzaEr0UQlRY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://a2filmes.com.br/details/2994",
+  "id": 1194963,
+  "imdb_id": "tt29845247",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "노이즈",
+  "overview": "Decidida a desvendar o mistério do desaparecimento de sua irmã, uma jovem com deficiência auditiva inicia uma investigação própria. O que começa como uma busca por respostas rapidamente se transforma em um pesadelo: ela passa a perceber sons estranhos e a notar uma presença maligna que a cerca, revelando uma nova e aterrorizante dimensão de sua deficiência.",
+  "popularity": 27.5558,
+  "poster_path": "/rrpmagxxjp399rwkkpZTp6FlioT.jpg",
+  "production_companies": [
+    {
+      "id": 11590,
+      "logo_path": "/7OOrgnVw0RAX3tq8ikWUmNud8qT.png",
+      "name": "Finecut",
+      "origin_country": "KR"
+    },
+    {
+      "id": 175846,
+      "logo_path": "/nvDW10govwZjHWfYMeisgHhyZg0.png",
+      "name": "BY4M Studio",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-06-25",
+  "revenue": 12199988,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mesmo que você não os veja... Você vai ouvi-los.",
+  "title": "Ruídos",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1716008,
+        "known_for_department": "Acting",
+        "name": "이선빈",
+        "original_name": "이선빈",
+        "popularity": 1.6817,
+        "profile_path": "/8YwNd9PhSym4357gCu9RCDdPXqx.jpg",
+        "cast_id": 1,
+        "character": "Joo-young",
+        "credit_id": "6535e5168cfcc700c83e4d52",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1256347,
+        "known_for_department": "Acting",
+        "name": "Kim Min-seok",
+        "original_name": "김민석",
+        "popularity": 0.8895,
+        "profile_path": "/A8POmaPo3zo95dyHQeT4irCAMjn.jpg",
+        "cast_id": 2,
+        "character": "Gi-hun",
+        "credit_id": "6535e51ac14fee011de85c01",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2431103,
+        "known_for_department": "Acting",
+        "name": "전익령",
+        "original_name": "전익령",
+        "popularity": 0.6697,
+        "profile_path": "/aBfBZ4JqmFBoLSDah860sEX5ggE.jpg",
+        "cast_id": 5,
+        "character": "Jeong-in",
+        "credit_id": "6535e55391f0ea013888ee07",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2239782,
+        "known_for_department": "Acting",
+        "name": "Ryu Kyung Soo",
+        "original_name": "류경수",
+        "popularity": 0.6353,
+        "profile_path": "/4tjiTN3osUTaXE8lFAyK2Sjl8Lw.jpg",
+        "cast_id": 3,
+        "character": "Park Geun-bae",
+        "credit_id": "6535e52102842000e2f5b49e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3652323,
+        "known_for_department": "Acting",
+        "name": "한수아",
+        "original_name": "한수아",
+        "popularity": 0.6661,
+        "profile_path": "/gFOoNJK0l3wginNKrsjBpPwVnxf.jpg",
+        "cast_id": 6,
+        "character": "Joo-hee",
+        "credit_id": "6535e5a52b210800ff84f905",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3138793,
+        "known_for_department": "Acting",
+        "name": "백주희",
+        "original_name": "백주희",
+        "popularity": 0.5064,
+        "profile_path": "/2WQk6ZY1Cj50WQMrJyUim9cDvdC.jpg",
+        "cast_id": 8,
+        "character": "Head of the Women's Association",
+        "credit_id": "65a61b41d363e501250b0a1d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420868,
+        "known_for_department": "Acting",
+        "name": "김경룡",
+        "original_name": "김경룡",
+        "popularity": 0.3361,
+        "profile_path": "/vfYnwETLR49Ai6rkDisMWq3KxpJ.jpg",
+        "cast_id": 37,
+        "character": "Security Guard",
+        "credit_id": "68eb759a110abb03e9786dc2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2499503,
+        "known_for_department": "Acting",
+        "name": "한철우",
+        "original_name": "한철우",
+        "popularity": 0.2812,
+        "profile_path": "/yq47IFTkxfn0qtDNnT7XLq3DB6s.jpg",
+        "cast_id": 38,
+        "character": "Detective",
+        "credit_id": "68eb75abfc2926003f1a27f4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4154923,
+        "known_for_department": "Acting",
+        "name": "최은경",
+        "original_name": "최은경",
+        "popularity": 0.1273,
+        "profile_path": "/jVhdBdpzeQb6SFQKxvzK8R3sgl.jpg",
+        "cast_id": 39,
+        "character": "Management Director",
+        "credit_id": "68eb75fc9d4b0c1fe8321c57",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5744623,
+        "known_for_department": "Acting",
+        "name": "지성은",
+        "original_name": "지성은",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Ex-Head",
+        "credit_id": "68eb764ba9e47e0ec64b1a9e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5024049,
+        "known_for_department": "Acting",
+        "name": "송우림",
+        "original_name": "송우림",
+        "popularity": 0.0752,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Detective",
+        "credit_id": "68eb7695edf4e655e0321b7c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4156722,
+        "known_for_department": "Acting",
+        "name": "안석현",
+        "original_name": "안석현",
+        "popularity": 0.1025,
+        "profile_path": "/cgpVETUv8L239EULyvMa49uU9x8.jpg",
+        "cast_id": 42,
+        "character": "Yeon-woo",
+        "credit_id": "68eb76a09d4b0c1fe8321c64",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2441956,
+        "known_for_department": "Directing",
+        "name": "김수진",
+        "original_name": "김수진",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6604d4682811a10186da7058",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5296511,
+        "known_for_department": "Directing",
+        "name": "이제희",
+        "original_name": "이제희",
+        "popularity": 0.0519,
+        "profile_path": "/8qCpVI6P81BGw1uPRsIA7fYpzZB.jpg",
+        "credit_id": "67cfccf6b5ee0e397c60793c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2441956,
+        "known_for_department": "Directing",
+        "name": "김수진",
+        "original_name": "김수진",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "68eb7186b573faa2ba8aaa8c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1175717,
+        "known_for_department": "Writing",
+        "name": "Kwon Sung-hui",
+        "original_name": "Kwon Sung-hui",
+        "popularity": 0.4035,
+        "profile_path": null,
+        "credit_id": "68eb718d33f920c6cb1f67b6",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1136456,
+        "known_for_department": "Production",
+        "name": "서영주",
+        "original_name": "서영주",
+        "popularity": 0.1571,
+        "profile_path": null,
+        "credit_id": "68eb7196912e14e90e645c78",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2868213,
+        "known_for_department": "Production",
+        "name": "Choi Jin",
+        "original_name": "Choi Jin",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "68eb723a2cfdc4d2b81a28de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1882971,
+        "known_for_department": "Production",
+        "name": "최평호",
+        "original_name": "최평호",
+        "popularity": 0.2419,
+        "profile_path": "/7SJvgfiBFDJmptRxPw2WjogFCSS.jpg",
+        "credit_id": "68eb72429d4b0c1fe8321c40",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4086284,
+        "known_for_department": "Lighting",
+        "name": "신태섭",
+        "original_name": "신태섭",
+        "popularity": 0.1054,
+        "profile_path": null,
+        "credit_id": "68eb72585dcf94957c4b1b7b",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327590,
+        "known_for_department": "Editing",
+        "name": "Kim Woo-hyun",
+        "original_name": "Kim Woo-hyun",
+        "popularity": 0.3885,
+        "profile_path": null,
+        "credit_id": "68eb7262c0d78ddb1c4b1aab",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3570882,
+        "known_for_department": "Editing",
+        "name": "김하나",
+        "original_name": "김하나",
+        "popularity": 0.1139,
+        "profile_path": null,
+        "credit_id": "68eb726922c209798ac3e185",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3929443,
+        "known_for_department": "Sound",
+        "name": "Heo Jun-hyuk",
+        "original_name": "Heo Jun-hyuk",
+        "popularity": 0.1045,
+        "profile_path": null,
+        "credit_id": "68eb72769dcf1d1612645c81",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5744592,
+        "known_for_department": "Art",
+        "name": "고승효",
+        "original_name": "고승효",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "68eb728092dc027dfb645bdf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5134859,
+        "known_for_department": "Art",
+        "name": "김기환",
+        "original_name": "김기환",
+        "popularity": 0.1112,
+        "profile_path": null,
+        "credit_id": "68eb7289516bafb340c3e0a1",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3567972,
+        "known_for_department": "Art",
+        "name": "김순근",
+        "original_name": "김순근",
+        "popularity": 0.2173,
+        "profile_path": null,
+        "credit_id": "68eb7291fc2926003f1a27ef",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1295503,
+        "known_for_department": "Costume & Make-Up",
+        "name": "홍수희",
+        "original_name": "홍수희",
+        "popularity": 0.1687,
+        "profile_path": null,
+        "credit_id": "68eb72991346947138321c12",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2660149,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lee Jin-young",
+        "original_name": "Lee Jin-young",
+        "popularity": 0.1642,
+        "profile_path": null,
+        "credit_id": "68eb72a222c209798ac3e198",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4037943,
+        "known_for_department": "Sound",
+        "name": "Lee Si-hun",
+        "original_name": "Lee Si-hun",
+        "popularity": 0.2015,
+        "profile_path": null,
+        "credit_id": "68eb72adfdd60a57f91f67dd",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2100274,
+        "known_for_department": "Sound",
+        "name": "박용기",
+        "original_name": "박용기",
+        "popularity": 0.3386,
+        "profile_path": null,
+        "credit_id": "68eb72b57b5707fccec3e153",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5744593,
+        "known_for_department": "Costume & Make-Up",
+        "name": "박영무",
+        "original_name": "박영무",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "68eb72c14da206b60ac3e010",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2499606,
+        "known_for_department": "Sound",
+        "name": "박진홍",
+        "original_name": "박진홍",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "credit_id": "68eb72c8f158f4482f9fdce6",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197563,
+        "known_for_department": "Visual Effects",
+        "name": "Hong Jang-pyo",
+        "original_name": "Hong Jang-pyo",
+        "popularity": 0.3784,
+        "profile_path": null,
+        "credit_id": "68eb72d115c3bae5a6c3df76",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4038044,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Gwang-wook",
+        "original_name": "Kim Gwang-wook",
+        "popularity": 0.2079,
+        "profile_path": null,
+        "credit_id": "68eb72e2217e125562c3e04a",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2508128,
+        "known_for_department": "Visual Effects",
+        "name": "손승현",
+        "original_name": "손승현",
+        "popularity": 0.2521,
+        "profile_path": null,
+        "credit_id": "68eb72e9e47612f98f8aab24",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3891529,
+        "known_for_department": "Crew",
+        "name": "Kim Tae-kang",
+        "original_name": "Kim Tae-kang",
+        "popularity": 0.2142,
+        "profile_path": null,
+        "credit_id": "68eb72f00a47a461f8645bdf",
+        "department": "Crew",
+        "job": "Martial Arts Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5744594,
+        "known_for_department": "Directing",
+        "name": "전용덕",
+        "original_name": "전용덕",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "68eb72fad21130d37fc3e0f4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3979776,
+        "known_for_department": "Editing",
+        "name": "Kim Won-hak",
+        "original_name": "Kim Won-hak",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "credit_id": "68eb7305a0d96cd5a1645c8d",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5744595,
+        "known_for_department": "Camera",
+        "name": "김현수",
+        "original_name": "김현수",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "68eb731e33f920c6cb1f67c2",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1326164,
+        "known_for_department": "Camera",
+        "name": "전홍규",
+        "original_name": "전홍규",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "68eb73a1706328de011a26aa",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 352721,
+        "name": "inter-floor noise"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Korean Film Weekend",
+            "release_date": "2025-09-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Korean Film Festival",
+            "release_date": "2025-10-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "16",
+            "descriptors": [
+              "Inappropriate Language",
+              "Fear",
+              "Violence"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasia International Film Festival",
+            "release_date": "2025-07-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Neuchâtel International Fantastic Film Festival",
+            "release_date": "2025-07-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasy Filmfest Nights",
+            "release_date": "2025-05-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sitges Film Festival",
+            "release_date": "2024-10-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Strasbourg European Fantastic Film Festival",
+            "release_date": "2025-10-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "IIB",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hong Kong Asian Film Festival",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Florence Korea Film Fest",
+            "release_date": "2025-03-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kosmorama Trondheim International Film Festival",
+            "release_date": "2025-03-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Transilvania International Film Festival",
+            "release_date": "2025-06-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

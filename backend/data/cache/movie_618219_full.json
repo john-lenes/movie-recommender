@@ -1,0 +1,766 @@
+{
+  "adult": false,
+  "backdrop_path": "/hBPV18ocvkYbiD9kOJRgorPo5O8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "Guerra"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    }
+  ],
+  "homepage": "",
+  "id": 618219,
+  "imdb_id": "tt9252468",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "ar",
+  "original_title": "الموصل",
+  "overview": "Após ser salvo por um esquadrão iraquiano, um jovem oficial de polícia se junta a eles na luta contra o Estado Islâmico na cidade de Mosul.",
+  "popularity": 5.0796,
+  "poster_path": "/dW1UNgDkVNreqYJk1YKo4ACa705.jpg",
+  "production_companies": [
+    {
+      "id": 106544,
+      "logo_path": "/psd84iF7PTGrKf4yFOStKj8JbAh.png",
+      "name": "AGBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-09-04",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mosul",
+  "video": false,
+  "vote_average": 6.676,
+  "vote_count": 332,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2402750,
+        "known_for_department": "Acting",
+        "name": "Suhail Dabbach",
+        "original_name": "Suhail Dabbach",
+        "popularity": 0.3778,
+        "profile_path": "/pBoXG86unmX5OuoA5aKkJfIrFVR.jpg",
+        "cast_id": 3,
+        "character": "Jasem",
+        "credit_id": "5d6e4ff49ae61300120b0b32",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1886169,
+        "known_for_department": "Acting",
+        "name": "Adam Bessa",
+        "original_name": "Adam Bessa",
+        "popularity": 0.6911,
+        "profile_path": "/v8y5C5AA4G9Wr8ZbOZ0zbfNymIW.jpg",
+        "cast_id": 4,
+        "character": "Kawa",
+        "credit_id": "5d6e4ffe65686e24f087cf66",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2402751,
+        "known_for_department": "Acting",
+        "name": "Is'haq Elias",
+        "original_name": "Is'haq Elias",
+        "popularity": 0.3785,
+        "profile_path": "/cxPbekGzIE1NNGOJdcxXHgk9POx.jpg",
+        "cast_id": 5,
+        "character": "Waleed",
+        "credit_id": "5d6e500700fb6b0012e049a3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1337806,
+        "known_for_department": "Acting",
+        "name": "Waleed Elgadi",
+        "original_name": "Waleed Elgadi",
+        "popularity": 0.4886,
+        "profile_path": "/7YOAlGYW2TnDbi76gWBqOfEEhjK.jpg",
+        "cast_id": 21,
+        "character": "Colonel Kaveh Afsahani",
+        "credit_id": "5d813ed65545ca0014dd5e58",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1743875,
+        "known_for_department": "Acting",
+        "name": "Hayat Kamille",
+        "original_name": "Hayat Kamille",
+        "popularity": 1.2431,
+        "profile_path": "/ftzaSEGIEn5uLHy8U7uQrXC7SZc.jpg",
+        "cast_id": 22,
+        "character": "Hayat",
+        "credit_id": "5d813ee2a14bef00143767dc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2413279,
+        "known_for_department": "Acting",
+        "name": "Mohimen Mahbuba",
+        "original_name": "Mohimen Mahbuba",
+        "popularity": 0.197,
+        "profile_path": "/9hWMxjjEhZ3UczqW4JmQON5mcle.jpg",
+        "cast_id": 23,
+        "character": "Amir",
+        "credit_id": "5d813f0abe55b70020bfcd22",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2874182,
+        "known_for_department": "Acting",
+        "name": "Thaer Al-Shayei",
+        "original_name": "Thaer Al-Shayei",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Hooka",
+        "credit_id": "5fc32246a885870042075cfc",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489801,
+        "known_for_department": "Acting",
+        "name": "Ben Affan",
+        "original_name": "Ben Affan",
+        "popularity": 0.2212,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Actor",
+        "credit_id": "5fc322e35800c40041f3d064",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1601114,
+        "known_for_department": "Acting",
+        "name": "Qutaiba Abdelhaq",
+        "original_name": "Qutaiba Abdelhaq",
+        "popularity": 0.1278,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Kamal",
+        "credit_id": "5fc3231a875d1a003ff1d26f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2063640,
+        "known_for_department": "Acting",
+        "name": "Abbas Abdulghani",
+        "original_name": "Abbas Abdulghani",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Home Owner",
+        "credit_id": "5fc3233163536a003f25a888",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2839300,
+        "known_for_department": "Acting",
+        "name": "Ahmed Adel",
+        "original_name": "Ahmed Adel",
+        "popularity": 0.1793,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Ahmed",
+        "credit_id": "5fc3234eb84f9400410a9729",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2050623,
+        "known_for_department": "Acting",
+        "name": "Mohamed Attougui",
+        "original_name": "Mohamed Attougui",
+        "popularity": 0.1627,
+        "profile_path": "/8m5U85nNmPg8DioOJOHUlzFs4iD.jpg",
+        "cast_id": 29,
+        "character": "Akram",
+        "credit_id": "5fc32365d2f5b5003ed786db",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2874183,
+        "known_for_department": "Acting",
+        "name": "Mahdi Chalkhaoui",
+        "original_name": "Mahdi Chalkhaoui",
+        "popularity": 0.0662,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Children",
+        "credit_id": "5fc323793a340b003fdd0f67",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2874184,
+        "known_for_department": "Acting",
+        "name": "Ahmad Ghanem",
+        "original_name": "Ahmad Ghanem",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Sinan",
+        "credit_id": "5fc32388420228003fc1a758",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1944280,
+        "known_for_department": "Acting",
+        "name": "Faycal Zeglat",
+        "original_name": "Faycal Zeglat",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Enemy captive #1",
+        "credit_id": "5fc323c74d6791003bd92fe2",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2324210,
+        "known_for_department": "Acting",
+        "name": "Mehdi Lamrini",
+        "original_name": "Mehdi Lamrini",
+        "popularity": 0.0699,
+        "profile_path": "/357q1yHK1dIE5FLBF1aGm7tHrbk.jpg",
+        "cast_id": 33,
+        "character": "Enemy Captive #2",
+        "credit_id": "5fc323b3875d1a003df15b57",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2486761,
+        "known_for_department": "Acting",
+        "name": "Tarik Rmili",
+        "original_name": "Tarik Rmili",
+        "popularity": 0.1334,
+        "profile_path": "/bPicmRiIenBlIzdBZcE5xJwhBhN.jpg",
+        "cast_id": 35,
+        "character": "Kawa's uncle",
+        "credit_id": "5fc323ec3a340b0041dd4f43",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1947475,
+        "known_for_department": "Acting",
+        "name": "Anouar H. Smaine",
+        "original_name": "Anouar H. Smaine",
+        "popularity": 0.1273,
+        "profile_path": "/3hpWQvZBeLmfiNQk2CAdhm0Rt5f.jpg",
+        "cast_id": 36,
+        "character": "Muezzin (voice)",
+        "credit_id": "5fc323f9174a870041e27be7",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2874186,
+        "known_for_department": "Acting",
+        "name": "Youssef Tounzi",
+        "original_name": "Youssef Tounzi",
+        "popularity": 0.0762,
+        "profile_path": "/mB3GJfftLnZ1srclfewwSdiM6vS.jpg",
+        "cast_id": 37,
+        "character": "Fighter Tears",
+        "credit_id": "5fc32404174a870042e25c74",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212749,
+        "known_for_department": "Acting",
+        "name": "Birol Tarkan Yıldız",
+        "original_name": "Birol Tarkan Yıldız",
+        "popularity": 0.3147,
+        "profile_path": "/dfgtqEQ3nEB3NGRgegDuykga7hE.jpg",
+        "cast_id": 38,
+        "character": "Omar",
+        "credit_id": "5fc3240e813cb6004075e02f",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36603,
+        "known_for_department": "Writing",
+        "name": "Matthew Michael Carnahan",
+        "original_name": "Matthew Michael Carnahan",
+        "popularity": 0.4517,
+        "profile_path": "/kDdBnUT9aFfEKpOm8TY1oYUUfF.jpg",
+        "credit_id": "5d39882ce54d5d4654ddf206",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36603,
+        "known_for_department": "Writing",
+        "name": "Matthew Michael Carnahan",
+        "original_name": "Matthew Michael Carnahan",
+        "popularity": 0.4517,
+        "profile_path": "/kDdBnUT9aFfEKpOm8TY1oYUUfF.jpg",
+        "credit_id": "5d3b7ca6df857c0011288a8e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405917,
+        "known_for_department": "Production",
+        "name": "Mike Larocca",
+        "original_name": "Mike Larocca",
+        "popularity": 0.3092,
+        "profile_path": "/rGM3x60aOk0jtl9XaTAbQaIGg4V.jpg",
+        "credit_id": "5d6e504d9ae61300110b07eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640634,
+        "known_for_department": "Production",
+        "name": "Jeremy Steckler",
+        "original_name": "Jeremy Steckler",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "5d6e505900fb6b0011e04b07",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1917248,
+        "known_for_department": "Production",
+        "name": "Dawn Ostroff",
+        "original_name": "Dawn Ostroff",
+        "popularity": 0.1867,
+        "profile_path": null,
+        "credit_id": "5d6e506500fb6b0014e04947",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19272,
+        "known_for_department": "Directing",
+        "name": "Joe Russo",
+        "original_name": "Joe Russo",
+        "popularity": 1.453,
+        "profile_path": "/o0OXjFzL10jCy89iAs7UzzSbyoK.jpg",
+        "credit_id": "5d6e50e2a284eb01bf34103c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19271,
+        "known_for_department": "Directing",
+        "name": "Anthony Russo",
+        "original_name": "Anthony Russo",
+        "popularity": 1.4083,
+        "profile_path": "/xbINBnWn28YygYWUJ1aSAw0xPRv.jpg",
+        "credit_id": "5d6e50f000fb6b0014e049b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18265,
+        "known_for_department": "Camera",
+        "name": "Mauro Fiore",
+        "original_name": "Mauro Fiore",
+        "popularity": 0.3107,
+        "profile_path": "/zWenMq5JMuHMU7Nx1Qaicy6fizC.jpg",
+        "credit_id": "5d6e50ff65686e24f087d07a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23401,
+        "known_for_department": "Editing",
+        "name": "Alex Rodríguez",
+        "original_name": "Alex Rodríguez",
+        "popularity": 0.285,
+        "profile_path": "/pwy5yN9vAcfx2ZpBWXtlhEREs5D.jpg",
+        "credit_id": "5d6e510ba284eb19a0331e01",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1317,
+        "known_for_department": "Art",
+        "name": "Philip Ivey",
+        "original_name": "Philip Ivey",
+        "popularity": 0.176,
+        "profile_path": null,
+        "credit_id": "5d6e511500fb6b0012e04aab",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12707,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mary E. McLeod",
+        "original_name": "Mary E. McLeod",
+        "popularity": 1.196,
+        "profile_path": null,
+        "credit_id": "5d6e512b65686e3899887258",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227440,
+        "known_for_department": "Sound",
+        "name": "Henry Jackman",
+        "original_name": "Henry Jackman",
+        "popularity": 0.5372,
+        "profile_path": "/wJYFGHG5Vsh8cbiyiS8zpO2SMHb.jpg",
+        "credit_id": "5d6e5136a284eb01c03409a0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1458995,
+        "known_for_department": "Sound",
+        "name": "Mark Binder",
+        "original_name": "Mark Binder",
+        "popularity": 0.3117,
+        "profile_path": null,
+        "credit_id": "5d6e514165686e43b6877224",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2402752,
+        "known_for_department": "Sound",
+        "name": "Elliot Hartley",
+        "original_name": "Elliot Hartley",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "credit_id": "5d6e514c9ae61300110b08f3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1691950,
+        "known_for_department": "Crew",
+        "name": "Stefano Corridori",
+        "original_name": "Stefano Corridori",
+        "popularity": 0.1384,
+        "profile_path": null,
+        "credit_id": "5d6e515900fb6b0011e04c0a",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8159,
+        "known_for_department": "Sound",
+        "name": "Shannon Mills",
+        "original_name": "Shannon Mills",
+        "popularity": 0.2883,
+        "profile_path": "/tq1cbZWf6DhUYAA3dNkeFEtgmQx.jpg",
+        "credit_id": "67eeb2cb9c68504cf262aad5",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5392456,
+        "known_for_department": "Crew",
+        "name": "Redouane Ouadi",
+        "original_name": "Redouane Ouadi",
+        "popularity": 0.093,
+        "profile_path": "/jcX3IypFgyHULnb7g7elhbNPsTq.jpg",
+        "credit_id": "6809adebe92f940ca69cf2bb",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2503997,
+        "known_for_department": "Crew",
+        "name": "Abdelaaziz Attougui",
+        "original_name": "Abdelaaziz Attougui",
+        "popularity": 0.2108,
+        "profile_path": "/AvmZANOzJu0elw63UFp6opsY2xZ.jpg",
+        "credit_id": "684301ef70e7b0c382f2cdb5",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225005,
+        "known_for_department": "Directing",
+        "name": "Mohamed Al Daradji",
+        "original_name": "Mohamed Al Daradji",
+        "popularity": 0.1649,
+        "profile_path": "/t5uNTzhXVOviM4Kn1fU8wFyy3Ne.jpg",
+        "credit_id": "6937253762303aadb8aefafe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1096407,
+        "known_for_department": "Production",
+        "name": "Todd Makurath",
+        "original_name": "Todd Makurath",
+        "popularity": 0.1087,
+        "profile_path": null,
+        "credit_id": "6937259362303aadb8aefb04",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 220991,
+        "name": "isis (daesh)"
+      },
+      {
+        "id": 239275,
+        "name": "based on magazine, newspaper or article"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2019-09-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "2019-09-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-11-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2020-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

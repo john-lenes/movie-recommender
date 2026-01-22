@@ -1,0 +1,858 @@
+{
+  "adult": false,
+  "backdrop_path": "/gpJr8wRED8BpBVaxM0eODQEBNwC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 650524,
+  "imdb_id": "tt33348127",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "尋秦記",
+  "overview": "",
+  "popularity": 18.9304,
+  "poster_path": "/h3OUaPfCaFmzwB2eMHik50RsXlP.jpg",
+  "production_companies": [
+    {
+      "id": 69437,
+      "logo_path": null,
+      "name": "One Cool Films",
+      "origin_country": "HK"
+    },
+    {
+      "id": 72626,
+      "logo_path": "/q2qV6j09P4S420aW8t4w6LCkwRJ.png",
+      "name": "Huace Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 164630,
+      "logo_path": null,
+      "name": "China Star Movie Limited",
+      "origin_country": ""
+    },
+    {
+      "id": 123811,
+      "logo_path": null,
+      "name": "Big Honor Entertainment",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-12-31",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "尋秦記",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78875,
+        "known_for_department": "Acting",
+        "name": "古天樂",
+        "original_name": "古天樂",
+        "popularity": 2.718,
+        "profile_path": "/yQuDBTzm7xWlJICNvl20OmcJP80.jpg",
+        "cast_id": 1,
+        "character": "Hong Siu-lung",
+        "credit_id": "5dda10ef3faba00015fd6bb3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89409,
+        "known_for_department": "Acting",
+        "name": "林峯",
+        "original_name": "林峯",
+        "popularity": 2.6701,
+        "profile_path": "/Ak40P6TWthdQ9diRki5RIcJ6r95.jpg",
+        "cast_id": 3,
+        "character": "Chiu Poon / Ying Ching/Chun Wong",
+        "credit_id": "5dda110628723c0014592421",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 588057,
+        "known_for_department": "Acting",
+        "name": "白百何",
+        "original_name": "白百何",
+        "popularity": 1.8588,
+        "profile_path": "/4cEIvt6etPrWzXn59W5GgnijNIG.jpg",
+        "cast_id": 29,
+        "character": "Galie",
+        "credit_id": "69268700222e5a1e2e371293",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230777,
+        "known_for_department": "Acting",
+        "name": "宣萱",
+        "original_name": "宣萱",
+        "popularity": 1.8941,
+        "profile_path": "/3hp9D2B1Y7L7imPUHCpHiNgxSY.jpg",
+        "cast_id": 2,
+        "character": "Wu Ting-fong",
+        "credit_id": "5dda10fc8e2e000013ef654b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223071,
+        "known_for_department": "Acting",
+        "name": "郭羨妮",
+        "original_name": "郭羨妮",
+        "popularity": 1.0415,
+        "profile_path": "/2UfGinzUO41ZbshRNepiQBKqg3c.jpg",
+        "cast_id": 11,
+        "character": "Chun Ching / Kam Ching",
+        "credit_id": "5dda121a3faba00019fd8b2c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223072,
+        "known_for_department": "Acting",
+        "name": "滕麗名",
+        "original_name": "滕麗名",
+        "popularity": 1.157,
+        "profile_path": "/rCGjxrs3HeRoOhzqbAwCucV12qo.jpg",
+        "cast_id": 5,
+        "character": "Sin-yau",
+        "credit_id": "5dda115c8e2e000011ef54db",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236075,
+        "known_for_department": "Acting",
+        "name": "苗僑偉",
+        "original_name": "苗僑偉",
+        "popularity": 1.45,
+        "profile_path": "/gJt4HBE493fHSBjHezSuA75VQ4A.jpg",
+        "cast_id": 24,
+        "character": "Ken",
+        "credit_id": "692042430b2936339621ac7c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1202564,
+        "known_for_department": "Acting",
+        "name": "張繼聰",
+        "original_name": "張繼聰",
+        "popularity": 0.6043,
+        "profile_path": "/ypmPVRkZkjtS7qE3P8nU5GYCXnT.jpg",
+        "cast_id": 7,
+        "character": "石頭",
+        "credit_id": "5dda11858e2e000011ef5641",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2163709,
+        "known_for_department": "Acting",
+        "name": "Kevin Chu Kam-Yin",
+        "original_name": "Kevin Chu Kam-Yin",
+        "popularity": 0.9195,
+        "profile_path": "/qsT22lZGbmqKbC7EiUw4OJssDVB.jpg",
+        "cast_id": 19,
+        "character": "項寶兒",
+        "credit_id": "67837d2a601acfe7bd4f16b6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1800792,
+        "known_for_department": "Acting",
+        "name": "吴樾",
+        "original_name": "吴樾",
+        "popularity": 1.4065,
+        "profile_path": "/hRePA3mh9mfAqX7SJ4rGxrNrxT7.jpg",
+        "cast_id": 28,
+        "character": "Max",
+        "credit_id": "692683277e2cd1388430cb0d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 986480,
+        "known_for_department": "Acting",
+        "name": "洪天明",
+        "original_name": "洪天明",
+        "popularity": 1.0909,
+        "profile_path": "/93SewU7wmWmYijuthNEfuscfvhx.jpg",
+        "cast_id": 16,
+        "character": "Phill",
+        "credit_id": "67837caf1431e0591abb7e53",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1957064,
+        "known_for_department": "Acting",
+        "name": "Chris Collins",
+        "original_name": "Chris Collins",
+        "popularity": 0.8995,
+        "profile_path": "/gTlRkBIMQFnvRi3OWR1m0GUzHCO.jpg",
+        "cast_id": 27,
+        "character": "Tim",
+        "credit_id": "692682de798d54bbe2c11de3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116423,
+        "known_for_department": "Acting",
+        "name": "廖啟智",
+        "original_name": "廖啟智",
+        "popularity": 0.9284,
+        "profile_path": "/tOqH5blJzabTfM9dk6EWQ6uIDz7.jpg",
+        "cast_id": 15,
+        "character": "乌有博士",
+        "credit_id": "67837ca01431e0591abb7e4d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175961,
+        "known_for_department": "Acting",
+        "name": "鄧一君",
+        "original_name": "鄧一君",
+        "popularity": 0.5875,
+        "profile_path": "/uZ4ooPlrNambBs814msroI6Tl6H.jpg",
+        "cast_id": 20,
+        "character": "李小超",
+        "credit_id": "67837e1694fc87ef487b07db",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223077,
+        "known_for_department": "Acting",
+        "name": "Michelle Saram",
+        "original_name": "Michelle Saram",
+        "popularity": 0.4484,
+        "profile_path": "/uS1e0elMmN9wytE4aARgaMxKh3z.jpg",
+        "cast_id": 4,
+        "character": "Princess Chiu Sin",
+        "credit_id": "5dda11498e2e000011ef54cc",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1365933,
+        "known_for_department": "Acting",
+        "name": "歐瑞偉",
+        "original_name": "歐瑞偉",
+        "popularity": 0.6256,
+        "profile_path": "/67TWZynh4dEKpWX4J80QDBOfaT9.jpg",
+        "cast_id": 17,
+        "character": "陶方",
+        "credit_id": "67837cc7218fd57acf4f00fe",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2349373,
+        "known_for_department": "Acting",
+        "name": "黃文標",
+        "original_name": "黃文標",
+        "popularity": 0.3505,
+        "profile_path": "/cenwxSBOyjVmtL0dnV0pOjyD1cE.jpg",
+        "cast_id": 18,
+        "character": "滕翼",
+        "credit_id": "67837cda218fd57acf4f0105",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66010,
+        "known_for_department": "Acting",
+        "name": "陳國邦",
+        "original_name": "陳國邦",
+        "popularity": 1.0531,
+        "profile_path": "/o5wZEj3oS527cE4g1JdfVledphb.jpg",
+        "cast_id": 46,
+        "character": "李斯",
+        "credit_id": "6938fe19d3a5610c2b134b39",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224053,
+        "known_for_department": "Acting",
+        "name": "蔡一智",
+        "original_name": "蔡一智",
+        "popularity": 0.9028,
+        "profile_path": "/dgmHSzA1xGMDrlCIsDdLhbAYQnH.jpg",
+        "cast_id": 45,
+        "character": "萬良",
+        "credit_id": "6938fde850431dcf88f7dbf1",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1638505,
+        "known_for_department": "Acting",
+        "name": "廖子妤",
+        "original_name": "廖子妤",
+        "popularity": 0.9524,
+        "profile_path": "/wouDO99Pw2tCjhRYCbck9qPuGo1.jpg",
+        "cast_id": 44,
+        "character": "聞桑",
+        "credit_id": "6938fdd32bed504a3706a21e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2602681,
+        "known_for_department": "Acting",
+        "name": "洪天照",
+        "original_name": "洪天照",
+        "popularity": 0.9679,
+        "profile_path": "/rf2o9Z3HM6vyO4VufwRYz71KvkX.jpg",
+        "cast_id": 51,
+        "character": "武樹",
+        "credit_id": "6940cb86dc9e2bb203a03f4e",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2165682,
+        "known_for_department": "Acting",
+        "name": "徐浩昌",
+        "original_name": "徐浩昌",
+        "popularity": 0.3379,
+        "profile_path": "/jtVTaw3HaLQx9H0pobtiAa4fRxZ.jpg",
+        "cast_id": 49,
+        "character": "",
+        "credit_id": "6940cb132f81b6fbf2595fd8",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2862160,
+        "known_for_department": "Acting",
+        "name": "伍詠詩",
+        "original_name": "伍詠詩",
+        "popularity": 0.3779,
+        "profile_path": "/yfBbqD4BH4eY8ajMnal7gF3bjNm.jpg",
+        "cast_id": 50,
+        "character": "",
+        "credit_id": "6940cb1ef81d9047753c526e",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3066719,
+        "known_for_department": "Acting",
+        "name": "楊宇騰",
+        "original_name": "楊宇騰",
+        "popularity": 0.5699,
+        "profile_path": "/fwqrFdCB0eIlVTcTwXilM7f8m8r.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "69051d8bd2914ed67bdd7bac",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4027124,
+        "known_for_department": "Acting",
+        "name": "Andrew Chan",
+        "original_name": "Andrew Chan",
+        "popularity": 0.3306,
+        "profile_path": "/nZtTpLcVPPYBqAXeuycKmzU2bBw.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "69051df8f377f3ef004720c1",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1627422,
+        "known_for_department": "Acting",
+        "name": "徐偉棟",
+        "original_name": "徐偉棟",
+        "popularity": 0.3161,
+        "profile_path": "/rbVCAOS3Dp5q9HMDdWCGBQ6J7KO.jpg",
+        "cast_id": 30,
+        "character": "Tim",
+        "credit_id": "6926bfe328ff7986ca30cd2f",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4435858,
+        "known_for_department": "Acting",
+        "name": "熊嶽",
+        "original_name": "熊嶽",
+        "popularity": 0.2984,
+        "profile_path": "/6R3vFB1CVuwIjcqL36SNwMWZhLs.jpg",
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "6926cf754779d992ddd9cabe",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5840040,
+        "known_for_department": "Acting",
+        "name": "陶枳樽",
+        "original_name": "陶枳樽",
+        "popularity": 0.09,
+        "profile_path": "/406mJEGFQtNiX8HBghWrV2hWTSw.jpg",
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "6926d06d8719ef65d730cd4f",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3312841,
+        "known_for_department": "Acting",
+        "name": "何果軒",
+        "original_name": "何果軒",
+        "popularity": 0.1107,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "",
+        "credit_id": "6958f02fe4d7d287f5c39b75",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1723882,
+        "known_for_department": "Acting",
+        "name": "顏子菲",
+        "original_name": "顏子菲",
+        "popularity": 0.1839,
+        "profile_path": "/lxRyy5RuJxW75TgJ3PLywAWES1M.jpg",
+        "cast_id": 53,
+        "character": "",
+        "credit_id": "6958f03bcc4c9e73274af6ea",
+        "order": 29
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143912,
+        "known_for_department": "Visual Effects",
+        "name": "吳炫輝",
+        "original_name": "吳炫輝",
+        "popularity": 0.671,
+        "profile_path": "/oaX5wAxxY8tsaYTN2ukB0FeLGyQ.jpg",
+        "credit_id": "5dda13b328723c0012577cb7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2465833,
+        "known_for_department": "Directing",
+        "name": "黎震龍",
+        "original_name": "黎震龍",
+        "popularity": 0.4223,
+        "profile_path": "/qmzgZVMZx1Ll0UceMKUN1G1ISyA.jpg",
+        "credit_id": "5dda13bd0cd4460014293d69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62410,
+        "known_for_department": "Acting",
+        "name": "洪金寶",
+        "original_name": "洪金寶",
+        "popularity": 3.519,
+        "profile_path": "/odHszmZ4uj2Hj4EE03js8IsswJb.jpg",
+        "credit_id": "692681006f22ba95fcea9c9b",
+        "department": "Directing",
+        "job": "Action Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78875,
+        "known_for_department": "Acting",
+        "name": "古天樂",
+        "original_name": "古天樂",
+        "popularity": 2.718,
+        "profile_path": "/yQuDBTzm7xWlJICNvl20OmcJP80.jpg",
+        "credit_id": "6938d8194cd1f72c42f87818",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1689071,
+        "known_for_department": "Production",
+        "name": "邓维弼",
+        "original_name": "邓维弼",
+        "popularity": 0.2452,
+        "profile_path": "/pcFWoI28keJxSpsDN8rZUK7yS5g.jpg",
+        "credit_id": "6938d8429ca7f2007ff877bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5868050,
+        "known_for_department": "Writing",
+        "name": "賀鑫",
+        "original_name": "賀鑫",
+        "popularity": 0.1802,
+        "profile_path": null,
+        "credit_id": "6938dacea756d435883cebf7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 140488,
+        "known_for_department": "Camera",
+        "name": "謝忠道",
+        "original_name": "謝忠道",
+        "popularity": 0.2842,
+        "profile_path": null,
+        "credit_id": "6938daece8490634d0069f8d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2027867,
+        "known_for_department": "Art",
+        "name": "張兆康",
+        "original_name": "張兆康",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "credit_id": "6938db689bc1d5b349eb2046",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4847895,
+        "known_for_department": "Art",
+        "name": "林偉健",
+        "original_name": "林偉健",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "credit_id": "6938db84cd238b08aceb1fc8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456025,
+        "known_for_department": "Editing",
+        "name": "黃海",
+        "original_name": "黃海",
+        "popularity": 0.1951,
+        "profile_path": null,
+        "credit_id": "6938db9ee34b83875b6387d8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21903,
+        "known_for_department": "Sound",
+        "name": "陳光榮",
+        "original_name": "陳光榮",
+        "popularity": 0.6584,
+        "profile_path": "/1pxhvYMLLraXYmbp69EVdam9frK.jpg",
+        "credit_id": "6938dbaecc491dae4a638865",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105418,
+        "known_for_department": "Acting",
+        "name": "向華強",
+        "original_name": "向華強",
+        "popularity": 1.4726,
+        "profile_path": "/JFN3wh9k3vOpqPWTOQApMD9jCd.jpg",
+        "credit_id": "693b09eecccd590714e0b7ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253376,
+        "known_for_department": "Acting",
+        "name": "陳芷菁",
+        "original_name": "陳芷菁",
+        "popularity": 0.6343,
+        "profile_path": "/w4UYEcGywNH2WBGk2c4yExHLp6o.jpg",
+        "credit_id": "693b0a7ca29dc2351bc3b972",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4379,
+        "name": "time travel"
+      },
+      {
+        "id": 313425,
+        "name": "qin dynasty"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "zh",
+            "note": "",
+            "release_date": "2025-12-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "IIB",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "13+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "cn",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "cn",
+            "note": "",
+            "release_date": "2026-01-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,949 @@
+{
+  "adult": false,
+  "backdrop_path": "/sLdz4K32OUP8cKk5G58e0JLofY9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 28435,
+  "imdb_id": "tt0023249",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Murders in the Rue Morgue",
+  "overview": "Em 1845, em Paris, o cientista louco Dr. Mirakle sequestra mulheres jovens e as injeta com sangue de macaco para criar uma companheira para Erik, seu macaco falante de show secundário. Pierre Dupin, um jovem e ingênuo estudante de medicina e detetive, a noiva de Pierre, Camille L'Espanaye, e seus amigos Paul e Mignette, visitam o show secundário de Mirakle, onde expõem Erik. Tanto Mirakle quanto seu servo Janos estão encantados por Camille, que Mirakle planeja como companheira de Erik. Mirakle convida Camille para dar uma olhada em Erik, que agarra seu chapéu. Pierre tenta recuperar o capô, mas Erik tenta estrangulá-lo. Mirakle restringe Erik e se oferece para substituir o capô, mas Camille desconfia e reluta em dar seu endereço ao médico. Quando Pierre e Camille partem, Mirakle ordena que Janos os siga.",
+  "popularity": 6.4819,
+  "poster_path": "/vd7APCDkYTL0ZpNc88XB1uEYCQx.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1932-01-27",
+  "revenue": 0,
+  "runtime": 61,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "O super choque!",
+  "title": "Os Assassinos da Rua Morgue",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 139,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 100789,
+        "known_for_department": "Acting",
+        "name": "Sidney Fox",
+        "original_name": "Sidney Fox",
+        "popularity": 0.2211,
+        "profile_path": "/sx5zFFZdY20mUY77tdPztDcwx0e.jpg",
+        "cast_id": 3,
+        "character": "Mlle. Camille L'Espanaye",
+        "credit_id": "52fe4596c3a368484e063b95",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547,
+        "known_for_department": "Acting",
+        "name": "Lugosi Béla",
+        "original_name": "Lugosi Béla",
+        "popularity": 0.7483,
+        "profile_path": "/fwimu7WKcaJXIjaDwYQg42GxUxa.jpg",
+        "cast_id": 4,
+        "character": "Dr. Mirakle",
+        "credit_id": "52fe4596c3a368484e063b99",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13994,
+        "known_for_department": "Acting",
+        "name": "Leon Ames",
+        "original_name": "Leon Ames",
+        "popularity": 0.7628,
+        "profile_path": "/QyNQUvF8jD6sNdBY0a3O3hgLSQ.jpg",
+        "cast_id": 5,
+        "character": "Pierre Dupin",
+        "credit_id": "52fe4596c3a368484e063b9d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29987,
+        "known_for_department": "Acting",
+        "name": "Bert Roach",
+        "original_name": "Bert Roach",
+        "popularity": 0.3222,
+        "profile_path": "/q9EUBkdaWo5cBceHN3L97nINtWh.jpg",
+        "cast_id": 6,
+        "character": "Paul",
+        "credit_id": "52fe4596c3a368484e063ba1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1079577,
+        "known_for_department": "Acting",
+        "name": "Betty Ross Clarke",
+        "original_name": "Betty Ross Clarke",
+        "popularity": 0.3667,
+        "profile_path": "/fwfaSuSsO4UxZSakz2a55IOweTp.jpg",
+        "cast_id": 11,
+        "character": "Mme. L'Espanaye",
+        "credit_id": "52fe4596c3a368484e063bbd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29580,
+        "known_for_department": "Acting",
+        "name": "Brandon Hurst",
+        "original_name": "Brandon Hurst",
+        "popularity": 0.5755,
+        "profile_path": "/jU1SqbZ6de4cMQJo3rpsdkNJqD9.jpg",
+        "cast_id": 12,
+        "character": "Prefect of Police",
+        "credit_id": "52fe4596c3a368484e063bc1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129329,
+        "known_for_department": "Acting",
+        "name": "D'Arcy Corrigan",
+        "original_name": "D'Arcy Corrigan",
+        "popularity": 0.2722,
+        "profile_path": "/xFQ6gD1U4OxKu5gjL1qiy5TFgwa.jpg",
+        "cast_id": 13,
+        "character": "Morgue Keeper",
+        "credit_id": "52fe4596c3a368484e063bc5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3247,
+        "known_for_department": "Acting",
+        "name": "Noble Johnson",
+        "original_name": "Noble Johnson",
+        "popularity": 0.4953,
+        "profile_path": "/ktN2dIxPBTdt7RqpFoWD0upCbUp.jpg",
+        "cast_id": 14,
+        "character": "Janos The Black One",
+        "credit_id": "52fe4596c3a368484e063bc9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5791,
+        "known_for_department": "Acting",
+        "name": "Arlene Francis",
+        "original_name": "Arlene Francis",
+        "popularity": 0.7941,
+        "profile_path": "/u6dNWXP49lIf0Sn17tZ9DkcYFP9.jpg",
+        "cast_id": 15,
+        "character": "Woman of the Streets",
+        "credit_id": "52fe4596c3a368484e063bcd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2936,
+        "known_for_department": "Acting",
+        "name": "Ted Billings",
+        "original_name": "Ted Billings",
+        "popularity": 0.2902,
+        "profile_path": "/dYMTJxnuLBfVMWApCFhVDhohF5f.jpg",
+        "cast_id": 32,
+        "character": "Sideshow Spectator (uncredited)",
+        "credit_id": "5ef1ac05d11e0e0037adfaca",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9084,
+        "known_for_department": "Acting",
+        "name": "Herman Bing",
+        "original_name": "Herman Bing",
+        "popularity": 0.3733,
+        "profile_path": "/62SmiO7zFXABLqJeKbLjIjc0FHl.jpg",
+        "cast_id": 33,
+        "character": "Franz Odenheimer (uncredited)",
+        "credit_id": "5ef1ac159a8a8a0033b07b18",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587131,
+        "known_for_department": "Acting",
+        "name": "Joe Bonomo",
+        "original_name": "Joe Bonomo",
+        "popularity": 0.1166,
+        "profile_path": "/9iUlrtqxErFBCUVxnRhIoJYNE37.jpg",
+        "cast_id": 34,
+        "character": "Gorilla (uncredited)",
+        "credit_id": "5ef1ac842e2b2c003c705ac0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016595,
+        "known_for_department": "Acting",
+        "name": "Agostino Borgato",
+        "original_name": "Agostino Borgato",
+        "popularity": 0.2164,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Alberto Montani (uncredited)",
+        "credit_id": "598072a2c3a368109e00f0c0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127032,
+        "known_for_department": "Acting",
+        "name": "Iron Eyes Cody",
+        "original_name": "Iron Eyes Cody",
+        "popularity": 0.6942,
+        "profile_path": "/23h9CuvnyzjJGYsodDTXbiaBuA.jpg",
+        "cast_id": 28,
+        "character": "Indian at Sideshow (uncredited)",
+        "credit_id": "582ae3dfc3a368360f044100",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1050210,
+        "known_for_department": "Acting",
+        "name": "Christian J. Frank",
+        "original_name": "Christian J. Frank",
+        "popularity": 0.16,
+        "profile_path": "/8oIE20N2QVbAsE47M7S9AviwBNW.jpg",
+        "cast_id": 35,
+        "character": "Gendarme Using Snuff (uncredited)",
+        "credit_id": "5ef1ac9b9a8a8a0033b07c68",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1208025,
+        "known_for_department": "Acting",
+        "name": "Charles Gemora",
+        "original_name": "Charles Gemora",
+        "popularity": 0.2089,
+        "profile_path": "/s86qzXDRtubzWhCrENFEAmCDnfm.jpg",
+        "cast_id": 30,
+        "character": "Erik, the Gorilla (uncredited)",
+        "credit_id": "5d7027c4c5ada5000f902b03",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121244,
+        "known_for_department": "Acting",
+        "name": "Harrison Greene",
+        "original_name": "Harrison Greene",
+        "popularity": 0.3886,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Sideshow Barker (uncredited)",
+        "credit_id": "5ef1acb0d11e0e0035ae52ce",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94105,
+        "known_for_department": "Acting",
+        "name": "Charlotte Henry",
+        "original_name": "Charlotte Henry",
+        "popularity": 0.3788,
+        "profile_path": "/zWptAfk0gcL0hVUjInNPNb7WfSx.jpg",
+        "cast_id": 31,
+        "character": "Blonde Girl in Sideshow Audience (uncredited)",
+        "credit_id": "5ef0ee3f283ed900358f525f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124554,
+        "known_for_department": "Acting",
+        "name": "Harry Holman",
+        "original_name": "Harry Holman",
+        "popularity": 0.3417,
+        "profile_path": "/5gx6vYZwASMVKpu7G2AoJy4FJ8U.jpg",
+        "cast_id": 37,
+        "character": "Victor Albert Adolph Jules Hugo Louis Dupont (uncredited)",
+        "credit_id": "5ef1acbbaf58cb0032f5c7de",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141136,
+        "known_for_department": "Acting",
+        "name": "Edna Marion",
+        "original_name": "Edna Marion",
+        "popularity": 0.2118,
+        "profile_path": "/8Nf5vKn7wOvqIExGqYMhYbWci9j.jpg",
+        "cast_id": 38,
+        "character": "Mignette (uncredited)",
+        "credit_id": "5ef1afab2e2b2c0036744fba",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12153,
+        "known_for_department": "Acting",
+        "name": "Torben Meyer",
+        "original_name": "Torben Meyer",
+        "popularity": 0.2656,
+        "profile_path": "/A5TLcObSezrwH2u5FCfi6mY69Z9.jpg",
+        "cast_id": 39,
+        "character": "The Dane (uncredited)",
+        "credit_id": "5ef1afb5af58cb0033f77447",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269195,
+        "known_for_department": "Acting",
+        "name": "Charles Millsfield",
+        "original_name": "Charles Millsfield",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Bearded Man at Sideshow (uncredited)",
+        "credit_id": "5ef1afbfaf58cb0033f77456",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 589218,
+        "known_for_department": "Acting",
+        "name": "Monte Montague",
+        "original_name": "Monte Montague",
+        "popularity": 0.2858,
+        "profile_path": "/nKNAWODmTp7rw9kSo2m9ukj3Qyd.jpg",
+        "cast_id": 41,
+        "character": "Workman / Gendarme (uncredited)",
+        "credit_id": "5ef1afca2e2b2c003771fe75",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021841,
+        "known_for_department": "Acting",
+        "name": "John T. Murray",
+        "original_name": "John T. Murray",
+        "popularity": 0.3202,
+        "profile_path": "/5FmnCXK3C4HDa8pV64z1ATYYOOF.jpg",
+        "cast_id": 42,
+        "character": "Gendarme (uncredited)",
+        "credit_id": "5ef1afe3d11e0e0037adfda2",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 29603,
+        "known_for_department": "Acting",
+        "name": "Tempe Pigott",
+        "original_name": "Tempe Pigott",
+        "popularity": 0.5315,
+        "profile_path": "/iF7dG56fKDGcMnDT8wMBHLthVEz.jpg",
+        "cast_id": 43,
+        "character": "Crone (uncredited)",
+        "credit_id": "5ef1afe9af58cb0035f89fff",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 927616,
+        "known_for_department": "Acting",
+        "name": "Dorothy Vernon",
+        "original_name": "Dorothy Vernon",
+        "popularity": 0.5491,
+        "profile_path": "/umAgzGIOdNfS4SpeUXLopAAm8oe.jpg",
+        "cast_id": 44,
+        "character": "Tenant (uncredited)",
+        "credit_id": "5ef1aff3d11e0e0034ae1e56",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 120755,
+        "known_for_department": "Acting",
+        "name": "Michael Visaroff",
+        "original_name": "Michael Visaroff",
+        "popularity": 0.2912,
+        "profile_path": "/3oHX74T1A9vRZdfS5kkfn6bxHwh.jpg",
+        "cast_id": 45,
+        "character": "Mirakle's Sideshow Barker (uncredited)",
+        "credit_id": "5ef1affd9a8a8a0035b24fe2",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 89681,
+        "known_for_department": "Acting",
+        "name": "Polly Ann Young",
+        "original_name": "Polly Ann Young",
+        "popularity": 0.301,
+        "profile_path": "/353XhX3dC8zxf9SYrOVzEQwllPg.jpg",
+        "cast_id": 46,
+        "character": "Girl (uncredited)",
+        "credit_id": "5ef1b0099a8a8a0035b24ff4",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29808,
+        "known_for_department": "Directing",
+        "name": "Robert Florey",
+        "original_name": "Robert Florey",
+        "popularity": 0.5917,
+        "profile_path": "/cRX6qkTniwyr1Kt0yTWIlqHO25F.jpg",
+        "credit_id": "52fe4596c3a368484e063b8b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29808,
+        "known_for_department": "Directing",
+        "name": "Robert Florey",
+        "original_name": "Robert Florey",
+        "popularity": 0.5917,
+        "profile_path": "/cRX6qkTniwyr1Kt0yTWIlqHO25F.jpg",
+        "credit_id": "52fe4596c3a368484e063b91",
+        "department": "Writing",
+        "job": "Adaptation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34569,
+        "known_for_department": "Writing",
+        "name": "Tom Reed",
+        "original_name": "Tom Reed",
+        "popularity": 0.4377,
+        "profile_path": null,
+        "credit_id": "52fe4596c3a368484e063bad",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 33247,
+        "known_for_department": "Writing",
+        "name": "Dale Van Every",
+        "original_name": "Dale Van Every",
+        "popularity": 0.4064,
+        "profile_path": null,
+        "credit_id": "52fe4596c3a368484e063bb3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6593,
+        "known_for_department": "Directing",
+        "name": "John Huston",
+        "original_name": "John Huston",
+        "popularity": 1.5458,
+        "profile_path": "/rAqKERlZvXBiKV0tONGg5huwuJl.jpg",
+        "credit_id": "52fe4596c3a368484e063bb9",
+        "department": "Crew",
+        "job": "Additional Dialogue"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1307585,
+        "known_for_department": "Writing",
+        "name": "Ethel M. Kelly",
+        "original_name": "Ethel M. Kelly",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "651a672b967cc73428cbbd48",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3946,
+        "known_for_department": "Sound",
+        "name": "C. Roy Hunter",
+        "original_name": "C. Roy Hunter",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "credit_id": "651a6783d861af013e8efefe",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587131,
+        "known_for_department": "Acting",
+        "name": "Joe Bonomo",
+        "original_name": "Joe Bonomo",
+        "popularity": 0.1166,
+        "profile_path": "/9iUlrtqxErFBCUVxnRhIoJYNE37.jpg",
+        "credit_id": "651a67b7967cc73424678763",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1553,
+        "known_for_department": "Editing",
+        "name": "Maurice Pivar",
+        "original_name": "Maurice Pivar",
+        "popularity": 0.1857,
+        "profile_path": null,
+        "credit_id": "651a6826967cc7342609d0ba",
+        "department": "Editing",
+        "job": "Supervising Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1532477,
+        "known_for_department": "Sound",
+        "name": "Gilbert Kurland",
+        "original_name": "Gilbert Kurland",
+        "popularity": 0.3195,
+        "profile_path": null,
+        "credit_id": "651a684b223a8b01206c349f",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30268,
+        "known_for_department": "Sound",
+        "name": "Heinz Roemheld",
+        "original_name": "Heinz Roemheld",
+        "popularity": 0.4368,
+        "profile_path": "/bKctVKiPOmiLvbuKOhtfHT9Dfoa.jpg",
+        "credit_id": "651a6863ea84c700ca08507b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14475,
+        "known_for_department": "Production",
+        "name": "Carl Laemmle",
+        "original_name": "Carl Laemmle",
+        "popularity": 0.4276,
+        "profile_path": "/4UBMh6AJxS5gUJVlkIgswDc3rlJ.jpg",
+        "credit_id": "651a687974507d00c5780780",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42064,
+        "known_for_department": "Writing",
+        "name": "Richard Schayer",
+        "original_name": "Richard Schayer",
+        "popularity": 0.3839,
+        "profile_path": null,
+        "credit_id": "651a6897a6e2d201002dfc34",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4301569,
+        "known_for_department": "Crew",
+        "name": "Howard Salemson",
+        "original_name": "Howard Salemson",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "651a68b7072166011c01e1b0",
+        "department": "Crew",
+        "job": "Technical Advisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48415,
+        "known_for_department": "Writing",
+        "name": "Edgar Allan Poe",
+        "original_name": "Edgar Allan Poe",
+        "popularity": 0.3722,
+        "profile_path": "/AlgddAgqBWRZUNHtX2Rue60HSIg.jpg",
+        "credit_id": "652ad197ea84c700aef27f47",
+        "department": "Writing",
+        "job": "Short Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1556,
+        "known_for_department": "Production",
+        "name": "E.M. Asher",
+        "original_name": "E.M. Asher",
+        "popularity": 0.1946,
+        "profile_path": null,
+        "credit_id": "56809997c3a368227b004c5d",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557,
+        "known_for_department": "Production",
+        "name": "Carl Laemmle Jr.",
+        "original_name": "Carl Laemmle Jr.",
+        "popularity": 0.5674,
+        "profile_path": "/zwQe4ppr9o1z0PZTdrt9FadxNV1.jpg",
+        "credit_id": "5680999f9251412e5200ce23",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70,
+        "known_for_department": "Camera",
+        "name": "Karl Freund",
+        "original_name": "Karl Freund",
+        "popularity": 0.6082,
+        "profile_path": null,
+        "credit_id": "568099a592514113340064e6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1552,
+        "known_for_department": "Editing",
+        "name": "Milton Carruth",
+        "original_name": "Milton Carruth",
+        "popularity": 0.2385,
+        "profile_path": null,
+        "credit_id": "568099ac9251414f63007f23",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3945,
+        "known_for_department": "Art",
+        "name": "Charles D. Hall",
+        "original_name": "Charles D. Hall",
+        "popularity": 0.216,
+        "profile_path": null,
+        "credit_id": "568099b3c3a36828f5004733",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29813,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jack Pierce",
+        "original_name": "Jack Pierce",
+        "popularity": 0.293,
+        "profile_path": "/c2aJVAbSInjwOlqvVd3UbLmg4I9.jpg",
+        "credit_id": "568099bc92514132db00cb56",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1297581,
+        "known_for_department": "Directing",
+        "name": "Scott R. Beal",
+        "original_name": "Scott R. Beal",
+        "popularity": 0.1771,
+        "profile_path": null,
+        "credit_id": "568099c5c3a3684bcc00fa26",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 999948,
+        "known_for_department": "Directing",
+        "name": "Charles S. Gould",
+        "original_name": "Charles S. Gould",
+        "popularity": 0.439,
+        "profile_path": null,
+        "credit_id": "568099cd9251414f63007f2b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348279,
+        "known_for_department": "Directing",
+        "name": "Joseph A. McDonough",
+        "original_name": "Joseph A. McDonough",
+        "popularity": 0.1478,
+        "profile_path": null,
+        "credit_id": "568099d69251412e5200ce2a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1546668,
+        "known_for_department": "Art",
+        "name": "Herman Rosse",
+        "original_name": "Herman Rosse",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "568099dec3a3682abc007b92",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100762,
+        "known_for_department": "Crew",
+        "name": "John P. Fulton",
+        "original_name": "John P. Fulton",
+        "popularity": 0.2542,
+        "profile_path": null,
+        "credit_id": "568099ef9251414ecb0004b3",
+        "department": "Crew",
+        "job": "Special Effects"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 90,
+        "name": "paris, france"
+      },
+      {
+        "id": 291,
+        "name": "circus"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 14759,
+        "name": "ape"
+      },
+      {
+        "id": 156764,
+        "name": "pre-code"
+      },
+      {
+        "id": 163561,
+        "name": "genetic engineering"
+      },
+      {
+        "id": 207046,
+        "name": "murder mystery"
+      },
+      {
+        "id": 207928,
+        "name": "19th century"
+      },
+      {
+        "id": 210008,
+        "name": "racist stereotype"
+      },
+      {
+        "id": 236299,
+        "name": "native"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray Disc (Ostalgica)",
+            "release_date": "2019-11-08T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Hessisches Fernsehprogramm",
+            "release_date": "1970-04-09T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1932-04-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Rated A",
+            "release_date": "1932-03-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "DVD",
+            "release_date": "2001-04-09T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1932-09-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1932-02-21T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1932-01-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

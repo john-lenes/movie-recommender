@@ -1,0 +1,1226 @@
+{
+  "adult": false,
+  "backdrop_path": "/4II0fdNtTMR0elrMgQSn9wfYuuk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 37,
+      "name": "Faroeste"
+    }
+  ],
+  "homepage": "",
+  "id": 9474,
+  "imdb_id": "tt0070215",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il mio nome è Nessuno",
+  "overview": "Jack Beauregard, que já foi o maior pistoleiro do Velho Oeste, só quer se mudar para a Europa e se aposentar em paz, mas um jovem pistoleiro, conhecido apenas como \"Ninguém\", o idolatra e quer vê-lo sair em uma chama de glória. Ele organiza para que Jack enfrente a gangue de 150 homens, conhecida como The Wild Bunch, e, assim, ganhe seu lugar na história.",
+  "popularity": 4.3922,
+  "poster_path": "/a1PAAdhqTxqmQgZ1Bug4AZqY7AE.jpg",
+  "production_companies": [
+    {
+      "id": 218,
+      "logo_path": null,
+      "name": "Rafran Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1639,
+      "logo_path": null,
+      "name": "Les Films Jacques Leitienne",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12726,
+      "logo_path": null,
+      "name": "Alcinter",
+      "origin_country": ""
+    },
+    {
+      "id": 32208,
+      "logo_path": null,
+      "name": "Imp.Ex.Ci.",
+      "origin_country": "FR"
+    },
+    {
+      "id": 29165,
+      "logo_path": "/d1wokdgTjC7lJs6yktVd61JZrwD.png",
+      "name": "Rialto Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1973-12-13",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ninguém, exceto \"Ninguém\", sabe em que encrenca ele está!",
+  "title": "Meu Nome é Ninguém",
+  "video": false,
+  "vote_average": 7.259,
+  "vote_count": 1018,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15140,
+        "known_for_department": "Acting",
+        "name": "Terence Hill",
+        "original_name": "Terence Hill",
+        "popularity": 4.5075,
+        "profile_path": "/vBkWDZh93QRUvg3oh5d96QQZWLn.jpg",
+        "cast_id": 1,
+        "character": "Nobody",
+        "credit_id": "52fe44fcc3a36847f80b5da1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4958,
+        "known_for_department": "Acting",
+        "name": "Henry Fonda",
+        "original_name": "Henry Fonda",
+        "popularity": 1.705,
+        "profile_path": "/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg",
+        "cast_id": 2,
+        "character": "Jack Beauregard",
+        "credit_id": "52fe44fcc3a36847f80b5da5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39953,
+        "known_for_department": "Acting",
+        "name": "Jean Martin",
+        "original_name": "Jean Martin",
+        "popularity": 0.5508,
+        "profile_path": "/f7J7ItHt6AHz8z2PQuWpdH0lCHz.jpg",
+        "cast_id": 3,
+        "character": "Sullivan",
+        "credit_id": "52fe44fcc3a36847f80b5da9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1107,
+        "known_for_department": "Acting",
+        "name": "R.G. Armstrong",
+        "original_name": "R.G. Armstrong",
+        "popularity": 0.8721,
+        "profile_path": "/wDsIQBOtNZotwMEi2QJLSNrLEXc.jpg",
+        "cast_id": 4,
+        "character": "Honest John",
+        "credit_id": "52fe44fcc3a36847f80b5dad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108279,
+        "known_for_department": "Acting",
+        "name": "Karl Braun",
+        "original_name": "Karl Braun",
+        "popularity": 0.1798,
+        "profile_path": "/qzFdP2iPBnHoHhsJTbqx57cgnwL.jpg",
+        "cast_id": 15,
+        "character": "Jim",
+        "credit_id": "52fe44fcc3a36847f80b5de7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95082,
+        "known_for_department": "Acting",
+        "name": "Leo Gordon",
+        "original_name": "Leo Gordon",
+        "popularity": 0.6047,
+        "profile_path": "/d87PfczbNFTbiu3qktqORlxnkMW.jpg",
+        "cast_id": 16,
+        "character": "Red",
+        "credit_id": "52fe44fcc3a36847f80b5deb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41280,
+        "known_for_department": "Acting",
+        "name": "Steve Kanaly",
+        "original_name": "Steve Kanaly",
+        "popularity": 0.8043,
+        "profile_path": "/ph5j9TUN6iVdWavopbpQQwQAdzz.jpg",
+        "cast_id": 17,
+        "character": "False barber",
+        "credit_id": "52fe44fcc3a36847f80b5def",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18071,
+        "known_for_department": "Acting",
+        "name": "Geoffrey Lewis",
+        "original_name": "Geoffrey Lewis",
+        "popularity": 1.2307,
+        "profile_path": "/codb8rrsNqnsq3e0MHkH3kAAJwg.jpg",
+        "cast_id": 18,
+        "character": "Leader of the Wild Bunch",
+        "credit_id": "52fe44fcc3a36847f80b5df3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 179188,
+        "known_for_department": "Acting",
+        "name": "Neil Summers",
+        "original_name": "Neil Summers",
+        "popularity": 0.6871,
+        "profile_path": "/2ESnlgBQzWM17KvSao5GrJInd0u.jpg",
+        "cast_id": 19,
+        "character": "Squirrel",
+        "credit_id": "52fe44fcc3a36847f80b5df7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45035,
+        "known_for_department": "Acting",
+        "name": "Piero Lulli",
+        "original_name": "Piero Lulli",
+        "popularity": 0.6106,
+        "profile_path": "/lJsMIoRFhUcCnKohFzw48k7lIOI.jpg",
+        "cast_id": 20,
+        "character": "Sheriff",
+        "credit_id": "52fe44fcc3a36847f80b5dfb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16318,
+        "known_for_department": "Acting",
+        "name": "Mario Brega",
+        "original_name": "Mario Brega",
+        "popularity": 0.7977,
+        "profile_path": "/qZvFBxipsL1znAmtohKQHsTq9GN.jpg",
+        "cast_id": 21,
+        "character": "Pedro",
+        "credit_id": "52fe44fcc3a36847f80b5dff",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39461,
+        "known_for_department": "Acting",
+        "name": "Marc Mazza",
+        "original_name": "Marc Mazza",
+        "popularity": 0.3289,
+        "profile_path": "/9JzvnMZyM7ZFeE5ZByYHTk8jd3R.jpg",
+        "cast_id": 22,
+        "character": "Don John",
+        "credit_id": "52fe44fcc3a36847f80b5e03",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4661,
+        "known_for_department": "Acting",
+        "name": "Benito Stefanelli",
+        "original_name": "Benito Stefanelli",
+        "popularity": 0.3915,
+        "profile_path": "/g8wrcKWLuxq3Rmtp3LXItaGVLoQ.jpg",
+        "cast_id": 23,
+        "character": "Porteley",
+        "credit_id": "52fe44fcc3a36847f80b5e07",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18840,
+        "known_for_department": "Acting",
+        "name": "Alexander Allerson",
+        "original_name": "Alexander Allerson",
+        "popularity": 0.375,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Rex",
+        "credit_id": "52fe44fcc3a36847f80b5e0b",
+        "order": 13
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 558739,
+        "known_for_department": "Acting",
+        "name": "Rainer Peets",
+        "original_name": "Rainer Peets",
+        "popularity": 0.918,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Big Gun",
+        "credit_id": "52fe44fcc3a36847f80b5e0f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5568,
+        "known_for_department": "Acting",
+        "name": "Antoine Saint-John",
+        "original_name": "Antoine Saint-John",
+        "popularity": 0.4274,
+        "profile_path": "/wRAOBPHVyS9PbY5TThE5CsM5DFj.jpg",
+        "cast_id": 45,
+        "character": "Scape",
+        "credit_id": "5e4567fd9603310013f5a9c2",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72664,
+        "known_for_department": "Acting",
+        "name": "Franco Angrisano",
+        "original_name": "Franco Angrisano",
+        "popularity": 0.243,
+        "profile_path": "/xCkKQOIHAwAyQiWuSpvqHEIsC8x.jpg",
+        "cast_id": 46,
+        "character": "Ferroviere",
+        "credit_id": "5e45688141465c0014d3369a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330874,
+        "known_for_department": "Acting",
+        "name": "Tommy Polgár",
+        "original_name": "Tommy Polgár",
+        "popularity": 0.2,
+        "profile_path": "/eLEDOVosJRrywgjCP7NUa6UXP0Y.jpg",
+        "cast_id": 47,
+        "character": "Juan",
+        "credit_id": "5e456894db8a0000199b4189",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1910461,
+        "known_for_department": "Acting",
+        "name": "Antonio Palombi",
+        "original_name": "Antonio Palombi",
+        "popularity": 0.7739,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Dirty",
+        "credit_id": "5e4568a041465c0014d336c7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1440813,
+        "known_for_department": "Acting",
+        "name": "Hubert Mittendorf",
+        "original_name": "Hubert Mittendorf",
+        "popularity": 0.1477,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Carnival Barker",
+        "credit_id": "5e4568af41465c0014d336d9",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2537290,
+        "known_for_department": "Acting",
+        "name": "Emil Feist",
+        "original_name": "Emil Feist",
+        "popularity": 0.0931,
+        "profile_path": "/ht2fgwiRWWbTFrbov09s8ZfLXY4.jpg",
+        "cast_id": 50,
+        "character": "Dwarf",
+        "credit_id": "5e4568bc0c2710001a864a86",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27390,
+        "known_for_department": "Acting",
+        "name": "Carla Mancini",
+        "original_name": "Carla Mancini",
+        "popularity": 0.4569,
+        "profile_path": "/61VB38l1EyKB6owCrzmcxBGQM3N.jpg",
+        "cast_id": 51,
+        "character": "Mother",
+        "credit_id": "5e4568cb41465c0018d3ac08",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239666,
+        "known_for_department": "Acting",
+        "name": "Luigi Antonio Guerra",
+        "original_name": "Luigi Antonio Guerra",
+        "popularity": 0.2468,
+        "profile_path": "/2MH1gI5p2Zy0YUfjzeyYlexLj6U.jpg",
+        "cast_id": 52,
+        "character": "Official",
+        "credit_id": "5e4568dd41465c0018d3ac12",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5819,
+        "known_for_department": "Camera",
+        "name": "Angelo Novi",
+        "original_name": "Angelo Novi",
+        "popularity": 0.19,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Bartender",
+        "credit_id": "5e4568ecdb8a0000199b4206",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2537292,
+        "known_for_department": "Acting",
+        "name": "Ullrich Müller",
+        "original_name": "Ullrich Müller",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Man",
+        "credit_id": "5e4568f89603310017f509ed",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2537293,
+        "known_for_department": "Acting",
+        "name": "Claus Schmidt",
+        "original_name": "Claus Schmidt",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Man",
+        "credit_id": "5e4569053dd12600165b9e64",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152827,
+        "known_for_department": "Acting",
+        "name": "Maurice Kowalewski",
+        "original_name": "Maurice Kowalewski",
+        "popularity": 0.1776,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "New Orleans Street Photographer (uncredited)",
+        "credit_id": "52fe44fcc3a36847f80b5e13",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57639,
+        "known_for_department": "Directing",
+        "name": "Tonino Valerii",
+        "original_name": "Tonino Valerii",
+        "popularity": 0.4125,
+        "profile_path": "/hnBfZg4RnaWuOINmxMquhHPkDtM.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5db3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4385,
+        "known_for_department": "Directing",
+        "name": "Sergio Leone",
+        "original_name": "Sergio Leone",
+        "popularity": 1.3074,
+        "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5db9",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4385,
+        "known_for_department": "Directing",
+        "name": "Sergio Leone",
+        "original_name": "Sergio Leone",
+        "popularity": 1.3074,
+        "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5dd1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259,
+        "known_for_department": "Sound",
+        "name": "Ennio Morricone",
+        "original_name": "Ennio Morricone",
+        "popularity": 0.5005,
+        "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5dd7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50818,
+        "known_for_department": "Writing",
+        "name": "Ernesto Gastaldi",
+        "original_name": "Ernesto Gastaldi",
+        "popularity": 0.3189,
+        "profile_path": "/tz0ozsEwJqIOn1YPDcfMl8XXTTC.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5dbf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4669,
+        "known_for_department": "Production",
+        "name": "Claudio Mancini",
+        "original_name": "Claudio Mancini",
+        "popularity": 0.413,
+        "profile_path": "/rmgSYnvUlW4XBeWHBI5CjjONJZQ.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5dc5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4670,
+        "known_for_department": "Editing",
+        "name": "Nino Baragli",
+        "original_name": "Nino Baragli",
+        "popularity": 0.3561,
+        "profile_path": "/2iWNZkKmuo17q4QCI8TMhGPD7PA.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5de3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4986,
+        "known_for_department": "Production",
+        "name": "Fulvio Morsella",
+        "original_name": "Fulvio Morsella",
+        "popularity": 0.1818,
+        "profile_path": "/g7JuLfkyPGwe3vlmhTnDcSwZkXB.jpg",
+        "credit_id": "52fe44fcc3a36847f80b5dcb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5556,
+        "known_for_department": "Camera",
+        "name": "Giuseppe Ruzzolini",
+        "original_name": "Giuseppe Ruzzolini",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "52fe44fcc3a36847f80b5ddd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259,
+        "known_for_department": "Sound",
+        "name": "Ennio Morricone",
+        "original_name": "Ennio Morricone",
+        "popularity": 0.5005,
+        "profile_path": "/avjgzi45bdXgC1AtyNsRc5nxtFM.jpg",
+        "credit_id": "564cc3979251414dc4007263",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4610,
+        "known_for_department": "Directing",
+        "name": "John Landis",
+        "original_name": "John Landis",
+        "popularity": 1.1858,
+        "profile_path": "/3T778poXnyAeJO15m1XwvSCv9nc.jpg",
+        "credit_id": "59807f1a9251414929010a6b",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4385,
+        "known_for_department": "Directing",
+        "name": "Sergio Leone",
+        "original_name": "Sergio Leone",
+        "popularity": 1.3074,
+        "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "credit_id": "5980802dc3a3681055011560",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24665,
+        "known_for_department": "Camera",
+        "name": "Armando Nannuzzi",
+        "original_name": "Armando Nannuzzi",
+        "popularity": 0.2741,
+        "profile_path": null,
+        "credit_id": "64551d4dc044290164ec13fb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1651434,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nilo Jacoponi",
+        "original_name": "Nilo Jacoponi",
+        "popularity": 0.1332,
+        "profile_path": null,
+        "credit_id": "5e4562610c2710001a863f46",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 91812,
+        "known_for_department": "Directing",
+        "name": "Rita Agostini",
+        "original_name": "Rita Agostini",
+        "popularity": 0.0962,
+        "profile_path": null,
+        "credit_id": "5e4567293dd12600165b9c27",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4986,
+        "known_for_department": "Production",
+        "name": "Fulvio Morsella",
+        "original_name": "Fulvio Morsella",
+        "popularity": 0.1818,
+        "profile_path": "/g7JuLfkyPGwe3vlmhTnDcSwZkXB.jpg",
+        "credit_id": "5e4561c541465c0016d35a88",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 55655,
+        "known_for_department": "Production",
+        "name": "Franco Coduti",
+        "original_name": "Franco Coduti",
+        "popularity": 0.113,
+        "profile_path": null,
+        "credit_id": "5e45669b9603310013f5a82d",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1570295,
+        "known_for_department": "Production",
+        "name": "Paolo Gargano",
+        "original_name": "Paolo Gargano",
+        "popularity": 0.1,
+        "profile_path": null,
+        "credit_id": "5e4566af9603310013f5a849",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1174725,
+        "known_for_department": "Art",
+        "name": "Gianni Polidori",
+        "original_name": "Gianni Polidori",
+        "popularity": 0.2516,
+        "profile_path": null,
+        "credit_id": "5e4562293dd126001a5b6207",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1632911,
+        "known_for_department": "Production",
+        "name": "Piero Lazzari",
+        "original_name": "Piero Lazzari",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "credit_id": "5e4566c00c2710001384b7d1",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50818,
+        "known_for_department": "Writing",
+        "name": "Ernesto Gastaldi",
+        "original_name": "Ernesto Gastaldi",
+        "popularity": 0.3189,
+        "profile_path": "/tz0ozsEwJqIOn1YPDcfMl8XXTTC.jpg",
+        "credit_id": "5e4561d4db8a0000149b256c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937425,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vera Marzot",
+        "original_name": "Vera Marzot",
+        "popularity": 0.1272,
+        "profile_path": null,
+        "credit_id": "5e4562379603310015f5a477",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 27187,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Grazia De Rossi",
+        "original_name": "Grazia De Rossi",
+        "popularity": 0.1176,
+        "profile_path": null,
+        "credit_id": "5e456246db8a0000149b261e",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1336532,
+        "known_for_department": "Directing",
+        "name": "Stefano Rolla",
+        "original_name": "Stefano Rolla",
+        "popularity": 0.2652,
+        "profile_path": "/vYxbWCIYujMHeVxV6f6QAPzYK5E.jpg",
+        "credit_id": "5e4566d641465c0016d36106",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53196,
+        "known_for_department": "Camera",
+        "name": "Sergio Salvati",
+        "original_name": "Sergio Salvati",
+        "popularity": 0.4333,
+        "profile_path": "/jEvEwsI2pCWvJ6gWQVezWOUS77H.jpg",
+        "credit_id": "5e4567043dd126001a5b65ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4385,
+        "known_for_department": "Directing",
+        "name": "Sergio Leone",
+        "original_name": "Sergio Leone",
+        "popularity": 1.3074,
+        "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "credit_id": "5e4566e6db8a0000149b2948",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2087956,
+        "known_for_department": "Editing",
+        "name": "Rossana Maiuri",
+        "original_name": "Rossana Maiuri",
+        "popularity": 0.0537,
+        "profile_path": null,
+        "credit_id": "5e456718db8a0000199b3e73",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2505255,
+        "known_for_department": "Sound",
+        "name": "Bruno Battisti D'Amario",
+        "original_name": "Bruno Battisti D'Amario",
+        "popularity": 0.1249,
+        "profile_path": "/iTq9TV65xgXNaoyOCSAY2iTmSrR.jpg",
+        "credit_id": "677ba92d6d7ca00e7872d48c",
+        "department": "Sound",
+        "job": "Musician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1701,
+        "name": "hero"
+      },
+      {
+        "id": 156212,
+        "name": "spaghetti western"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1973-12-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1973-12-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1975-03-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2002-01-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-04-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "West Germany",
+            "release_date": "1973-12-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-01-25T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-08-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-03-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-07-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1973-12-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release, restored 4K version",
+            "release_date": "2023-12-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "France•3",
+            "release_date": "2025-12-01T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Panorama of European Cinema",
+            "release_date": "2010-10-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1975-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-07-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1973-12-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1975-11-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1996-03-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1976-04-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-07-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2007-11-06T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "RTL 7",
+            "release_date": "2009-04-18T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-04-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Davao",
+            "release_date": "1976-01-15T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Porto",
+            "release_date": "1979-11-30T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-04-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-06-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

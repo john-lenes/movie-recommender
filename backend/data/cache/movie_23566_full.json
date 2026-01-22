@@ -1,0 +1,640 @@
+{
+  "adult": false,
+  "backdrop_path": "/7azfW8hJFlayltIW2Mc1jC78smZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    }
+  ],
+  "homepage": "",
+  "id": 23566,
+  "imdb_id": "tt1484922",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie and the Three Musketeers",
+  "overview": "A jovem Corinne tem um grande sonho - ser uma mosqueteira! O problema é que esse é um trabalho só para homens. Mas, mesmo assim, Corinne decide ir para Paris e lutar por aquilo que quer. Lá, ela conhece Viveca, Aramina e Reneé, três moças que têm o mesmo objetivo. Juntas, elas vão treinar muito para, um dia, provar seu valor. E essa oportunidade está mais perto do que elas imaginam. O malvado regente Felipe está conspirando contra o príncipe Louis para tomar poder. Agora, para desmascarar esse terrível vilão e salvar a vida de Louis, as quatro corajosas guerreiras vão precisar de todas as suas habilidades. E, quem sabe, ainda provar para o príncipe que são dignas de se juntar aos soldados do reino.",
+  "popularity": 14.0403,
+  "poster_path": "/aulv0DUM41tmEM9BoDVaczBojsz.jpg",
+  "production_companies": [
+    {
+      "id": 102897,
+      "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png",
+      "name": "Rainmaker Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-09-15",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Barbie e As Três Mosqueteiras",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 717,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74358,
+        "known_for_department": "Acting",
+        "name": "Kelly Sheridan",
+        "original_name": "Kelly Sheridan",
+        "popularity": 1.406,
+        "profile_path": "/sxg2oRxwAEWd2Y8baJarjwC1XPA.jpg",
+        "cast_id": 3,
+        "character": "Barbie as Corrine (voice)",
+        "credit_id": "52fe446dc3a368484e0227ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13472,
+        "known_for_department": "Acting",
+        "name": "Tim Curry",
+        "original_name": "Tim Curry",
+        "popularity": 3.3747,
+        "profile_path": "/8ZsGg3N3OZgxshqLOtA2kl5ckOP.jpg",
+        "cast_id": 4,
+        "character": "Philippe (voice)",
+        "credit_id": "52fe446dc3a368484e0227f1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92076,
+        "known_for_department": "Acting",
+        "name": "Kira Tozer",
+        "original_name": "Kira Tozer",
+        "popularity": 0.32,
+        "profile_path": "/stUjhL3xaFyY56oKoKixM8WEA0a.jpg",
+        "cast_id": 5,
+        "character": "Viveca (voice)",
+        "credit_id": "52fe446dc3a368484e0227f5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92077,
+        "known_for_department": "Acting",
+        "name": "Willow Johnson",
+        "original_name": "Willow Johnson",
+        "popularity": 0.2455,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Aramina (voice)",
+        "credit_id": "52fe446dc3a368484e0227f9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92078,
+        "known_for_department": "Acting",
+        "name": "Dorla Bell",
+        "original_name": "Dorla Bell",
+        "popularity": 0.2742,
+        "profile_path": "/qVmtpPFwcdnXbWBAtwmGY0GUicZ.jpg",
+        "cast_id": 7,
+        "character": "Renée (voice)",
+        "credit_id": "52fe446dc3a368484e0227fd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74370,
+        "known_for_department": "Acting",
+        "name": "Nicole Oliver",
+        "original_name": "Nicole Oliver",
+        "popularity": 1.1041,
+        "profile_path": "/plAsVfhTrYaU78JrZbJSQ4uXpX1.jpg",
+        "cast_id": 8,
+        "character": "Corinne's Mother / Fancy Dress Girl #1 (voice)",
+        "credit_id": "52fe446dc3a368484e022801",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92079,
+        "known_for_department": "Acting",
+        "name": "Merrilyn Gann",
+        "original_name": "Merrilyn Gann",
+        "popularity": 1.4823,
+        "profile_path": "/sxhjujwnSUTpXLO8rL97hHEE8PK.jpg",
+        "cast_id": 9,
+        "character": "Madame de Bossé (voice)",
+        "credit_id": "52fe446dc3a368484e022805",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45923,
+        "known_for_department": "Acting",
+        "name": "Kathleen Barr",
+        "original_name": "Kathleen Barr",
+        "popularity": 0.8369,
+        "profile_path": "/jq82w8gI8Mco9DAk1xCOKIjAWsj.jpg",
+        "cast_id": 10,
+        "character": "Hélène / Fancy Dress Girl #2 (voice)",
+        "credit_id": "52fe446dc3a368484e022809",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59311,
+        "known_for_department": "Acting",
+        "name": "Mark Hildreth",
+        "original_name": "Mark Hildreth",
+        "popularity": 0.7823,
+        "profile_path": "/pHkXbCjIPbUSeOZLV3z6dnj8WVB.jpg",
+        "cast_id": 11,
+        "character": "Prince Louis (voice)",
+        "credit_id": "52fe446dc3a368484e02280d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74362,
+        "known_for_department": "Acting",
+        "name": "Michael Dobson",
+        "original_name": "Michael Dobson",
+        "popularity": 0.8708,
+        "profile_path": "/AjzZvcIWkq6mUC5dIxgGsPCv8bk.jpg",
+        "cast_id": 12,
+        "character": "Bertram / Musketeer Guard (voice)",
+        "credit_id": "52fe446dc3a368484e022811",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27119,
+        "known_for_department": "Acting",
+        "name": "Bernard Cuffling",
+        "original_name": "Bernard Cuffling",
+        "popularity": 0.429,
+        "profile_path": "/rla86XNirzJYWLY7TLV92jhKrXt.jpg",
+        "cast_id": 13,
+        "character": "Monsieur Treville (voice)",
+        "credit_id": "52fe446dc3a368484e022815",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92080,
+        "known_for_department": "Acting",
+        "name": "Brad Swaile",
+        "original_name": "Brad Swaile",
+        "popularity": 0.4305,
+        "profile_path": "/w94IguNRiehB5GpytaYsoPVXCvv.jpg",
+        "cast_id": 14,
+        "character": "Serge / Handsome Man (voice)",
+        "credit_id": "52fe446dc3a368484e022819",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92081,
+        "known_for_department": "Acting",
+        "name": "Amelia Henderson",
+        "original_name": "Amelia Henderson",
+        "popularity": 0.6271,
+        "profile_path": "/4GXnn1pOZygfxVjquf6V5XTPGWw.jpg",
+        "cast_id": 15,
+        "character": "Miette (voice)",
+        "credit_id": "52fe446dc3a368484e02281d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74360,
+        "known_for_department": "Acting",
+        "name": "Tabitha St. Germain",
+        "original_name": "Tabitha St. Germain",
+        "popularity": 0.9514,
+        "profile_path": "/ljFeqt5uanRHqKTuMumd0iMW69b.jpg",
+        "cast_id": 16,
+        "character": "Miette Walla (voice)",
+        "credit_id": "52fe446dc3a368484e022821",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89547,
+        "known_for_department": "Acting",
+        "name": "Brian Dobson",
+        "original_name": "Brian Dobson",
+        "popularity": 0.487,
+        "profile_path": "/3klT2K1UGl1wvmHKuDcSPuUFasV.jpg",
+        "cast_id": 17,
+        "character": "Brutus / Regent Guard #2 (voice)",
+        "credit_id": "52fe446dc3a368484e022825",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84490,
+        "known_for_department": "Acting",
+        "name": "David Kaye",
+        "original_name": "David Kaye",
+        "popularity": 0.9343,
+        "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg",
+        "cast_id": 18,
+        "character": "Alexander / Driver (voice)",
+        "credit_id": "52fe446dc3a368484e022829",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45927,
+        "known_for_department": "Acting",
+        "name": "Terry Klassen",
+        "original_name": "Terry Klassen",
+        "popularity": 0.5514,
+        "profile_path": "/d3u25vavi67ee93zMH7ppzk2qJC.jpg",
+        "cast_id": 19,
+        "character": "Pig / Regent Guard #1 / Henchman (voice)",
+        "credit_id": "52fe446dc3a368484e02282d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63797,
+        "known_for_department": "Acting",
+        "name": "Alistair Abell",
+        "original_name": "Alistair Abell",
+        "popularity": 0.6157,
+        "profile_path": "/3IAmQJ8s2WqZDQscbVoyWFV7LaL.jpg",
+        "cast_id": 20,
+        "character": "Musketeer #1 / Royal Announcer (voice)",
+        "credit_id": "52fe446dc3a368484e022831",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74364,
+        "known_for_department": "Acting",
+        "name": "Brian Drummond",
+        "original_name": "Brian Drummond",
+        "popularity": 0.7295,
+        "profile_path": "/oNKCHFuMZTASvyayEj3cRXLEjJL.jpg",
+        "cast_id": 21,
+        "character": "Musketeer #2 (voice)",
+        "credit_id": "52fe446dc3a368484e022835",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80948,
+        "known_for_department": "Directing",
+        "name": "William Lau",
+        "original_name": "William Lau",
+        "popularity": 0.4172,
+        "profile_path": "/mYJDV7ddvx2ErQHAyn68SFanL6Q.jpg",
+        "credit_id": "52fe446dc3a368484e0227e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92083,
+        "known_for_department": "Production",
+        "name": "Rob Hudnut",
+        "original_name": "Rob Hudnut",
+        "popularity": 0.2102,
+        "profile_path": null,
+        "credit_id": "52fe446dc3a368484e02283b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92085,
+        "known_for_department": "Production",
+        "name": "Carrie Wilksen",
+        "original_name": "Carrie Wilksen",
+        "popularity": 0.1479,
+        "profile_path": null,
+        "credit_id": "52fe446dc3a368484e022841",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882882,
+        "known_for_department": "Writing",
+        "name": "Ruth Handler",
+        "original_name": "Ruth Handler",
+        "popularity": 0.6694,
+        "profile_path": "/dpjzMMrUxiLFWRgDQ9GedhQ9hmA.jpg",
+        "credit_id": "62a299d9c8f858004f8deda6",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1355894,
+        "known_for_department": "Visual Effects",
+        "name": "Anthony Di Ninno",
+        "original_name": "Anthony Di Ninno",
+        "popularity": 0.2496,
+        "profile_path": null,
+        "credit_id": "5523ef12c3a36834530066dc",
+        "department": "Directing",
+        "job": "Layout"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215728,
+        "known_for_department": "Writing",
+        "name": "Amy Wolfram",
+        "original_name": "Amy Wolfram",
+        "popularity": 0.279,
+        "profile_path": null,
+        "credit_id": "56055c91c3a3685c42002426",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367409,
+        "known_for_department": "Directing",
+        "name": "Sylvain Blais",
+        "original_name": "Sylvain Blais",
+        "popularity": 0.1331,
+        "profile_path": "/2Su3cNBtcf6gD8D6fF7rl6jcs6I.jpg",
+        "credit_id": "5cf3baa2c3a3685c081f5e9a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4147,
+        "known_for_department": "Art",
+        "name": "Walter P. Martishius",
+        "original_name": "Walter P. Martishius",
+        "popularity": 0.2759,
+        "profile_path": null,
+        "credit_id": "5cf3bac6c3a368735b257dbd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1599442,
+        "known_for_department": "Art",
+        "name": "Pamela Prostarr",
+        "original_name": "Pamela Prostarr",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "5cf3bad8c3a3687758234e27",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2327945,
+        "known_for_department": "Production",
+        "name": "Candice Bone",
+        "original_name": "Candice Bone",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "credit_id": "5cf3baf80e0a2670bdcf3784",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640712,
+        "known_for_department": "Sound",
+        "name": "Ryan Nowak",
+        "original_name": "Ryan Nowak",
+        "popularity": 0.3478,
+        "profile_path": null,
+        "credit_id": "5cf3bb18c3a3681c991f3276",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2327946,
+        "known_for_department": "Art",
+        "name": "Gavin Ball",
+        "original_name": "Gavin Ball",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "credit_id": "5cf3bb4c0e0a2624ddcadb08",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62358,
+        "known_for_department": "Sound",
+        "name": "Eric Colvin",
+        "original_name": "Eric Colvin",
+        "popularity": 0.1633,
+        "profile_path": null,
+        "credit_id": "67552013a18cb8695afd5e7d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5248,
+        "name": "female friendship"
+      },
+      {
+        "id": 10542,
+        "name": "based on toy"
+      },
+      {
+        "id": 11322,
+        "name": "female protagonist"
+      },
+      {
+        "id": 14577,
+        "name": "musketeer"
+      },
+      {
+        "id": 278823,
+        "name": "3d animation"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2009-09-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2009-10-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "Ai",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2009-09-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2009-09-28T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "KN",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2009-11-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2009-09-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "no",
+            "note": "",
+            "release_date": "2009-10-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2009-09-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

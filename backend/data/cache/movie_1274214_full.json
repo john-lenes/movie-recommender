@@ -1,0 +1,616 @@
+{
+  "adult": false,
+  "backdrop_path": "/AkNQCE7FijTFmneDVLCYpN9aMJ0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    }
+  ],
+  "homepage": "",
+  "id": 1274214,
+  "imdb_id": "tt30761647",
+  "origin_country": [
+    "MY"
+  ],
+  "original_language": "ms",
+  "original_title": "Papa Zola: The Movie",
+  "overview": "",
+  "popularity": 10.7837,
+  "poster_path": "/pwvxe80da8tbuwywrYYEUAr9KjQ.jpg",
+  "production_companies": [
+    {
+      "id": 19055,
+      "logo_path": "/g7R3rz40PaD1vcDEtc0DOODzw0F.png",
+      "name": "Astro Shaw",
+      "origin_country": "MY"
+    },
+    {
+      "id": 138432,
+      "logo_path": "/nDczJIq67DDigefJSFg7H2cEPFF.png",
+      "name": "Monsta Studios",
+      "origin_country": "MY"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    }
+  ],
+  "release_date": "2025-12-11",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Papa Zola: The Movie",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 549399,
+        "known_for_department": "Directing",
+        "name": "Nizam Razak",
+        "original_name": "Nizam Razak",
+        "popularity": 0.2304,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Papa Zola (voice)",
+        "credit_id": "661b52bd0816c701869e139d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2484220,
+        "known_for_department": "Acting",
+        "name": "Ieesya Isandra",
+        "original_name": "Ieesya Isandra",
+        "popularity": 0.0857,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Pipi Zola (voice)",
+        "credit_id": "661b52cee263bb017ecf7d0f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3837278,
+        "known_for_department": "Acting",
+        "name": "Noor Ezdiani Ahmad Fauwzi",
+        "original_name": "Noor Ezdiani Ahmad Fauwzi",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Mama Zila (voice)",
+        "credit_id": "681298dd485b766edda48fca",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2386337,
+        "known_for_department": "Acting",
+        "name": "Yusuf Bahrin",
+        "original_name": "Yusuf Bahrin",
+        "popularity": 0.1231,
+        "profile_path": "/yHsfkwA9IGY3sqGKqU7gxyo9KFy.jpg",
+        "cast_id": 21,
+        "character": "Kachax Khan (voice)",
+        "credit_id": "6940be6017d436aeefc018d2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4787296,
+        "known_for_department": "Acting",
+        "name": "Aloeng Silalahi",
+        "original_name": "Aloeng Silalahi",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Yonb (voice)",
+        "credit_id": "6940be730399da9c39595fa3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4777699,
+        "known_for_department": "Acting",
+        "name": "Imaad Iskandar",
+        "original_name": "Imaad Iskandar",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Otoi (voice)",
+        "credit_id": "6940be87d16691a5a0467cdb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 549396,
+        "known_for_department": "Acting",
+        "name": "Nur Fathiah Diaz",
+        "original_name": "Nur Fathiah Diaz",
+        "popularity": 0.3007,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "BoBoiBoy (voice)",
+        "credit_id": "681298f6a679bc3540020699",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586546,
+        "known_for_department": "Acting",
+        "name": "Dzubir Mohamed Zakaria",
+        "original_name": "Dzubir Mohamed Zakaria",
+        "popularity": 0.2423,
+        "profile_path": "/r5QOzLFt6WEIEYG54lEdGkSM0jX.jpg",
+        "cast_id": 15,
+        "character": "Gopal (voice)",
+        "credit_id": "6812990756bdf1f0329b3658",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5880019,
+        "known_for_department": "Acting",
+        "name": "Mimi Amiri",
+        "original_name": "Mimi Amiri",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Cimubot (voice)",
+        "credit_id": "6940bec5685020ab0b3c5237",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 549400,
+        "known_for_department": "Acting",
+        "name": "Anas Abdul Aziz",
+        "original_name": "Anas Abdul Aziz",
+        "popularity": 0.201,
+        "profile_path": "/nU5d6rWH3b58ctBoyHZJIWenRTe.jpg",
+        "cast_id": 16,
+        "character": "Olien (voice)",
+        "credit_id": "68129917b890b829cda49016",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5880020,
+        "known_for_department": "Acting",
+        "name": "Yazid Asril",
+        "original_name": "Yazid Asril",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Berlien (voice)",
+        "credit_id": "6940bee71f4ff479489c4e98",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5880021,
+        "known_for_department": "Acting",
+        "name": "Muhammad Farzan Thariq",
+        "original_name": "Muhammad Farzan Thariq",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Tam (voice)",
+        "credit_id": "6940bf095da5433d90c018cd",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 549399,
+        "known_for_department": "Directing",
+        "name": "Nizam Razak",
+        "original_name": "Nizam Razak",
+        "popularity": 0.2304,
+        "profile_path": null,
+        "credit_id": "661b52e0ca8354017e7f7638",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943840,
+        "known_for_department": "Editing",
+        "name": "Raja Nukman Raja Mohd Noordin",
+        "original_name": "Raja Nukman Raja Mohd Noordin",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "661b52ee44a4240163439ea2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2363756,
+        "known_for_department": "Production",
+        "name": "Raja Jastina Arshad",
+        "original_name": "Raja Jastina Arshad",
+        "popularity": 0.1127,
+        "profile_path": null,
+        "credit_id": "661b532944a424017c43ae98",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586545,
+        "known_for_department": "Acting",
+        "name": "Yap Ee Jean",
+        "original_name": "Yap Ee Jean",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "661b5370635013017b7dd8a7",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 549399,
+        "known_for_department": "Directing",
+        "name": "Nizam Razak",
+        "original_name": "Nizam Razak",
+        "popularity": 0.2304,
+        "profile_path": null,
+        "credit_id": "661b5310a5890201637dc376",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1444274,
+        "known_for_department": "Production",
+        "name": "Kee Yong Pin",
+        "original_name": "Kee Yong Pin",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "661b53850443c901630f5a02",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943847,
+        "known_for_department": "Production",
+        "name": "Ferdiawan Gunarto",
+        "original_name": "Ferdiawan Gunarto",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "661b535dc8a2d4017d09dc8f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3837278,
+        "known_for_department": "Acting",
+        "name": "Noor Ezdiani Ahmad Fauwzi",
+        "original_name": "Noor Ezdiani Ahmad Fauwzi",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "credit_id": "661b534eb04228017d2d91a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943840,
+        "known_for_department": "Editing",
+        "name": "Raja Nukman Raja Mohd Noordin",
+        "original_name": "Raja Nukman Raja Mohd Noordin",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "661b53aa44a424017c43af3c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 549399,
+        "known_for_department": "Directing",
+        "name": "Nizam Razak",
+        "original_name": "Nizam Razak",
+        "popularity": 0.2304,
+        "profile_path": null,
+        "credit_id": "661b539444a424017c43af17",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5390517,
+        "known_for_department": "Production",
+        "name": "Siti Marzuliana Marzuki",
+        "original_name": "Siti Marzuliana Marzuki",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "68129955e89efe16fea0ecc9",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 549400,
+        "known_for_department": "Acting",
+        "name": "Anas Abdul Aziz",
+        "original_name": "Anas Abdul Aziz",
+        "popularity": 0.201,
+        "profile_path": "/nU5d6rWH3b58ctBoyHZJIWenRTe.jpg",
+        "credit_id": "6812997e051fbede1027f147",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4711077,
+        "known_for_department": "Production",
+        "name": "Norsalvina Alwee",
+        "original_name": "Norsalvina Alwee",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "68129996886b4558f4055545",
+        "department": "Production",
+        "job": "Head of Production"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3826175,
+        "known_for_department": "Acting",
+        "name": "Syabil Syamin",
+        "original_name": "Syabil Syamin",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "691e68260331e653fb21a36e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586546,
+        "known_for_department": "Acting",
+        "name": "Dzubir Mohamed Zakaria",
+        "original_name": "Dzubir Mohamed Zakaria",
+        "popularity": 0.2423,
+        "profile_path": "/r5QOzLFt6WEIEYG54lEdGkSM0jX.jpg",
+        "credit_id": "6940bf8c96e4bfbbdb595fd3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4777702,
+        "known_for_department": "Sound",
+        "name": "Simmy Lor",
+        "original_name": "Simmy Lor",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6940bfc25da5433d90c018d1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4478510,
+        "known_for_department": "Directing",
+        "name": "Khairul Ammar Jamal",
+        "original_name": "Khairul Ammar Jamal",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6940bfeacf0d7fad92a03f41",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4777660,
+        "known_for_department": "Acting",
+        "name": "Irwan Dzafir Sudirman",
+        "original_name": "Irwan Dzafir Sudirman",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6940c032e2055aee65467ce2",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3311995,
+        "known_for_department": "Sound",
+        "name": "Mohsin Othman",
+        "original_name": "Mohsin Othman",
+        "popularity": 0.075,
+        "profile_path": null,
+        "credit_id": "6940c07c9fa060ac373c5263",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3308287,
+        "known_for_department": "Visual Effects",
+        "name": "Dieky Suprayogi",
+        "original_name": "Dieky Suprayogi",
+        "popularity": 0.1587,
+        "profile_path": null,
+        "credit_id": "6940c0f00399da9c39595fb0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 456,
+        "name": "mother"
+      },
+      {
+        "id": 1701,
+        "name": "hero"
+      },
+      {
+        "id": 1009,
+        "name": "baby"
+      },
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 3289,
+        "name": "villain"
+      },
+      {
+        "id": 5905,
+        "name": "father"
+      },
+      {
+        "id": 10244,
+        "name": "based on cartoon"
+      },
+      {
+        "id": 159560,
+        "name": "bumbling"
+      },
+      {
+        "id": 194404,
+        "name": "supervillain"
+      },
+      {
+        "id": 240303,
+        "name": "father daughter relationship"
+      },
+      {
+        "id": 269769,
+        "name": "based on tv series"
+      },
+      {
+        "id": 278823,
+        "name": "3d animation"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ms",
+            "note": "",
+            "release_date": "2025-12-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "SU",
+            "descriptors": [],
+            "iso_639_1": "ms",
+            "note": "",
+            "release_date": "2026-01-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ms",
+            "note": "Kuala Lumpur",
+            "release_date": "2025-12-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ms",
+            "note": "",
+            "release_date": "2025-12-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "adult": false,
+  "backdrop_path": "/y6MgDckBAzPfvRDCR093UNaWItQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1366745,
+  "imdb_id": "tt33728446",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Papá x dos",
+  "overview": "Santiago sonha em formar uma família com Ana , mas tudo muda quando ela revela que está grávida… do ex! Determinado a lutar por seu amor, ele enfrenta uma convivência inesperada: Pancho, o ex de Ana, se muda para a casa para acompanhar a gravidez. Entre rivalidade e situações divertidas, começa uma guerra para conquistar Ana, onde nem tudo vale.",
+  "popularity": 53.6204,
+  "poster_path": "/sW23aL0W7iGCjN53XJTfXAuMzN3.jpg",
+  "production_companies": [
+    {
+      "id": 109712,
+      "logo_path": "/l1XjfRttv9zh9WWCzDrIL9QvVXk.png",
+      "name": "FAM Contenidos",
+      "origin_country": "AR"
+    },
+    {
+      "id": 240887,
+      "logo_path": null,
+      "name": "MaLuLe Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 240888,
+      "logo_path": null,
+      "name": "Heaven Entertaiment",
+      "origin_country": ""
+    },
+    {
+      "id": 240889,
+      "logo_path": null,
+      "name": "BF Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "PAPAI X DOIS",
+  "video": false,
+  "vote_average": 4.2,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79001,
+        "known_for_department": "Acting",
+        "name": "Benjamín Vicuña",
+        "original_name": "Benjamín Vicuña",
+        "popularity": 0.7327,
+        "profile_path": "/wYiCITgYIIfam3pbBIdVzXEtni1.jpg",
+        "cast_id": 2,
+        "character": "Santiago",
+        "credit_id": "6701836de84eeb35a0f85f24",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 327992,
+        "known_for_department": "Acting",
+        "name": "Celeste Cid",
+        "original_name": "Celeste Cid",
+        "popularity": 0.4863,
+        "profile_path": "/ArM1f4SYlQILPc93O1F73XOmaCk.jpg",
+        "cast_id": 3,
+        "character": "Ana",
+        "credit_id": "6701838ffa3e69e0ef7d0b11",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354931,
+        "known_for_department": "Production",
+        "name": "Lucas Akoskin",
+        "original_name": "Lucas Akoskin",
+        "popularity": 0.2769,
+        "profile_path": "/woBvzwOh7Ew6eYKiuSw4rEO6lvK.jpg",
+        "cast_id": 4,
+        "character": "Pancho",
+        "credit_id": "670183af7830c1301e7d0eb9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 141628,
+        "known_for_department": "Acting",
+        "name": "María Gracia Omegna",
+        "original_name": "María Gracia Omegna",
+        "popularity": 0.2823,
+        "profile_path": "/2Sw9QHvPjkYPwBObhvpIkWcmspA.jpg",
+        "cast_id": 5,
+        "character": "Tere",
+        "credit_id": "670183c7b146282f7b856512",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4096111,
+        "known_for_department": "Acting",
+        "name": "Tati Fernández",
+        "original_name": "Tati Fernández",
+        "popularity": 0.0964,
+        "profile_path": "/lsOmjoSFZx756m2u8cGzRdaEeg4.jpg",
+        "cast_id": 6,
+        "character": "Zoe",
+        "credit_id": "670183d5e84eeb35a0f85f45",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2371653,
+        "known_for_department": "Acting",
+        "name": "Julieta Poggio",
+        "original_name": "Julieta Poggio",
+        "popularity": 0.1882,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Rita",
+        "credit_id": "670183dc7830c1301e7d0ec7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4982594,
+        "known_for_department": "Acting",
+        "name": "Homero Pettinato",
+        "original_name": "Homero Pettinato",
+        "popularity": 0.0286,
+        "profile_path": "/lnwCICj84tfB4seBDa0cPN7Vdgm.jpg",
+        "cast_id": 9,
+        "character": "Mozo",
+        "credit_id": "670183ef6fc74e5756f8536a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2727971,
+        "known_for_department": "Acting",
+        "name": "Pablo Fábregas",
+        "original_name": "Pablo Fábregas",
+        "popularity": 0.1271,
+        "profile_path": "/zyaXPD8bcVsSHf5PzGgzfHkudWn.jpg",
+        "cast_id": 11,
+        "character": "Mozo",
+        "credit_id": "670183fa7830c1301e7d0edf",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1153988,
+        "known_for_department": "Acting",
+        "name": "Eugenia Guerty",
+        "original_name": "Eugenia Guerty",
+        "popularity": 0.196,
+        "profile_path": "/cbNilKBQzHtqsPgE1qkjZPdX1v6.jpg",
+        "cast_id": 26,
+        "character": "Rita",
+        "credit_id": "68cb12d258f008883998e18a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277263,
+        "known_for_department": "Acting",
+        "name": "Sergio Freire",
+        "original_name": "Sergio Freire",
+        "popularity": 0.1596,
+        "profile_path": "/nmmuHz3dPW2oKn1rSGeQYxHrv3k.jpg",
+        "cast_id": 28,
+        "character": "Orco",
+        "credit_id": "68cb13cf3a1d174f6fc7f83a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409108,
+        "known_for_department": "Acting",
+        "name": "Sebastián Wainraich",
+        "original_name": "Sebastián Wainraich",
+        "popularity": 0.0758,
+        "profile_path": "/zxHTIcXUkh7NsXb6hYgMrM4fex5.jpg",
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "68cb13f69ab7e497ffde85c0",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316923,
+        "known_for_department": "Directing",
+        "name": "Hernán Guerschuny",
+        "original_name": "Hernán Guerschuny",
+        "popularity": 0.1787,
+        "profile_path": "/lZXlQ4ou691JkeyvUzPvOr8uCTQ.jpg",
+        "credit_id": "67018359fa3e69e0ef7d0afd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4982595,
+        "known_for_department": "Editing",
+        "name": "Laureano Rizzi",
+        "original_name": "Laureano Rizzi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67018414c9a10d46ea7d1d01",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536215,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Roberta Pesci",
+        "original_name": "Roberta Pesci",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "67018420e84eeb35a0f85f5f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1801308,
+        "known_for_department": "Art",
+        "name": "Matías Martínez",
+        "original_name": "Matías Martínez",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "credit_id": "6701842de84eeb35a0f85f75",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2347141,
+        "known_for_department": "Camera",
+        "name": "Mariano Pariz",
+        "original_name": "Mariano Pariz",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "credit_id": "67018439e84eeb35a0f85f79",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1388605,
+        "known_for_department": "Production",
+        "name": "Mili Roque Pitt",
+        "original_name": "Mili Roque Pitt",
+        "popularity": 0.1748,
+        "profile_path": null,
+        "credit_id": "67018449e480149146857074",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557710,
+        "known_for_department": "Production",
+        "name": "Alejandro Cacetta",
+        "original_name": "Alejandro Cacetta",
+        "popularity": 0.1163,
+        "profile_path": null,
+        "credit_id": "670184507830c1301e7d0f01",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1388605,
+        "known_for_department": "Production",
+        "name": "Mili Roque Pitt",
+        "original_name": "Mili Roque Pitt",
+        "popularity": 0.1748,
+        "profile_path": null,
+        "credit_id": "6701845cf878adfed0856dfb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2033130,
+        "known_for_department": "Writing",
+        "name": "Matías Rodríguez",
+        "original_name": "Matías Rodríguez",
+        "popularity": 0.0768,
+        "profile_path": null,
+        "credit_id": "67018469f878adfed0856dfe",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1388605,
+        "known_for_department": "Production",
+        "name": "Mili Roque Pitt",
+        "original_name": "Mili Roque Pitt",
+        "popularity": 0.1748,
+        "profile_path": null,
+        "credit_id": "67018477e84eeb35a0f85f95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557710,
+        "known_for_department": "Production",
+        "name": "Alejandro Cacetta",
+        "original_name": "Alejandro Cacetta",
+        "popularity": 0.1163,
+        "profile_path": null,
+        "credit_id": "67018480e84eeb35a0f85f9d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1256513,
+        "known_for_department": "Production",
+        "name": "Fernando Blanco",
+        "original_name": "Fernando Blanco",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "67018490b146282f7b856535",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2162213,
+        "known_for_department": "Production",
+        "name": "Matías Cardone",
+        "original_name": "Matías Cardone",
+        "popularity": 0.072,
+        "profile_path": null,
+        "credit_id": "6701849ec9a10d46ea7d1d1d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354931,
+        "known_for_department": "Production",
+        "name": "Lucas Akoskin",
+        "original_name": "Lucas Akoskin",
+        "popularity": 0.2769,
+        "profile_path": "/woBvzwOh7Ew6eYKiuSw4rEO6lvK.jpg",
+        "credit_id": "670184b27830c1301e7d0f35",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653217,
+        "known_for_department": "Production",
+        "name": "Carlos Hansen",
+        "original_name": "Carlos Hansen",
+        "popularity": 0.1664,
+        "profile_path": null,
+        "credit_id": "670184baf878adfed0856e0b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-09-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE+7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

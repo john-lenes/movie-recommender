@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1301982,
+  "imdb_id": null,
+  "origin_country": [],
+  "original_language": "ja",
+  "original_title": "制服を脱ぎ捨てて　女子校生総集編",
+  "overview": "",
+  "popularity": 17.1855,
+  "poster_path": "/aE2YIhY4xTf00nXs0lDb5x2OK5v.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2004-01-01",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "制服を脱ぎ捨てて　女子校生総集編",
+  "video": false,
+  "vote_average": 9.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4047484,
+        "known_for_department": "Acting",
+        "name": "Hiromi Tachibana",
+        "original_name": "Hiromi Tachibana",
+        "popularity": 0.2846,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6664d76e310d62abed6de597",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2756803,
+        "known_for_department": "Acting",
+        "name": "Yuko Miwa",
+        "original_name": "Yuko Miwa",
+        "popularity": 0.2672,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6664d776712237e9fb825e7d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2452147,
+        "known_for_department": "Acting",
+        "name": "佐々木彩",
+        "original_name": "佐々木彩",
+        "popularity": 0.5032,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6664d77f546bcb3feaefd965",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1600948,
+        "known_for_department": "Acting",
+        "name": "Riri Kuramoto",
+        "original_name": "Riri Kuramoto",
+        "popularity": 0.207,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6664d78634a12f64a1ce0a13",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1108897,
+        "known_for_department": "Acting",
+        "name": "Jun Seto",
+        "original_name": "Jun Seto",
+        "popularity": 0.3209,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6664d79ae4931860e84db83a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3424380,
+        "known_for_department": "Acting",
+        "name": "Kotoko Shiraishi",
+        "original_name": "Kotoko Shiraishi",
+        "popularity": 0.4047,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6664d7a2acf2d58b05e0b4c1",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4763624,
+        "known_for_department": "Directing",
+        "name": "Wakaba Arai",
+        "original_name": "Wakaba Arai",
+        "popularity": 0.247,
+        "profile_path": null,
+        "credit_id": "6664d84b9d36a5799ffcb4fb",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 232904,
+        "name": "v-cinema"
+      },
+      {
+        "id": 329413,
+        "name": "pinku-eiga"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "2004-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

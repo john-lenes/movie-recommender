@@ -1,0 +1,301 @@
+{
+  "adult": false,
+  "backdrop_path": "/aQ7444JX7gefPhGJTlvilj3zG2S.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 553512,
+  "imdb_id": "tt9151704",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "번 더 스테이지: 더 무비",
+  "overview": "Depoimentos e entrevistas exclusivas revelam a longa trajetória da banda coreana BTS, um dos maiores sucessos atuais do K-pop que conseguiu se consolidar como um expoente do gênero na cultura mainstream. Através desses materiais adquirimos uma perspectiva íntima do grupo durante a turnê Wings. Os sonhos, as dificuldades, as paixões e filosofias de cada integrante são expostos ao público.",
+  "popularity": 3.8492,
+  "poster_path": "/pJKy1yvnKh8UjcuYeG3Rt35xHFA.jpg",
+  "production_companies": [
+    {
+      "id": 86824,
+      "logo_path": "/kGbzID3zHwCnhVjmMw3lKij2NKx.png",
+      "name": "Big Hit Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 112149,
+      "logo_path": null,
+      "name": "The Walt Disney Company Korea",
+      "origin_country": "KR"
+    },
+    {
+      "id": 203945,
+      "logo_path": null,
+      "name": "Camp Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2018-11-15",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "BTS - Burn the Stage: The Movie",
+  "video": false,
+  "vote_average": 8.367,
+  "vote_count": 424,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544084,
+        "known_for_department": "Acting",
+        "name": "RM",
+        "original_name": "RM",
+        "popularity": 0.6301,
+        "profile_path": "/cJmaUOIuibsC0DPnUMStN4rfAwr.jpg",
+        "cast_id": 0,
+        "character": "Himself",
+        "credit_id": "5bc082c292514179c4014b13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544088,
+        "known_for_department": "Acting",
+        "name": "진",
+        "original_name": "진",
+        "popularity": 0.8975,
+        "profile_path": "/cothCnRmZXC63olRZ816lZoGMDc.jpg",
+        "cast_id": 1,
+        "character": "Himself",
+        "credit_id": "5bc082d7c3a3682d60016cff",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544086,
+        "known_for_department": "Acting",
+        "name": "슈가",
+        "original_name": "슈가",
+        "popularity": 0.7641,
+        "profile_path": "/83xf9EkLK3k7CJSaXe3iVgBC6S3.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "5bc082e10e0a266e5d0161ea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544090,
+        "known_for_department": "Acting",
+        "name": "제이홉",
+        "original_name": "제이홉",
+        "popularity": 0.7648,
+        "profile_path": "/2xZu36Z6JFT95AIzazyRHW51dC1.jpg",
+        "cast_id": 3,
+        "character": "Himself",
+        "credit_id": "5bc082ed92514179bc01399f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544092,
+        "known_for_department": "Acting",
+        "name": "지민",
+        "original_name": "지민",
+        "popularity": 0.9904,
+        "profile_path": "/x5jbcmfYPr70AKfOiKtidODjpv1.jpg",
+        "cast_id": 4,
+        "character": "Himself",
+        "credit_id": "5bc082fa0e0a266e5b01510d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544093,
+        "known_for_department": "Acting",
+        "name": "뷔",
+        "original_name": "뷔",
+        "popularity": 2.0362,
+        "profile_path": "/jPCklfz8cAXfvRptmeNeYBa9Myf.jpg",
+        "cast_id": 5,
+        "character": "Himself",
+        "credit_id": "5bc08307c3a3682d5b0160e5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544095,
+        "known_for_department": "Acting",
+        "name": "정국",
+        "original_name": "정국",
+        "popularity": 0.9153,
+        "profile_path": "/2O7wrPFZtdfNJ5w6LGlIri3Xd0.jpg",
+        "cast_id": 6,
+        "character": "Himself",
+        "credit_id": "5bc0831292514179ba01570a",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2042738,
+        "known_for_department": "Directing",
+        "name": "Park Jun-soo",
+        "original_name": "Park Jun-soo",
+        "popularity": 0.6601,
+        "profile_path": "/ohDQzAK26k87v6poQBRHWOxjrlq.jpg",
+        "credit_id": "5bc083fc0e0a266e5d01640f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2197566,
+        "known_for_department": "Production",
+        "name": "Yun Ji-won",
+        "original_name": "Yun Ji-won",
+        "popularity": 0.1875,
+        "profile_path": null,
+        "credit_id": "5c9f08d79251411a1804a87b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761572,
+        "known_for_department": "Production",
+        "name": "방시혁",
+        "original_name": "방시혁",
+        "popularity": 0.2053,
+        "profile_path": "/wQgiytNBj3zeIS7MUtSWjLFt0JU.jpg",
+        "credit_id": "5d1d9e4855b0c0323569a793",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 225273,
+        "name": "k-pop"
+      },
+      {
+        "id": 251523,
+        "name": "idol group"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Youtube",
+            "release_date": "2019-01-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "Btl",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "Viewable on countries where YouTube Premium is available",
+            "release_date": "2019-01-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,645 @@
+{
+  "adult": false,
+  "backdrop_path": "/d2gkyhPQjqDy8lxTbW8AYq75UOM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 394830,
+  "imdb_id": "tt4181782",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Crucifixion",
+  "overview": "Quando um padre é sentenciado à prisão após a morte de uma freira em que praticou um exorcismo, uma jornalista investigativa se esforça para desvendar de fato se ele assassinou uma pessoa mentalmente doente ou se apenas perdeu uma batalha contra uma presença demoníaca.",
+  "popularity": 7.4522,
+  "poster_path": "/m4vkaiD9KeRLUKCBIvG3jSQ9tvP.jpg",
+  "production_companies": [
+    {
+      "id": 85466,
+      "logo_path": "/yIDg47SluPIkhh6ZXhJerIMNmRw.png",
+      "name": "Motion Picture Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3870,
+      "logo_path": "/hZlf4rlzB913VrRzSED4NLPy0EM.png",
+      "name": "Premiere Picture",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11565,
+      "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+      "name": "The Safran Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-04-27",
+  "revenue": 6554322,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Exorcismos e Demônios",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 525,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1282054,
+        "known_for_department": "Acting",
+        "name": "Sophie Cookson",
+        "original_name": "Sophie Cookson",
+        "popularity": 1.1485,
+        "profile_path": "/3HrHnpDFjHIdHNeEyhEdzh6L6jd.jpg",
+        "cast_id": 0,
+        "character": "Nicole Rawlins",
+        "credit_id": "5720d62bc3a3681198000277",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1611680,
+        "known_for_department": "Acting",
+        "name": "Corneliu Ulici",
+        "original_name": "Corneliu Ulici",
+        "popularity": 0.2843,
+        "profile_path": "/bbn3v2DHsmRRFkNbC9HudZK3NFh.jpg",
+        "cast_id": 1,
+        "character": "Father Anton",
+        "credit_id": "5720d642c3a368118100027a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2166496,
+        "known_for_department": "Acting",
+        "name": "Ada Lupu",
+        "original_name": "Ada Lupu",
+        "popularity": 0.356,
+        "profile_path": "/tdGEIh6Hpfot02G5NSg4vqq6uxm.jpg",
+        "cast_id": 16,
+        "character": "Sister Adelina Marinescu",
+        "credit_id": "61477e02511d09008a1c50e2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1197948,
+        "known_for_department": "Acting",
+        "name": "Brittany Ashworth",
+        "original_name": "Brittany Ashworth",
+        "popularity": 0.5304,
+        "profile_path": "/8aMWj7yNsMBaSVu7JOVdHCxB3bG.jpg",
+        "cast_id": 2,
+        "character": "Vaduva",
+        "credit_id": "5720d65b925141424000027b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63137,
+        "known_for_department": "Acting",
+        "name": "Mathew Zajac",
+        "original_name": "Mathew Zajac",
+        "popularity": 0.3152,
+        "profile_path": "/eimpFgoPxaoUUqU87JmvwxlBY2T.jpg",
+        "cast_id": 3,
+        "character": "Bishop Gornik",
+        "credit_id": "5720d66ec3a368117e000288",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1763891,
+        "known_for_department": "Acting",
+        "name": "Diana Vladu",
+        "original_name": "Diana Vladu",
+        "popularity": 0.1474,
+        "profile_path": "/5inou6CaIik6z9pYwBPvqwZymSM.jpg",
+        "cast_id": 6,
+        "character": "Exorcism nun",
+        "credit_id": "58ae5456c3a36835560004c7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1763892,
+        "known_for_department": "Acting",
+        "name": "Florian Voicu",
+        "original_name": "Florian Voicu",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Tavian",
+        "credit_id": "58ae5462c3a36835cd000476",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020139,
+        "known_for_department": "Acting",
+        "name": "Radu Bânzaru",
+        "original_name": "Radu Bânzaru",
+        "popularity": 0.3203,
+        "profile_path": "/rfB9DVE6gavdc1wd6hEsHVQqgT1.jpg",
+        "cast_id": 8,
+        "character": "Amanar",
+        "credit_id": "58ae5472c3a36835b800045b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111090,
+        "known_for_department": "Acting",
+        "name": "Javier Botet",
+        "original_name": "Javier Botet",
+        "popularity": 0.7614,
+        "profile_path": "/nuVbt1oreUUPPR0MhKKL7y6i9Dt.jpg",
+        "cast_id": 9,
+        "character": "Faceless Man",
+        "credit_id": "58ae547f9251410b3b00047e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1149635,
+        "known_for_department": "Acting",
+        "name": "Olivia Niță",
+        "original_name": "Olivia Niță",
+        "popularity": 0.3246,
+        "profile_path": "/lLLBav8DetMhY2Xdwfd6ZhFSXA3.jpg",
+        "cast_id": 10,
+        "character": "Demonic Nurse",
+        "credit_id": "58ae548d9251410b2c000497",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1020716,
+        "known_for_department": "Acting",
+        "name": "Iván González",
+        "original_name": "Iván González",
+        "popularity": 0.2734,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Stefan Marinescu",
+        "credit_id": "58ae54afc3a368355600050e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211540,
+        "known_for_department": "Acting",
+        "name": "Alexis Rodney",
+        "original_name": "Alexis Rodney",
+        "popularity": 0.335,
+        "profile_path": "/neKWhXFdb6b2ckg4UJORaxDruab.jpg",
+        "cast_id": 12,
+        "character": "Phillip",
+        "credit_id": "58ae54d6c3a36835b8000496",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229674,
+        "known_for_department": "Acting",
+        "name": "Radu Andrei Micu",
+        "original_name": "Radu Andrei Micu",
+        "popularity": 0.3196,
+        "profile_path": "/qGD5mG1IozeHIOTEMAEBmu089zo.jpg",
+        "cast_id": 13,
+        "character": "Deacon",
+        "credit_id": "58ae54e49251410b380004e7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426524,
+        "known_for_department": "Acting",
+        "name": "Emil Măndănac",
+        "original_name": "Emil Măndănac",
+        "popularity": 0.141,
+        "profile_path": "/dPvFAk74SCCirAKHvoelzhlks5T.jpg",
+        "cast_id": 14,
+        "character": "Father Rica",
+        "credit_id": "58ae54f5c3a36835d60004cb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932448,
+        "known_for_department": "Acting",
+        "name": "Andrei Aradits",
+        "original_name": "Andrei Aradits",
+        "popularity": 0.1429,
+        "profile_path": "/ehGuGNaw1NJdHpOXqCbDHQTtQXW.jpg",
+        "cast_id": 17,
+        "character": "Dr. Dorojan",
+        "credit_id": "66b07c55a3fbd5ac410cdcc1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2033773,
+        "known_for_department": "Acting",
+        "name": "Aurora Paunescu",
+        "original_name": "Aurora Paunescu",
+        "popularity": 0.063,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Exorcism Nun 1",
+        "credit_id": "66b07ca22aa1ae27a4f82998",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1285541,
+        "known_for_department": "Acting",
+        "name": "Cătălin Babliuc",
+        "original_name": "Cătălin Babliuc",
+        "popularity": 0.0983,
+        "profile_path": "/4d5qTDuzGGgc8P1xt69d6YkLeeB.jpg",
+        "cast_id": 19,
+        "character": "Father Dimitru",
+        "credit_id": "66b07d4ea0dbafa5aa05281b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81022,
+        "known_for_department": "Acting",
+        "name": "Jeff Rawle",
+        "original_name": "Jeff Rawle",
+        "popularity": 0.9315,
+        "profile_path": "/h3boko7omXOqHW2Nd4d4NAm54ZM.jpg",
+        "cast_id": 20,
+        "character": "Philip",
+        "credit_id": "66b07e03dfde21041a3a352d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8768,
+        "known_for_department": "Acting",
+        "name": "Maia Morgenstern",
+        "original_name": "Maia Morgenstern",
+        "popularity": 0.6012,
+        "profile_path": "/jNjNb73ZlumGDrWfxrSGgVkgbfn.jpg",
+        "cast_id": 21,
+        "character": "Dr. Funar",
+        "credit_id": "66b07e68c63bf3f0197c683d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1124259,
+        "known_for_department": "Acting",
+        "name": "Ozana Oancea",
+        "original_name": "Ozana Oancea",
+        "popularity": 0.2162,
+        "profile_path": "/iBEdgwnnDsm2xZ8NnwYhwtwLYtg.jpg",
+        "cast_id": 22,
+        "character": "Sister Lina",
+        "credit_id": "66b080406ce8daa52f2f46c4",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18184,
+        "known_for_department": "Directing",
+        "name": "Xavier Gens",
+        "original_name": "Xavier Gens",
+        "popularity": 0.5772,
+        "profile_path": "/zZ2ZtJeBq0yXB1Z5hSztarGt1yN.jpg",
+        "credit_id": "5720d688c3a3681187000257",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22038,
+        "known_for_department": "Writing",
+        "name": "Carey Hayes",
+        "original_name": "Carey Hayes",
+        "popularity": 0.5069,
+        "profile_path": "/gqQfN5CZ0yhDuB3QS0Ov1HcmlSG.jpg",
+        "credit_id": "5720d6a1c3a368117e00028c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66264,
+        "known_for_department": "Production",
+        "name": "Andrew Lauren",
+        "original_name": "Andrew Lauren",
+        "popularity": 0.2855,
+        "profile_path": null,
+        "credit_id": "5b98c7de925141727200779b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52259,
+        "known_for_department": "Production",
+        "name": "Peter Safran",
+        "original_name": "Peter Safran",
+        "popularity": 0.5239,
+        "profile_path": "/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+        "credit_id": "6757e2408138be55d9a13c2b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 378,
+        "name": "prison"
+      },
+      {
+        "id": 918,
+        "name": "newspaper"
+      },
+      {
+        "id": 736,
+        "name": "journalist"
+      },
+      {
+        "id": 745,
+        "name": "nun"
+      },
+      {
+        "id": 5340,
+        "name": "investigation"
+      },
+      {
+        "id": 2626,
+        "name": "exorcism"
+      },
+      {
+        "id": 3571,
+        "name": "crucifixion"
+      },
+      {
+        "id": 10093,
+        "name": "priest"
+      },
+      {
+        "id": 159940,
+        "name": "exorcist"
+      },
+      {
+        "id": 161261,
+        "name": "demonic possession"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-04-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2018-02-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2017-11-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2017-04-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-01-20T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "2019-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-07-27T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu ray",
+            "release_date": "2017-10-27T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-10-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "",
+            "release_date": "2017-10-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-10-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "uk",
+            "note": "MMD",
+            "release_date": "2017-10-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-10-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

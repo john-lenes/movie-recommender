@@ -1,0 +1,837 @@
+{
+  "adult": false,
+  "backdrop_path": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+  "belongs_to_collection": null,
+  "budget": 250000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    }
+  ],
+  "homepage": "",
+  "id": 548,
+  "imdb_id": "tt0042876",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "羅生門",
+  "overview": "No Japão do século XI, um lenhador, um sacerdote e um camponês procuram refúgio de uma tempestade nas ruínas de pedra do Portão de Rashomon. O sacerdote conta detalhes de um julgamento que testemunhou, envolvendo o estupro de Masako e o assassinato do marido dela, Takehiro, um samurai. Em flashback é mostrado o julgamento do bandido Tajomaru, onde acontecem quatro testemunhos, inclusive de Takehiro através de um médium. Cada um é uma \"verdade\", que entra em conflito com as outras.",
+  "popularity": 2.3899,
+  "poster_path": "/wNCx5AdhBgSn0ddva3SEUFLs81K.jpg",
+  "production_companies": [
+    {
+      "id": 880,
+      "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+      "name": "Daiei Film",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1950-08-26",
+  "revenue": 117668,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "‎O marido, a esposa... ou o bandido?‎",
+  "title": "Rashomon",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 2440,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7450,
+        "known_for_department": "Acting",
+        "name": "Toshirô Mifune",
+        "original_name": "三船敏郎",
+        "popularity": 1.5337,
+        "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg",
+        "cast_id": 5,
+        "character": "Tajômaru",
+        "credit_id": "52fe4250c3a36847f8014887",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7451,
+        "known_for_department": "Acting",
+        "name": "Machiko Kyō",
+        "original_name": "京マチ子",
+        "popularity": 0.6377,
+        "profile_path": "/24tQVUgGN4s6rp1P9qlnT74RSJI.jpg",
+        "cast_id": 6,
+        "character": "Masako",
+        "credit_id": "52fe4250c3a36847f801488b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7453,
+        "known_for_department": "Acting",
+        "name": "志村喬",
+        "original_name": "志村喬",
+        "popularity": 1.1852,
+        "profile_path": "/j88EU7H06bQePjyaZffoNFuG0L6.jpg",
+        "cast_id": 8,
+        "character": "Woodcutter",
+        "credit_id": "52fe4250c3a36847f8014893",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7452,
+        "known_for_department": "Acting",
+        "name": "Masayuki Mori",
+        "original_name": "森雅之",
+        "popularity": 0.5216,
+        "profile_path": "/4HZFAdEGIOk7HxJjcdcxfL4k1x3.jpg",
+        "cast_id": 7,
+        "character": "Takehiro",
+        "credit_id": "52fe4250c3a36847f801488f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7454,
+        "known_for_department": "Acting",
+        "name": "千秋実",
+        "original_name": "千秋実",
+        "popularity": 0.6736,
+        "profile_path": "/9E3efYEg8pxANdfVLqYGiX8zJE8.jpg",
+        "cast_id": 9,
+        "character": "Priest",
+        "credit_id": "52fe4250c3a36847f8014897",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7455,
+        "known_for_department": "Acting",
+        "name": "上田吉二郎",
+        "original_name": "上田吉二郎",
+        "popularity": 0.5468,
+        "profile_path": "/qjBYqwAobeFnOhpkxNnv36IvCQy.jpg",
+        "cast_id": 10,
+        "character": "Commoner",
+        "credit_id": "52fe4250c3a36847f801489b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7456,
+        "known_for_department": "Acting",
+        "name": "Noriko Honma",
+        "original_name": "本間文子",
+        "popularity": 0.4911,
+        "profile_path": "/r0Z6sTGdmRsm3TVJ7wxPD9xfoNC.jpg",
+        "cast_id": 11,
+        "character": "Medium",
+        "credit_id": "52fe4250c3a36847f801489f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7457,
+        "known_for_department": "Acting",
+        "name": "加東大介",
+        "original_name": "加東大介",
+        "popularity": 1.1378,
+        "profile_path": "/dTcLO2XWLwp6RiJTpwDjxzbnuSp.jpg",
+        "cast_id": 12,
+        "character": "Policeman",
+        "credit_id": "52fe4250c3a36847f80148a3",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.1929,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe4250c3a36847f8014871",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7448,
+        "known_for_department": "Writing",
+        "name": "芥川龍之介",
+        "original_name": "芥川龍之介",
+        "popularity": 0.3507,
+        "profile_path": "/axKzvkOaYqldfwggTq3eN6GvYnb.jpg",
+        "credit_id": "52fe4250c3a36847f8014877",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.1929,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe4250c3a36847f801487d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7449,
+        "known_for_department": "Writing",
+        "name": "橋本忍",
+        "original_name": "橋本忍",
+        "popularity": 0.6741,
+        "profile_path": "/Aakm6YsthiBZHdkfE7OnqPVyrPl.jpg",
+        "credit_id": "52fe4250c3a36847f8014883",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7458,
+        "known_for_department": "Production",
+        "name": "Jingo Minoura",
+        "original_name": "Jingo Minoura",
+        "popularity": 0.1533,
+        "profile_path": null,
+        "credit_id": "52fe4250c3a36847f80148a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7459,
+        "known_for_department": "Production",
+        "name": "永田雅一",
+        "original_name": "永田雅一",
+        "popularity": 0.3002,
+        "profile_path": "/dPuhe47WZSUIu4IzFtrg8olqF9K.jpg",
+        "credit_id": "52fe4250c3a36847f80148af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7460,
+        "known_for_department": "Sound",
+        "name": "早坂文雄",
+        "original_name": "早坂文雄",
+        "popularity": 0.3372,
+        "profile_path": "/A4t45XV0SXKnYzZNkzrjCl4jHUy.jpg",
+        "credit_id": "52fe4250c3a36847f80148b5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7461,
+        "known_for_department": "Camera",
+        "name": "宮川一夫",
+        "original_name": "宮川一夫",
+        "popularity": 0.2336,
+        "profile_path": "/zOuiKy1s39qfm1eY6HBF6OIFIBu.jpg",
+        "credit_id": "52fe4250c3a36847f80148bb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.1929,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe4250c3a36847f80148c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1267600,
+        "known_for_department": "Lighting",
+        "name": "岡本健一",
+        "original_name": "岡本健一",
+        "popularity": 0.2622,
+        "profile_path": null,
+        "credit_id": "5602f685c3a36855230025c0",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 7462,
+        "known_for_department": "Art",
+        "name": "松本春造",
+        "original_name": "松本春造",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "61d5f018c15f89009ffbd280",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1513913,
+        "known_for_department": "Art",
+        "name": "松山崇",
+        "original_name": "松山崇",
+        "popularity": 0.1725,
+        "profile_path": null,
+        "credit_id": "61d5f043bb2602001c770098",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3370787,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Uichi Ôhata",
+        "original_name": "Uichi Ôhata",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "credit_id": "61d5f0561b722c5dbb3f9c17",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239213,
+        "known_for_department": "Directing",
+        "name": "加藤泰",
+        "original_name": "加藤泰",
+        "popularity": 0.3169,
+        "profile_path": "/esoFwGkSiFu9D5xSUXhUsr7dboC.jpg",
+        "credit_id": "56c2052f92514105da0030ef",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83199,
+        "known_for_department": "Directing",
+        "name": "田中徳三",
+        "original_name": "田中徳三",
+        "popularity": 0.2625,
+        "profile_path": "/955mUKMcFxKnW9lrSQ4fXx9M0Tc.jpg",
+        "credit_id": "56c2055492514105da0030f6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273295,
+        "known_for_department": "Directing",
+        "name": "若杉光夫",
+        "original_name": "若杉光夫",
+        "popularity": 0.1805,
+        "profile_path": null,
+        "credit_id": "56c205eec3a368180600ef24",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578078,
+        "known_for_department": "Sound",
+        "name": "林土太郎",
+        "original_name": "林土太郎",
+        "popularity": 0.2671,
+        "profile_path": null,
+        "credit_id": "56c2065792514158e3000c53",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 554162,
+        "known_for_department": "Camera",
+        "name": "森田富士郎",
+        "original_name": "森田富士郎",
+        "popularity": 0.2146,
+        "profile_path": "/unnqL260aqg0tnVoIVzXyyLenEF.jpg",
+        "credit_id": "56c207759251410d67002582",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1143488,
+        "known_for_department": "Lighting",
+        "name": "中岡源権",
+        "original_name": "中岡源権",
+        "popularity": 0.3941,
+        "profile_path": null,
+        "credit_id": "56c207c592514167b2002793",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143707,
+        "known_for_department": "Directing",
+        "name": "野上照代",
+        "original_name": "野上照代",
+        "popularity": 0.7753,
+        "profile_path": "/yo6YxxkjGhq9n8jG1RJaigY01RL.jpg",
+        "credit_id": "56c208369251415ece001771",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1111737,
+        "known_for_department": "Sound",
+        "name": "大谷巌",
+        "original_name": "大谷巌",
+        "popularity": 0.1441,
+        "profile_path": null,
+        "credit_id": "56d591c9925141391f003581",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3737,
+        "name": "dying and death"
+      },
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 1462,
+        "name": "samurai"
+      },
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 3012,
+        "name": "court case"
+      },
+      {
+        "id": 6148,
+        "name": "court"
+      },
+      {
+        "id": 6256,
+        "name": "truth"
+      },
+      {
+        "id": 2217,
+        "name": "rain"
+      },
+      {
+        "id": 2720,
+        "name": "woodcutter"
+      },
+      {
+        "id": 2722,
+        "name": "subjectivity"
+      },
+      {
+        "id": 2723,
+        "name": "medium"
+      },
+      {
+        "id": 2725,
+        "name": "sunlight"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 15009,
+        "name": "criminal"
+      },
+      {
+        "id": 156866,
+        "name": "based on short story"
+      },
+      {
+        "id": 180635,
+        "name": "multiple perspectives"
+      },
+      {
+        "id": 186753,
+        "name": "jidaigeki"
+      },
+      {
+        "id": 210434,
+        "name": "thoughtful"
+      },
+      {
+        "id": 212737,
+        "name": "philosophical"
+      },
+      {
+        "id": 257412,
+        "name": "human nature"
+      },
+      {
+        "id": 266883,
+        "name": "witness account"
+      },
+      {
+        "id": 274925,
+        "name": "heian period"
+      },
+      {
+        "id": 327412,
+        "name": "rashomon effect"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Release",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1952-03-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-10-05T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1951-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Eiga-Sai Film Festival",
+            "release_date": "2018-02-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1952-08-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1953-03-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ICAA 802551",
+            "release_date": "1984-07-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Restoration rerelease",
+            "release_date": "2022-08-10T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1952-04-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2001-10-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1952-02-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "rerelease",
+            "release_date": "2023-01-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Issue",
+            "release_date": "2024-07-04T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "1951-08-23T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "1952-03-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1950-08-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-08-03T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rizal Park Open-Air Auditorium, special screening",
+            "release_date": "1988-11-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cultural Center of the Philippines, screening",
+            "release_date": "1988-12-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Japanese Film Festival Online",
+            "release_date": "2022-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-11-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1953-08-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1966-10-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1950-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2065 @@
+{
+  "adult": false,
+  "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 2200000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 185,
+  "imdb_id": "tt0066921",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Clockwork Orange",
+  "overview": "Em uma Inglaterra do futuro, um membro de uma gangue de delinquentes tenta desligar-se, mas é espancado pelos demais e deixado ao abandono para ser apanhado pela polícia. Na prisão, ele é submetido a um tratamento experimental para recuperar criminosos, expondo-os às mazelas que eles mesmos infligiam à sociedade.",
+  "popularity": 7.2449,
+  "poster_path": "/e8jIwfP8jr81UTFbh2qJVjBhIUL.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 88,
+      "logo_path": null,
+      "name": "Hawk Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 385,
+      "logo_path": null,
+      "name": "Stanley Kubrick Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 234371,
+      "logo_path": null,
+      "name": "Polaris Productions Limited",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1971-10-28",
+  "revenue": 27033812,
+  "runtime": 136,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As aventuras de um jovem rapaz cujos principais interesses são estupro, ultra-violência e Beethoven.",
+  "title": "Laranja Mecânica",
+  "video": false,
+  "vote_average": 8.18,
+  "vote_count": 13548,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56890,
+        "known_for_department": "Acting",
+        "name": "Malcolm McDowell",
+        "original_name": "Malcolm McDowell",
+        "popularity": 2.5461,
+        "profile_path": "/hL8ep4Hqj6izX7IlzE7Bbcfq62w.jpg",
+        "cast_id": 4,
+        "character": "Alex",
+        "credit_id": "52fe4224c3a36847f80071e5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2264,
+        "known_for_department": "Acting",
+        "name": "Patrick Magee",
+        "original_name": "Patrick Magee",
+        "popularity": 0.7532,
+        "profile_path": "/99xStF5zQy6qkDxLnIVaKD3urzI.jpg",
+        "cast_id": 5,
+        "character": "Mr. Alexander",
+        "credit_id": "52fe4224c3a36847f80071e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2272,
+        "known_for_department": "Acting",
+        "name": "Carl Duering",
+        "original_name": "Carl Duering",
+        "popularity": 0.4656,
+        "profile_path": "/idrRJuQErZ2cj8F8II1LikeTgb1.jpg",
+        "cast_id": 11,
+        "character": "Dr. Brodsky",
+        "credit_id": "52fe4224c3a36847f8007201",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2267,
+        "known_for_department": "Acting",
+        "name": "Michael Bates",
+        "original_name": "Michael Bates",
+        "popularity": 1.1713,
+        "profile_path": "/53ciikCHIcr1thlDFvQtzNNbFAd.jpg",
+        "cast_id": 7,
+        "character": "Chief Guard",
+        "credit_id": "52fe4224c3a36847f80071f1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2268,
+        "known_for_department": "Acting",
+        "name": "Warren Clarke",
+        "original_name": "Warren Clarke",
+        "popularity": 0.7049,
+        "profile_path": "/ecBiugofrkuSk5tRu6IUpQDNGio.jpg",
+        "cast_id": 8,
+        "character": "Dim",
+        "credit_id": "52fe4224c3a36847f80071f5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2270,
+        "known_for_department": "Acting",
+        "name": "James Marcus",
+        "original_name": "James Marcus",
+        "popularity": 0.3966,
+        "profile_path": "/keW0TRtGZ15oA12jsEYfqeLEq8v.jpg",
+        "cast_id": 9,
+        "character": "Georgie",
+        "credit_id": "52fe4224c3a36847f80071f9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2271,
+        "known_for_department": "Acting",
+        "name": "Michael Tarn",
+        "original_name": "Michael Tarn",
+        "popularity": 0.258,
+        "profile_path": "/34dqPwJtsB3CrXShZA8zhm7pq0c.jpg",
+        "cast_id": 96,
+        "character": "Pete",
+        "credit_id": "630e0c6663536a0077b7fe95",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2274,
+        "known_for_department": "Acting",
+        "name": "Miriam Karlin",
+        "original_name": "Miriam Karlin",
+        "popularity": 0.3532,
+        "profile_path": "/3VbYzKcHJdVYGkrBcqMgcKRmICE.jpg",
+        "cast_id": 13,
+        "character": "Catlady",
+        "credit_id": "52fe4224c3a36847f8007209",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2265,
+        "known_for_department": "Acting",
+        "name": "Adrienne Corri",
+        "original_name": "Adrienne Corri",
+        "popularity": 2.3567,
+        "profile_path": "/jlwXRVJUscG3GnYGfBXT5KDCbss.jpg",
+        "cast_id": 6,
+        "character": "Mrs. Alexander",
+        "credit_id": "52fe4224c3a36847f80071ed",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2276,
+        "known_for_department": "Acting",
+        "name": "Sheila Raynor",
+        "original_name": "Sheila Raynor",
+        "popularity": 0.3608,
+        "profile_path": "/ixB326sr3OGS6YzqR87T776aqbW.jpg",
+        "cast_id": 14,
+        "character": "Mum",
+        "credit_id": "52fe4224c3a36847f800720d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 694,
+        "known_for_department": "Acting",
+        "name": "Philip Stone",
+        "original_name": "Philip Stone",
+        "popularity": 0.8313,
+        "profile_path": "/eRYDsJJPfFuOpZ8dTrk9qo5hnXK.jpg",
+        "cast_id": 27,
+        "character": "Dad",
+        "credit_id": "52fe4224c3a36847f8007243",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2278,
+        "known_for_department": "Acting",
+        "name": "Aubrey Morris",
+        "original_name": "Aubrey Morris",
+        "popularity": 0.5047,
+        "profile_path": "/xuiSnXTy96VqANZq2x59pCEKb7z.jpg",
+        "cast_id": 15,
+        "character": "Deltoid",
+        "credit_id": "52fe4224c3a36847f8007211",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2280,
+        "known_for_department": "Acting",
+        "name": "Clive Francis",
+        "original_name": "Clive Francis",
+        "popularity": 0.8047,
+        "profile_path": "/lB0AiyMGrXcUN6JQWpPbxbzK7os.jpg",
+        "cast_id": 17,
+        "character": "Lodger",
+        "credit_id": "52fe4224c3a36847f8007219",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117548,
+        "known_for_department": "Acting",
+        "name": "John Clive",
+        "original_name": "John Clive",
+        "popularity": 0.7174,
+        "profile_path": "/byi1kf7LWeo5BtTCRonQOTzKjsQ.jpg",
+        "cast_id": 91,
+        "character": "Stage Actor",
+        "credit_id": "62979cd2ca83541355d1d5ca",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2273,
+        "known_for_department": "Acting",
+        "name": "Paul Farrell",
+        "original_name": "Paul Farrell",
+        "popularity": 0.2874,
+        "profile_path": "/pobD8UuwqAWibufj4SUMnVUYj4p.jpg",
+        "cast_id": 12,
+        "character": "Tramp",
+        "credit_id": "52fe4224c3a36847f8007205",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1231170,
+        "known_for_department": "Acting",
+        "name": "Michael Gover",
+        "original_name": "Michael Gover",
+        "popularity": 0.279,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Prison Governor",
+        "credit_id": "590724a7c3a3684af002b65c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2279,
+        "known_for_department": "Acting",
+        "name": "Godfrey Quigley",
+        "original_name": "Godfrey Quigley",
+        "popularity": 0.3872,
+        "profile_path": "/zMin1p0TRMR86wsU6aoSE2xa0r.jpg",
+        "cast_id": 16,
+        "character": "Prison Chaplain",
+        "credit_id": "52fe4224c3a36847f8007215",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 39033,
+        "known_for_department": "Acting",
+        "name": "Madge Ryan",
+        "original_name": "Madge Ryan",
+        "popularity": 0.2349,
+        "profile_path": null,
+        "cast_id": 92,
+        "character": "Dr. Branom",
+        "credit_id": "62979ebd7e12f0006538cad0",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44700,
+        "known_for_department": "Acting",
+        "name": "Anthony Sharp",
+        "original_name": "Anthony Sharp",
+        "popularity": 0.9109,
+        "profile_path": "/ksLGc0kaLs70bsurpmPVFFn28AW.jpg",
+        "cast_id": 70,
+        "character": "Minister",
+        "credit_id": "5af21e35c3a36855b6003fa1",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2292,
+        "known_for_department": "Acting",
+        "name": "Pauline Taylor",
+        "original_name": "Pauline Taylor",
+        "popularity": 0.1743,
+        "profile_path": "/qvCEoqB4oKNIgWBDuxgZvHP0CjS.jpg",
+        "cast_id": 26,
+        "character": "Psychiatrist",
+        "credit_id": "52fe4224c3a36847f800723f",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 250,
+        "known_for_department": "Acting",
+        "name": "Margaret Tyzack",
+        "original_name": "Margaret Tyzack",
+        "popularity": 0.7007,
+        "profile_path": "/n7S4qtgp0DA9gtkzEXB7r5tt6jH.jpg",
+        "cast_id": 71,
+        "character": "Conspirator",
+        "credit_id": "5af21e4892514106830020de",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 782,
+        "known_for_department": "Acting",
+        "name": "Steven Berkoff",
+        "original_name": "Steven Berkoff",
+        "popularity": 1.1608,
+        "profile_path": "/3u4gxLWmDXAtY37GvkyCN05X2zw.jpg",
+        "cast_id": 94,
+        "character": "Det. Const. Tom",
+        "credit_id": "630e0c3bf5483600847d66eb",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2075043,
+        "known_for_department": "Acting",
+        "name": "Lindsay Campbell",
+        "original_name": "Lindsay Campbell",
+        "popularity": 0.2512,
+        "profile_path": null,
+        "cast_id": 95,
+        "character": "Police Inspector",
+        "credit_id": "630e0c57226c56007edba7c7",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24342,
+        "known_for_department": "Acting",
+        "name": "David Prowse",
+        "original_name": "David Prowse",
+        "popularity": 0.6886,
+        "profile_path": "/xTocYiKHlRYN8tfh8vyQFsRXC0K.jpg",
+        "cast_id": 97,
+        "character": "Julian",
+        "credit_id": "630e0c702dda8900845c4958",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134138,
+        "known_for_department": "Acting",
+        "name": "Barrie Cookson",
+        "original_name": "Barrie Cookson",
+        "popularity": 0.3031,
+        "profile_path": null,
+        "cast_id": 98,
+        "character": "Dr. Alcott",
+        "credit_id": "630e0c7edcb6a300800861ff",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2225034,
+        "known_for_department": "Acting",
+        "name": "Jan Adair",
+        "original_name": "Jan Adair",
+        "popularity": 0.0434,
+        "profile_path": null,
+        "cast_id": 99,
+        "character": "Handmaiden in Bible Fantasy",
+        "credit_id": "630e0c9bae38430081b1fa02",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13483,
+        "known_for_department": "Acting",
+        "name": "Gaye Brown",
+        "original_name": "Gaye Brown",
+        "popularity": 1.1782,
+        "profile_path": "/t9kuvUmCbBYlZd2V8KPPNYSica6.jpg",
+        "cast_id": 100,
+        "character": "Sophisto",
+        "credit_id": "630e0caedcb6a3007bb4f73e",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9879,
+        "known_for_department": "Acting",
+        "name": "Peter Burton",
+        "original_name": "Peter Burton",
+        "popularity": 0.3951,
+        "profile_path": "/yf0UFNGiCrpIkCSSaU29lGGpIk7.jpg",
+        "cast_id": 101,
+        "character": "Junior Minister",
+        "credit_id": "630e0cb95ab81a007f4892d0",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230551,
+        "known_for_department": "Acting",
+        "name": "John J. Carney",
+        "original_name": "John J. Carney",
+        "popularity": 0.2801,
+        "profile_path": null,
+        "cast_id": 102,
+        "character": "Detective Sergeant",
+        "credit_id": "630e0cbe2dda8900845c4974",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397259,
+        "known_for_department": "Acting",
+        "name": "Alec Wallis",
+        "original_name": "Alec Wallis",
+        "popularity": 0.2211,
+        "profile_path": null,
+        "cast_id": 118,
+        "character": "Conspirator D.B. Da Silva",
+        "credit_id": "644c1375596a9102fc57f9ad",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184881,
+        "known_for_department": "Acting",
+        "name": "John Savident",
+        "original_name": "John Savident",
+        "popularity": 0.6163,
+        "profile_path": "/fAbTwsOLn0W6Cagb8mFasTzWW7V.jpg",
+        "cast_id": 119,
+        "character": "Conspirator",
+        "credit_id": "65d0ecb18eda870185475eef",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5569,
+        "known_for_department": "Acting",
+        "name": "Vivienne Chandler",
+        "original_name": "Vivienne Chandler",
+        "popularity": 0.2609,
+        "profile_path": "/rFoDdUMCA7uu5mqayu1Deb8A0Od.jpg",
+        "cast_id": 103,
+        "character": "Handmaiden in Bible Fantasy",
+        "credit_id": "630e0cc43d74540082819ecd",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2290,
+        "known_for_department": "Acting",
+        "name": "Richard Connaught",
+        "original_name": "Richard Connaught",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "cast_id": 104,
+        "character": "Billyboy",
+        "credit_id": "630e0ccc5ab81a007f4892d7",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1552055,
+        "known_for_department": "Acting",
+        "name": "Prudence Drage",
+        "original_name": "Prudence Drage",
+        "popularity": 0.2606,
+        "profile_path": "/3MxPxGuhIoYSMRmA9QsW3WUVp5h.jpg",
+        "cast_id": 105,
+        "character": "Handmaiden in Bible Fantasy",
+        "credit_id": "630e0cdfede1b00083c41f9e",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145875,
+        "known_for_department": "Acting",
+        "name": "Carol Drinkwater",
+        "original_name": "Carol Drinkwater",
+        "popularity": 0.6422,
+        "profile_path": "/xkc9fWWFVYvXW71oAmO86MZDYpb.jpg",
+        "cast_id": 106,
+        "character": "Nurse Feeley",
+        "credit_id": "630e0cecd051d9009227e1ca",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2628096,
+        "known_for_department": "Acting",
+        "name": "Lee Fox",
+        "original_name": "Lee Fox",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "cast_id": 107,
+        "character": "Desk Sergeant",
+        "credit_id": "630e0cf2dcb6a3007bb4f748",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3239927,
+        "known_for_department": "Acting",
+        "name": "Cheryl Grunwald",
+        "original_name": "Cheryl Grunwald",
+        "popularity": 0.6572,
+        "profile_path": null,
+        "cast_id": 108,
+        "character": "Victim of Billyboy's Gang",
+        "credit_id": "630e0cfc3d74540082819edc",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15201,
+        "known_for_department": "Acting",
+        "name": "Gillian Hills",
+        "original_name": "Gillian Hills",
+        "popularity": 0.3706,
+        "profile_path": "/cVgJcjHZgsjfifZBJzelwS90l3G.jpg",
+        "cast_id": 109,
+        "character": "Sonietta",
+        "credit_id": "630e0d02226c56007bad6d69",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2901571,
+        "known_for_department": "Acting",
+        "name": "Craig Hunter",
+        "original_name": "Craig Hunter",
+        "popularity": 0.352,
+        "profile_path": null,
+        "cast_id": 110,
+        "character": "Doctor",
+        "credit_id": "630e0d3023bcf4007bf4da5b",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059893,
+        "known_for_department": "Acting",
+        "name": "Shirley Jaffe",
+        "original_name": "Shirley Jaffe",
+        "popularity": 0.675,
+        "profile_path": null,
+        "cast_id": 111,
+        "character": "Nurse",
+        "credit_id": "630e0d3d724de1007e678063",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99581,
+        "known_for_department": "Acting",
+        "name": "Virginia Wetherell",
+        "original_name": "Virginia Wetherell",
+        "popularity": 0.2004,
+        "profile_path": "/hDKfFbouLFiD65CVowqRcKdopVX.jpg",
+        "cast_id": 112,
+        "character": "Stage Actress",
+        "credit_id": "630e0d663d7454007dbfe108",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 189298,
+        "known_for_department": "Acting",
+        "name": "Neil Wilson",
+        "original_name": "Neil Wilson",
+        "popularity": 0.6806,
+        "profile_path": "/tA9tvz7wtDy2RbyaiurWUdAyDg.jpg",
+        "cast_id": 113,
+        "character": "Prison Check-in Officer",
+        "credit_id": "630e0d6cd051d9009227e1ed",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 102042,
+        "known_for_department": "Acting",
+        "name": "Katya Wyeth",
+        "original_name": "Katya Wyeth",
+        "popularity": 0.3553,
+        "profile_path": "/uysbX5t3s3WOMu2G3UOsPTMlRBM.jpg",
+        "cast_id": 114,
+        "character": "Girl in Ascot Fantasy",
+        "credit_id": "630e0d77ede1b0007b0605e7",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1812082,
+        "known_for_department": "Acting",
+        "name": "Jack Arrow",
+        "original_name": "Jack Arrow",
+        "popularity": 0.2068,
+        "profile_path": null,
+        "cast_id": 115,
+        "character": "Mustachioed Ludovico Technician (uncredited)",
+        "credit_id": "630e0e7f3d7454007dbfe146",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2624157,
+        "known_for_department": "Acting",
+        "name": "Shane Shelton",
+        "original_name": "Shane Shelton",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "cast_id": 116,
+        "character": "Burbling Boy (uncredited)",
+        "credit_id": "6428a81da3e4ba00d3adcabd",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4061836,
+        "known_for_department": "Acting",
+        "name": "Norman Gay",
+        "original_name": "Norman Gay",
+        "popularity": 0.1914,
+        "profile_path": null,
+        "cast_id": 120,
+        "character": "BBC Producer (uncredited)",
+        "credit_id": "6682dcd0ef0e5a6aa7024807",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2022135,
+        "known_for_department": "Acting",
+        "name": "Katharina Kubrick",
+        "original_name": "Katharina Kubrick",
+        "popularity": 0.2215,
+        "profile_path": null,
+        "cast_id": 121,
+        "character": "Girl Passing Alex in the Record Store (uncredited)",
+        "credit_id": "66a93bc1dca616e20759c723",
+        "order": 46
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4224c3a36847f80071db",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4224c3a36847f80071e1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe4224c3a36847f800721f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2284,
+        "known_for_department": "Sound",
+        "name": "Wendy Carlos",
+        "original_name": "Wendy Carlos",
+        "popularity": 0.1663,
+        "profile_path": "/dgLL2IzOp8Qb6V5ZtMeaQ3NAkzb.jpg",
+        "credit_id": "52fe4224c3a36847f8007225",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2286,
+        "known_for_department": "Camera",
+        "name": "John Alcott",
+        "original_name": "John Alcott",
+        "popularity": 0.2617,
+        "profile_path": "/vpWpMQirRnTpNwhVwgcXYWmFE54.jpg",
+        "credit_id": "52fe4224c3a36847f800722b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288,
+        "known_for_department": "Production",
+        "name": "James Liggat",
+        "original_name": "James Liggat",
+        "popularity": 0.1944,
+        "profile_path": null,
+        "credit_id": "52fe4224c3a36847f8007237",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568911,
+        "known_for_department": "Art",
+        "name": "John Barry",
+        "original_name": "John Barry",
+        "popularity": 0.2131,
+        "profile_path": null,
+        "credit_id": "52fe4224c3a36847f8007249",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2262,
+        "known_for_department": "Writing",
+        "name": "Anthony Burgess",
+        "original_name": "Anthony Burgess",
+        "popularity": 0.2346,
+        "profile_path": "/4KGWx3QHon4TH23DKWE1BlUkY8J.jpg",
+        "credit_id": "52fe4224c3a36847f800724f",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14896,
+        "known_for_department": "Production",
+        "name": "Si Litvinoff",
+        "original_name": "Si Litvinoff",
+        "popularity": 0.0956,
+        "profile_path": null,
+        "credit_id": "52fe4224c3a36847f8007255",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 976789,
+        "known_for_department": "Production",
+        "name": "Max L. Raab",
+        "original_name": "Max L. Raab",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "credit_id": "52fe4224c3a36847f800725b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8424,
+        "known_for_department": "Editing",
+        "name": "Bill Butler",
+        "original_name": "Bill Butler",
+        "popularity": 0.2076,
+        "profile_path": null,
+        "credit_id": "53807c56c3a368737d00040f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1581363,
+        "known_for_department": "Sound",
+        "name": "Brian Blamey",
+        "original_name": "Brian Blamey",
+        "popularity": 0.1807,
+        "profile_path": null,
+        "credit_id": "598b57cfc3a36824a0024b3c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5671,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Milena Canonero",
+        "original_name": "Milena Canonero",
+        "popularity": 0.3402,
+        "profile_path": "/4CJUhZSbsj6W8Aoid7N1NBrBGji.jpg",
+        "credit_id": "598b57ddc3a36874f2037481",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021354,
+        "known_for_department": "Camera",
+        "name": "Ron Drinkwater",
+        "original_name": "Ron Drinkwater",
+        "popularity": 0.2733,
+        "profile_path": null,
+        "credit_id": "643c3a5c4d67910495d7c49d",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10405,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Daly",
+        "original_name": "Barbara Daly",
+        "popularity": 0.1374,
+        "profile_path": null,
+        "credit_id": "5ac29d07c3a3682d1a0232b8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2384,
+        "known_for_department": "Production",
+        "name": "Bernard Williams",
+        "original_name": "Bernard Williams",
+        "popularity": 0.1816,
+        "profile_path": null,
+        "credit_id": "5ace9d73c3a3687e4004d817",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021271,
+        "known_for_department": "Sound",
+        "name": "John Jordan",
+        "original_name": "John Jordan",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "credit_id": "5acea4a40e0a26320a04d5d7",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11384,
+        "known_for_department": "Sound",
+        "name": "Bill Rowe",
+        "original_name": "Bill Rowe",
+        "popularity": 0.3624,
+        "profile_path": null,
+        "credit_id": "5aceb236c3a3687e4004f472",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2021301,
+        "known_for_department": "Sound",
+        "name": "Eddie Haben",
+        "original_name": "Eddie Haben",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "5aceb2719251415a6d019a21",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139787,
+        "known_for_department": "Writing",
+        "name": "Russell Hagg",
+        "original_name": "Russell Hagg",
+        "popularity": 0.1904,
+        "profile_path": null,
+        "credit_id": "5aceb2dac3a3687e4004f563",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021305,
+        "known_for_department": "Art",
+        "name": "Peter Sheilds",
+        "original_name": "Peter Sheilds",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "5aceb314c3a36834de0a69f8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021308,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ron Beck",
+        "original_name": "Ron Beck",
+        "popularity": 0.2873,
+        "profile_path": null,
+        "credit_id": "5aceb3a00e0a267f9a0303a7",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63913,
+        "known_for_department": "Production",
+        "name": "Terence A. Clegg",
+        "original_name": "Terence A. Clegg",
+        "popularity": 0.2008,
+        "profile_path": null,
+        "credit_id": "5aceb4620e0a267f9a0304c1",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1513635,
+        "known_for_department": "Directing",
+        "name": "Derek Cracknell",
+        "original_name": "Derek Cracknell",
+        "popularity": 0.275,
+        "profile_path": "/6rrEbuX2hc5SrsKQICFiKKTWoAE.jpg",
+        "credit_id": "5aceb5240e0a26320a04ecb0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 71765,
+        "known_for_department": "Production",
+        "name": "Dusty Symonds",
+        "original_name": "Dusty Symonds",
+        "popularity": 0.242,
+        "profile_path": null,
+        "credit_id": "5aceb5420e0a2631fa04f05b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1342591,
+        "known_for_department": "Art",
+        "name": "Bill Welch",
+        "original_name": "Bill Welch",
+        "popularity": 0.1495,
+        "profile_path": null,
+        "credit_id": "5aceb59cc3a3687e9504e8d8",
+        "department": "Art",
+        "job": "Construction Foreman"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021319,
+        "known_for_department": "Art",
+        "name": "Frank Bruton",
+        "original_name": "Frank Bruton",
+        "popularity": 0.0638,
+        "profile_path": null,
+        "credit_id": "5aceb5c40e0a26320a04ed7e",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1564869,
+        "known_for_department": "Sound",
+        "name": "Gary Shepherd",
+        "original_name": "Gary Shepherd",
+        "popularity": 0.1722,
+        "profile_path": null,
+        "credit_id": "5aceb6cb0e0a267f9a0307dc",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 58104,
+        "known_for_department": "Sound",
+        "name": "Peter Burgess",
+        "original_name": "Peter Burgess",
+        "popularity": 0.2803,
+        "profile_path": null,
+        "credit_id": "5aceba83c3a36834de0a7400",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021343,
+        "known_for_department": "Editing",
+        "name": "David Beesley",
+        "original_name": "David Beesley",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "5acebad2c3a3687e0e04b731",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531575,
+        "known_for_department": "Sound",
+        "name": "Peter Glossop",
+        "original_name": "Peter Glossop",
+        "popularity": 0.199,
+        "profile_path": "/iKQldZ58qzJw7Hb1oqs40kkDLuR.jpg",
+        "credit_id": "5acebb3cc3a368674c0318dd",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 47846,
+        "known_for_department": "Camera",
+        "name": "Ernest Day",
+        "original_name": "Ernest Day",
+        "popularity": 0.243,
+        "profile_path": null,
+        "credit_id": "5acebe9a0e0a2631cc052be3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84960,
+        "known_for_department": "Camera",
+        "name": "Mike Molloy",
+        "original_name": "Mike Molloy",
+        "popularity": 0.232,
+        "profile_path": null,
+        "credit_id": "5acebec70e0a2631e70527bb",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021357,
+        "known_for_department": "Camera",
+        "name": "David Lenham",
+        "original_name": "David Lenham",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5acec21dc3a3687e7204d474",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021358,
+        "known_for_department": "Camera",
+        "name": "Don Budge",
+        "original_name": "Don Budge",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5acec2489251410c0302f35c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1886655,
+        "known_for_department": "Camera",
+        "name": "Tony Cridlin",
+        "original_name": "Tony Cridlin",
+        "popularity": 0.1418,
+        "profile_path": null,
+        "credit_id": "5acec28e0e0a267f97038ae8",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021316,
+        "known_for_department": "Lighting",
+        "name": "Frank Wardale",
+        "original_name": "Frank Wardale",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "5acec2c9c3a3687e400509eb",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1528910,
+        "known_for_department": "Lighting",
+        "name": "Lou Bogue",
+        "original_name": "Lou Bogue",
+        "popularity": 0.1185,
+        "profile_path": null,
+        "credit_id": "5acec3320e0a267f97038bbf",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021360,
+        "known_for_department": "Lighting",
+        "name": "Derek Gatrell",
+        "original_name": "Derek Gatrell",
+        "popularity": 0.0218,
+        "profile_path": null,
+        "credit_id": "5acec362c3a3687e27050f40",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1398136,
+        "known_for_department": "Directing",
+        "name": "June Randall",
+        "original_name": "June Randall",
+        "popularity": 0.3081,
+        "profile_path": null,
+        "credit_id": "5acec3d39251410c0602efd7",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1644285,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Olga Angelinetta",
+        "original_name": "Olga Angelinetta",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "5acec3f79251415a45019a2a",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2021364,
+        "known_for_department": "Production",
+        "name": "Len Barnard",
+        "original_name": "Len Barnard",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "5acec4630e0a2631cc053301",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1378838,
+        "known_for_department": "Acting",
+        "name": "Roy Scammell",
+        "original_name": "Roy Scammell",
+        "popularity": 0.2228,
+        "profile_path": "/5uiJCDvEhgxvCMhCFM7YcmivAPS.jpg",
+        "credit_id": "5acbe51cc3a3687e2701c397",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2606150,
+        "known_for_department": "Camera",
+        "name": "Amber Nordstrand",
+        "original_name": "Amber Nordstrand",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5e9b13d04a4bfc001cd4da0f",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2021356,
+        "known_for_department": "Camera",
+        "name": "Laurie Frost",
+        "original_name": "Laurie Frost",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5ef075c410dad60031c13722",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 212,
+        "name": "london, england"
+      },
+      {
+        "id": 642,
+        "name": "robbery"
+      },
+      {
+        "id": 542,
+        "name": "street gang"
+      },
+      {
+        "id": 1025,
+        "name": "great britain"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 1541,
+        "name": "nihilism"
+      },
+      {
+        "id": 970,
+        "name": "parent child relationship"
+      },
+      {
+        "id": 3679,
+        "name": "society"
+      },
+      {
+        "id": 738,
+        "name": "sexuality"
+      },
+      {
+        "id": 2438,
+        "name": "social worker"
+      },
+      {
+        "id": 6259,
+        "name": "psychopath"
+      },
+      {
+        "id": 4565,
+        "name": "dystopia"
+      },
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 8201,
+        "name": "satire"
+      },
+      {
+        "id": 9849,
+        "name": "beating"
+      },
+      {
+        "id": 14857,
+        "name": "juvenile delinquent"
+      },
+      {
+        "id": 14903,
+        "name": "home invasion"
+      },
+      {
+        "id": 189409,
+        "name": "sex crime"
+      },
+      {
+        "id": 192260,
+        "name": "futuristic society"
+      },
+      {
+        "id": 212737,
+        "name": "philosophical"
+      },
+      {
+        "id": 226738,
+        "name": "ultraviolence"
+      },
+      {
+        "id": 238189,
+        "name": "social decay"
+      },
+      {
+        "id": 261264,
+        "name": "dreary"
+      },
+      {
+        "id": 315053,
+        "name": "critical"
+      },
+      {
+        "id": 316832,
+        "name": "tense"
+      },
+      {
+        "id": 325773,
+        "name": "audacious"
+      },
+      {
+        "id": 325834,
+        "name": "mean spirited"
+      },
+      {
+        "id": 357496,
+        "name": "dystopian sci-fi"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-07-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "R 18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-02-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Gent",
+            "release_date": "1972-09-15T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lançamento 136 m.",
+            "release_date": "1978-09-04T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Relançamento com cortes",
+            "release_date": "2014-08-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto",
+            "release_date": "1971-12-19T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2001-10-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-03-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-04-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1975-06-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-10-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Paris",
+            "release_date": "1972-04-21T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-05-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rerelease",
+            "release_date": "1992-01-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS, LD (Warner)",
+            "release_date": "1996-02-15T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Canal+",
+            "release_date": "1996-11-14T00:00:00.000Z",
+            "type": 6
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "France 2",
+            "release_date": "1999-03-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Originally rated X",
+            "release_date": "1972-01-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sky",
+            "release_date": "2001-07-04T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Issue",
+            "release_date": "2024-07-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "K-17 ",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1973-01-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2001-08-23T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "III",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-01-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2000-03-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1971-10-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-10-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Reykjavik Film Festival",
+            "release_date": "1999-08-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "1972-08-23T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "VM 18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-09-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-04-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-10-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-03-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "N-18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-11-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "C ",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-01-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-04-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2008-01-23T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu ray",
+            "release_date": "2011-01-12T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "V8",
+            "release_date": "2002-08-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Oslo",
+            "release_date": "1973-04-12T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-08-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-10-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1974-11-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2021-12-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-04-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "R21",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Perspectives Film Festival",
+            "release_date": "2011-10-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-03-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "限制級",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-12-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NC-17",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1971-12-19T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NC-17",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Originally rated X, 1973 censored version rated R",
+            "release_date": "1972-02-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1983-01-01T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "1999-06-29T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1973-04-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2001-09-10T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

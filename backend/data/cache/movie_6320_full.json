@@ -1,0 +1,742 @@
+{
+  "adult": false,
+  "backdrop_path": "/ydNd3ZtWgvu4Fpsx1Vcg0x0igsj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 6320,
+  "imdb_id": "tt0089821",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Police",
+  "overview": "",
+  "popularity": 7.1007,
+  "poster_path": "/gukfCIrgzXOYWS8J4LAUoOqDaJO.jpg",
+  "production_companies": [
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1985-09-04",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Polícia",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 122,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16927,
+        "known_for_department": "Acting",
+        "name": "Gérard Depardieu",
+        "original_name": "Gérard Depardieu",
+        "popularity": 1.6733,
+        "profile_path": "/cibkIAJN6ctlqHohhdDEcfbiCAL.jpg",
+        "cast_id": 10,
+        "character": "Louis Vincent Mangin",
+        "credit_id": "52fe444bc3a36847f808da49",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1957,
+        "known_for_department": "Acting",
+        "name": "Sophie Marceau",
+        "original_name": "Sophie Marceau",
+        "popularity": 4.4833,
+        "profile_path": "/fnETHvczvqpmG0TxrSxeUUKR8Z.jpg",
+        "cast_id": 11,
+        "character": "Noria",
+        "credit_id": "52fe444bc3a36847f808da4d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44556,
+        "known_for_department": "Acting",
+        "name": "Richard Anconina",
+        "original_name": "Richard Anconina",
+        "popularity": 0.3469,
+        "profile_path": "/nPCNpKvyH9LBdbmcHkrnFR2sk9P.jpg",
+        "cast_id": 12,
+        "character": "Lambert",
+        "credit_id": "52fe444bc3a36847f808da51",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49070,
+        "known_for_department": "Acting",
+        "name": "Pascale Rocard",
+        "original_name": "Pascale Rocard",
+        "popularity": 0.3434,
+        "profile_path": "/aRKtIHomQZlmNXEPIdyKE7fUhTw.jpg",
+        "cast_id": 13,
+        "character": "Marie Vedret",
+        "credit_id": "52fe444bc3a36847f808da55",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19161,
+        "known_for_department": "Acting",
+        "name": "Sandrine Bonnaire",
+        "original_name": "Sandrine Bonnaire",
+        "popularity": 0.6966,
+        "profile_path": "/iTHkJuVdFcAuZZtBH2frKTeujKG.jpg",
+        "cast_id": 14,
+        "character": "Lydie",
+        "credit_id": "52fe444bc3a36847f808da59",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13692,
+        "known_for_department": "Acting",
+        "name": "Jacques Mathou",
+        "original_name": "Jacques Mathou",
+        "popularity": 0.5072,
+        "profile_path": "/dogNaN6hn9qDcT4G2nlfLJ5WKzO.jpg",
+        "cast_id": 17,
+        "character": "Gauthier",
+        "credit_id": "52fe444bc3a36847f808da65",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6318,
+        "known_for_department": "Editing",
+        "name": "Yann Dedet",
+        "original_name": "Yann Dedet",
+        "popularity": 0.2287,
+        "profile_path": "/dHjtZWjbrPc0wbav8cD431sUq4O.jpg",
+        "cast_id": 33,
+        "character": "Dédé",
+        "credit_id": "679a42cf97540c9fc927a73d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 49072,
+        "known_for_department": "Acting",
+        "name": "Frank Karaoui",
+        "original_name": "Frank Karaoui",
+        "popularity": 0.1013,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Rene",
+        "credit_id": "52fe444bc3a36847f808da5d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 49073,
+        "known_for_department": "Acting",
+        "name": "Jonathan Leïna",
+        "original_name": "Jonathan Leïna",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Simon",
+        "credit_id": "52fe444bc3a36847f808da61",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 49074,
+        "known_for_department": "Acting",
+        "name": "Bernard Fuzellier",
+        "original_name": "Bernard Fuzellier",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Nez Casse",
+        "credit_id": "52fe444bc3a36847f808da69",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 49075,
+        "known_for_department": "Acting",
+        "name": "Bentahar Meaachou",
+        "original_name": "Bentahar Meaachou",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Claude",
+        "credit_id": "52fe444bc3a36847f808da6d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5211150,
+        "known_for_department": "Acting",
+        "name": "Mohamed Ayari",
+        "original_name": "Mohamed Ayari",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Momo",
+        "credit_id": "679a4301cbaf554931c0e1ab",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5211151,
+        "known_for_department": "Acting",
+        "name": "Abdel Kader Touati",
+        "original_name": "Abdel Kader Touati",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Maxime",
+        "credit_id": "679a431fcbaf554931c0e1c7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5211152,
+        "known_for_department": "Acting",
+        "name": "Jamil Bouarada",
+        "original_name": "Jamil Bouarada",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Jean",
+        "credit_id": "679a433d01383cf1e6c0cf9c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5211153,
+        "known_for_department": "Acting",
+        "name": "Bechir Idani",
+        "original_name": "Bechir Idani",
+        "popularity": 0.0414,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Barman René",
+        "credit_id": "679a435597540c9fc927a77f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4180448,
+        "known_for_department": "Acting",
+        "name": "Sylvain Maupu",
+        "original_name": "Sylvain Maupu",
+        "popularity": 0.1404,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Clément",
+        "credit_id": "679a4370b09359e5cca97c7c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1828860,
+        "known_for_department": "Acting",
+        "name": "Alain Artur",
+        "original_name": "Alain Artur",
+        "popularity": 0.156,
+        "profile_path": "/5cezO8apVHcODCEvksQqgC0DWiq.jpg",
+        "cast_id": 39,
+        "character": "",
+        "credit_id": "679a4395306b6a135627a709",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1594194,
+        "known_for_department": "Acting",
+        "name": "Rémy Carpentier",
+        "original_name": "Rémy Carpentier",
+        "popularity": 0.103,
+        "profile_path": "/rAbM80IgOMnJ2LF2MUM8ExJZxY.jpg",
+        "cast_id": 40,
+        "character": "",
+        "credit_id": "679a43a401383cf1e6c0cfc9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5211158,
+        "known_for_department": "Acting",
+        "name": "Taya Ouzrout",
+        "original_name": "Taya Ouzrout",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Aïcha",
+        "credit_id": "679a43c397540c9fc927a7b0",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5211159,
+        "known_for_department": "Acting",
+        "name": "Françoise Cheret",
+        "original_name": "Françoise Cheret",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "679a43ddb4b6f91453a98422",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23506,
+        "known_for_department": "Writing",
+        "name": "Jacques Fieschi",
+        "original_name": "Jacques Fieschi",
+        "popularity": 0.2589,
+        "profile_path": "/4K4uwqkg6KZKrV2YpERzizLQz1o.jpg",
+        "credit_id": "52fe444bc3a36847f808da27",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6313,
+        "known_for_department": "Production",
+        "name": "Emmanuel Schlumberger",
+        "original_name": "Emmanuel Schlumberger",
+        "popularity": 0.1319,
+        "profile_path": null,
+        "credit_id": "52fe444bc3a36847f808da39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49067,
+        "known_for_department": "Production",
+        "name": "Sylvie Pialat",
+        "original_name": "Sylvie Pialat",
+        "popularity": 0.2333,
+        "profile_path": "/nAKoeJghKteCZjSNghy378prOOq.jpg",
+        "credit_id": "52fe444bc3a36847f808da21",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49069,
+        "known_for_department": "Camera",
+        "name": "Luciano Tovoli",
+        "original_name": "Luciano Tovoli",
+        "popularity": 0.4439,
+        "profile_path": "/grLU5bIfXr7k8C3tRI7FtRdP6SH.jpg",
+        "credit_id": "52fe444bc3a36847f808da45",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6318,
+        "known_for_department": "Editing",
+        "name": "Yann Dedet",
+        "original_name": "Yann Dedet",
+        "popularity": 0.2287,
+        "profile_path": "/dHjtZWjbrPc0wbav8cD431sUq4O.jpg",
+        "credit_id": "52fe444bc3a36847f808da3f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16988,
+        "known_for_department": "Directing",
+        "name": "Maurice Pialat",
+        "original_name": "Maurice Pialat",
+        "popularity": 0.4292,
+        "profile_path": "/qmdCLKHQgUMXla3mXUYPXvNKfac.jpg",
+        "credit_id": "52fe444bc3a36847f808da15",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6682,
+        "profile_path": "/r5FXWbOribIYMFNm19um0rwKbdS.jpg",
+        "credit_id": "52fe444bc3a36847f808da1b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49068,
+        "known_for_department": "Writing",
+        "name": "Richard Debuisne",
+        "original_name": "Richard Debuisne",
+        "popularity": 0.1374,
+        "profile_path": null,
+        "credit_id": "52fe444bc3a36847f808da33",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16988,
+        "known_for_department": "Directing",
+        "name": "Maurice Pialat",
+        "original_name": "Maurice Pialat",
+        "popularity": 0.4292,
+        "profile_path": "/qmdCLKHQgUMXla3mXUYPXvNKfac.jpg",
+        "credit_id": "52fe444bc3a36847f808da2d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6682,
+        "profile_path": "/r5FXWbOribIYMFNm19um0rwKbdS.jpg",
+        "credit_id": "62994987988afd00516f1d25",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179785,
+        "known_for_department": "Sound",
+        "name": "Bernard Aubouy",
+        "original_name": "Bernard Aubouy",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "credit_id": "64ac5e5e8a0e9b011d8c320b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73858,
+        "known_for_department": "Sound",
+        "name": "François Musy",
+        "original_name": "François Musy",
+        "popularity": 0.3562,
+        "profile_path": "/jkZBgZfPcvQJ0YqgYcecKrTzLmz.jpg",
+        "credit_id": "64ac5e9a6a344800c9fc20e3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2318668,
+        "known_for_department": "Art",
+        "name": "Constantin Mejinsky",
+        "original_name": "Constantin Mejinsky",
+        "popularity": 0.1884,
+        "profile_path": null,
+        "credit_id": "64ac5de66a344800c9fc2094",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1988561,
+        "known_for_department": "Sound",
+        "name": "Bernard Le Roux",
+        "original_name": "Bernard Le Roux",
+        "popularity": 0.132,
+        "profile_path": null,
+        "credit_id": "64ac5e8eb686b9010e0d2fbf",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1145440,
+        "known_for_department": "Sound",
+        "name": "Jonathan Liebling",
+        "original_name": "Jonathan Liebling",
+        "popularity": 0.2791,
+        "profile_path": null,
+        "credit_id": "64ac5e7fb686b900af9f0f00",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2022540,
+        "known_for_department": "Writing",
+        "name": "Luigi De Angelis",
+        "original_name": "Luigi De Angelis",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "64ac5e6f8a0e9b013afd0042",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4155816,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Malika Brahim",
+        "original_name": "Malika Brahim",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "64ac5e1d6a3448012ce62d79",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23508,
+        "known_for_department": "Production",
+        "name": "Daniel Toscan du Plantier",
+        "original_name": "Daniel Toscan du Plantier",
+        "popularity": 0.2531,
+        "profile_path": "/6DJQt3cBBqUkwiBbwLUQ7YMMFvW.jpg",
+        "credit_id": "64ac5dfb66a0d3013a73ab72",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1433965,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Thi-Loan Nguyen",
+        "original_name": "Thi-Loan Nguyen",
+        "popularity": 0.8247,
+        "profile_path": null,
+        "credit_id": "64ac5e3443494f0120b32d98",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1536196,
+        "known_for_department": "Sound",
+        "name": "Jean Umansky",
+        "original_name": "Jean Umansky",
+        "popularity": 0.2792,
+        "profile_path": null,
+        "credit_id": "64ac5ebee24b9300c6b00935",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3346154,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jannick Roda",
+        "original_name": "Jannick Roda",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "64ac5e426a3448014d332bda",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1433965,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Thi-Loan Nguyen",
+        "original_name": "Thi-Loan Nguyen",
+        "popularity": 0.8247,
+        "profile_path": null,
+        "credit_id": "64b4adc6e0ca7f00e7728507",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2231,
+        "name": "drug dealer"
+      },
+      {
+        "id": 14964,
+        "name": "drugs"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing International Film Festival ",
+            "release_date": "2024-04-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-04-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "1985-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-06-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "Mostra internazionale d'arte cinematografica di Venezia",
+            "release_date": "1985-08-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1985-11-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

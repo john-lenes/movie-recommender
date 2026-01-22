@@ -1,0 +1,636 @@
+{
+  "adult": false,
+  "backdrop_path": "/fA11VdaJsy6jneGuZZfMDApyTmt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    }
+  ],
+  "homepage": "",
+  "id": 50674,
+  "imdb_id": "tt1615091",
+  "origin_country": [
+    "DE",
+    "ZA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Lost Future",
+  "overview": "A civilização humana está quase extinta, mas um grupo de sobrevivente pós-apocaliptico luta para sobreviver num mundo onde a selva, as florestas e pântanos voltaram a ser como nas eras primitivas. Eles enfrentam mutantes, feras e doenças misteriosas em uma tentativa de restabelecer a raça humana.",
+  "popularity": 5.7024,
+  "poster_path": "/3tvNDTABy4IHi4ELhcNcfoMWO1b.jpg",
+  "production_companies": [
+    {
+      "id": 2493,
+      "logo_path": "/opIskZN730MvBtnjUXoy8xLM772.png",
+      "name": "Tandem Communications",
+      "origin_country": "DE"
+    },
+    {
+      "id": 42272,
+      "logo_path": "/2bAuO4EvS59O1uXZQAKXG0HIXQg.png",
+      "name": "RTL",
+      "origin_country": "DE"
+    },
+    {
+      "id": 773,
+      "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+      "name": "Film Afrika",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-11-13",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "O Futuro Perdido",
+  "video": false,
+  "vote_average": 4.889,
+  "vote_count": 150,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48,
+        "known_for_department": "Acting",
+        "name": "Sean Bean",
+        "original_name": "Sean Bean",
+        "popularity": 3.6855,
+        "profile_path": "/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg",
+        "cast_id": 1,
+        "character": "Amal",
+        "credit_id": "52fe47d1c3a36847f8149ddd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 82809,
+        "known_for_department": "Acting",
+        "name": "Annabelle Wallis",
+        "original_name": "Annabelle Wallis",
+        "popularity": 3.7407,
+        "profile_path": "/9lqdI8L2Bgj8zWR5l4l0II6GXug.jpg",
+        "cast_id": 2,
+        "character": "Dorel",
+        "credit_id": "52fe47d1c3a36847f8149de1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43265,
+        "known_for_department": "Acting",
+        "name": "Corey Sevier",
+        "original_name": "Corey Sevier",
+        "popularity": 1.3002,
+        "profile_path": "/wKt1pHZ5Q6kgkmZsNz53lNPzLR3.jpg",
+        "cast_id": 3,
+        "character": "Savan",
+        "credit_id": "52fe47d1c3a36847f8149de5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73357,
+        "known_for_department": "Acting",
+        "name": "Eleanor Tomlinson",
+        "original_name": "Eleanor Tomlinson",
+        "popularity": 3.8107,
+        "profile_path": "/A2lE5kvZE3tIpKwpAtKbjsMHpf2.jpg",
+        "cast_id": 4,
+        "character": "Miru",
+        "credit_id": "52fe47d1c3a36847f8149de9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100893,
+        "known_for_department": "Acting",
+        "name": "Jonathan Pienaar",
+        "original_name": "Jonathan Pienaar",
+        "popularity": 0.4337,
+        "profile_path": "/nnJi1ZRQMJFSnuDbScgYkJn06hz.jpg",
+        "cast_id": 5,
+        "character": "Gagen",
+        "credit_id": "52fe47d1c3a36847f8149ded",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 228431,
+        "known_for_department": "Acting",
+        "name": "Hannah Tointon",
+        "original_name": "Hannah Tointon",
+        "popularity": 0.6318,
+        "profile_path": "/hMSj0yZ8LzpSrJOIRgJujeuld0.jpg",
+        "cast_id": 7,
+        "character": "Giselle",
+        "credit_id": "52fe47d1c3a36847f8149df7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237455,
+        "known_for_department": "Acting",
+        "name": "Sam Claflin",
+        "original_name": "Sam Claflin",
+        "popularity": 4.8402,
+        "profile_path": "/e5CU4tjCNZFfm7ITmZfzjZse2Bb.jpg",
+        "cast_id": 26,
+        "character": "Kaleb",
+        "credit_id": "52fe47d1c3a36847f8149e61",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 575928,
+        "known_for_department": "Acting",
+        "name": "Jessica Haines",
+        "original_name": "Jessica Haines",
+        "popularity": 0.2656,
+        "profile_path": "/shV2qPmems2fAIo4R9ORoSjpoUX.jpg",
+        "cast_id": 28,
+        "character": "Neenah",
+        "credit_id": "52fe47d1c3a36847f8149e65",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 231657,
+        "known_for_department": "Acting",
+        "name": "Tertius Meintjes",
+        "original_name": "Tertius Meintjes",
+        "popularity": 0.2901,
+        "profile_path": "/zaDFt6Hmnv8N0Zr7MP1I1pT4ZQ5.jpg",
+        "cast_id": 29,
+        "character": "Uri",
+        "credit_id": "52fe47d1c3a36847f8149e69",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042811,
+        "known_for_department": "Acting",
+        "name": "Garth Breytenbach",
+        "original_name": "Garth Breytenbach",
+        "popularity": 0.2163,
+        "profile_path": "/uUA4CC8tVgc110QygirnyQu2ipR.jpg",
+        "cast_id": 30,
+        "character": "Remi",
+        "credit_id": "52fe47d1c3a36847f8149e6d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042812,
+        "known_for_department": "Acting",
+        "name": "Bjorn Steinbach",
+        "original_name": "Bjorn Steinbach",
+        "popularity": 0.1924,
+        "profile_path": "/8sxtyb2zQqtyRxdZa0WluD6jyj0.jpg",
+        "cast_id": 31,
+        "character": "Yomack",
+        "credit_id": "52fe47d1c3a36847f8149e71",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93919,
+        "known_for_department": "Acting",
+        "name": "Danny Keogh",
+        "original_name": "Danny Keogh",
+        "popularity": 2.3684,
+        "profile_path": "/qvvWCPcFSWe23LxUzEEnjHM1vcn.jpg",
+        "cast_id": 34,
+        "character": "Yisir",
+        "credit_id": "52fe47d1c3a36847f8149e81",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30149,
+        "known_for_department": "Camera",
+        "name": "Mikael Salomon",
+        "original_name": "Mikael Salomon",
+        "popularity": 0.6837,
+        "profile_path": "/2vrGZoDHsXzywPsTMApMrBLeCIN.jpg",
+        "credit_id": "52fe47d1c3a36847f8149df3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042805,
+        "known_for_department": "Writing",
+        "name": "Jonas Bauer",
+        "original_name": "Jonas Bauer",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149dfd",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 505007,
+        "known_for_department": "Writing",
+        "name": "Bev Doyle",
+        "original_name": "Bev Doyle",
+        "popularity": 0.1356,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e03",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35306,
+        "known_for_department": "Writing",
+        "name": "Diane Duane",
+        "original_name": "Diane Duane",
+        "popularity": 0.2457,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e09",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 311268,
+        "known_for_department": "Writing",
+        "name": "Richard Kurti",
+        "original_name": "Richard Kurti",
+        "popularity": 0.1318,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e0f",
+        "department": "Writing",
+        "job": "Teleplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042806,
+        "known_for_department": "Production",
+        "name": "Moritz Polter",
+        "original_name": "Moritz Polter",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e15",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042805,
+        "known_for_department": "Writing",
+        "name": "Jonas Bauer",
+        "original_name": "Jonas Bauer",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e1b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68503,
+        "known_for_department": "Production",
+        "name": "Rola Bauer",
+        "original_name": "Rola Bauer",
+        "popularity": 0.2769,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e21",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042807,
+        "known_for_department": "Production",
+        "name": "Theuns De Wet",
+        "original_name": "Theuns De Wet",
+        "popularity": 0.2268,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e27",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 68504,
+        "known_for_department": "Production",
+        "name": "Tim Halkin",
+        "original_name": "Tim Halkin",
+        "popularity": 0.3216,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e2d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042809,
+        "known_for_department": "Sound",
+        "name": "Petr Vcelicka",
+        "original_name": "Petr Vcelicka",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e39",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042810,
+        "known_for_department": "Camera",
+        "name": "Paul Gilpin",
+        "original_name": "Paul Gilpin",
+        "popularity": 0.2144,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e3f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64168,
+        "known_for_department": "Editing",
+        "name": "Allan Lee",
+        "original_name": "Allan Lee",
+        "popularity": 0.2246,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3311,
+        "known_for_department": "Production",
+        "name": "Priscilla John",
+        "original_name": "Priscilla John",
+        "popularity": 0.4326,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e4b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19691,
+        "known_for_department": "Art",
+        "name": "Tom Hannam",
+        "original_name": "Tom Hannam",
+        "popularity": 0.3316,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e51",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 19690,
+        "known_for_department": "Art",
+        "name": "Jonathan Hely-Hutchinson",
+        "original_name": "Jonathan Hely-Hutchinson",
+        "popularity": 0.1263,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e57",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19692,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Diana Cilliers",
+        "original_name": "Diana Cilliers",
+        "popularity": 0.2531,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e5d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042813,
+        "known_for_department": "Visual Effects",
+        "name": "Steven Hodgson",
+        "original_name": "Steven Hodgson",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e77",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042814,
+        "known_for_department": "Visual Effects",
+        "name": "David Váňa",
+        "original_name": "David Váňa",
+        "popularity": 0.1313,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e7d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212823,
+        "known_for_department": "Art",
+        "name": "Andrew McCarthy",
+        "original_name": "Andrew McCarthy",
+        "popularity": 0.2252,
+        "profile_path": null,
+        "credit_id": "52fe47d1c3a36847f8149e87",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024243,
+        "known_for_department": "Sound",
+        "name": "Michael Richard Plowman",
+        "original_name": "Michael Richard Plowman",
+        "popularity": 0.2813,
+        "profile_path": null,
+        "credit_id": "55488b3d92514155fa00189f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1042813,
+        "known_for_department": "Visual Effects",
+        "name": "Steven Hodgson",
+        "original_name": "Steven Hodgson",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "credit_id": "5c8f3163c3a36861194db4c8",
+        "department": "Crew",
+        "job": "In Memory Of"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4458,
+        "name": "post-apocalyptic future"
+      },
+      {
+        "id": 11100,
+        "name": "giant monster"
+      },
+      {
+        "id": 11239,
+        "name": "distant future"
+      },
+      {
+        "id": 10787,
+        "name": "jungle"
+      },
+      {
+        "id": 188957,
+        "name": "virus"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-04-03T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-09-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-08-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15세 관람가",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-12-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

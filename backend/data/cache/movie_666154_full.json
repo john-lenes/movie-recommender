@@ -1,0 +1,577 @@
+{
+  "adult": false,
+  "backdrop_path": "/hJXsJkQC8F3bgUTfsD402uj2Ewf.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    }
+  ],
+  "homepage": "https://www.cinemamanagementgroup.com/film/kayara/",
+  "id": 666154,
+  "imdb_id": "tt11846550",
+  "origin_country": [
+    "PE",
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Kayara",
+  "overview": "Uma jovem garota sonha em se juntar ao grupo de mensageiros do Império Inca, composto somente por homens. Ela desafia tradições e normas de gênero para perseguir sua ambição contra todas as probabilidades.",
+  "popularity": 6.7053,
+  "poster_path": "/1F9XXHadJR2as6YAi9hkG6bkDEE.jpg",
+  "production_companies": [
+    {
+      "id": 116034,
+      "logo_path": "/5hgcRnhPTpEiV3LnZDmDI4UmSmG.png",
+      "name": "Tunche Films",
+      "origin_country": "PE"
+    },
+    {
+      "id": 130164,
+      "logo_path": "/loxu9PYDDAxhyhNZWcR4Hs7P3n0.png",
+      "name": "B-Water Animation Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PE",
+      "name": "Peru"
+    }
+  ],
+  "release_date": "2025-01-02",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kayara - A Princesa Inca",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 109,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2907003,
+        "known_for_department": "Acting",
+        "name": "Naomi Serrano",
+        "original_name": "Naomi Serrano",
+        "popularity": 0.2679,
+        "profile_path": "/wpS5sLVriFIIhXvss2qUZIZFgGY.jpg",
+        "cast_id": 5,
+        "character": "Kayara (voice)",
+        "credit_id": "65bf5bc1ba480201826c4cc2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2749594,
+        "known_for_department": "Acting",
+        "name": "Nate Begle",
+        "original_name": "Nate Begle",
+        "popularity": 0.1216,
+        "profile_path": "/wKiMFMmxiqrd2DE3dIbcmzuhk2D.jpg",
+        "cast_id": 6,
+        "character": "Martin (voice)",
+        "credit_id": "65bf5bd5a7e36301b7562295",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4829658,
+        "known_for_department": "Acting",
+        "name": "Charles Gonzales",
+        "original_name": "Charles Gonzales",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Paullu",
+        "credit_id": "66941ea5c54eae22f9f480f6",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993717,
+        "known_for_department": "Writing",
+        "name": "Brian Cleveland",
+        "original_name": "Brian Cleveland",
+        "popularity": 0.2521,
+        "profile_path": null,
+        "credit_id": "65bf5bec5cd16e01639cc758",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 993718,
+        "known_for_department": "Writing",
+        "name": "Jason Cleveland",
+        "original_name": "Jason Cleveland",
+        "popularity": 0.32,
+        "profile_path": null,
+        "credit_id": "65bf5bf41dbc8801631d2d9e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2267536,
+        "known_for_department": "Production",
+        "name": "Cesar Zelada",
+        "original_name": "Cesar Zelada",
+        "popularity": 0.1033,
+        "profile_path": "/pdDjUtnbWdZRU6tOIMczAnojYib.jpg",
+        "credit_id": "65bf5c0112c604017c0252b8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2267536,
+        "known_for_department": "Production",
+        "name": "Cesar Zelada",
+        "original_name": "Cesar Zelada",
+        "popularity": 0.1033,
+        "profile_path": "/pdDjUtnbWdZRU6tOIMczAnojYib.jpg",
+        "credit_id": "5e2878c49638640011aa7238",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2267537,
+        "known_for_department": "Production",
+        "name": "Sergio Zelada",
+        "original_name": "Sergio Zelada",
+        "popularity": 0.1002,
+        "profile_path": null,
+        "credit_id": "5e2878d29638640011aa7250",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2267529,
+        "known_for_department": "Writing",
+        "name": "José Zelada",
+        "original_name": "José Zelada",
+        "popularity": 0.0798,
+        "profile_path": "/8IIMBwnhasLbOvEfRTZKTRLzMAA.jpg",
+        "credit_id": "5e2878dd9638640011aa725c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3249894,
+        "known_for_department": "Production",
+        "name": "Dirk Hampel",
+        "original_name": "Dirk Hampel",
+        "popularity": 0.0939,
+        "profile_path": null,
+        "credit_id": "6761821a9b0cfe05cc189e9b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1037910,
+        "known_for_department": "Production",
+        "name": "Edward Noeltner",
+        "original_name": "Edward Noeltner",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "credit_id": "676182326162ba96a6b4ff23",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1508883,
+        "known_for_department": "Sound",
+        "name": "Toni M. Mir",
+        "original_name": "Toni M. Mir",
+        "popularity": 0.0352,
+        "profile_path": null,
+        "credit_id": "676182459b0cfe05cc189ebe",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2138671,
+        "known_for_department": "Visual Effects",
+        "name": "Pierre Salazar",
+        "original_name": "Pierre Salazar",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "676182586162ba96a6b4ff3a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5125153,
+        "known_for_department": "Art",
+        "name": "Claudio Iriarte",
+        "original_name": "Claudio Iriarte",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67618289d183d1e25ccbeea0",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 222944,
+        "name": "ancient peru"
+      },
+      {
+        "id": 347256,
+        "name": "inca"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "7i",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "he",
+            "note": "",
+            "release_date": "2025-09-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "lv",
+            "note": "",
+            "release_date": "2025-04-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [
+              "Fear",
+              "Violence"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2025-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Myvideo",
+            "release_date": "2025-05-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "uk",
+            "note": "",
+            "release_date": "2025-01-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

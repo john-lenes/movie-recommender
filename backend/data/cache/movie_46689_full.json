@@ -1,0 +1,510 @@
+{
+  "adult": false,
+  "backdrop_path": "/trPmeJW25TFrejTNSXnLVpu64Fa.jpg",
+  "belongs_to_collection": null,
+  "budget": 1500000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 46689,
+  "imdb_id": "tt1268204",
+  "origin_country": [
+    "BR",
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Waste Land",
+  "overview": "Uma análise sobre o trabalho do artista plástico Vik Muniz no Jardim Gramacho, localizado na cidade de Duque de Caxias (RJ), que é um dos maiores aterros sanitários do mundo.",
+  "popularity": 5.2568,
+  "poster_path": "/wvaVhCRVPSYZp2A3utfyrPl0dNw.jpg",
+  "production_companies": [
+    {
+      "id": 345,
+      "logo_path": "/hj2nqoG2F9COm16fqvM0YpY3jL4.png",
+      "name": "O2 Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 66625,
+      "logo_path": null,
+      "name": "Almega Projects",
+      "origin_country": ""
+    },
+    {
+      "id": 4748,
+      "logo_path": "/bTMeosrSiKaTPmZiTYnSDZlin5d.png",
+      "name": "Oscilloscope",
+      "origin_country": "US"
+    },
+    {
+      "id": 57587,
+      "logo_path": null,
+      "name": "Intelligent Media Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2010-01-24",
+  "revenue": 187716,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "O momento em que uma coisa se transforma em outra é o momento mais bonito.",
+  "title": "Lixo Extraordinário",
+  "video": false,
+  "vote_average": 7.569,
+  "vote_count": 123,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 557872,
+        "known_for_department": "Acting",
+        "name": "Vik Muniz",
+        "original_name": "Vik Muniz",
+        "popularity": 0.0821,
+        "profile_path": "/gJOqPntqtE4AaJhMFlJhIOjYPwo.jpg",
+        "cast_id": 2,
+        "character": "Himself",
+        "credit_id": "52fe4706c3a36847f811f9d9",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34949,
+        "known_for_department": "Directing",
+        "name": "Lucy Walker",
+        "original_name": "Lucy Walker",
+        "popularity": 0.2789,
+        "profile_path": "/w1rQVe5GgJZyqAL2mGF6DhtCyGz.jpg",
+        "credit_id": "52fe4706c3a36847f811f9d5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8557,
+        "known_for_department": "Directing",
+        "name": "Fernando Meirelles",
+        "original_name": "Fernando Meirelles",
+        "popularity": 0.706,
+        "profile_path": "/usc1zwBXEHN4A6rkvJcmgWpc7rS.jpg",
+        "credit_id": "56310d399251414ab700e31f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1049324,
+        "known_for_department": "Sound",
+        "name": "Samuel Lehmer",
+        "original_name": "Samuel Lehmer",
+        "popularity": 0.1283,
+        "profile_path": null,
+        "credit_id": "56310f39c3a3681b5201009a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 965127,
+        "known_for_department": "Camera",
+        "name": "Dudu Miranda",
+        "original_name": "Dudu Miranda",
+        "popularity": 0.0831,
+        "profile_path": null,
+        "credit_id": "56310de1c3a3681b5201008a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1099756,
+        "known_for_department": "Editing",
+        "name": "Samy Waitzberg",
+        "original_name": "Samy Waitzberg",
+        "popularity": 0.0362,
+        "profile_path": "/pCh0Kxpu5mxInK7p88zCPBvHZpV.jpg",
+        "credit_id": "56311063c3a3681b54010677",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39121,
+        "known_for_department": "Acting",
+        "name": "Moby",
+        "original_name": "Moby",
+        "popularity": 0.3822,
+        "profile_path": "/taklPQ4mrT5wM3BJiKEoYf2Yl2x.jpg",
+        "credit_id": "56310d8c9251416d5200237a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8569,
+        "known_for_department": "Production",
+        "name": "Hank Levine",
+        "original_name": "Hank Levine",
+        "popularity": 0.0766,
+        "profile_path": null,
+        "credit_id": "56310cd1c3a3681b5401063a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 128052,
+        "known_for_department": "Production",
+        "name": "Peter Martin",
+        "original_name": "Peter Martin",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "56310d01c3a3681b4d011e57",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543385,
+        "known_for_department": "Editing",
+        "name": "Pedro Kos",
+        "original_name": "Pedro Kos",
+        "popularity": 0.2605,
+        "profile_path": "/ig9C3QgYMP09waPhdBYFCFd8YNP.jpg",
+        "credit_id": "56310e4e9251414ad800e499",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1315144,
+        "known_for_department": "Directing",
+        "name": "Tiago Arakilian",
+        "original_name": "Tiago Arakilian",
+        "popularity": 0.1008,
+        "profile_path": null,
+        "credit_id": "56310eb4c3a3681b5c010179",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34949,
+        "known_for_department": "Directing",
+        "name": "Lucy Walker",
+        "original_name": "Lucy Walker",
+        "popularity": 0.2789,
+        "profile_path": "/w1rQVe5GgJZyqAL2mGF6DhtCyGz.jpg",
+        "credit_id": "56310c6792514161670024b4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 969078,
+        "known_for_department": "Production",
+        "name": "Angus Aynsley",
+        "original_name": "Angus Aynsley",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "56310c89c3a3681b52010070",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1469701,
+        "known_for_department": "Editing",
+        "name": "Fabian Remy",
+        "original_name": "Fabian Remy",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "563110229251413b46002a92",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189014,
+        "known_for_department": "Sound",
+        "name": "José Moreau Louzeiro",
+        "original_name": "José Moreau Louzeiro",
+        "popularity": 0.0889,
+        "profile_path": null,
+        "credit_id": "56310f0dc3a3681b52010095",
+        "department": "Sound",
+        "job": "Sound mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8562,
+        "known_for_department": "Production",
+        "name": "Andrea Barata Ribeiro",
+        "original_name": "Andrea Barata Ribeiro",
+        "popularity": 0.4337,
+        "profile_path": null,
+        "credit_id": "56310ca99251414ad800e46d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 529556,
+        "known_for_department": "Directing",
+        "name": "Heloísa Passos",
+        "original_name": "Heloísa Passos",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "credit_id": "56a531bd9251417207007c11",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1404637,
+        "known_for_department": "Camera",
+        "name": "Ernesto Herrmann",
+        "original_name": "Ernesto Herrmann",
+        "popularity": 0.0694,
+        "profile_path": null,
+        "credit_id": "56a532539251417207007c22",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 34952,
+        "known_for_department": "Camera",
+        "name": "Mahyad Tousi",
+        "original_name": "Mahyad Tousi",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "credit_id": "56a5329d92514144ba0071c5",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554439,
+        "known_for_department": "Camera",
+        "name": "Aaron Phillips",
+        "original_name": "Aaron Phillips",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "56a53280c3a368389e00790f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1013608,
+        "known_for_department": "Editing",
+        "name": "Karen Harley",
+        "original_name": "Karen Harley",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "5b2f71bf92514174700035bd",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237137,
+        "known_for_department": "Directing",
+        "name": "João Jardim",
+        "original_name": "João Jardim",
+        "popularity": 0.1535,
+        "profile_path": "/mk2iWbu5efZcniMN5QCEeuwDAnm.jpg",
+        "credit_id": "5b2f71a90e0a264281003a2a",
+        "department": "Directing",
+        "job": "Co-Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3700,
+        "name": "garbage"
+      },
+      {
+        "id": 2386,
+        "name": "empowerment"
+      },
+      {
+        "id": 1809,
+        "name": "rio de janeiro"
+      },
+      {
+        "id": 2679,
+        "name": "artist"
+      },
+      {
+        "id": 10852,
+        "name": "dead child"
+      },
+      {
+        "id": 159602,
+        "name": "garbage dump"
+      },
+      {
+        "id": 163828,
+        "name": "landfill"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 208666,
+        "name": "dignity"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-07-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-09-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-02-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-01-24T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2010-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

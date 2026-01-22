@@ -1,0 +1,650 @@
+{
+  "adult": false,
+  "backdrop_path": "/2FT4Li1enVvQBaYSqvGji6vlvbE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 356199,
+  "imdb_id": "tt4935462",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Amazing Grace",
+  "overview": "Um documentário apresentando Aretha Franklin com coro na Igreja Batista de New Bethel em Watts, Los Angeles, em janeiro de 1972.  Em 1972, Aretha Franklin gravou o álbum 'Amazing Grace' numa igreja no sul de Los Angeles. O evento foi filmado por Sydney Pollack mas nunca foi lançado. Na platéia temos Mick Jagger, Sydney Pollack e Charlie Watts, baterista do The Rolling Stones. (e Livre - Estimado Livre)",
+  "popularity": 3.8703,
+  "poster_path": "/eABsBr5TnW8FBSSSsAKFnwDW1BW.jpg",
+  "production_companies": [
+    {
+      "id": 10479,
+      "logo_path": "/oCj1bt8kcoxfJPXoxjqfjeJvF3Y.png",
+      "name": "Sundial Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4319,
+      "logo_path": "/dU4Y8EqPLCz6jARM63NwGhr4DcG.png",
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 122268,
+      "logo_path": null,
+      "name": "Al's Records And Tapes",
+      "origin_country": ""
+    },
+    {
+      "id": 122269,
+      "logo_path": null,
+      "name": "Rampant",
+      "origin_country": ""
+    },
+    {
+      "id": 156093,
+      "logo_path": "/t8POzVUpEWkennWeE4Jm7zDCQtL.png",
+      "name": "TIME Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-12-07",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Amazing Grace",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 104,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1494189,
+        "known_for_department": "Production",
+        "name": "Joey Carey",
+        "original_name": "Joey Carey",
+        "popularity": 0.1001,
+        "profile_path": null,
+        "credit_id": "5be0bc9b9251412f6b003658",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59424,
+        "known_for_department": "Sound",
+        "name": "Alan Elliott",
+        "original_name": "Alan Elliott",
+        "popularity": 0.4308,
+        "profile_path": null,
+        "credit_id": "5be0c1cd0e0a2657e7004565",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397719,
+        "known_for_department": "Production",
+        "name": "Stefan Nowicki",
+        "original_name": "Stefan Nowicki",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "5be0c200c3a3686eaa003c32",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2169226,
+        "known_for_department": "Production",
+        "name": "Tirrell D. Whittley",
+        "original_name": "Tirrell D. Whittley",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5be0c2369251412f4f003e0a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4234,
+        "known_for_department": "Production",
+        "name": "Jeff Buchanan",
+        "original_name": "Jeff Buchanan",
+        "popularity": 0.1472,
+        "profile_path": null,
+        "credit_id": "5be0c3bbc3a3686ebd004748",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59424,
+        "known_for_department": "Sound",
+        "name": "Alan Elliott",
+        "original_name": "Alan Elliott",
+        "popularity": 0.4308,
+        "profile_path": null,
+        "credit_id": "5c9f937fc3a368735b81c95c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453884,
+        "known_for_department": "Sound",
+        "name": "Jon Gerdemann",
+        "original_name": "Jon Gerdemann",
+        "popularity": 0.0484,
+        "profile_path": null,
+        "credit_id": "5d60ec8c7f6c8d0017ec74bb",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1085032,
+        "known_for_department": "Sound",
+        "name": "Steve Neal",
+        "original_name": "Steve Neal",
+        "popularity": 0.2426,
+        "profile_path": null,
+        "credit_id": "5d60eca27f6c8d0015ec77cf",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2394614,
+        "known_for_department": "Sound",
+        "name": "Greg Ortiz",
+        "original_name": "Greg Ortiz",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d60ecb054f6eb00149afc5e",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1409287,
+        "known_for_department": "Sound",
+        "name": "Serge Perron",
+        "original_name": "Serge Perron",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "5d60ecc254f6eb00149afca9",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 92881,
+        "known_for_department": "Acting",
+        "name": "Joe Boyd",
+        "original_name": "Joe Boyd",
+        "popularity": 0.2978,
+        "profile_path": "/gsPMIEobtxl6fNlzvBjlFHgY6K2.jpg",
+        "credit_id": "5d60ecdb54f6eb00199afa33",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 139846,
+        "known_for_department": "Production",
+        "name": "Alexandra Johnes",
+        "original_name": "Alexandra Johnes",
+        "popularity": 0.4852,
+        "profile_path": "/dJnK4q5hPCtFrQzOiUHFwiyHIkO.jpg",
+        "credit_id": "5d60ecf06dea3a001493948c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2394618,
+        "known_for_department": "Production",
+        "name": "Rob Johnson",
+        "original_name": "Rob Johnson",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "5d60ed0a7f6c8d1cfbec640f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 440767,
+        "known_for_department": "Directing",
+        "name": "Chiemi Karasawa",
+        "original_name": "Chiemi Karasawa",
+        "popularity": 0.1722,
+        "profile_path": null,
+        "credit_id": "5d60ed197f6c8d0015ec78e1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5281,
+        "known_for_department": "Directing",
+        "name": "Spike Lee",
+        "original_name": "Spike Lee",
+        "popularity": 1.4268,
+        "profile_path": "/2KOHXgk2uoRXl6u7V9xpAIo3uay.jpg",
+        "credit_id": "5d60ed266dea3a00149394b9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2394619,
+        "known_for_department": "Production",
+        "name": "Sabrina V. Owens",
+        "original_name": "Sabrina V. Owens",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5d60ed3254f6eb00189afa7c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2394620,
+        "known_for_department": "Production",
+        "name": "Angie Seegers",
+        "original_name": "Angie Seegers",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5d60ed3d54f6eb00199afaa8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2394621,
+        "known_for_department": "Production",
+        "name": "Joseph Woolf",
+        "original_name": "Joseph Woolf",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5d60ed4e7f6c8d0019ec7779",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2045532,
+        "known_for_department": "Editing",
+        "name": "Sam Tirado",
+        "original_name": "Sam Tirado",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "5d60ed607f6c8d0017ec76bd",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1557602,
+        "known_for_department": "Visual Effects",
+        "name": "Kelly Reese",
+        "original_name": "Kelly Reese",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "5d60ed6f54f6eb00149afd6f",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 11634,
+        "name": "live performance"
+      },
+      {
+        "id": 156205,
+        "name": "concert film"
+      },
+      {
+        "id": 210421,
+        "name": "gospel music"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "AA",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-06-29T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "São Paulo International Film Festival",
+            "release_date": "2019-10-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-28T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-04-03T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-10-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-05-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "K",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinobo",
+            "release_date": "2022-06-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-10-31T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-05-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2021-05-28T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "All",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-07T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-11-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-09-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-07T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-02-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "Btl",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-08-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DOC NYC",
+            "release_date": "2018-11-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-07T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  }
+}

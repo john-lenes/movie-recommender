@@ -1,0 +1,2163 @@
+{
+  "adult": false,
+  "backdrop_path": "/fM1graQ7CoYzSFj0ZRCGiPVu2kh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    }
+  ],
+  "homepage": "",
+  "id": 436120,
+  "imdb_id": "tt6452332",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "夜明け告げるルーのうた",
+  "overview": "Kai se muda com seu pai de Tóquio para Hinashi, uma cidade pesqueira em declinio, para viver com seu avô após o divórcio de seus pais. Kai é incapaz expressar seus complexos sentimentos sobre seus pais, assim ele passa sua vida escolar no ensino médio de forma melancólica. Sua única alegria é fazer o upload de suas composições musicais para a internet. Um dia, seus colegas Kunio e Yuuho convidá-o para se juntar à sua banda, e quando ele relutantemente os acompanha para praticar na Ilha da Sereia, os três encontram uma sereia chamada Lu. Através de seu alegre canto e dança, Kai lentamente é capaz de se abrir sobre seus sentimentos. No entanto, uma calamidade chega e Kai deve gritar do fundo do seu coração, para salvar a cidade.",
+  "popularity": 4.4465,
+  "poster_path": "/9Y4tUabjr4uftipKKwu6wOQQBOU.jpg",
+  "production_companies": [
+    {
+      "id": 99494,
+      "logo_path": "/fpUFQKvrWPWTA8lbLWtWX65miPS.png",
+      "name": "Science SARU",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3341,
+      "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+      "name": "Fuji Television Network",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 59206,
+      "logo_path": "/oMtJVGvqLAyQZvYTvjDIcbVEzwD.png",
+      "name": "BS Fuji",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2017-05-19",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lu Está Livre",
+  "video": false,
+  "vote_average": 7.007,
+  "vote_count": 139,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412421,
+        "known_for_department": "Acting",
+        "name": "下田翔大",
+        "original_name": "下田翔大",
+        "popularity": 0.5115,
+        "profile_path": "/y0KW1638B0uGnu0MDj8SZnV3jPF.jpg",
+        "cast_id": 4,
+        "character": "Kai Ashimoto (voice)",
+        "credit_id": "5884dc62925141046001ff18",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388751,
+        "known_for_department": "Acting",
+        "name": "Soma Saito",
+        "original_name": "斉藤壮馬",
+        "popularity": 0.916,
+        "profile_path": "/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg",
+        "cast_id": 2,
+        "character": "Kuniko (voice)",
+        "credit_id": "5884dc3f925141045b01e813",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1249310,
+        "known_for_department": "Acting",
+        "name": "寿美菜子",
+        "original_name": "寿美菜子",
+        "popularity": 1.0615,
+        "profile_path": "/puocmMfvql6X1AvhFTolaV6Vh2r.jpg",
+        "cast_id": 3,
+        "character": "Yuuho Ebina (voice)",
+        "credit_id": "5884dc4d925141046001fef4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1344919,
+        "known_for_department": "Acting",
+        "name": "谷花音",
+        "original_name": "谷花音",
+        "popularity": 0.5717,
+        "profile_path": "/udR4Cax2EecH3ZkATE4h6ejiGD9.jpg",
+        "cast_id": 5,
+        "character": "Lu (voice)",
+        "credit_id": "5884dc6f925141045d01ed58",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13283,
+        "known_for_department": "Acting",
+        "name": "Akira Emoto",
+        "original_name": "柄本明",
+        "popularity": 1.7539,
+        "profile_path": "/qQHdGgAL7idxy79oWHjYON6bYQm.jpg",
+        "cast_id": 1,
+        "character": "Ashimoto's Grandfather (voice)",
+        "credit_id": "5884dc32925141045b01e80c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 571993,
+        "known_for_department": "Acting",
+        "name": "Shizuka Ito",
+        "original_name": "伊藤静",
+        "popularity": 1.5521,
+        "profile_path": "/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg",
+        "cast_id": 124,
+        "character": "Isaki (voice)",
+        "credit_id": "5afdc19c0e0a267ee10010d3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9726,
+        "known_for_department": "Acting",
+        "name": "Kenichi Suzumura",
+        "original_name": "鈴村健一",
+        "popularity": 1.6316,
+        "profile_path": "/vFqjmIjxfgBkh3ZmUin7QETV0sy.jpg",
+        "cast_id": 125,
+        "character": "Teruo Ashimoto (voice)",
+        "credit_id": "5afdc234c3a3685135001824",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114909,
+        "known_for_department": "Acting",
+        "name": "Tokuyoshi Kawashima",
+        "original_name": "川島得愛",
+        "popularity": 0.4585,
+        "profile_path": "/ebs1XeKvNqYOyCl7ghID1B6vHv3.jpg",
+        "cast_id": 129,
+        "character": "Fuguda (voice)",
+        "credit_id": "5afdc32b92514127f1000cd2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560354,
+        "known_for_department": "Acting",
+        "name": "Cho",
+        "original_name": "チョー",
+        "popularity": 0.8871,
+        "profile_path": "/70OZtKOHEGvbuMQAbQ01cGxrUDO.jpg",
+        "cast_id": 132,
+        "character": "Ebina's Father (voice)",
+        "credit_id": "5afdc3ec92514128230010a8",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216453,
+        "known_for_department": "Acting",
+        "name": "菅生隆之",
+        "original_name": "菅生隆之",
+        "popularity": 0.595,
+        "profile_path": "/72SmjQLslGqH61JONZkSnEcvcRv.jpg",
+        "cast_id": 133,
+        "character": "Ebina's Grandfather (voice)",
+        "credit_id": "5afdc4080e0a267eb40011a1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1743553,
+        "known_for_department": "Acting",
+        "name": "篠原信一",
+        "original_name": "篠原信一",
+        "popularity": 0.2657,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Lu's Father (voice)",
+        "credit_id": "5884dc80925141045d01ed73",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1898086,
+        "known_for_department": "Acting",
+        "name": "佐々木睦",
+        "original_name": "佐々木睦",
+        "popularity": 0.4477,
+        "profile_path": "/vfWeOCWPMONdhcm4B35B0vVhgbj.jpg",
+        "cast_id": 126,
+        "character": "Chief Priest (voice)",
+        "credit_id": "5afdc27392514127f5000ea5",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3428654,
+        "known_for_department": "Sound",
+        "name": "小川大貴",
+        "original_name": "小川大貴",
+        "popularity": 0.3265,
+        "profile_path": null,
+        "credit_id": "620c4187fdf8b70042dffd2b",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044654,
+        "known_for_department": "Art",
+        "name": "桐山成代",
+        "original_name": "桐山成代",
+        "popularity": 0.1512,
+        "profile_path": null,
+        "credit_id": "620c41baae384300428d3a65",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93107,
+        "known_for_department": "Directing",
+        "name": "湯浅政明",
+        "original_name": "湯浅政明",
+        "popularity": 0.7337,
+        "profile_path": "/c8w5a2ExhnRPV3lN4D2CvOwGQJT.jpg",
+        "credit_id": "5883c795c3a368064d00e186",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552333,
+        "known_for_department": "Sound",
+        "name": "村松崇継",
+        "original_name": "村松崇継",
+        "popularity": 0.1593,
+        "profile_path": null,
+        "credit_id": "5884dc94925141045401f3f7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3951253,
+        "known_for_department": "Production",
+        "name": "Kazuko Takahashi",
+        "original_name": "Kazuko Takahashi",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6405d737021cee00da375e76",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93107,
+        "known_for_department": "Directing",
+        "name": "湯浅政明",
+        "original_name": "湯浅政明",
+        "popularity": 0.7337,
+        "profile_path": "/c8w5a2ExhnRPV3lN4D2CvOwGQJT.jpg",
+        "credit_id": "5afd9ffc0e0a266f0e005419",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78373,
+        "known_for_department": "Writing",
+        "name": "吉田玲子",
+        "original_name": "吉田玲子",
+        "popularity": 0.8979,
+        "profile_path": "/5LUxL8rdUtMdqxx8pnWp6PM0wKp.jpg",
+        "credit_id": "5afda00b0e0a266eed005cf0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044637,
+        "known_for_department": "Visual Effects",
+        "name": "Yōko Nemu",
+        "original_name": "Yōko Nemu",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5afda0480e0a266f0b005785",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570240,
+        "known_for_department": "Visual Effects",
+        "name": "伊東伸高",
+        "original_name": "伊東伸高",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "5afda06792514126700066b9",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570240,
+        "known_for_department": "Visual Effects",
+        "name": "伊東伸高",
+        "original_name": "伊東伸高",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "5afda0730e0a266ef6006496",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552596,
+        "known_for_department": "Art",
+        "name": "大野広司",
+        "original_name": "大野広司",
+        "popularity": 0.2115,
+        "profile_path": null,
+        "credit_id": "5afda0b0c3a36841c200626a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1555482,
+        "known_for_department": "Sound",
+        "name": "木村絵理子",
+        "original_name": "木村絵理子",
+        "popularity": 0.4784,
+        "profile_path": null,
+        "credit_id": "5afda0ea0e0a266f0b005807",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1624730,
+        "known_for_department": "Camera",
+        "name": "Batiste Perron",
+        "original_name": "Batiste Perron",
+        "popularity": 0.1446,
+        "profile_path": null,
+        "credit_id": "5afda246c3a36841cf006e19",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044640,
+        "known_for_department": "Production",
+        "name": "Akihiro Arai",
+        "original_name": "Akihiro Arai",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "credit_id": "5afda2a6c3a36841bc005e79",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044642,
+        "known_for_department": "Production",
+        "name": "大田圭二",
+        "original_name": "大田圭二",
+        "popularity": 0.4227,
+        "profile_path": "/15NZaRqZHSguv6wF2SvuFoYlkiO.jpg",
+        "credit_id": "5afda37e9251412686005a46",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80940,
+        "known_for_department": "Production",
+        "name": "清水賢治",
+        "original_name": "清水賢治",
+        "popularity": 0.2054,
+        "profile_path": null,
+        "credit_id": "5afda74292514126ef0073f2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 93107,
+        "known_for_department": "Directing",
+        "name": "湯浅政明",
+        "original_name": "湯浅政明",
+        "popularity": 0.7337,
+        "profile_path": "/c8w5a2ExhnRPV3lN4D2CvOwGQJT.jpg",
+        "credit_id": "5afda7819251412670006c44",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1847507,
+        "known_for_department": "Production",
+        "name": "岡安由夏",
+        "original_name": "岡安由夏",
+        "popularity": 0.2527,
+        "profile_path": null,
+        "credit_id": "5afda7a80e0a266f050061de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044649,
+        "known_for_department": "Production",
+        "name": "伊藤隼之介",
+        "original_name": "伊藤隼之介",
+        "popularity": 0.165,
+        "profile_path": null,
+        "credit_id": "5afda7eac3a36841a30039ed",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044652,
+        "known_for_department": "Visual Effects",
+        "name": "Woon Young Chae",
+        "original_name": "Woon Young Chae",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "5afda8749251412830000009",
+        "department": "Visual Effects",
+        "job": "Animation Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1497016,
+        "known_for_department": "Production",
+        "name": "山本幸治",
+        "original_name": "山本幸治",
+        "popularity": 0.4588,
+        "profile_path": "/6x1JDK5QsG6yNiiVaiaBKbIcovI.jpg",
+        "credit_id": "5afda9a10e0a267ed80000b8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044659,
+        "known_for_department": "Visual Effects",
+        "name": "Lucille Briand",
+        "original_name": "Lucille Briand",
+        "popularity": 0.1143,
+        "profile_path": null,
+        "credit_id": "5afdab21c3a3685135000277",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1906867,
+        "known_for_department": "Art",
+        "name": "山川晃",
+        "original_name": "山川晃",
+        "popularity": 0.5052,
+        "profile_path": null,
+        "credit_id": "5afdab8cc3a3685117000106",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044660,
+        "known_for_department": "Art",
+        "name": "北原絵美",
+        "original_name": "北原絵美",
+        "popularity": 0.3681,
+        "profile_path": null,
+        "credit_id": "5afdabc30e0a267ee1000229",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552596,
+        "known_for_department": "Art",
+        "name": "大野広司",
+        "original_name": "大野広司",
+        "popularity": 0.2115,
+        "profile_path": null,
+        "credit_id": "5afdabd392514127b20001d3",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044662,
+        "known_for_department": "Art",
+        "name": "齋藤緋沙子",
+        "original_name": "齋藤緋沙子",
+        "popularity": 0.1323,
+        "profile_path": null,
+        "credit_id": "5afdabed92514128190001d8",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044667,
+        "known_for_department": "Art",
+        "name": "芳賀ひとみ",
+        "original_name": "芳賀ひとみ",
+        "popularity": 0.3703,
+        "profile_path": null,
+        "credit_id": "5afdadd4925141280400037f",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456799,
+        "known_for_department": "Art",
+        "name": "伊奈淳子",
+        "original_name": "伊奈淳子",
+        "popularity": 0.1438,
+        "profile_path": null,
+        "credit_id": "5afdadea0e0a267eb700034a",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044670,
+        "known_for_department": "Art",
+        "name": "野崎佳津",
+        "original_name": "野崎佳津",
+        "popularity": 0.1149,
+        "profile_path": null,
+        "credit_id": "5afdae05c3a3685142000210",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1353006,
+        "known_for_department": "Art",
+        "name": "青木勝志",
+        "original_name": "青木勝志",
+        "popularity": 0.2343,
+        "profile_path": null,
+        "credit_id": "5afdae14925141282300035b",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044672,
+        "known_for_department": "Art",
+        "name": "大野久美子",
+        "original_name": "大野久美子",
+        "popularity": 0.4823,
+        "profile_path": null,
+        "credit_id": "5afdae2992514127a0000388",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044673,
+        "known_for_department": "Art",
+        "name": "松本実希子",
+        "original_name": "松本実希子",
+        "popularity": 0.1253,
+        "profile_path": null,
+        "credit_id": "5afdae37925141283000032a",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1361296,
+        "known_for_department": "Art",
+        "name": "上原伸一",
+        "original_name": "上原伸一",
+        "popularity": 0.1695,
+        "profile_path": null,
+        "credit_id": "5afdae4892514127d50003a5",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044676,
+        "known_for_department": "Art",
+        "name": "岩原史織",
+        "original_name": "岩原史織",
+        "popularity": 0.1396,
+        "profile_path": null,
+        "credit_id": "5afdae6692514127f500037d",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489988,
+        "known_for_department": "Art",
+        "name": "鈴木俊輔",
+        "original_name": "鈴木俊輔",
+        "popularity": 0.2013,
+        "profile_path": null,
+        "credit_id": "5afdae940e0a267edb0003e9",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2032190,
+        "known_for_department": "Art",
+        "name": "中谷強",
+        "original_name": "中谷強",
+        "popularity": 0.2104,
+        "profile_path": null,
+        "credit_id": "5afdaeb40e0a267ede00042e",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044680,
+        "known_for_department": "Art",
+        "name": "赤上由峰",
+        "original_name": "赤上由峰",
+        "popularity": 0.4245,
+        "profile_path": null,
+        "credit_id": "5afdaeccc3a368511b000610",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044685,
+        "known_for_department": "Crew",
+        "name": "Michihiro Ichihara",
+        "original_name": "Michihiro Ichihara",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5afdaf22c3a36851320006c5",
+        "department": "Crew",
+        "job": "Digital Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1923320,
+        "known_for_department": "Editing",
+        "name": "丹彩子",
+        "original_name": "丹彩子",
+        "popularity": 0.2784,
+        "profile_path": null,
+        "credit_id": "5afdaf7f0e0a267ee1000491",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491875,
+        "known_for_department": "Visual Effects",
+        "name": "Abel Góngora",
+        "original_name": "Abel Góngora",
+        "popularity": 0.4441,
+        "profile_path": "/jZU8NupOBAFriwaZ2uHDFYNkq1O.jpg",
+        "credit_id": "5afdaffc92514127d50004ef",
+        "department": "Visual Effects",
+        "job": "Animation Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491882,
+        "known_for_department": "Visual Effects",
+        "name": "Juan Manuel Laguna",
+        "original_name": "Juan Manuel Laguna",
+        "popularity": 0.1363,
+        "profile_path": null,
+        "credit_id": "5afdb0190e0a267eba0004e9",
+        "department": "Visual Effects",
+        "job": "Animation Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044690,
+        "known_for_department": "Sound",
+        "name": "アカツキチョータ",
+        "original_name": "アカツキチョータ",
+        "popularity": 0.2971,
+        "profile_path": null,
+        "credit_id": "5afdb07ac3a3685135000740",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044691,
+        "known_for_department": "Visual Effects",
+        "name": "Chun Ryung Kim",
+        "original_name": "Chun Ryung Kim",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5afdb0900e0a267ec3000593",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1631426,
+        "known_for_department": "Visual Effects",
+        "name": "木下絵李",
+        "original_name": "木下絵李",
+        "popularity": 0.2337,
+        "profile_path": null,
+        "credit_id": "5afdb133c3a3685139000740",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044694,
+        "known_for_department": "Visual Effects",
+        "name": "上原史之",
+        "original_name": "上原史之",
+        "popularity": 0.2372,
+        "profile_path": null,
+        "credit_id": "5afdb14fc3a368512f00088a",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044695,
+        "known_for_department": "Directing",
+        "name": "朴桓秀",
+        "original_name": "朴桓秀",
+        "popularity": 0.077,
+        "profile_path": null,
+        "credit_id": "5afdb163c3a3685135000835",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044696,
+        "known_for_department": "Visual Effects",
+        "name": "In Sup Choi",
+        "original_name": "In Sup Choi",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "credit_id": "5afdb1760e0a267ecc000576",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044697,
+        "known_for_department": "Visual Effects",
+        "name": "Junya Otake",
+        "original_name": "Junya Otake",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "5afdb18fc3a368513c0003e1",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044699,
+        "known_for_department": "Visual Effects",
+        "name": "野口花梨",
+        "original_name": "野口花梨",
+        "popularity": 0.1091,
+        "profile_path": null,
+        "credit_id": "5afdb1c00e0a267eba000617",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044701,
+        "known_for_department": "Visual Effects",
+        "name": "Rebecca Núñez",
+        "original_name": "Rebecca Núñez",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "5afdb1d9925141282300059a",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044704,
+        "known_for_department": "Visual Effects",
+        "name": "Sung Hee Seo",
+        "original_name": "Sung Hee Seo",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "5afdb2bc92514127a3000618",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044705,
+        "known_for_department": "Visual Effects",
+        "name": "Tatsunari Karube",
+        "original_name": "Tatsunari Karube",
+        "popularity": 0.6445,
+        "profile_path": null,
+        "credit_id": "5afdb2eb0e0a267eba0006c1",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044706,
+        "known_for_department": "Visual Effects",
+        "name": "Toma Kimura",
+        "original_name": "Toma Kimura",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "5afdb2fdc3a368513c00047d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044707,
+        "known_for_department": "Visual Effects",
+        "name": "Zio Lee",
+        "original_name": "Zio Lee",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "5afdb30f925141280a000660",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044708,
+        "known_for_department": "Art",
+        "name": "Alice Tiroille",
+        "original_name": "Alice Tiroille",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "5afdb359c3a368511b000a04",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 116688,
+        "known_for_department": "Sound",
+        "name": "倉橋静男",
+        "original_name": "倉橋静男",
+        "popularity": 0.483,
+        "profile_path": "/85G7woSi4vpLRlJX165p1DulfPJ.jpg",
+        "credit_id": "5afdb41e0e0a267ee1000809",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044711,
+        "known_for_department": "Sound",
+        "name": "Hiroki Ogawa",
+        "original_name": "Hiroki Ogawa",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5afdb451925141280400083c",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044712,
+        "known_for_department": "Production",
+        "name": "Shin Takishima",
+        "original_name": "Shin Takishima",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "5afdb4840e0a267ec3000805",
+        "department": "Production",
+        "job": "General Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044713,
+        "known_for_department": "Visual Effects",
+        "name": "Alexandre Ulmann",
+        "original_name": "Alexandre Ulmann",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "5afdb4a50e0a267ec300081c",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1847892,
+        "known_for_department": "Visual Effects",
+        "name": "倉島亜由美",
+        "original_name": "倉島亜由美",
+        "popularity": 0.2969,
+        "profile_path": null,
+        "credit_id": "5afdb4b3c3a368512f000b81",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044715,
+        "known_for_department": "Visual Effects",
+        "name": "セドリック・エロール",
+        "original_name": "セドリック・エロール",
+        "popularity": 0.3323,
+        "profile_path": null,
+        "credit_id": "5afdb4c492514127a000074e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044716,
+        "known_for_department": "Visual Effects",
+        "name": "西原千恵",
+        "original_name": "西原千恵",
+        "popularity": 0.1768,
+        "profile_path": null,
+        "credit_id": "5afdb4d892514127fc000881",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456790,
+        "known_for_department": "Visual Effects",
+        "name": "清水洋",
+        "original_name": "清水洋",
+        "popularity": 0.2019,
+        "profile_path": null,
+        "credit_id": "5afdb510c3a36851170004ed",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044718,
+        "known_for_department": "Visual Effects",
+        "name": "崎山北斗",
+        "original_name": "崎山北斗",
+        "popularity": 0.3235,
+        "profile_path": null,
+        "credit_id": "5afdb5230e0a267ebd000819",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1345253,
+        "known_for_department": "Visual Effects",
+        "name": "村上泉",
+        "original_name": "村上泉",
+        "popularity": 0.3159,
+        "profile_path": null,
+        "credit_id": "5afdb57d0e0a267ee1000903",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044719,
+        "known_for_department": "Visual Effects",
+        "name": "瀬口泉",
+        "original_name": "瀬口泉",
+        "popularity": 0.3609,
+        "profile_path": null,
+        "credit_id": "5afdb5a80e0a267ede000934",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044720,
+        "known_for_department": "Visual Effects",
+        "name": "Jamie Vickers",
+        "original_name": "Jamie Vickers",
+        "popularity": 0.1962,
+        "profile_path": null,
+        "credit_id": "5afdb5b892514127c50006ec",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044721,
+        "known_for_department": "Visual Effects",
+        "name": "丸加奈子",
+        "original_name": "丸加奈子",
+        "popularity": 0.3005,
+        "profile_path": null,
+        "credit_id": "5afdb5d592514127a90005f8",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044722,
+        "known_for_department": "Visual Effects",
+        "name": "鈴木かんち",
+        "original_name": "鈴木かんち",
+        "popularity": 0.3659,
+        "profile_path": null,
+        "credit_id": "5afdb5e6925141280a0008b5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1937884,
+        "known_for_department": "Visual Effects",
+        "name": "濱田邦彦",
+        "original_name": "濱田邦彦",
+        "popularity": 0.2402,
+        "profile_path": null,
+        "credit_id": "5afdb64c0e0a267ec60009b5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044726,
+        "known_for_department": "Visual Effects",
+        "name": "落合麻衣子",
+        "original_name": "落合麻衣子",
+        "popularity": 0.1086,
+        "profile_path": null,
+        "credit_id": "5afdb662c3a3685135000d55",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044727,
+        "known_for_department": "Visual Effects",
+        "name": "村山正直",
+        "original_name": "村山正直",
+        "popularity": 0.4734,
+        "profile_path": null,
+        "credit_id": "5afdb674c3a368511400072e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1293879,
+        "known_for_department": "Visual Effects",
+        "name": "荒川眞嗣",
+        "original_name": "荒川眞嗣",
+        "popularity": 0.424,
+        "profile_path": null,
+        "credit_id": "5afdb6aac3a3685119000ca4",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044730,
+        "known_for_department": "Visual Effects",
+        "name": "石舘波子",
+        "original_name": "石舘波子",
+        "popularity": 0.1524,
+        "profile_path": null,
+        "credit_id": "5afdb6dac3a368512f000dae",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570240,
+        "known_for_department": "Visual Effects",
+        "name": "伊東伸高",
+        "original_name": "伊東伸高",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "5afdb6e892514127d500099c",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1511114,
+        "known_for_department": "Visual Effects",
+        "name": "小倉陳利",
+        "original_name": "小倉陳利",
+        "popularity": 0.2445,
+        "profile_path": "/lqqTGbOmRNXb4EY6STDYJYcFoxB.jpg",
+        "credit_id": "5afdb70b925141283a00090b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154862,
+        "known_for_department": "Visual Effects",
+        "name": "うつのみや理",
+        "original_name": "うつのみや理",
+        "popularity": 0.3629,
+        "profile_path": null,
+        "credit_id": "5afdb72ec3a368512f000de8",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044731,
+        "known_for_department": "Visual Effects",
+        "name": "橋本晋治",
+        "original_name": "橋本晋治",
+        "popularity": 0.3103,
+        "profile_path": null,
+        "credit_id": "5afdb756925141284900093b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1456632,
+        "known_for_department": "Visual Effects",
+        "name": "大平晋也",
+        "original_name": "大平晋也",
+        "popularity": 0.4602,
+        "profile_path": null,
+        "credit_id": "5afdb77ec3a368512f000e24",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044733,
+        "known_for_department": "Visual Effects",
+        "name": "濱田高行",
+        "original_name": "濱田高行",
+        "popularity": 0.205,
+        "profile_path": null,
+        "credit_id": "5afdb7b10e0a267ed20009ac",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044734,
+        "known_for_department": "Visual Effects",
+        "name": "斉藤拓也",
+        "original_name": "斉藤拓也",
+        "popularity": 0.3905,
+        "profile_path": null,
+        "credit_id": "5afdb7c8c3a368513c0006bc",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1566237,
+        "known_for_department": "Visual Effects",
+        "name": "川妻智美",
+        "original_name": "川妻智美",
+        "popularity": 0.3151,
+        "profile_path": null,
+        "credit_id": "5afdb84f92514127fc000aa5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044740,
+        "known_for_department": "Visual Effects",
+        "name": "仁保知行",
+        "original_name": "仁保知行",
+        "popularity": 0.2957,
+        "profile_path": null,
+        "credit_id": "5afdb8660e0a267ec3000a9b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512046,
+        "known_for_department": "Visual Effects",
+        "name": "大島塔也",
+        "original_name": "大島塔也",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "credit_id": "5afdb87c0e0a267eb4000a63",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1488854,
+        "known_for_department": "Visual Effects",
+        "name": "中野悟史",
+        "original_name": "中野悟史",
+        "popularity": 0.2251,
+        "profile_path": "/eBq4UEztUsgM6bm2SDp9vgeorpc.jpg",
+        "credit_id": "5afdb9020e0a267ecf000b20",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044743,
+        "known_for_department": "Visual Effects",
+        "name": "佐藤由貴",
+        "original_name": "佐藤由貴",
+        "popularity": 0.2915,
+        "profile_path": null,
+        "credit_id": "5afdb96dc3a368511400089d",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044744,
+        "known_for_department": "Visual Effects",
+        "name": "松井祐子",
+        "original_name": "松井祐子",
+        "popularity": 0.2162,
+        "profile_path": null,
+        "credit_id": "5afdb9f6c3a3685119000f7b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044748,
+        "known_for_department": "Art",
+        "name": "Junya Arai",
+        "original_name": "Junya Arai",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "5afdbaa992514127c5000954",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044749,
+        "known_for_department": "Art",
+        "name": "Kaori Kuroki",
+        "original_name": "Kaori Kuroki",
+        "popularity": 0.0289,
+        "profile_path": null,
+        "credit_id": "5afdbabec3a3685119001040",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044750,
+        "known_for_department": "Visual Effects",
+        "name": "Eiko Yabuki",
+        "original_name": "Eiko Yabuki",
+        "popularity": 0.1899,
+        "profile_path": null,
+        "credit_id": "5afdbaf8c3a3685139000e5b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044752,
+        "known_for_department": "Visual Effects",
+        "name": "浦岡華絵",
+        "original_name": "浦岡華絵",
+        "popularity": 0.1705,
+        "profile_path": null,
+        "credit_id": "5afdbb08c3a368513f0009d4",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044753,
+        "known_for_department": "Visual Effects",
+        "name": "駄場功益",
+        "original_name": "駄場功益",
+        "popularity": 0.1115,
+        "profile_path": null,
+        "credit_id": "5afdbb180e0a267ec3000ca5",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1845867,
+        "known_for_department": "Visual Effects",
+        "name": "Shigeto Tsuji",
+        "original_name": "Shigeto Tsuji",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "credit_id": "5afdbb269251412804000c90",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044754,
+        "known_for_department": "Visual Effects",
+        "name": "西垣庄子",
+        "original_name": "西垣庄子",
+        "popularity": 0.3682,
+        "profile_path": null,
+        "credit_id": "5afdbb42c3a3685114000980",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044762,
+        "known_for_department": "Visual Effects",
+        "name": "高井哲也",
+        "original_name": "高井哲也",
+        "popularity": 0.1986,
+        "profile_path": null,
+        "credit_id": "5afdbc449251412849000c5d",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044763,
+        "known_for_department": "Visual Effects",
+        "name": "西田朋代",
+        "original_name": "西田朋代",
+        "popularity": 0.2572,
+        "profile_path": null,
+        "credit_id": "5afdbc560e0a267ec9000c45",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044764,
+        "known_for_department": "Visual Effects",
+        "name": "小倉安見",
+        "original_name": "小倉安見",
+        "popularity": 0.1258,
+        "profile_path": null,
+        "credit_id": "5afdbc650e0a267eba000d67",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044766,
+        "known_for_department": "Sound",
+        "name": "Shinichi Sakurai",
+        "original_name": "Shinichi Sakurai",
+        "popularity": 0.0398,
+        "profile_path": null,
+        "credit_id": "5afdbc990e0a267eb4000d21",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044767,
+        "known_for_department": "Sound",
+        "name": "Sayaka Kaneno",
+        "original_name": "Sayaka Kaneno",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5afdbcd90e0a267ec6000db3",
+        "department": "Sound",
+        "job": "Assistant Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044768,
+        "known_for_department": "Editing",
+        "name": "南綾香",
+        "original_name": "南綾香",
+        "popularity": 0.479,
+        "profile_path": null,
+        "credit_id": "5afdbd07c3a368511e001139",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044771,
+        "known_for_department": "Production",
+        "name": "Hiroo Nakajima",
+        "original_name": "Hiroo Nakajima",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "5afdbd7f92514127d5000df9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044773,
+        "known_for_department": "Production",
+        "name": "藤田雅規",
+        "original_name": "藤田雅規",
+        "popularity": 0.0903,
+        "profile_path": null,
+        "credit_id": "5afdbdcdc3a3685132001582",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044774,
+        "known_for_department": "Production",
+        "name": "高瀬透子",
+        "original_name": "高瀬透子",
+        "popularity": 0.4173,
+        "profile_path": "/vyRrNPnOSF7yD9HDWSHslyYxxN5.jpg",
+        "credit_id": "5afdbde89251412819000ab5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044776,
+        "known_for_department": "Directing",
+        "name": "山代風我",
+        "original_name": "山代風我",
+        "popularity": 0.1989,
+        "profile_path": "/XuhzbccfWYugK1YuOxyJiapjkD.jpg",
+        "credit_id": "5afdbe6c0e0a267ede000f6f",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044779,
+        "known_for_department": "Production",
+        "name": "崎田康平",
+        "original_name": "崎田康平",
+        "popularity": 0.2165,
+        "profile_path": "/pAPkWl3gY7oNrev5ECqsoEkH2QD.jpg",
+        "credit_id": "5afdbf3f92514127a3000d74",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044780,
+        "known_for_department": "Production",
+        "name": "Noriko Takami",
+        "original_name": "Noriko Takami",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "5afdbf559251412819000b79",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044781,
+        "known_for_department": "Production",
+        "name": "Takurō Hashimoto",
+        "original_name": "Takurō Hashimoto",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5afdbf6c9251412819000b88",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044782,
+        "known_for_department": "Production",
+        "name": "藤尾勉",
+        "original_name": "藤尾勉",
+        "popularity": 0.1763,
+        "profile_path": null,
+        "credit_id": "5afdbf86925141280a000e61",
+        "department": "Production",
+        "job": "Production Office Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2044784,
+        "known_for_department": "Production",
+        "name": "松崎容子",
+        "original_name": "松崎容子",
+        "popularity": 0.2295,
+        "profile_path": null,
+        "credit_id": "5afdbfb90e0a267ed5000fd5",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044785,
+        "known_for_department": "Sound",
+        "name": "Kazunori Yamamoto",
+        "original_name": "Kazunori Yamamoto",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5afdbff6c3a368512f0015ac",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044787,
+        "known_for_department": "Sound",
+        "name": "今泉武",
+        "original_name": "今泉武",
+        "popularity": 0.2411,
+        "profile_path": null,
+        "credit_id": "5afdc00fc3a368513200178b",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044788,
+        "known_for_department": "Sound",
+        "name": "Takumi Doi",
+        "original_name": "Takumi Doi",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5afdc028c3a36851170008e0",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044789,
+        "known_for_department": "Sound",
+        "name": "浅川祥幸",
+        "original_name": "浅川祥幸",
+        "popularity": 0.2402,
+        "profile_path": null,
+        "credit_id": "5afdc03f0e0a267ecf000f77",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1820199,
+        "known_for_department": "Sound",
+        "name": "中野勝博",
+        "original_name": "中野勝博",
+        "popularity": 0.2549,
+        "profile_path": null,
+        "credit_id": "5afdc0610e0a267ec9000ebc",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044790,
+        "known_for_department": "Sound",
+        "name": "長谷川卓也",
+        "original_name": "長谷川卓也",
+        "popularity": 0.4716,
+        "profile_path": null,
+        "credit_id": "5afdc0a1c3a36851350016c6",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044791,
+        "known_for_department": "Sound",
+        "name": "斉藤和義",
+        "original_name": "斉藤和義",
+        "popularity": 0.251,
+        "profile_path": "/9iyqBvYQyNryEslQYyauEPf3GpC.jpg",
+        "credit_id": "5afdc1149251412830000f3f",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78373,
+        "known_for_department": "Writing",
+        "name": "吉田玲子",
+        "original_name": "吉田玲子",
+        "popularity": 0.8979,
+        "profile_path": "/5LUxL8rdUtMdqxx8pnWp6PM0wKp.jpg",
+        "credit_id": "5afdc36b9251412819000d6b",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1491866,
+        "known_for_department": "Directing",
+        "name": "최은영",
+        "original_name": "최은영",
+        "popularity": 0.4323,
+        "profile_path": "/rsJaoDO9eL7d3Vv2jkyHJoXMjh.jpg",
+        "credit_id": "5afdc38d92514127c5000e6c",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 966,
+        "name": "beach"
+      },
+      {
+        "id": 1669,
+        "name": "wave"
+      },
+      {
+        "id": 5938,
+        "name": "mermaid"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "Melbourne International Film Festival",
+            "release_date": "2018-08-09T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "Sydney",
+            "release_date": "2019-01-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "HBO Max",
+            "release_date": "2022-05-23T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ottawa International Film Festival",
+            "release_date": "2017-09-21T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasia International Film Festival",
+            "release_date": "2017-07-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-05-11T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Shanghai International Film Festival",
+            "release_date": "2017-06-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nippon Connection Film Festival",
+            "release_date": "2018-05-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-09-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-05-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Annecy International Animation Festival",
+            "release_date": "2017-06-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-08-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Scotland Loves Anime/BFI London Film Festival",
+            "release_date": "2017-10-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-12-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-07-30T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hong Kong Asian Film Festival",
+            "release_date": "2017-11-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-03-22T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-12-06T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TIMVision",
+            "release_date": "2020-06-25T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-05-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "All",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "B",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Konnichiwa Festival",
+            "release_date": "2018-05-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "B",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2021-01-09T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-09-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "Animation Is Film Festival",
+            "release_date": "2017-10-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "Hawaii Film Festival",
+            "release_date": "2017-11-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Sundance Film Festival",
+            "release_date": "2018-01-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "New York International Children's Festival ",
+            "release_date": "2018-02-23T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Sarasota Film Festival",
+            "release_date": "2018-04-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "AnimeFest",
+            "release_date": "2017-08-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-05-11T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  }
+}

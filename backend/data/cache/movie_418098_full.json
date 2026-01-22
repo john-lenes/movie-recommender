@@ -1,0 +1,541 @@
+{
+  "adult": false,
+  "backdrop_path": "/coDIXtpA94eWpZBGs6jPjOx9j0V.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 418098,
+  "imdb_id": "tt5651338",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Jugend ohne Gott",
+  "overview": "",
+  "popularity": 7.5531,
+  "poster_path": "/b2ERfJMxyL8dj14lebYREi7GMvq.jpg",
+  "production_companies": [
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 19426,
+      "logo_path": "/m36J2sXPUPwmh69h3bjzHeUL6jx.png",
+      "name": "die film gmbh",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2017-08-31",
+  "revenue": 1192197,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jugend ohne Gott",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 130,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20619,
+        "known_for_department": "Acting",
+        "name": "Fahri Yardım",
+        "original_name": "Fahri Yardım",
+        "popularity": 0.6613,
+        "profile_path": "/wO4U2qYkayOHwStZXWc5YHnnLCA.jpg",
+        "cast_id": 1,
+        "character": "Lehrer",
+        "credit_id": "57e8f5c1c3a3682ada000f00",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54676,
+        "known_for_department": "Acting",
+        "name": "Jannis Niewöhner",
+        "original_name": "Jannis Niewöhner",
+        "popularity": 1.4001,
+        "profile_path": "/bSs74eSm9rW81ucz2Pk0yO2m2D1.jpg",
+        "cast_id": 2,
+        "character": "Zach",
+        "credit_id": "581536c2c3a3687557004705",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3840,
+        "known_for_department": "Acting",
+        "name": "Anna Maria Mühe",
+        "original_name": "Anna Maria Mühe",
+        "popularity": 0.5448,
+        "profile_path": "/2XEd8ggve53s2uzZKw4mPX5jFrO.jpg",
+        "cast_id": 3,
+        "character": "Loreen",
+        "credit_id": "581536cc9251415ab8004ce7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 572648,
+        "known_for_department": "Acting",
+        "name": "Alicia von Rittberg",
+        "original_name": "Alicia von Rittberg",
+        "popularity": 1.3456,
+        "profile_path": "/3cSEvGUxRm2O1xkIuXoebegDVoF.jpg",
+        "cast_id": 4,
+        "character": "Nadesh",
+        "credit_id": "581536d59251415cd1004e64",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70839,
+        "known_for_department": "Acting",
+        "name": "Emilia Schüle",
+        "original_name": "Emilia Schüle",
+        "popularity": 1.2036,
+        "profile_path": "/em77YMVTapnvCSq44Bs99OcDdLv.jpg",
+        "cast_id": 5,
+        "character": "Ewa",
+        "credit_id": "581536e0c3a36875f6004d57",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 585494,
+        "known_for_department": "Acting",
+        "name": "Jannik Schümann",
+        "original_name": "Jannik Schümann",
+        "popularity": 1.0194,
+        "profile_path": "/qKh7JAht5TkX6O8anAxDWEHzuh2.jpg",
+        "cast_id": 6,
+        "character": "Titus",
+        "credit_id": "581536ec9251415cd1004e71",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43451,
+        "known_for_department": "Acting",
+        "name": "Iris Berben",
+        "original_name": "Iris Berben",
+        "popularity": 1.0727,
+        "profile_path": "/qj03SCM8eARHkbxyEjBzZIAAiqv.jpg",
+        "cast_id": 7,
+        "character": "Direktorin",
+        "credit_id": "596ced14c3a3682c0f001959",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65054,
+        "known_for_department": "Acting",
+        "name": "Rainer Bock",
+        "original_name": "Rainer Bock",
+        "popularity": 1.0446,
+        "profile_path": "/wLn46JXsZDt0pVnheUEWJZ8IvHo.jpg",
+        "cast_id": 8,
+        "character": "Trainer",
+        "credit_id": "596ced1d92514108ad0019b4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146716,
+        "known_for_department": "Acting",
+        "name": "Katharina Müller-Elmau",
+        "original_name": "Katharina Müller-Elmau",
+        "popularity": 0.8036,
+        "profile_path": "/nKTkN16VXp1wHo6Z7eL61PheW02.jpg",
+        "cast_id": 9,
+        "character": "Richterin",
+        "credit_id": "59b66bb4c3a3682b0a010fc3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10744,
+        "known_for_department": "Acting",
+        "name": "Götz Otto",
+        "original_name": "Götz Otto",
+        "popularity": 0.6657,
+        "profile_path": "/gUIvsX30Uey3KXYA5VYx5XvcRqf.jpg",
+        "cast_id": 13,
+        "character": "Betreuer",
+        "credit_id": "59b66be39251417cbc0120f4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32254,
+        "known_for_department": "Acting",
+        "name": "Steffen Wink",
+        "original_name": "Steffen Wink",
+        "popularity": 0.3254,
+        "profile_path": "/gA7q481fwrHp5oAlI3D36kLODZr.jpg",
+        "cast_id": 17,
+        "character": "Kommissar",
+        "credit_id": "59b66c0ac3a3682b190115a1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1807040,
+        "known_for_department": "Acting",
+        "name": "Frank W. Rima",
+        "original_name": "Frank W. Rima",
+        "popularity": 0.2598,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Jobsuchender",
+        "credit_id": "59b66c189251417d170123c6",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1158283,
+        "known_for_department": "Acting",
+        "name": "Jörg Pose",
+        "original_name": "Jörg Pose",
+        "popularity": 0.3164,
+        "profile_path": "/nMvmo2RfS23sDqZeeLGYB1PCUKa.jpg",
+        "cast_id": 28,
+        "character": "Nadeshs Vater",
+        "credit_id": "5adcf6f29251410acd02609c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1503710,
+        "known_for_department": "Acting",
+        "name": "Chris Theisinger",
+        "original_name": "Chris Theisinger",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Polizist im Gerichtssaal",
+        "credit_id": "59b66bfcc3a3682aad0120e6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 226991,
+        "known_for_department": "Acting",
+        "name": "Karen Böhne",
+        "original_name": "Karen Böhne",
+        "popularity": 0.2336,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Titus Mutter",
+        "credit_id": "59b66bc6c3a3682b19011523",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1464091,
+        "known_for_department": "Acting",
+        "name": "Livia Matthes",
+        "original_name": "Livia Matthes",
+        "popularity": 0.3256,
+        "profile_path": "/9v41LVDJ7dN8wWlkuwyteSJ4NtZ.jpg",
+        "cast_id": 11,
+        "character": "Samira",
+        "credit_id": "59b66bcdc3a3682aee01131b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1722196,
+        "known_for_department": "Acting",
+        "name": "Hauke Petersen",
+        "original_name": "Hauke Petersen",
+        "popularity": 0.0908,
+        "profile_path": "/561reosWwGFQbmqSCfzaotgyYhB.jpg",
+        "cast_id": 14,
+        "character": "Bernard",
+        "credit_id": "59b66beec3a3682b3d012353",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1885842,
+        "known_for_department": "Acting",
+        "name": "David Meier",
+        "original_name": "David Meier",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Ronen",
+        "credit_id": "59b66bde9251417d0f011fe5",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1582547,
+        "known_for_department": "Acting",
+        "name": "Damian Thüne",
+        "original_name": "Damian Thüne",
+        "popularity": 0.1278,
+        "profile_path": "/heSseD9hcYT5U236gSdkZCqix4S.jpg",
+        "cast_id": 16,
+        "character": "Wladim",
+        "credit_id": "59b66c039251417d170123a0",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1885845,
+        "known_for_department": "Acting",
+        "name": "Genet Zegay",
+        "original_name": "Genet Zegay",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Suri",
+        "credit_id": "59b66c119251417cca0120d5",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 90220,
+        "known_for_department": "Directing",
+        "name": "Alain Gsponer",
+        "original_name": "Alain Gsponer",
+        "popularity": 0.3692,
+        "profile_path": "/p0bPXOcZyOpLVbl2eCrMsScwZT.jpg",
+        "credit_id": "57e8f59492514168e9000fa6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1831355,
+        "known_for_department": "Writing",
+        "name": "Ödön von Horváth",
+        "original_name": "Ödön von Horváth",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "credit_id": "5a7eaabfc3a36818cd006ccc",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20609,
+        "known_for_department": "Editing",
+        "name": "Tobias Haas",
+        "original_name": "Tobias Haas",
+        "popularity": 0.1438,
+        "profile_path": null,
+        "credit_id": "5a7eaaebc3a36818cd006cfd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 983164,
+        "known_for_department": "Sound",
+        "name": "Enis Rotthoff",
+        "original_name": "Enis Rotthoff",
+        "popularity": 0.1515,
+        "profile_path": null,
+        "credit_id": "5a7eab010e0a262aa9007749",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41722,
+        "known_for_department": "Production",
+        "name": "Uli Aselmann",
+        "original_name": "Uli Aselmann",
+        "popularity": 0.0795,
+        "profile_path": null,
+        "credit_id": "5a7eab17c3a368189a0075a3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66953,
+        "known_for_department": "Production",
+        "name": "Sophia Aldenhoven",
+        "original_name": "Sophia Aldenhoven",
+        "popularity": 0.0429,
+        "profile_path": "/eoBVzifTonctd2hDYWBBhMLYEGj.jpg",
+        "credit_id": "5a7eab6392514140fb006cc6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1115244,
+        "known_for_department": "Writing",
+        "name": "Alex Buresch",
+        "original_name": "Alex Buresch",
+        "popularity": 0.2094,
+        "profile_path": null,
+        "credit_id": "5b089777c3a36803c4000859",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 139529,
+        "known_for_department": "Writing",
+        "name": "Matthias Pacht",
+        "original_name": "Matthias Pacht",
+        "popularity": 0.2734,
+        "profile_path": null,
+        "credit_id": "5b089792c3a36803f10007b6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72845,
+        "known_for_department": "Camera",
+        "name": "Frank Lamm",
+        "original_name": "Frank Lamm",
+        "popularity": 0.2267,
+        "profile_path": null,
+        "credit_id": "6010f5c1d9f4a6003e393a54",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 4565,
+        "name": "dystopia"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-08-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2022-07-23T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2019-01-31T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-Ray",
+            "release_date": "2019-02-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin & Beyond Film Festival",
+            "release_date": "2018-02-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

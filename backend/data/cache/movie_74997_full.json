@@ -1,0 +1,942 @@
+{
+  "adult": false,
+  "backdrop_path": "/3avI4nJ3WNweQFHa2UwRMOO8cbL.jpg",
+  "belongs_to_collection": {
+    "id": 96671,
+    "name": "A Centopéia Humana - Coleção",
+    "poster_path": "/mv0MySTqfXg2ndthOkBg6bGwlnk.jpg",
+    "backdrop_path": "/wEux24WEOO5re5alLJZR7vMgeRN.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 74997,
+  "imdb_id": "tt1530509",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "en",
+  "original_title": "The Human Centipede 2 (Full Sequence)",
+  "overview": "Escrito e dirigido novamente por Six, a sequência foca em Martin, um homem solitário e mentalmente perturbado que mora com sua mãe e trabalha como guarda noturno em uma estacionamento-garagem no subsolo. Para escapar de sua triste existência, Martin se perde na fantasia do filme de terror cult A Centopéia Humana, fantasiando com as meticulosas habilidades cirurgicas do Dr. Heiter, cujo conhecimento do sistema gastrointestinal inspira Martin a praticar o impensável.",
+  "popularity": 6.5453,
+  "poster_path": "/o4d70dggYAho6PUNBHlrRqircHv.jpg",
+  "production_companies": [
+    {
+      "id": 5652,
+      "logo_path": null,
+      "name": "Six Entertainment",
+      "origin_country": "NL"
+    },
+    {
+      "id": 70784,
+      "logo_path": "/17G3JkSIjyFBbvSkmk0xPf6pysm.png",
+      "name": "IFC Midnight",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2011-10-06",
+  "revenue": 170323,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sequência completa",
+  "title": "A Centopéia Humana 2",
+  "video": false,
+  "vote_average": 4.771,
+  "vote_count": 1403,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 573773,
+        "known_for_department": "Acting",
+        "name": "Laurence R. Harvey",
+        "original_name": "Laurence R. Harvey",
+        "popularity": 1.0389,
+        "profile_path": "/creAwfzRydEocUpWklkXHswsT6U.jpg",
+        "cast_id": 3,
+        "character": "Martin",
+        "credit_id": "52fe48e9c3a368484e111787",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121575,
+        "known_for_department": "Acting",
+        "name": "Ashlynn Yennie",
+        "original_name": "Ashlynn Yennie",
+        "popularity": 1.2426,
+        "profile_path": "/8GIgCCdqxFfSeNEagpvKPBjSWDm.jpg",
+        "cast_id": 4,
+        "character": "Miss Yennie",
+        "credit_id": "52fe48e9c3a368484e11178b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1236882,
+        "known_for_department": "Acting",
+        "name": "Dominic Borrelli",
+        "original_name": "Dominic Borrelli",
+        "popularity": 0.4151,
+        "profile_path": "/muhvI1tA7mkPWxnmjZEUxeu5J5K.jpg",
+        "cast_id": 25,
+        "character": "Paul",
+        "credit_id": "59739f8092514158360024c3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 560872,
+        "known_for_department": "Acting",
+        "name": "Georgia Goodrick",
+        "original_name": "Georgia Goodrick",
+        "popularity": 0.0322,
+        "profile_path": "/aILJYu5W83cvbnt4i2OxmLWaTA1.jpg",
+        "cast_id": 6,
+        "character": "Valerie",
+        "credit_id": "52fe48e9c3a368484e111793",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1080026,
+        "known_for_department": "Acting",
+        "name": "Maddi Black",
+        "original_name": "Maddi Black",
+        "popularity": 0.0789,
+        "profile_path": "/7PAb4wKH5szMbw0c9oi1todDCJP.jpg",
+        "cast_id": 12,
+        "character": "Candy",
+        "credit_id": "52fe48e9c3a368484e1117b5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1080027,
+        "known_for_department": "Acting",
+        "name": "Kandace Caine",
+        "original_name": "Kandace Caine",
+        "popularity": 0.1391,
+        "profile_path": "/b9UV9FGqIn5BMfqzLsIMJhEAD5E.jpg",
+        "cast_id": 13,
+        "character": "Karrie",
+        "credit_id": "52fe48e9c3a368484e1117b9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080028,
+        "known_for_department": "Acting",
+        "name": "Lucas Hansen",
+        "original_name": "Lucas Hansen",
+        "popularity": 0.3073,
+        "profile_path": "/ifWp4oSofYXD4ZFi89MsvKajh0O.jpg",
+        "cast_id": 14,
+        "character": "Ian",
+        "credit_id": "52fe48e9c3a368484e1117bd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 578690,
+        "known_for_department": "Acting",
+        "name": "Lee Nicholas Harris",
+        "original_name": "Lee Nicholas Harris",
+        "popularity": 0.7747,
+        "profile_path": "/9crQhkCT2HJnLKW8THeteZnTeEJ.jpg",
+        "cast_id": 15,
+        "character": "Dick",
+        "credit_id": "52fe48e9c3a368484e1117c1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080029,
+        "known_for_department": "Acting",
+        "name": "Dan Burman",
+        "original_name": "Dan Burman",
+        "popularity": 0.3264,
+        "profile_path": "/oYBcCIiKs72WT2mv6ZIMLDOq1fE.jpg",
+        "cast_id": 16,
+        "character": "Greg",
+        "credit_id": "52fe48e9c3a368484e1117c5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1080030,
+        "known_for_department": "Acting",
+        "name": "Daniel Jude Gennis",
+        "original_name": "Daniel Jude Gennis",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Tim",
+        "credit_id": "52fe48e9c3a368484e1117c9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1080031,
+        "known_for_department": "Acting",
+        "name": "Emma Lock",
+        "original_name": "Emma Lock",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Kim",
+        "credit_id": "52fe48e9c3a368484e1117cd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1080032,
+        "known_for_department": "Acting",
+        "name": "Katherine Templar",
+        "original_name": "Katherine Templar",
+        "popularity": 0.0881,
+        "profile_path": "/eHRR8liodXWMkjae9wGSHTd4UaU.jpg",
+        "cast_id": 19,
+        "character": "Rachel",
+        "credit_id": "52fe48e9c3a368484e1117d1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121578,
+        "known_for_department": "Acting",
+        "name": "Peter Blankenstein",
+        "original_name": "Peter Blankenstein",
+        "popularity": 0.1459,
+        "profile_path": "/4A9KOpUlQOlj0AzqmCMHjSBGP0v.jpg",
+        "cast_id": 20,
+        "character": "Alan",
+        "credit_id": "52fe48e9c3a368484e1117d5",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1080033,
+        "known_for_department": "Acting",
+        "name": "Vivien Bridson",
+        "original_name": "Vivien Bridson",
+        "popularity": 0.2197,
+        "profile_path": "/6yNs6qUnUh70qCNH0tJbZOvd3kC.jpg",
+        "cast_id": 21,
+        "character": "Misses Lomax",
+        "credit_id": "52fe48e9c3a368484e1117d9",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1080034,
+        "known_for_department": "Acting",
+        "name": "Bill Hutchens",
+        "original_name": "Bill Hutchens",
+        "popularity": 0.2872,
+        "profile_path": "/bvTbD5NGQWUAYUci8bce4SlIQM2.jpg",
+        "cast_id": 22,
+        "character": "Dr. Sebring",
+        "credit_id": "52fe48e9c3a368484e1117dd",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1060676,
+        "known_for_department": "Production",
+        "name": "Ilona Six",
+        "original_name": "Ilona Six",
+        "popularity": 0.1532,
+        "profile_path": "/2AMiRozKsufVqofUZl9KbEjKCII.jpg",
+        "credit_id": "52fe48e9c3a368484e111799",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118639,
+        "known_for_department": "Directing",
+        "name": "Tom Six",
+        "original_name": "Tom Six",
+        "popularity": 0.7963,
+        "profile_path": "/rp9BA1HtLeiAWOzM4IbrfrfLJ0l.jpg",
+        "credit_id": "52fe48e9c3a368484e11179f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1015903,
+        "known_for_department": "Sound",
+        "name": "James Edward Barker",
+        "original_name": "James Edward Barker",
+        "popularity": 0.1705,
+        "profile_path": null,
+        "credit_id": "52fe48e9c3a368484e1117a5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 217011,
+        "known_for_department": "Camera",
+        "name": "David Meadows",
+        "original_name": "David Meadows",
+        "popularity": 0.1159,
+        "profile_path": null,
+        "credit_id": "52fe48e9c3a368484e1117ab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1080025,
+        "known_for_department": "Editing",
+        "name": "Nigel de Hond",
+        "original_name": "Nigel de Hond",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "credit_id": "52fe48e9c3a368484e1117b1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118639,
+        "known_for_department": "Directing",
+        "name": "Tom Six",
+        "original_name": "Tom Six",
+        "popularity": 0.7963,
+        "profile_path": "/rp9BA1HtLeiAWOzM4IbrfrfLJ0l.jpg",
+        "credit_id": "52fe48e9c3a368484e1117e3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118639,
+        "known_for_department": "Directing",
+        "name": "Tom Six",
+        "original_name": "Tom Six",
+        "popularity": 0.7963,
+        "profile_path": "/rp9BA1HtLeiAWOzM4IbrfrfLJ0l.jpg",
+        "credit_id": "52fe48e9c3a368484e1117e9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1144167,
+        "known_for_department": "Art",
+        "name": "Stefan Thomas",
+        "original_name": "Stefan Thomas",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "63e968e412777800895fe4f4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3918209,
+        "known_for_department": "Art",
+        "name": "Stephan Johannes",
+        "original_name": "Stephan Johannes",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "63e968f19512e1008cb7d08e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1528899,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Harriet Thompson",
+        "original_name": "Harriet Thompson",
+        "popularity": 0.1528,
+        "profile_path": null,
+        "credit_id": "63e969056c849200c7734dc2",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1755278,
+        "known_for_department": "Sound",
+        "name": "Ruben Aguirre Barba",
+        "original_name": "Ruben Aguirre Barba",
+        "popularity": 0.1911,
+        "profile_path": null,
+        "credit_id": "63e96912d388ae00806250f7",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40817,
+        "known_for_department": "Sound",
+        "name": "Adam Daniel",
+        "original_name": "Adam Daniel",
+        "popularity": 0.2557,
+        "profile_path": null,
+        "credit_id": "63e9691aa2e6020081fb7a55",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570124,
+        "known_for_department": "Sound",
+        "name": "Graham Daniel",
+        "original_name": "Graham Daniel",
+        "popularity": 0.2388,
+        "profile_path": null,
+        "credit_id": "63e969249512e1007940dd85",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304692,
+        "known_for_department": "Sound",
+        "name": "Mustafa Durma",
+        "original_name": "Mustafa Durma",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "63e969319512e100cd727821",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393302,
+        "known_for_department": "Sound",
+        "name": "Simon Gershon",
+        "original_name": "Simon Gershon",
+        "popularity": 0.2906,
+        "profile_path": null,
+        "credit_id": "63e9693d1277780079f297c8",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1338973,
+        "known_for_department": "Sound",
+        "name": "Eilam Hoffman",
+        "original_name": "Eilam Hoffman",
+        "popularity": 0.2697,
+        "profile_path": null,
+        "credit_id": "63e9694863aad200858820a4",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1338973,
+        "known_for_department": "Sound",
+        "name": "Eilam Hoffman",
+        "original_name": "Eilam Hoffman",
+        "popularity": 0.2697,
+        "profile_path": null,
+        "credit_id": "63e9694d63aad200e05da6bf",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 454855,
+        "known_for_department": "Sound",
+        "name": "Srdjan Kurpjel",
+        "original_name": "Srdjan Kurpjel",
+        "popularity": 0.2994,
+        "profile_path": null,
+        "credit_id": "63e9695b63aad200858820aa",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1392981,
+        "known_for_department": "Sound",
+        "name": "Henry Milliner",
+        "original_name": "Henry Milliner",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "63e9696912777800ab953404",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7049,
+        "known_for_department": "Sound",
+        "name": "Jon Olive",
+        "original_name": "Jon Olive",
+        "popularity": 0.2373,
+        "profile_path": null,
+        "credit_id": "63e96974d388ae00d2b31f7b",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1441671,
+        "known_for_department": "Sound",
+        "name": "Danton Tanimura",
+        "original_name": "Danton Tanimura",
+        "popularity": 0.1096,
+        "profile_path": null,
+        "credit_id": "63e9698112777800dc837d68",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1484470,
+        "known_for_department": "Sound",
+        "name": "Burak Topalakci",
+        "original_name": "Burak Topalakci",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "credit_id": "63e9698cd388ae0094c4f25d",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570128,
+        "known_for_department": "Sound",
+        "name": "Sacha Walker",
+        "original_name": "Sacha Walker",
+        "popularity": 0.1301,
+        "profile_path": null,
+        "credit_id": "63e9699c1277780081a43c6f",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1273064,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dan Martin",
+        "original_name": "Dan Martin",
+        "popularity": 0.2401,
+        "profile_path": null,
+        "credit_id": "645921d06aa8e00156472ee9",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 516,
+        "name": "child abuse"
+      },
+      {
+        "id": 1009,
+        "name": "baby"
+      },
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 332,
+        "name": "insect"
+      },
+      {
+        "id": 459,
+        "name": "sexual obsession"
+      },
+      {
+        "id": 3032,
+        "name": "suffering"
+      },
+      {
+        "id": 4426,
+        "name": "sadism"
+      },
+      {
+        "id": 1930,
+        "name": "kidnapping"
+      },
+      {
+        "id": 625,
+        "name": "sadistic"
+      },
+      {
+        "id": 2804,
+        "name": "exploitation"
+      },
+      {
+        "id": 2820,
+        "name": "wound"
+      },
+      {
+        "id": 4399,
+        "name": "victim"
+      },
+      {
+        "id": 9701,
+        "name": "controversy"
+      },
+      {
+        "id": 10292,
+        "name": "gore"
+      },
+      {
+        "id": 4728,
+        "name": "knife"
+      },
+      {
+        "id": 9758,
+        "name": "deception"
+      },
+      {
+        "id": 6562,
+        "name": "celebrity"
+      },
+      {
+        "id": 9663,
+        "name": "sequel"
+      },
+      {
+        "id": 6100,
+        "name": "tools"
+      },
+      {
+        "id": 11527,
+        "name": "rape victim"
+      },
+      {
+        "id": 11534,
+        "name": "sexual violence"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 10053,
+        "name": "sexploitation"
+      },
+      {
+        "id": 10392,
+        "name": "mute"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 13125,
+        "name": "sadist"
+      },
+      {
+        "id": 14624,
+        "name": "cruelty"
+      },
+      {
+        "id": 14690,
+        "name": "violent death"
+      },
+      {
+        "id": 14707,
+        "name": "brutality"
+      },
+      {
+        "id": 15365,
+        "name": "held captive"
+      },
+      {
+        "id": 15381,
+        "name": "captive"
+      },
+      {
+        "id": 18062,
+        "name": "obsessed fan"
+      },
+      {
+        "id": 18077,
+        "name": "extreme sadism"
+      },
+      {
+        "id": 33430,
+        "name": "centipede"
+      },
+      {
+        "id": 33433,
+        "name": "mouth"
+      },
+      {
+        "id": 33434,
+        "name": "perverse sex"
+      },
+      {
+        "id": 33435,
+        "name": "onanism"
+      },
+      {
+        "id": 33437,
+        "name": "perverted"
+      },
+      {
+        "id": 33439,
+        "name": "sexual sadism"
+      },
+      {
+        "id": 33442,
+        "name": "feces"
+      },
+      {
+        "id": 33448,
+        "name": "sandpaper"
+      },
+      {
+        "id": 33656,
+        "name": "pervert"
+      },
+      {
+        "id": 33740,
+        "name": "humiliation"
+      },
+      {
+        "id": 34079,
+        "name": "death"
+      },
+      {
+        "id": 41329,
+        "name": "mental illness"
+      },
+      {
+        "id": 41381,
+        "name": "rapist"
+      },
+      {
+        "id": 159595,
+        "name": "sexual torture"
+      },
+      {
+        "id": 167598,
+        "name": "defecation"
+      },
+      {
+        "id": 184226,
+        "name": "crowbar"
+      },
+      {
+        "id": 192346,
+        "name": "infant death"
+      },
+      {
+        "id": 193698,
+        "name": "torture porn"
+      },
+      {
+        "id": 212410,
+        "name": "hell on earth"
+      },
+      {
+        "id": 212415,
+        "name": "funnel"
+      },
+      {
+        "id": 212416,
+        "name": "diarrhea"
+      },
+      {
+        "id": 212417,
+        "name": "paraphilia"
+      },
+      {
+        "id": 212419,
+        "name": "vile"
+      },
+      {
+        "id": 212421,
+        "name": "coprophagia"
+      },
+      {
+        "id": 212422,
+        "name": "scatology"
+      },
+      {
+        "id": 212423,
+        "name": "dehumanization"
+      },
+      {
+        "id": 222314,
+        "name": "abusive mother"
+      },
+      {
+        "id": 310003,
+        "name": "banned film"
+      },
+      {
+        "id": 316011,
+        "name": "scrapbook"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-08-12T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2020-12-21T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-ray",
+            "release_date": "2016-05-09T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-10-06T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-07-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantastic Fest",
+            "release_date": "2011-09-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-10-07T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  }
+}

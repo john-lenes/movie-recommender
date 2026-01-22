@@ -1,0 +1,668 @@
+{
+  "adult": false,
+  "backdrop_path": "/wfdc6HVUiIluKxFxe7deJUvnwN0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 928015,
+  "imdb_id": "tt17042714",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dracula: The Original Living Vampire",
+  "overview": "A detetive Amelia Van Helsing está em uma busca desesperada pelo assassino responsável por uma série de assassinatos terríveis contra mulheres jovens. As coisas só pioram quando todas as evidências levam ao aparentemente intocável Conde Drácula.",
+  "popularity": 7.3833,
+  "poster_path": "/weZUBP2WvRwso1wTMNp3JK96ULS.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    },
+    {
+      "id": 152189,
+      "logo_path": null,
+      "name": "The Global Asylum, LLC.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-01-28",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Drácula – Ele Ainda Está Vivo",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 111,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11086,
+        "known_for_department": "Acting",
+        "name": "Michael Ironside",
+        "original_name": "Michael Ironside",
+        "popularity": 1.6484,
+        "profile_path": "/741UlHx284khh0haQvyorfOpVZf.jpg",
+        "cast_id": 3,
+        "character": "Dr. Jack Seward",
+        "credit_id": "61e587c57d2bc1001cae13c8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5289456,
+        "known_for_department": "Acting",
+        "name": "Jake Herbert",
+        "original_name": "Jake Herbert",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Count Dracula",
+        "credit_id": "67cb3fbc05adfb9eb95b82b4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3386521,
+        "known_for_department": "Acting",
+        "name": "Christine Prouty",
+        "original_name": "Christine Prouty",
+        "popularity": 0.0843,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Amelia Van Helsing",
+        "credit_id": "61e587e6a410c8001cd75cfe",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4447016,
+        "known_for_department": "Acting",
+        "name": "India Lillie Davies",
+        "original_name": "India Lillie Davies",
+        "popularity": 0.1982,
+        "profile_path": "/zkiLPvl9vr7c8DKWSssUP8R7uRI.jpg",
+        "cast_id": 37,
+        "character": "Mina Murray",
+        "credit_id": "67cb3ed505adfb9eb95b8244",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3386524,
+        "known_for_department": "Acting",
+        "name": "Ryan Woodcock",
+        "original_name": "Ryan Woodcock",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Jonathan Harker",
+        "credit_id": "61e58803c613ce0067e0dfe7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5289457,
+        "known_for_department": "Acting",
+        "name": "Ana Ilic",
+        "original_name": "Ana Ilic",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Lucy Westenra",
+        "credit_id": "67cb400042c7521252f57c24",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1674090,
+        "known_for_department": "Acting",
+        "name": "Stuart Packer",
+        "original_name": "Stuart Packer",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Captain Renfield",
+        "credit_id": "67cb3e93f8e1f1bc90f57d73",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107444,
+        "known_for_department": "Production",
+        "name": "Justin A. Martell",
+        "original_name": "Justin A. Martell",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Police Officer",
+        "credit_id": "67cb3ea37c70c42a034f5c27",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1097187,
+        "known_for_department": "Production",
+        "name": "Maximilian Elfeldt",
+        "original_name": "Maximilian Elfeldt",
+        "popularity": 0.3119,
+        "profile_path": null,
+        "credit_id": "61e58793162bc3001cfc5dca",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466098,
+        "known_for_department": "Writing",
+        "name": "Michael Varrati",
+        "original_name": "Michael Varrati",
+        "popularity": 0.303,
+        "profile_path": "/sojJqXMTw7JWLWGcQYeenDFpY2A.jpg",
+        "credit_id": "61e587b40cd32a001d3d4d6d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79390,
+        "known_for_department": "Production",
+        "name": "Paul Bales",
+        "original_name": "Paul Bales",
+        "popularity": 0.3363,
+        "profile_path": "/3Y28BvJ7JwjqEd8Px0mUogDlN2Z.jpg",
+        "credit_id": "61e5898d07a8080041b86e5a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2773994,
+        "known_for_department": "Crew",
+        "name": "Seager Dixon",
+        "original_name": "Seager Dixon",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "61e589987d2bc1009fd0355e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3386526,
+        "known_for_department": "Production",
+        "name": "Adi Dizdarevic",
+        "original_name": "Adi Dizdarevic",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "61e589a6f5c824008c423300",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659007,
+        "known_for_department": "Directing",
+        "name": "Miloš Đukelić",
+        "original_name": "Miloš Đukelić",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "61e589d84f58010019f2e33f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1054748,
+        "known_for_department": "Production",
+        "name": "Vladimir Đukelić",
+        "original_name": "Vladimir Đukelić",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "credit_id": "61e589ea904f6d001cf990dc",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30053,
+        "known_for_department": "Production",
+        "name": "David Michael Latt",
+        "original_name": "David Michael Latt",
+        "popularity": 0.4354,
+        "profile_path": "/cBkmGgFkGFFyyE6aWDYovvaHL0g.jpg",
+        "credit_id": "61e589f6162bc3006784044f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1769052,
+        "known_for_department": "Production",
+        "name": "Matt Manjourides",
+        "original_name": "Matt Manjourides",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "credit_id": "61e58a04b7abb500a243d404",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107444,
+        "known_for_department": "Production",
+        "name": "Justin A. Martell",
+        "original_name": "Justin A. Martell",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "credit_id": "61e58a156840cc008991765e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1402658,
+        "known_for_department": "Production",
+        "name": "Ivana Panić",
+        "original_name": "Ivana Panić",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "61e58a2507a808009572e721",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236844,
+        "known_for_department": "Production",
+        "name": "David Rimawi",
+        "original_name": "David Rimawi",
+        "popularity": 0.2806,
+        "profile_path": "/uGrN7upcJHt4qEx6H89qKWS1dmI.jpg",
+        "credit_id": "61e58a35c613ce0067e0e6e9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1591835,
+        "known_for_department": "Crew",
+        "name": "Predrag Jočić",
+        "original_name": "Predrag Jočić",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "61e58a494f5801009ba87662",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2453716,
+        "known_for_department": "Editing",
+        "name": "Cameron Ames",
+        "original_name": "Cameron Ames",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "credit_id": "61e58a5507a8080041b871f2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3386528,
+        "known_for_department": "Production",
+        "name": "Mia Mijuskovic",
+        "original_name": "Mia Mijuskovic",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "61e58a6807a8080067811d25",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2773994,
+        "known_for_department": "Crew",
+        "name": "Seager Dixon",
+        "original_name": "Seager Dixon",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "61e58a7cf5c824008c4234eb",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3386531,
+        "known_for_department": "Directing",
+        "name": "Janko Djuric",
+        "original_name": "Janko Djuric",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "61e58a8cc613ce00422499a2",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424615,
+        "known_for_department": "Sound",
+        "name": "Melanie Graham",
+        "original_name": "Melanie Graham",
+        "popularity": 0.1894,
+        "profile_path": null,
+        "credit_id": "61e58abb162bc30067840635",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831424,
+        "known_for_department": "Sound",
+        "name": "Martin Richard Chappell",
+        "original_name": "Martin Richard Chappell",
+        "popularity": 0.087,
+        "profile_path": null,
+        "credit_id": "61e58ad1904f6d0066e17c9c",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568324,
+        "known_for_department": "Visual Effects",
+        "name": "Glenn Campbell",
+        "original_name": "Glenn Campbell",
+        "popularity": 0.4417,
+        "profile_path": null,
+        "credit_id": "61e58ae16840cc0067e8ed9f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1733123,
+        "known_for_department": "Production",
+        "name": "Avery Guerra",
+        "original_name": "Avery Guerra",
+        "popularity": 0.1621,
+        "profile_path": null,
+        "credit_id": "61e58aef904f6d008eaa6344",
+        "department": "Production",
+        "job": "Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1107444,
+        "known_for_department": "Production",
+        "name": "Justin A. Martell",
+        "original_name": "Justin A. Martell",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "credit_id": "666d1225dbbd080376ce4704",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1317077,
+        "known_for_department": "Crew",
+        "name": "Miroslav Lakobrija",
+        "original_name": "Miroslav Lakobrija",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "66ae989a5638bcbff1c069a9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1263180,
+        "known_for_department": "Directing",
+        "name": "Ivana Mladenović",
+        "original_name": "Ivana Mladenović",
+        "popularity": 0.1562,
+        "profile_path": "/pvRxflYIuGzP8TbdX51tOEYk8iL.jpg",
+        "credit_id": "66ae98af444e396e0ea7d455",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4222406,
+        "known_for_department": "Art",
+        "name": "Ivan Ćirović",
+        "original_name": "Ivan Ćirović",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "66ae98c17d605545285b5075",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562416,
+        "known_for_department": "Sound",
+        "name": "Mikel Shane Prather",
+        "original_name": "Mikel Shane Prather",
+        "popularity": 0.2203,
+        "profile_path": "/5ANTzQ93uFERMaJLy8qZZ8Nt3pq.jpg",
+        "credit_id": "66ae9a4482e80e7294650dc7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320530,
+        "known_for_department": "Sound",
+        "name": "Chris Cano",
+        "original_name": "Chris Cano",
+        "popularity": 0.2756,
+        "profile_path": "/oWu0xs04A7qdwZqD9EiCoianbuR.jpg",
+        "credit_id": "66ae9a4959c0487eda5b1577",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128763,
+        "known_for_department": "Sound",
+        "name": "Chris Ridenhour",
+        "original_name": "Chris Ridenhour",
+        "popularity": 0.2177,
+        "profile_path": "/7tDpp0CuTMr6EV03oCDZvJW4s9b.jpg",
+        "credit_id": "66ae9a4de76b241fed6aae0d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1544,
+        "known_for_department": "Writing",
+        "name": "Bram Stoker",
+        "original_name": "Bram Stoker",
+        "popularity": 0.8374,
+        "profile_path": "/mZvr434cmfg5YwusIxnLqasBFe.jpg",
+        "credit_id": "67cb3e6e05adfb9eb95b81f5",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5289460,
+        "known_for_department": "Art",
+        "name": "Dunja Ristic",
+        "original_name": "Dunja Ristic",
+        "popularity": 0.0193,
+        "profile_path": null,
+        "credit_id": "67cb40a2e9461adf414f5bd7",
+        "department": "Art",
+        "job": "Set Dresser"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3133,
+        "name": "vampire"
+      },
+      {
+        "id": 208879,
+        "name": "mockbuster"
+      },
+      {
+        "id": 261274,
+        "name": "dracula"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "18A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-01-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-08T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-04-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2022-01-28T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2022-02-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

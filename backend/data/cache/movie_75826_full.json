@@ -1,0 +1,829 @@
+{
+  "adult": false,
+  "backdrop_path": "/vAZE0T5VtkheBAR1iK89ylJFXoj.jpg",
+  "belongs_to_collection": {
+    "id": 199629,
+    "name": "Hércules: A Lendária Jornada: Coleção",
+    "poster_path": "/25nqp4wvAdMjr8zg16wMEpL1FPP.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    }
+  ],
+  "homepage": "",
+  "id": 75826,
+  "imdb_id": "tt0110017",
+  "origin_country": [
+    "NZ",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hercules and the Lost Kingdom",
+  "overview": "Hercules and the Lost Kingdom é o segundo filme televisivo relacionado a série de fantasia Hercules: The Legendary Journeys.",
+  "popularity": 3.7059,
+  "poster_path": "/1ZeDv8ffdIqLxTV1glIKCTC1xLX.jpg",
+  "production_companies": [
+    {
+      "id": 467,
+      "logo_path": null,
+      "name": "Renaissance Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7893,
+      "logo_path": null,
+      "name": "Pacific Renaissance Pictures",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-05-02",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hércules e o Reino Perdido",
+  "video": false,
+  "vote_average": 6.008,
+  "vote_count": 131,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51965,
+        "known_for_department": "Acting",
+        "name": "Kevin Sorbo",
+        "original_name": "Kevin Sorbo",
+        "popularity": 1.6277,
+        "profile_path": "/a6rDi3tkNJwaVoP7VGbdGelwtYw.jpg",
+        "cast_id": 2,
+        "character": "Hercules",
+        "credit_id": "52fe4916c3a368484e119a33",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5401,
+        "known_for_department": "Acting",
+        "name": "Anthony Quinn",
+        "original_name": "Anthony Quinn",
+        "popularity": 1.3006,
+        "profile_path": "/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg",
+        "cast_id": 3,
+        "character": "Zeus",
+        "credit_id": "52fe4916c3a368484e119a37",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77624,
+        "known_for_department": "Acting",
+        "name": "Renée O'Connor",
+        "original_name": "Renée O'Connor",
+        "popularity": 1.2789,
+        "profile_path": "/yO888Hl7ZjUpPzrJp5U47DAOziu.jpg",
+        "cast_id": 4,
+        "character": "Deianeira",
+        "credit_id": "52fe4916c3a368484e119a3b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114271,
+        "known_for_department": "Acting",
+        "name": "Robert Trebor",
+        "original_name": "Robert Trebor",
+        "popularity": 0.3755,
+        "profile_path": "/2oUhMyFu5HcYFR4Paq7ifqfId3z.jpg",
+        "cast_id": 5,
+        "character": "Waylin",
+        "credit_id": "587bcdbbc3a3684a65012ad3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119520,
+        "known_for_department": "Acting",
+        "name": "Eric Close",
+        "original_name": "Eric Close",
+        "popularity": 0.8852,
+        "profile_path": "/njJYXuTlmCgI3VVHBFqkqrhiey3.jpg",
+        "cast_id": 6,
+        "character": "Telamon",
+        "credit_id": "587bcdcb9251413f46011a17",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5533,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Hawthorne",
+        "original_name": "Elizabeth Hawthorne",
+        "popularity": 0.6522,
+        "profile_path": "/mEL8pNamxnhIGvLwEro0H1vTmkm.jpg",
+        "cast_id": 10,
+        "character": "Queen Omphale",
+        "credit_id": "62030e3d46f3540069f5f6f2",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41784,
+        "known_for_department": "Acting",
+        "name": "Nathaniel Lees",
+        "original_name": "Nathaniel Lees",
+        "popularity": 0.6748,
+        "profile_path": "/l35ATgC4SbzyKGeAZBAQSyYs18P.jpg",
+        "cast_id": 11,
+        "character": "Blue Priest",
+        "credit_id": "62030e54b09bde004339006f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2274309,
+        "known_for_department": "Acting",
+        "name": "Darren Warren",
+        "original_name": "Darren Warren",
+        "popularity": 0.0363,
+        "profile_path": "/9RhPXoNJ2dol3xYwbPgKm7dsKcd.jpg",
+        "cast_id": 9,
+        "character": "Strongman Brother",
+        "credit_id": "5e9635617d2bc100119430f9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1236965,
+        "known_for_department": "Acting",
+        "name": "Maggie Tarver",
+        "original_name": "Maggie Tarver",
+        "popularity": 0.1534,
+        "profile_path": "/xKGQ6gVV7MaTgXkZKFW5p69uImX.jpg",
+        "cast_id": 12,
+        "character": "Motherly Fighter",
+        "credit_id": "62030f32ba131b009fb12595",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 186477,
+        "known_for_department": "Acting",
+        "name": "Jay Saussey",
+        "original_name": "Jay Saussey",
+        "popularity": 0.2237,
+        "profile_path": "/tlSagUderZ65ZpEXZ6slIQ1t9VW.jpg",
+        "cast_id": 42,
+        "character": "Village Girl",
+        "credit_id": "693f816f135fc233e5aed144",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3495,
+        "known_for_department": "Acting",
+        "name": "John Sumner",
+        "original_name": "John Sumner",
+        "popularity": 0.2882,
+        "profile_path": "/rsyOO8YniQa0vQKklUYWYVOUyoO.jpg",
+        "cast_id": 43,
+        "character": "Inn Owner",
+        "credit_id": "693f81823ecd860338f78a3e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2543982,
+        "known_for_department": "Acting",
+        "name": "Lee-Jane Foreman",
+        "original_name": "Lee-Jane Foreman",
+        "popularity": 0.0533,
+        "profile_path": "/6wEWWNB8Fs2hcA0n5DRRkkqAbn3.jpg",
+        "cast_id": 44,
+        "character": "Villager #2",
+        "credit_id": "693f8193a58eecc28799f06c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553038,
+        "known_for_department": "Acting",
+        "name": "Onno Boelee",
+        "original_name": "Onno Boelee",
+        "popularity": 0.1474,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Gargan the Giant",
+        "credit_id": "693f81a2dd45c51e6199f2ed",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 173569,
+        "known_for_department": "Acting",
+        "name": "Chic Littlewood",
+        "original_name": "Chic Littlewood",
+        "popularity": 0.1952,
+        "profile_path": "/tkOFEThkyqkEKaOlBwRcL6O7q7f.jpg",
+        "cast_id": 46,
+        "character": "Gambling Villager",
+        "credit_id": "693f81b67678875962f78aae",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4360929,
+        "known_for_department": "Acting",
+        "name": "Alex Beasley",
+        "original_name": "Alex Beasley",
+        "popularity": 0.0411,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Marathon Messenger #1",
+        "credit_id": "693f81c5724e719e7278118f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10761,
+        "known_for_department": "Acting",
+        "name": "Te Whatanui Skipwith",
+        "original_name": "Te Whatanui Skipwith",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Chief Elder",
+        "credit_id": "693f81db9a1110571d781398",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15095,
+        "known_for_department": "Acting",
+        "name": "Gilbert Goldie",
+        "original_name": "Gilbert Goldie",
+        "popularity": 0.2139,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Nevus",
+        "credit_id": "693f81ec3e2f2446b97812ab",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237626,
+        "known_for_department": "Acting",
+        "name": "Patrick Wilson",
+        "original_name": "Patrick Wilson",
+        "popularity": 0.2041,
+        "profile_path": "/omn7O08453rSuvN3JCKWmp1FESK.jpg",
+        "cast_id": 50,
+        "character": "Chief Monk",
+        "credit_id": "693f8203c67af14a2d9998da",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1235539,
+        "known_for_department": "Acting",
+        "name": "Peter Rowley",
+        "original_name": "Peter Rowley",
+        "popularity": 0.3046,
+        "profile_path": "/asVFuTsigtObUMVAPZk56b1mfC.jpg",
+        "cast_id": 51,
+        "character": "Auctioneer's Sidekick",
+        "credit_id": "693f821ef0444edb805e0332",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23858,
+        "known_for_department": "Directing",
+        "name": "Harley Cokeliss",
+        "original_name": "Harley Cokeliss",
+        "popularity": 0.2913,
+        "profile_path": "/jUGTXXjzQKzyfP98RtJdsGqM0Fh.jpg",
+        "credit_id": "52fe4916c3a368484e119a2f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2270235,
+        "known_for_department": "Production",
+        "name": "Eric Gruendemann",
+        "original_name": "Eric Gruendemann",
+        "popularity": 0.2456,
+        "profile_path": "/84a3cIZ6wi5PQKZlEYB0gaTebLK.jpg",
+        "credit_id": "62030f5e46f35401088f2257",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7623,
+        "known_for_department": "Directing",
+        "name": "Sam Raimi",
+        "original_name": "Sam Raimi",
+        "popularity": 2.7004,
+        "profile_path": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg",
+        "credit_id": "62030f6d5b1240001b7cef17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 29080,
+        "known_for_department": "Camera",
+        "name": "James Bartle",
+        "original_name": "James Bartle",
+        "popularity": 0.1096,
+        "profile_path": null,
+        "credit_id": "62030f813009aa004269bcbd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65665,
+        "known_for_department": "Editing",
+        "name": "Jon Koslowsky",
+        "original_name": "Jon Koslowsky",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "62030fa1ea37e0006b416f77",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222834,
+        "known_for_department": "Writing",
+        "name": "Christian Williams",
+        "original_name": "Christian Williams",
+        "popularity": 0.1719,
+        "profile_path": null,
+        "credit_id": "587bcdee9251413e92011fff",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11468,
+        "known_for_department": "Sound",
+        "name": "Joseph LoDuca",
+        "original_name": "Joseph LoDuca",
+        "popularity": 0.3928,
+        "profile_path": "/wtSopiCJFjs30sITI6fuvjEsKnL.jpg",
+        "credit_id": "67f705a81bc639566ad94854",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1650913,
+        "known_for_department": "Production",
+        "name": "David Pollison",
+        "original_name": "David Pollison",
+        "popularity": 0.1573,
+        "profile_path": null,
+        "credit_id": "6828d77546b87340b12f6c6c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11359,
+        "known_for_department": "Production",
+        "name": "Robert Tapert",
+        "original_name": "Robert Tapert",
+        "popularity": 0.7968,
+        "profile_path": "/tAtStnFgeJaTm9QmhajADZGiQi9.jpg",
+        "credit_id": "693f7a931339bca35a226f82",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222834,
+        "known_for_department": "Writing",
+        "name": "Christian Williams",
+        "original_name": "Christian Williams",
+        "popularity": 0.1719,
+        "profile_path": null,
+        "credit_id": "693f7aa48c698601d461a59d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31465,
+        "known_for_department": "Art",
+        "name": "Mick Strawn",
+        "original_name": "Mick Strawn",
+        "popularity": 0.1461,
+        "profile_path": null,
+        "credit_id": "693f7acf9095057eb299999f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5877940,
+        "known_for_department": "Art",
+        "name": "Kim Jarrett",
+        "original_name": "Kim Jarrett",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "693f7af08ac8cc0aea226e7f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1314,
+        "known_for_department": "Art",
+        "name": "Grant Major",
+        "original_name": "Grant Major",
+        "popularity": 0.3408,
+        "profile_path": "/zh1323jaYUifVyIhOAm6ljM9l0K.jpg",
+        "credit_id": "693f7afbc6e89d4bc95e02fc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 95306,
+        "known_for_department": "Art",
+        "name": "Shayne Radford",
+        "original_name": "Shayne Radford",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "693f7b09673d0a74f0781388",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54491,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Darragh",
+        "original_name": "Barbara Darragh",
+        "popularity": 0.0756,
+        "profile_path": null,
+        "credit_id": "693f7b71f0444edb805e0323",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 930663,
+        "known_for_department": "Sound",
+        "name": "Tim Boggs",
+        "original_name": "Tim Boggs",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "credit_id": "693f7b86eb8f62e34322706f",
+        "department": "Sound",
+        "job": "ADR Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914525,
+        "known_for_department": "Sound",
+        "name": "Alexander Paton",
+        "original_name": "Alexander Paton",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "693f7ee202c0fde2815e02ae",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132608,
+        "known_for_department": "Sound",
+        "name": "Tony Johnson",
+        "original_name": "Tony Johnson",
+        "popularity": 0.1848,
+        "profile_path": null,
+        "credit_id": "693f7ef2f25acef7ad61a5fa",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 9418,
+        "known_for_department": "Sound",
+        "name": "David Melhase",
+        "original_name": "David Melhase",
+        "popularity": 0.2199,
+        "profile_path": null,
+        "credit_id": "693f7efe07f3f2684c2270d5",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364412,
+        "known_for_department": "Sound",
+        "name": "Piero Mura",
+        "original_name": "Piero Mura",
+        "popularity": 0.2999,
+        "profile_path": null,
+        "credit_id": "693f7f0a38b481c9f683ebf7",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1781527,
+        "known_for_department": "Sound",
+        "name": "Paige Pollack",
+        "original_name": "Paige Pollack",
+        "popularity": 0.2267,
+        "profile_path": null,
+        "credit_id": "693f7f16baee2119d283ecf7",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2700404,
+        "known_for_department": "Sound",
+        "name": "Beth Wiehe",
+        "original_name": "Beth Wiehe",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "693f7f25ea2c1289dc99f08a",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708025,
+        "known_for_department": "Sound",
+        "name": "Robert Friedman",
+        "original_name": "Robert Friedman",
+        "popularity": 0.2288,
+        "profile_path": null,
+        "credit_id": "693f7f3bd3a66f6af25e03f7",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1392126,
+        "known_for_department": "Sound",
+        "name": "Ginger Geary",
+        "original_name": "Ginger Geary",
+        "popularity": 0.2138,
+        "profile_path": null,
+        "credit_id": "693f7f4e701ecb0058f78b42",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1190769,
+        "known_for_department": "Sound",
+        "name": "Danielle Ghent",
+        "original_name": "Danielle Ghent",
+        "popularity": 0.0876,
+        "profile_path": null,
+        "credit_id": "693f7f58ea2c1289dc99f08d",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1392085,
+        "known_for_department": "Sound",
+        "name": "Daniel S. Irwin",
+        "original_name": "Daniel S. Irwin",
+        "popularity": 0.3592,
+        "profile_path": null,
+        "credit_id": "693f7f65efa9a3fee499f259",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132639,
+        "known_for_department": "Crew",
+        "name": "Allan Poppleton",
+        "original_name": "Allan Poppleton",
+        "popularity": 0.3344,
+        "profile_path": "/AbcWe1Fe7hUWINyUjur7FkqiQ1f.jpg",
+        "credit_id": "693f7f76dc5ccab27b781158",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1440657,
+        "known_for_department": "Crew",
+        "name": "Paul Shapcott",
+        "original_name": "Paul Shapcott",
+        "popularity": 0.0914,
+        "profile_path": "/1SsjHWuMPisZePOxjopXwyXiAAO.jpg",
+        "credit_id": "693f7f82e98b45065099f1d0",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3236172,
+        "known_for_department": "Crew",
+        "name": "Shane Blakey",
+        "original_name": "Shane Blakey",
+        "popularity": 0.1305,
+        "profile_path": null,
+        "credit_id": "693f7f8da58eecc28799f067",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1434944,
+        "known_for_department": "Crew",
+        "name": "Shane Dawson",
+        "original_name": "Shane Dawson",
+        "popularity": 0.1762,
+        "profile_path": "/stoGx840BzsnOxth4V4Fv3Ur0Tk.jpg",
+        "credit_id": "693f7f9d3e2f2446b978129d",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11758,
+        "known_for_department": "Production",
+        "name": "Ira Belgrade",
+        "original_name": "Ira Belgrade",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "693f7fd01321f4e418aed099",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1701,
+        "name": "hero"
+      },
+      {
+        "id": 3754,
+        "name": "legend"
+      },
+      {
+        "id": 2035,
+        "name": "mythology"
+      },
+      {
+        "id": 2036,
+        "name": "greek mythology"
+      },
+      {
+        "id": 9649,
+        "name": "god"
+      },
+      {
+        "id": 187301,
+        "name": "hercules"
+      },
+      {
+        "id": 192913,
+        "name": "warrior"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "sk",
+            "note": "Markíza ",
+            "release_date": "1997-04-25T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-05-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

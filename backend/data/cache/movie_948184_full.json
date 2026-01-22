@@ -1,0 +1,886 @@
+{
+  "adult": false,
+  "backdrop_path": "/1beVQxKqtRkEwl3gY9TVXwnCrdp.jpg",
+  "belongs_to_collection": null,
+  "budget": 400000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 948184,
+  "imdb_id": "tt28419037",
+  "origin_country": [
+    "US",
+    "FR",
+    "SG",
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "默視錄",
+  "overview": "",
+  "popularity": 24.7384,
+  "poster_path": "/6ohJCscMK2GWyR03eg1pccqrxBp.jpg",
+  "production_companies": [
+    {
+      "id": 76586,
+      "logo_path": "/8IToSMttTBtO40fWsxSd1HES4cS.png",
+      "name": "Akanga Film Asia",
+      "origin_country": "SG"
+    },
+    {
+      "id": 34378,
+      "logo_path": "/lNOr2K6lGnvWFXLJfzpSGRgnPix.png",
+      "name": "Films de Force Majeure",
+      "origin_country": "FR"
+    },
+    {
+      "id": 171358,
+      "logo_path": "/oFLu7PXosTKX1W5JLRSGMr7mcUv.png",
+      "name": "Volos Films",
+      "origin_country": "TW"
+    },
+    {
+      "id": 204575,
+      "logo_path": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
+      "name": "Cinema Inutile",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-11-14",
+  "revenue": 0,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "默視錄",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1877470,
+        "known_for_department": "Acting",
+        "name": "Chien-Ho Wu",
+        "original_name": "巫建和",
+        "popularity": 0.4585,
+        "profile_path": "/3odOdDfWtfK3wRpFChMP7YJ0SA7.jpg",
+        "cast_id": 9,
+        "character": "Junyang",
+        "credit_id": "64df86375ab81a00ad20a97b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71171,
+        "known_for_department": "Acting",
+        "name": "李康生",
+        "original_name": "李康生",
+        "popularity": 0.5137,
+        "profile_path": "/rdyfLsAHK0h1ijwdJbXtDJ0iGOd.jpg",
+        "cast_id": 8,
+        "character": "Lao Wu",
+        "credit_id": "64d26e664d6791011c1935ea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2784939,
+        "known_for_department": "Acting",
+        "name": "Anicca Panna",
+        "original_name": "Anicca Panna",
+        "popularity": 0.2335,
+        "profile_path": "/kTtn7c8snEABUaO80gxIjRmkZ2X.jpg",
+        "cast_id": 10,
+        "character": "Chen Peiying",
+        "credit_id": "64df864b5ab81a00ffc1cdb2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2359929,
+        "known_for_department": "Acting",
+        "name": "Vera Chen",
+        "original_name": "Vera Chen",
+        "popularity": 0.3846,
+        "profile_path": "/oPX3EwNONcSsUHoOaEeieyaNS2n.jpg",
+        "cast_id": 12,
+        "character": "Shuping",
+        "credit_id": "64df8665aaec7103fa481125",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 856126,
+        "known_for_department": "Acting",
+        "name": "Pete Teo",
+        "original_name": "Pete Teo",
+        "popularity": 0.3132,
+        "profile_path": "/7bJutZz5qd2rYBHHC2gyMQWNQbu.jpg",
+        "cast_id": 13,
+        "character": "Officer Zheng",
+        "credit_id": "64df866d37109701394853f6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3157251,
+        "known_for_department": "Acting",
+        "name": "Xenia Tan",
+        "original_name": "Xenia Tan",
+        "popularity": 0.2627,
+        "profile_path": "/o8Kkq3ASMyePx54aid477tfWh3C.jpg",
+        "cast_id": 11,
+        "character": "Ling Po",
+        "credit_id": "64df8658aaec7103fbeacac5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4845696,
+        "known_for_department": "Acting",
+        "name": "Maryanne Ng-Yew",
+        "original_name": "Maryanne Ng-Yew",
+        "popularity": 0.1183,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Mother Wu",
+        "credit_id": "669fe6336c6911f9b928a9b1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3203209,
+        "known_for_department": "Acting",
+        "name": "Mila Troncoso",
+        "original_name": "Mila Troncoso",
+        "popularity": 0.1753,
+        "profile_path": "/qNW3vxmForISwdF1dkLibcLK12m.jpg",
+        "cast_id": 19,
+        "character": "Ana",
+        "credit_id": "66c772a2f9187ef686b2e71c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5667753,
+        "known_for_department": "Acting",
+        "name": "Anya Chow",
+        "original_name": "Anya Chow",
+        "popularity": 0.1265,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Little Bo",
+        "credit_id": "68b7ded9f896fc684b4e4685",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427486,
+        "known_for_department": "Acting",
+        "name": "Ottylia Liu",
+        "original_name": "Ottylia Liu",
+        "popularity": 0.0542,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Posh Mom",
+        "credit_id": "68b7df10e823ec1c8c9bed32",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5667755,
+        "known_for_department": "Acting",
+        "name": "Arielle Toh",
+        "original_name": "Arielle Toh",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Posh Baby",
+        "credit_id": "68b7df29840ac1eeea9bac35",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2842321,
+        "known_for_department": "Camera",
+        "name": "Russell Adam Morton",
+        "original_name": "Russell Adam Morton",
+        "popularity": 0.0596,
+        "profile_path": "/bWycZXKrKnTk69BqWUEObkJg2C5.jpg",
+        "cast_id": 39,
+        "character": "Toddler Daddy",
+        "credit_id": "68b7df92e823ec1c8c9bed35",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5667764,
+        "known_for_department": "Acting",
+        "name": "Audi Khalid",
+        "original_name": "Audi Khalid",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Boyfriend",
+        "credit_id": "68b7e0240459e37f171baf8a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2104462,
+        "known_for_department": "Acting",
+        "name": "Liu Xiaoyi",
+        "original_name": "Liu Xiaoyi",
+        "popularity": 0.1729,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Job Seeker",
+        "credit_id": "68b7e22e8840e7976498a5ea",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5667782,
+        "known_for_department": "Acting",
+        "name": "Isabelle Lim",
+        "original_name": "Isabelle Lim",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "The Dancer",
+        "credit_id": "68b7e248b2545dab0a1baed0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5667794,
+        "known_for_department": "Acting",
+        "name": "Amer Mok",
+        "original_name": "Amer Mok",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Supermarket Nora",
+        "credit_id": "68b7e3b9f896fc684b4e46a8",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4288991,
+        "known_for_department": "Directing",
+        "name": "Felix Galistan",
+        "original_name": "Felix Galistan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Supermarket Jing",
+        "credit_id": "68b7e4311295813a1a06860e",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090986,
+        "known_for_department": "Directing",
+        "name": "Yeo Siew Hua",
+        "original_name": "Yeo Siew Hua",
+        "popularity": 0.2783,
+        "profile_path": "/h5VaCYaQtqjXGGDFqQLWoa6y6PZ.jpg",
+        "credit_id": "622adfc4498ef9006d16a3a1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090986,
+        "known_for_department": "Directing",
+        "name": "Yeo Siew Hua",
+        "original_name": "Yeo Siew Hua",
+        "popularity": 0.2783,
+        "profile_path": "/h5VaCYaQtqjXGGDFqQLWoa6y6PZ.jpg",
+        "credit_id": "622adfd2d6819b0045b13af7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1545683,
+        "known_for_department": "Production",
+        "name": "Fran Borgia",
+        "original_name": "Fran Borgia",
+        "popularity": 0.1778,
+        "profile_path": null,
+        "credit_id": "622ae498069f0e001da45590",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2430690,
+        "known_for_department": "Production",
+        "name": "Dan Koh",
+        "original_name": "Dan Koh",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "622ae4b1d6c300001b20ed34",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2252441,
+        "known_for_department": "Directing",
+        "name": "Stefano Centini",
+        "original_name": "Stefano Centini",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "622aea6812c604004617ca9b",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129140,
+        "known_for_department": "Camera",
+        "name": "浦田秀穂",
+        "original_name": "浦田秀穂",
+        "popularity": 0.1375,
+        "profile_path": null,
+        "credit_id": "64df86d1d100b614b0a5a5ab",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1452247,
+        "known_for_department": "Art",
+        "name": "James Page",
+        "original_name": "James Page",
+        "popularity": 0.1118,
+        "profile_path": null,
+        "credit_id": "64df86e0d100b614b2f00b22",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1618050,
+        "known_for_department": "Editing",
+        "name": "Jean-Christophe Bouzy",
+        "original_name": "Jean-Christophe Bouzy",
+        "popularity": 0.2069,
+        "profile_path": null,
+        "credit_id": "64df86eaaaec7103fcfda2a4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1705680,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Meredith Lee",
+        "original_name": "Meredith Lee",
+        "popularity": 0.2246,
+        "profile_path": null,
+        "credit_id": "66c777efc4f1e82a36d1a174",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316884,
+        "known_for_department": "Sound",
+        "name": "杜篤之",
+        "original_name": "杜篤之",
+        "popularity": 0.5046,
+        "profile_path": "/jaoW15Nl1y3ViiRQjafYAVQspRE.jpg",
+        "credit_id": "66c77802029a465e21c3b5e1",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2521141,
+        "known_for_department": "Sound",
+        "name": "Tse Kang Tu",
+        "original_name": "Tse Kang Tu",
+        "popularity": 0.1425,
+        "profile_path": null,
+        "credit_id": "66c7780d14ada4ca41ea7c5f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2169384,
+        "known_for_department": "Sound",
+        "name": "Thomas Foguenne",
+        "original_name": "Thomas Foguenne",
+        "popularity": 0.1101,
+        "profile_path": "/a7m5tkDVormfSIE9KsRSaT0eqJZ.jpg",
+        "credit_id": "66c7781c53e25821f0f29d99",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2064704,
+        "known_for_department": "Directing",
+        "name": "Tan Ai Leng",
+        "original_name": "Tan Ai Leng",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "credit_id": "66c7783380084ce9a9874adf",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1297570,
+        "known_for_department": "Production",
+        "name": "Chick Mavis Kuang",
+        "original_name": "Chick Mavis Kuang",
+        "popularity": 0.0286,
+        "profile_path": "/qa4OgpZPZxy3wk7zYM4RwOidLBX.jpg",
+        "credit_id": "66c778424da56b3091ca8c50",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2293064,
+        "known_for_department": "Production",
+        "name": "Nicolas Brigaud-Robert",
+        "original_name": "Nicolas Brigaud-Robert",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "66c7784f1d4551126a58546d",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1721392,
+        "known_for_department": "Production",
+        "name": "Denis Vaslin",
+        "original_name": "Denis Vaslin",
+        "popularity": 0.0674,
+        "profile_path": null,
+        "credit_id": "66c7785b52e43ac5f8ea7c2e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 987282,
+        "known_for_department": "Directing",
+        "name": "Glen Goei",
+        "original_name": "Glen Goei",
+        "popularity": 0.2057,
+        "profile_path": null,
+        "credit_id": "66c77863825e4e3e6beabb4e",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1102467,
+        "known_for_department": "Directing",
+        "name": "Bee Thiam Tan",
+        "original_name": "Bee Thiam Tan",
+        "popularity": 0.1225,
+        "profile_path": "/1iOb6rfowTZ4JSdXHJv0jW46ii8.jpg",
+        "credit_id": "66c7786ccee2511d11158d78",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535773,
+        "known_for_department": "Production",
+        "name": "Jérôme Nunes",
+        "original_name": "Jérôme Nunes",
+        "popularity": 0.0286,
+        "profile_path": "/nQujHJCvvNLDoxKHU4Cj2MFOraz.jpg",
+        "credit_id": "66c7787d09ce3fc50b918fc8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1545683,
+        "known_for_department": "Production",
+        "name": "Fran Borgia",
+        "original_name": "Fran Borgia",
+        "popularity": 0.1778,
+        "profile_path": null,
+        "credit_id": "66c7788705c05a32b7eabb07",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2252441,
+        "known_for_department": "Directing",
+        "name": "Stefano Centini",
+        "original_name": "Stefano Centini",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "66c77899cf147c1aed585467",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1535768,
+        "known_for_department": "Production",
+        "name": "Jean-Laurent Csinidis",
+        "original_name": "Jean-Laurent Csinidis",
+        "popularity": 0.0434,
+        "profile_path": "/cNhl8N5lRfBuJg6hpVSWM24Dnin.jpg",
+        "credit_id": "66c778b29672c8fc389190d8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4173878,
+        "known_for_department": "Production",
+        "name": "Alex C. Lo",
+        "original_name": "Alex C. Lo",
+        "popularity": 0.1636,
+        "profile_path": "/8vckiNIz15iMYJVNgU6X93uQpQl.jpg",
+        "credit_id": "66c778c64da56b3091ca8c5a",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Viennale - Vienna International Film Festival",
+            "release_date": "2024-10-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sydney Film Festival",
+            "release_date": "2025-06-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Taiwan Film Festival in Australia",
+            "release_date": "2025-08-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival",
+            "release_date": "2025-08-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BFI London Film Festival",
+            "release_date": "2024-10-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hong Kong International Film Festival",
+            "release_date": "2025-04-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jogja-NETPAC Asian Film Festival",
+            "release_date": "2024-12-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "2024-09-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jeonju International Film Festival",
+            "release_date": "2025-05-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Marrakech International Film Festival",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Sex",
+              "Coarse Language"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "NC16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Singapore International Film Festival",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NC16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-09T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Taipei Golden Horse Film Festival",
+            "release_date": "2024-11-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York Film Festival",
+            "release_date": "2024-09-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1027 @@
+{
+  "adult": false,
+  "backdrop_path": "/d10VuEOMroY7ngQi2FUhJH72k0e.jpg",
+  "belongs_to_collection": null,
+  "budget": 60900000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1167307,
+  "imdb_id": "tt15678738",
+  "origin_country": [
+    "ZA",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "David",
+  "overview": "Em um reino tomado pelo medo e pela opressão, um jovem pastor de ovelhas decide enfrentar um gigante guerreiro e a escuridão que o acompanha. Com nada além de fé, coragem, uma funda e algumas pedras nas mãos, ele desafia um império e desperta o coração de uma nação.",
+  "popularity": 13.169,
+  "poster_path": "/mocRuBZqV9yiaNbqUlON1K55FdS.jpg",
+  "production_companies": [
+    {
+      "id": 30216,
+      "logo_path": "/AwgLu0qw2UifWdDYExBNlZXWwx.png",
+      "name": "Sunrise Productions",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 206626,
+      "logo_path": null,
+      "name": "Slingshot USA",
+      "origin_country": ""
+    },
+    {
+      "id": 165435,
+      "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+      "name": "Angel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 223271,
+      "logo_path": "/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png",
+      "name": "2521 Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2025-12-14",
+  "revenue": 77770275,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Davi: Nasce Um Rei",
+  "video": false,
+  "vote_average": 7.944,
+  "vote_count": 18,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3328683,
+        "known_for_department": "Acting",
+        "name": "Phil Wickham",
+        "original_name": "Phil Wickham",
+        "popularity": 0.1487,
+        "profile_path": "/6IHWUHlkejPlTIvTec5Y7kcbnbK.jpg",
+        "cast_id": 11,
+        "character": "David (voice)",
+        "credit_id": "68ee178cff818a3bbf2829ae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2507851,
+        "known_for_department": "Acting",
+        "name": "Brandon Engman",
+        "original_name": "Brandon Engman",
+        "popularity": 0.3824,
+        "profile_path": "/9PhXVdDPb5NTEvD5dbFfTJnssQw.jpg",
+        "cast_id": 7,
+        "character": "Young David (voice)",
+        "credit_id": "659cfd1d55c1f400ee4f7332",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1502438,
+        "known_for_department": "Acting",
+        "name": "Asim Chaudhry",
+        "original_name": "Asim Chaudhry",
+        "popularity": 0.7455,
+        "profile_path": "/1F0DwOpxUAEpw5iovMHZ5Y1C8n6.jpg",
+        "cast_id": 8,
+        "character": "King Achish (voice)",
+        "credit_id": "68ee172b07406d29705eed06",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971877,
+        "known_for_department": "Acting",
+        "name": "Mick Wingert",
+        "original_name": "Mick Wingert",
+        "popularity": 0.9276,
+        "profile_path": "/2Apga68BihekhCSPHNk5pXqC5Gq.jpg",
+        "cast_id": 9,
+        "character": "Zaydel (voice)",
+        "credit_id": "68ee175f422811bc9c7854d9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1657897,
+        "known_for_department": "Acting",
+        "name": "Mark Whitten",
+        "original_name": "Mark Whitten",
+        "popularity": 0.5625,
+        "profile_path": "/zcD76XCZ6zQ41C9j1lsttLbxbLE.jpg",
+        "cast_id": 10,
+        "character": "Abishal (voice)",
+        "credit_id": "68ee177b422811bc9c7854dd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86655,
+        "known_for_department": "Acting",
+        "name": "Ashley Boettcher",
+        "original_name": "Ashley Boettcher",
+        "popularity": 0.8816,
+        "profile_path": "/7ZBF6UnARYCff3lgZY7rp5UVfzB.jpg",
+        "cast_id": 12,
+        "character": "Teen Zeruiah (voice)",
+        "credit_id": "68ee17b10af7ab01f9282a20",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5705674,
+        "known_for_department": "Acting",
+        "name": "Sloan Lucas Muldown",
+        "original_name": "Sloan Lucas Muldown",
+        "popularity": 0.1825,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Young Zeruiah (voice)",
+        "credit_id": "68ee17c49c850800172829a2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4077894,
+        "known_for_department": "Acting",
+        "name": "Will De Renzy-Martin",
+        "original_name": "Will De Renzy-Martin",
+        "popularity": 0.4358,
+        "profile_path": "/74AfkMoDTvZZ2TX8FX7mjNjlhFA.jpg",
+        "cast_id": 14,
+        "character": "Viazatha (voice)",
+        "credit_id": "68ee17dbfe6d394d16a21add",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2384065,
+        "known_for_department": "Acting",
+        "name": "Lauren Daigle",
+        "original_name": "Lauren Daigle",
+        "popularity": 0.1761,
+        "profile_path": "/56btNdIze3EGyV9tKOF0I13I1Yo.jpg",
+        "cast_id": 15,
+        "character": "Rebecca (voice)",
+        "credit_id": "68ee17ee51e604d7772829a2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1822256,
+        "known_for_department": "Acting",
+        "name": "Brian Stivale",
+        "original_name": "Brian Stivale",
+        "popularity": 0.1283,
+        "profile_path": "/ggNQronrHaUZnFZeolK0SGfW38V.jpg",
+        "cast_id": 16,
+        "character": "Samuel (voice)",
+        "credit_id": "68ee17fe4696ca4a02282921",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2805492,
+        "known_for_department": "Acting",
+        "name": "Shahar Taboch",
+        "original_name": "Shahar Taboch",
+        "popularity": 0.2788,
+        "profile_path": "/hpuiheYJrOU4HYczWgCJNeBPWlZ.jpg",
+        "cast_id": 17,
+        "character": "Ozem (voice)",
+        "credit_id": "68ee18166319a4d76cf121a8",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1259893,
+        "known_for_department": "Acting",
+        "name": "Miri Mesika",
+        "original_name": "Miri Mesika",
+        "popularity": 0.3223,
+        "profile_path": "/v9tqyqIfG6V9Ezix0Bienpco9B5.jpg",
+        "cast_id": 18,
+        "character": "Nitzevet (voice)",
+        "credit_id": "68ee182634cc5c70dd785526",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3732705,
+        "known_for_department": "Acting",
+        "name": "Mike Ciporkin",
+        "original_name": "Mike Ciporkin",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Scout (voice)",
+        "credit_id": "68ee1848458355352b0d8253",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2838796,
+        "known_for_department": "Production",
+        "name": "Phil Cunningham",
+        "original_name": "Phil Cunningham",
+        "popularity": 0.1769,
+        "profile_path": null,
+        "credit_id": "64e1b3b34a52f800c7a35297",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2838798,
+        "known_for_department": "Production",
+        "name": "Jacqui Cunningham",
+        "original_name": "Jacqui Cunningham",
+        "popularity": 0.1626,
+        "profile_path": null,
+        "credit_id": "64e1b3e95ab81a011c2f745a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508883,
+        "known_for_department": "Directing",
+        "name": "Brent Dawes",
+        "original_name": "Brent Dawes",
+        "popularity": 0.2523,
+        "profile_path": null,
+        "credit_id": "64e1b3cae19de900c68c11fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79065,
+        "known_for_department": "Acting",
+        "name": "Tim Tebow",
+        "original_name": "Tim Tebow",
+        "popularity": 0.1597,
+        "profile_path": "/dVtk9rgfmPmSa7jKQybbde3mmVT.jpg",
+        "credit_id": "64e1b4085ab81a00ad2172ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2838796,
+        "known_for_department": "Production",
+        "name": "Phil Cunningham",
+        "original_name": "Phil Cunningham",
+        "popularity": 0.1769,
+        "profile_path": null,
+        "credit_id": "64e1b3f7a3b5e601da49166a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508883,
+        "known_for_department": "Directing",
+        "name": "Brent Dawes",
+        "original_name": "Brent Dawes",
+        "popularity": 0.2523,
+        "profile_path": null,
+        "credit_id": "64e1b3beaaec7103f9986075",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1098740,
+        "known_for_department": "Sound",
+        "name": "Joseph Trapanese",
+        "original_name": "Joseph Trapanese",
+        "popularity": 0.3004,
+        "profile_path": "/3jh3094X5Usrsvd0QGMLP7EqwfI.jpg",
+        "credit_id": "68fc1b25f57d1caf913bf198",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5889556,
+        "known_for_department": "Editing",
+        "name": "Tom Scott",
+        "original_name": "Tom Scott",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "694706aaee183a60c88cde7b",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3036,
+        "name": "bible"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 11222,
+        "name": "prophet"
+      },
+      {
+        "id": 178107,
+        "name": "david vs. goliath"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 309288,
+        "name": "bible prophecy"
+      },
+      {
+        "id": 348322,
+        "name": "biblical epic"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2027-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ME",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lehi, Utah",
+            "release_date": "2025-12-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Angel Early Access",
+            "release_date": "2025-12-14T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "7-9PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

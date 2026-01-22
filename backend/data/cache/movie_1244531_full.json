@@ -1,0 +1,637 @@
+{
+  "adult": false,
+  "backdrop_path": "/ktsHS7DhwS4M54I3CBkxNV5GlTM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 10752,
+      "name": "Guerra"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    }
+  ],
+  "homepage": "",
+  "id": 1244531,
+  "imdb_id": "tt29468874",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Beast of War",
+  "overview": "",
+  "popularity": 8.8105,
+  "poster_path": "/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
+  "production_companies": [
+    {
+      "id": 103845,
+      "logo_path": "/2Ro1iQDguoYtWhl7c2Xy0McsZ0H.png",
+      "name": "Bronte Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 3207,
+      "logo_path": null,
+      "name": "Pictures in Paradise",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-08-22",
+  "revenue": 186472,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Beast of War",
+  "video": false,
+  "vote_average": 6.302,
+  "vote_count": 86,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1323881,
+        "known_for_department": "Acting",
+        "name": "Mark Coles Smith",
+        "original_name": "Mark Coles Smith",
+        "popularity": 0.6381,
+        "profile_path": "/mFGf5GruME5dnAuKBG1kgzK8PJs.jpg",
+        "cast_id": 6,
+        "character": "Leo",
+        "credit_id": "66d544a3977fbe7ff7a6cf3a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4918082,
+        "known_for_department": "Acting",
+        "name": "Joel Nankervis",
+        "original_name": "Joel Nankervis",
+        "popularity": 0.1254,
+        "profile_path": "/p9gyKYXICMSMf6U7y2m2psQGoLX.jpg",
+        "cast_id": 13,
+        "character": "Will",
+        "credit_id": "66d544eb9b3633126245ab10",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1721096,
+        "known_for_department": "Acting",
+        "name": "Sam Delich",
+        "original_name": "Sam Delich",
+        "popularity": 0.2436,
+        "profile_path": "/5t0I4FBAQ5BRiZXUNnFJBOlyKc8.jpg",
+        "cast_id": 10,
+        "character": "Des Kelly",
+        "credit_id": "66d544cb950a64219eb1b20c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2479415,
+        "known_for_department": "Acting",
+        "name": "Maximillian Johnson",
+        "original_name": "Maximillian Johnson",
+        "popularity": 0.209,
+        "profile_path": "/sjlNcH8ftVnbYzMkVw2tB1CVYuC.jpg",
+        "cast_id": 12,
+        "character": "Stan",
+        "credit_id": "66d544dc7aa5a87f37181dad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3684983,
+        "known_for_department": "Acting",
+        "name": "Lee Tiger Halley",
+        "original_name": "Lee Tiger Halley",
+        "popularity": 0.1525,
+        "profile_path": "/dEoFIS64jLAM5anf3A9DIs9vw6e.jpg",
+        "cast_id": 5,
+        "character": "Teddy",
+        "credit_id": "66b0f696e08a2244d1f49019",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110516,
+        "known_for_department": "Acting",
+        "name": "Sam Parsonson",
+        "original_name": "Sam Parsonson",
+        "popularity": 0.2992,
+        "profile_path": "/ta9h0LYwhyDTjUDhtwCuA8B8R9I.jpg",
+        "cast_id": 11,
+        "character": "Thompson",
+        "credit_id": "66d544d49d59ebc29d45ad91",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2159487,
+        "known_for_department": "Acting",
+        "name": "Tristan McKinnon",
+        "original_name": "Tristan McKinnon",
+        "popularity": 0.1671,
+        "profile_path": "/2sMmWqtTEmUw8f8IgAHzFAu51se.jpg",
+        "cast_id": 14,
+        "character": "Bobby",
+        "credit_id": "66d544f4f0c0401630c110f1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4078263,
+        "known_for_department": "Acting",
+        "name": "Aswan Reid",
+        "original_name": "Aswan Reid",
+        "popularity": 0.36,
+        "profile_path": "/oesXEXgDzwH9fPo8nqGhtjgNtF7.jpg",
+        "cast_id": 18,
+        "character": "Archie",
+        "credit_id": "693812023bb9094aae3cea9d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83283,
+        "known_for_department": "Acting",
+        "name": "Masa Yamaguchi",
+        "original_name": "Masa Yamaguchi",
+        "popularity": 0.3299,
+        "profile_path": "/nLyy3eNUmXY9UTZNYVdGhaZWps4.jpg",
+        "cast_id": 9,
+        "character": "Commander Tetsuo Harada",
+        "credit_id": "66d544be6e37048c74b0c263",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1707878,
+        "known_for_department": "Acting",
+        "name": "Lauren Grimson",
+        "original_name": "Lauren Grimson",
+        "popularity": 0.5115,
+        "profile_path": "/lgcVpfvG6azbOG5OanG4uXh6JxB.jpg",
+        "cast_id": 7,
+        "character": "Hazel",
+        "credit_id": "66d544aad673c0aac0301cdb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2787731,
+        "known_for_department": "Acting",
+        "name": "Laura Brogan Browne",
+        "original_name": "Laura Brogan Browne",
+        "popularity": 0.1183,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Susan",
+        "credit_id": "693812753a2ac05b80f87530",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59116,
+        "known_for_department": "Acting",
+        "name": "Steve Le Marquand",
+        "original_name": "Steve Le Marquand",
+        "popularity": 0.3462,
+        "profile_path": "/b6iPJ3duOxAe7Jvnj0olNFWejUR.jpg",
+        "cast_id": 8,
+        "character": "Sergeant",
+        "credit_id": "66d544b013536f6deaa6cfaa",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936107,
+        "known_for_department": "Acting",
+        "name": "Jay Gallagher",
+        "original_name": "Jay Gallagher",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Corporal #1",
+        "credit_id": "69661f800cd43cd612a43070",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2192371,
+        "known_for_department": "Acting",
+        "name": "John Sparke",
+        "original_name": "John Sparke",
+        "popularity": 0.0352,
+        "profile_path": "/s8cQ8wWMMOb7MAhGJrRy8MdTGMR.jpg",
+        "cast_id": 22,
+        "character": "Corporal #2",
+        "credit_id": "69661f8a931efd17384c13df",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320563,
+        "known_for_department": "Acting",
+        "name": "Matthew Scully",
+        "original_name": "Matthew Scully",
+        "popularity": 0.1425,
+        "profile_path": "/s2cK5Cn3VKhmwZ4EJIChEj4i5yZ.jpg",
+        "cast_id": 23,
+        "character": "Lone Soldier",
+        "credit_id": "69661f937fbb3f10b998c214",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936108,
+        "known_for_department": "Acting",
+        "name": "Denny Bernard",
+        "original_name": "Denny Bernard",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Soldier",
+        "credit_id": "69661fac081585a51836ddda",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936109,
+        "known_for_department": "Acting",
+        "name": "Harry Capner",
+        "original_name": "Harry Capner",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Australian Soldier",
+        "credit_id": "69661fb4081585a51836dde6",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1361546,
+        "known_for_department": "Directing",
+        "name": "Kiah Roache-Turner",
+        "original_name": "Kiah Roache-Turner",
+        "popularity": 0.2575,
+        "profile_path": "/qYobNJ9HstH6FzcCkCOZAoR5CeU.jpg",
+        "credit_id": "65cba77fa06efe0163766e74",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1361546,
+        "known_for_department": "Directing",
+        "name": "Kiah Roache-Turner",
+        "original_name": "Kiah Roache-Turner",
+        "popularity": 0.2575,
+        "profile_path": "/qYobNJ9HstH6FzcCkCOZAoR5CeU.jpg",
+        "credit_id": "65cba7645be00e017cad6241",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2401645,
+        "known_for_department": "Production",
+        "name": "Chris Brown",
+        "original_name": "Chris Brown",
+        "popularity": 0.2799,
+        "profile_path": "/hLpY1hmhqto6SYB3BQWYFRZnn5X.jpg",
+        "credit_id": "65cba79e8c3159016338e502",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2030697,
+        "known_for_department": "Production",
+        "name": "Blake Northfield",
+        "original_name": "Blake Northfield",
+        "popularity": 0.1255,
+        "profile_path": null,
+        "credit_id": "65cba7aa6dc507017cb29cc4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1361546,
+        "known_for_department": "Directing",
+        "name": "Kiah Roache-Turner",
+        "original_name": "Kiah Roache-Turner",
+        "popularity": 0.2575,
+        "profile_path": "/qYobNJ9HstH6FzcCkCOZAoR5CeU.jpg",
+        "credit_id": "66d54505cc962cf9e965a569",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3380711,
+        "known_for_department": "Art",
+        "name": "Esther Rosenberg",
+        "original_name": "Esther Rosenberg",
+        "popularity": 0.0843,
+        "profile_path": null,
+        "credit_id": "66d545185a8a9e5e2dc10d83",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1351429,
+        "known_for_department": "Editing",
+        "name": "Regg Skwarko",
+        "original_name": "Regg Skwarko",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "66d5450df459fa77e504139d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936106,
+        "known_for_department": "Camera",
+        "name": "Mark Wareham",
+        "original_name": "Mark Wareham",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "69661f443dac57818bcc975e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1956,
+        "name": "world war ii"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 10349,
+        "name": "survival"
+      },
+      {
+        "id": 15098,
+        "name": "great white shark"
+      },
+      {
+        "id": 50009,
+        "name": "survival horror"
+      },
+      {
+        "id": 207883,
+        "name": "1940s"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival",
+            "release_date": "2025-08-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CinefestOZ Film Festival",
+            "release_date": "2025-09-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "MA 15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-21T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-08-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "NC16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "edited",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantastic Fest",
+            "release_date": "2025-09-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "XI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

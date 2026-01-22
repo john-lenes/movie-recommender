@@ -1,0 +1,657 @@
+{
+  "adult": false,
+  "backdrop_path": "/dXoBFj9Yl9HDRcDVQubkuVCh26N.jpg",
+  "belongs_to_collection": {
+    "id": 1421776,
+    "name": "‎Operação Panda Coleção",
+    "poster_path": "/rO62kjEpxKoi22euZlM11o2hRJe.jpg",
+    "backdrop_path": null
+  },
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 1160956,
+  "imdb_id": "tt28630624",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "熊猫计划",
+  "overview": "Logo após ser convidado para adotar o adorável panda Hu Hu, um dos astros mais lendários do kung fu, Jackie Chan, se vê no centro de um perigoso esquema. Um sindicato internacional do crime coloca uma recompensa pela captura do panda, atraindo caçadores de recompensas de todo o mundo. Jackie, então, convoca seu agente e o dedicado cuidador de Hu Hu para proteger o animal, enfrentando uma série de perigos. A improvável equipe se envolve em uma aventura desafiadora e cheia de ação, onde cada reviravolta traz novos desafios, e eles terão de usar todas as suas habilidades para despistar e derrotar os vilões, garantindo que Hu Hu permaneça seguro. É uma história de coragem, lealdade e muita ação, ideal para os fãs do carisma e das lutas acrobáticas de Jackie Chan.",
+  "popularity": 8.8029,
+  "poster_path": "/pdX1SiCPw5qwKSUdX8AXU3B1QHZ.jpg",
+  "production_companies": [
+    {
+      "id": 30324,
+      "logo_path": "/dgwcWHsusZtDCDJ7rUikk452lBd.png",
+      "name": "Emei Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 126771,
+      "logo_path": null,
+      "name": "Mandarin Motion Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 96956,
+      "logo_path": null,
+      "name": "Maoyan Entertainment",
+      "origin_country": "CN"
+    },
+    {
+      "id": 155372,
+      "logo_path": null,
+      "name": "Wishart Media",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2024-10-01",
+  "revenue": 42238170,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "ქართული"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "‎Operação Panda: Missão Resgate",
+  "video": false,
+  "vote_average": 6.796,
+  "vote_count": 245,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18897,
+        "known_for_department": "Acting",
+        "name": "Jackie Chan",
+        "original_name": "成龍",
+        "popularity": 19.2501,
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg",
+        "cast_id": 1,
+        "character": "Jackie",
+        "credit_id": "64ce4ea6d9f4a603b6c872c0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1945662,
+        "known_for_department": "Acting",
+        "name": "Shi Ce",
+        "original_name": "Shi Ce",
+        "popularity": 0.5845,
+        "profile_path": "/yRBXOk6GMuzDCrIK85AjZn48o1y.jpg",
+        "cast_id": 14,
+        "character": "Su Xiaozhu",
+        "credit_id": "65841bd7e8131d4178a4f762",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2093326,
+        "known_for_department": "Acting",
+        "name": "魏翔",
+        "original_name": "魏翔",
+        "popularity": 0.7942,
+        "profile_path": "/j1XqYkSGoRHfBOH59nTOnv7DcRn.jpg",
+        "cast_id": 7,
+        "character": "David",
+        "credit_id": "65841b0cfbe36f4b2d7f5acf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2171593,
+        "known_for_department": "Acting",
+        "name": "韩彦博",
+        "original_name": "韩彦博",
+        "popularity": 0.7515,
+        "profile_path": "/anfEMOmBSFXuZJ5jPCdcPIrObSl.jpg",
+        "cast_id": 13,
+        "character": "Cha Kun",
+        "credit_id": "65841bcb992fe63f4e725c92",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2493847,
+        "known_for_department": "Acting",
+        "name": "Danny Ray",
+        "original_name": "Danny Ray",
+        "popularity": 0.4626,
+        "profile_path": "/ruWEqayx8GsA7AerHAG2wL05fUz.jpg",
+        "cast_id": 19,
+        "character": "Harry",
+        "credit_id": "678bea4c35902b0f936de062",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1996700,
+        "known_for_department": "Acting",
+        "name": "许君聪",
+        "original_name": "许君聪",
+        "popularity": 1.3477,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Lone Wolf",
+        "credit_id": "65841bfa992fe63ef872828f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1552500,
+        "known_for_department": "Art",
+        "name": "Andy Friend",
+        "original_name": "Andy Friend",
+        "popularity": 0.4743,
+        "profile_path": "/gvSXc5UDHc9JQwmHKG7Eh9V3AHX.jpg",
+        "cast_id": 17,
+        "character": "Garden Manager",
+        "credit_id": "66979a5bdf5933b81348c758",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3842416,
+        "known_for_department": "Acting",
+        "name": "黄允桐",
+        "original_name": "黄允桐",
+        "popularity": 0.595,
+        "profile_path": "/jtWGjymL1Up2UKk3itlCZCUX4ur.jpg",
+        "cast_id": 15,
+        "character": "Female Chief",
+        "credit_id": "65841be8fbe36f4b2d7f5b23",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2295882,
+        "known_for_department": "Acting",
+        "name": "贾冰",
+        "original_name": "贾冰",
+        "popularity": 1.7893,
+        "profile_path": "/pum0e3d2ZVq9XZyNohZSXt46bkH.jpg",
+        "cast_id": 18,
+        "character": "Ice Cream Shop Owner",
+        "credit_id": "678be9a95add61273d64f9ff",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379938,
+        "known_for_department": "Acting",
+        "name": "Temur Mamisashvili",
+        "original_name": "Temur Mamisashvili",
+        "popularity": 0.5999,
+        "profile_path": "/9gBUlvH0q2IhW3zqkEk5Vbao4Qf.jpg",
+        "cast_id": 21,
+        "character": "James",
+        "credit_id": "67a15504ed829ebc56e2bc06",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5223218,
+        "known_for_department": "Acting",
+        "name": "Ivan Ponomarenko",
+        "original_name": "Ivan Ponomarenko",
+        "popularity": 0.047,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Farih",
+        "credit_id": "67a1553750f5d47625265a0e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077880,
+        "known_for_department": "Acting",
+        "name": "Aleksandra Smirnova-Kosheleva",
+        "original_name": "Aleksandra Smirnova-Kosheleva",
+        "popularity": 0.0801,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "67a1555d716bfd74ece2be15",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1996700,
+        "known_for_department": "Acting",
+        "name": "许君聪",
+        "original_name": "许君聪",
+        "popularity": 1.3477,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "67a1557b50f5d47625265a21",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5900765,
+        "known_for_department": "Acting",
+        "name": "刚胤轩",
+        "original_name": "刚胤轩",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Henchman",
+        "credit_id": "694fb5e9cb10704c1d2fbe87",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3350015,
+        "known_for_department": "Directing",
+        "name": "Wei Xu",
+        "original_name": "Wei Xu",
+        "popularity": 0.1789,
+        "profile_path": null,
+        "credit_id": "65841a9608354744f33edbc1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2265584,
+        "known_for_department": "Directing",
+        "name": "張欒",
+        "original_name": "張欒",
+        "popularity": 0.6538,
+        "profile_path": "/xMeYqIEvRHhmCXoMxoVp8zxa6DI.jpg",
+        "credit_id": "65841a70180dea530a8c2b50",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4441748,
+        "known_for_department": "Writing",
+        "name": "Meng Yida",
+        "original_name": "Meng Yida",
+        "popularity": 0.1824,
+        "profile_path": null,
+        "credit_id": "65841ab355bc35584617d7e5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2265584,
+        "known_for_department": "Directing",
+        "name": "張欒",
+        "original_name": "張欒",
+        "popularity": 0.6538,
+        "profile_path": "/xMeYqIEvRHhmCXoMxoVp8zxa6DI.jpg",
+        "credit_id": "65841ac6ca83544103d7a578",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1573046,
+        "known_for_department": "Crew",
+        "name": "Sean Kohnke",
+        "original_name": "Sean Kohnke",
+        "popularity": 1.0187,
+        "profile_path": "/jXXg0mipOa8CTeTKmZboGz0eFVJ.jpg",
+        "credit_id": "65841ae855bc355715183856",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3790312,
+        "known_for_department": "Sound",
+        "name": "Huang Yixin",
+        "original_name": "Huang Yixin",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "credit_id": "67a154ac50f5d476252659d1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3487,
+        "name": "assistant"
+      },
+      {
+        "id": 2172,
+        "name": "zoo"
+      },
+      {
+        "id": 8531,
+        "name": "panda"
+      },
+      {
+        "id": 164613,
+        "name": "superstar"
+      },
+      {
+        "id": 222529,
+        "name": "rescue operation"
+      },
+      {
+        "id": 326483,
+        "name": "international superstar"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "zh",
+            "note": "",
+            "release_date": "2024-12-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2025-03-28T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-05T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "",
+            "release_date": "2024-12-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

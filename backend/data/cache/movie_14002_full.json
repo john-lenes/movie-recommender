@@ -1,0 +1,642 @@
+{
+  "adult": false,
+  "backdrop_path": "/c0QYwNyeURswT7fxmR2mlfpdk0l.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 14002,
+  "imdb_id": "tt0103767",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Baraka",
+  "overview": "Filmado em 24 países, O filme mostra várias paisagens, igrejas, ruínas, cerimônias religiosas e cidades, numa busca para que cada quadro consiga capturar a grande pulsação da humanidade nas atividades diárias. O filme ficou pronto depois de 11 anos. Baraka é uma palavra Sufi que significa 'O fôlego da vida'.",
+  "popularity": 3.279,
+  "poster_path": "/ldEuJQ4z7zEvL7iXraESWBUfQcz.jpg",
+  "production_companies": [
+    {
+      "id": 10986,
+      "logo_path": null,
+      "name": "Magidson Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-09-15",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Um mundo além das palavras.",
+  "title": "Baraka",
+  "video": false,
+  "vote_average": 8.219,
+  "vote_count": 665,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3096470,
+        "known_for_department": "Acting",
+        "name": "Patrick Disanto",
+        "original_name": "Patrick Disanto",
+        "popularity": 0.1182,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Journeyman (uncredited)",
+        "credit_id": "60a5964956b9f7003f44cb16",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108787,
+        "known_for_department": "Writing",
+        "name": "Genevieve Nicholas",
+        "original_name": "Genevieve Nicholas",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c7506168d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937749,
+        "known_for_department": "Production",
+        "name": "Mark Magidson",
+        "original_name": "Mark Magidson",
+        "popularity": 0.0818,
+        "profile_path": "/mhjl01i9uprskRITFNfGcpTomAK.jpg",
+        "credit_id": "52fe45c19251416c750616ab",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1018091,
+        "known_for_department": "Production",
+        "name": "Alton Walpole",
+        "original_name": "Alton Walpole",
+        "popularity": 0.2621,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c75061699",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937749,
+        "known_for_department": "Production",
+        "name": "Mark Magidson",
+        "original_name": "Mark Magidson",
+        "popularity": 0.0818,
+        "profile_path": "/mhjl01i9uprskRITFNfGcpTomAK.jpg",
+        "credit_id": "52fe45c19251416c750616bd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021139,
+        "known_for_department": "Editing",
+        "name": "David Aubrey",
+        "original_name": "David Aubrey",
+        "popularity": 0.1112,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c750616b1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 0.466,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c750616a5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 0.466,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c7506167b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 48069,
+        "known_for_department": "Sound",
+        "name": "Michael Stearns",
+        "original_name": "Michael Stearns",
+        "popularity": 0.1266,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c7506169f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 0.466,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c750616b7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68994,
+        "known_for_department": "Camera",
+        "name": "Ron Fricke",
+        "original_name": "Ron Fricke",
+        "popularity": 0.466,
+        "profile_path": "/iowDlYDiew3P2sRvJdIZ1VWW1jF.jpg",
+        "credit_id": "52fe45c19251416c75061681",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 83901,
+        "known_for_department": "Writing",
+        "name": "Constantine Nicholas",
+        "original_name": "Constantine Nicholas",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "52fe45c19251416c75061687",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937749,
+        "known_for_department": "Production",
+        "name": "Mark Magidson",
+        "original_name": "Mark Magidson",
+        "popularity": 0.0818,
+        "profile_path": "/mhjl01i9uprskRITFNfGcpTomAK.jpg",
+        "credit_id": "52fe45c19251416c75061693",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1528570,
+        "known_for_department": "Sound",
+        "name": "L. Subramaniam",
+        "original_name": "L. Subramaniam",
+        "popularity": 0.1003,
+        "profile_path": null,
+        "credit_id": "692b8d2af9930597901ec0bf",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6157,
+        "name": "prayer"
+      },
+      {
+        "id": 1551,
+        "name": "indigenous"
+      },
+      {
+        "id": 5890,
+        "name": "community"
+      },
+      {
+        "id": 3667,
+        "name": "time"
+      },
+      {
+        "id": 10706,
+        "name": "spirituality"
+      },
+      {
+        "id": 155071,
+        "name": "pagan"
+      },
+      {
+        "id": 155788,
+        "name": "discovery world"
+      },
+      {
+        "id": 162710,
+        "name": "culture"
+      },
+      {
+        "id": 182649,
+        "name": "spiritual journey"
+      },
+      {
+        "id": 235164,
+        "name": "spiritual community"
+      },
+      {
+        "id": 236125,
+        "name": "natural wonder"
+      },
+      {
+        "id": 240847,
+        "name": "social & cultural documentary"
+      },
+      {
+        "id": 258385,
+        "name": "spiritual awareness"
+      },
+      {
+        "id": 262228,
+        "name": "observational documentary"
+      },
+      {
+        "id": 269412,
+        "name": "poetic documentary"
+      },
+      {
+        "id": 277193,
+        "name": "landscape photography"
+      },
+      {
+        "id": 281658,
+        "name": "beautiful landscapes"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "1994-05-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Montréal World Film Festival",
+            "release_date": "1992-08-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1992-09-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2002-09-19T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-04-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-08-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-06-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-09-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-01-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-07-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-12-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2003-04-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-08-27T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2004-10-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2012-09-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Milano Design Film Festival",
+            "release_date": "2016-10-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-10-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Foro Internacional de la Cineteca",
+            "release_date": "2003-09-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2003-09-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu ray",
+            "release_date": "2008-11-10T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2014-03-13T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 3",
+            "release_date": "2005-08-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-08-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2005-06-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-01-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-06-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City, New York",
+            "release_date": "1993-09-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-11-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

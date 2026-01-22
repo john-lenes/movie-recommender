@@ -1,0 +1,958 @@
+{
+  "adult": false,
+  "backdrop_path": "/ApB0mF2d5Oqioi3yxjuogiotSLI.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 985,
+  "imdb_id": "tt0074486",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Eraserhead",
+  "overview": "Ao chegar em casa, Henry é avisado por sua vizinha de que foi chamado para um jantar na casa de sua ex namorada. Após uma refeição bizarra com uma família ainda mais estranha, Henry é informado que sua ex engravidou dele e teve o filho com poucas semanas de gestação; ele é então obrigado a casar-se e levar a mulher e a criança para viverem em seu apartamento.",
+  "popularity": 9.6824,
+  "poster_path": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+  "production_companies": [
+    {
+      "id": 12226,
+      "logo_path": "/5PJ3JaGTCvF7CjbjQ7bivae2cHJ.png",
+      "name": "AFI",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1977-09-28",
+  "revenue": 7000000,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Onde seus pesadelos terminam...",
+  "title": "Eraserhead",
+  "video": false,
+  "vote_average": 7.347,
+  "vote_count": 2666,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6718,
+        "known_for_department": "Acting",
+        "name": "Jack Nance",
+        "original_name": "Jack Nance",
+        "popularity": 0.8511,
+        "profile_path": "/uYZ2D1gb7lO779L5nDn8XarZSvf.jpg",
+        "cast_id": 13,
+        "character": "Henry Spencer",
+        "credit_id": "52fe4296c3a36847f802a5e1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14794,
+        "known_for_department": "Acting",
+        "name": "Charlotte Stewart",
+        "original_name": "Charlotte Stewart",
+        "popularity": 0.7707,
+        "profile_path": "/2q8O8fpP5e0yvKJkrR45qbHCq6n.jpg",
+        "cast_id": 14,
+        "character": "Mary X",
+        "credit_id": "52fe4296c3a36847f802a5e5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14795,
+        "known_for_department": "Acting",
+        "name": "Allen Joseph",
+        "original_name": "Allen Joseph",
+        "popularity": 0.3638,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Mr. X",
+        "credit_id": "52fe4296c3a36847f802a5e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14796,
+        "known_for_department": "Acting",
+        "name": "Jeanne Bates",
+        "original_name": "Jeanne Bates",
+        "popularity": 0.8764,
+        "profile_path": "/d0sb01vqRKDP0jNBbWEbs8VaIUj.jpg",
+        "cast_id": 16,
+        "character": "Mrs. X",
+        "credit_id": "52fe4296c3a36847f802a5ed",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14797,
+        "known_for_department": "Acting",
+        "name": "Judith Roberts",
+        "original_name": "Judith Roberts",
+        "popularity": 0.7678,
+        "profile_path": "/buUgZfvycC3jzj4VeZdoBtuwbF8.jpg",
+        "cast_id": 17,
+        "character": "Beautiful Girl Across the Hall",
+        "credit_id": "52fe4296c3a36847f802a5f1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14798,
+        "known_for_department": "Acting",
+        "name": "Laurel Near",
+        "original_name": "Laurel Near",
+        "popularity": 0.1937,
+        "profile_path": "/jb7UomcOKW3XpbgQnVAcoc4y36a.jpg",
+        "cast_id": 18,
+        "character": "Lady in the Radiator",
+        "credit_id": "52fe4296c3a36847f802a5f5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5632,
+        "known_for_department": "Art",
+        "name": "Jack Fisk",
+        "original_name": "Jack Fisk",
+        "popularity": 0.7201,
+        "profile_path": "/6uXKrehuM7f300vQIw5i56offah.jpg",
+        "cast_id": 28,
+        "character": "Man in the Planet",
+        "credit_id": "6198fa289512e10062f0d850",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14802,
+        "known_for_department": "Acting",
+        "name": "Jean Lange",
+        "original_name": "Jean Lange",
+        "popularity": 0.1593,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Grandmother",
+        "credit_id": "6198fa321e259a0027498a7e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3317745,
+        "known_for_department": "Acting",
+        "name": "Thomas Coulson",
+        "original_name": "Thomas Coulson",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "The Boy",
+        "credit_id": "6198fa40abdafc00657ccd2b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3317746,
+        "known_for_department": "Acting",
+        "name": "John Monez",
+        "original_name": "John Monez",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Bum",
+        "credit_id": "6198fa4aaf58cb004445f54d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105624,
+        "known_for_department": "Acting",
+        "name": "Darwin Joston",
+        "original_name": "Darwin Joston",
+        "popularity": 0.4216,
+        "profile_path": "/2XXzcuc3uQqixmiP2Vnit7Hgims.jpg",
+        "cast_id": 32,
+        "character": "Paul",
+        "credit_id": "6198fa52e32943008f10282b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14799,
+        "known_for_department": "Acting",
+        "name": "T. Max Graham",
+        "original_name": "T. Max Graham",
+        "popularity": 0.2616,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "The Boss",
+        "credit_id": "6198fa5f29733800644229e8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14801,
+        "known_for_department": "Acting",
+        "name": "Hal Landon Jr.",
+        "original_name": "Hal Landon Jr.",
+        "popularity": 0.5157,
+        "profile_path": "/ga7W0dAntkpKmnnMkTFtgxqQV2n.jpg",
+        "cast_id": 34,
+        "character": "Pencil Machine Operator",
+        "credit_id": "6198fa6e70b4440093034855",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14800,
+        "known_for_department": "Directing",
+        "name": "Jennifer Lynch",
+        "original_name": "Jennifer Lynch",
+        "popularity": 0.9996,
+        "profile_path": "/gdrZU7gTBo8dvWV9wxXqJ305QNW.jpg",
+        "cast_id": 35,
+        "character": "Little Girl",
+        "credit_id": "6198fa7952dc7f0087352bf6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3317748,
+        "known_for_department": "Acting",
+        "name": "Brad Keeler",
+        "original_name": "Brad Keeler",
+        "popularity": 0.049,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Little Boy",
+        "credit_id": "6198faaae2ff320065915ca8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 407,
+        "known_for_department": "Writing",
+        "name": "Gill Dennis",
+        "original_name": "Gill Dennis",
+        "popularity": 0.3193,
+        "profile_path": "/uaLww5CRb6Y20WxCwR1GtiQPqWu.jpg",
+        "cast_id": 39,
+        "character": "Man with Cigar",
+        "credit_id": "6198fae4497560002cfb7a8e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1153808,
+        "known_for_department": "Directing",
+        "name": "Toby Keeler",
+        "original_name": "Toby Keeler",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Man Fighting",
+        "credit_id": "6198faff52dc7f0087352cd5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5613,
+        "known_for_department": "Acting",
+        "name": "Jack Walsh",
+        "original_name": "Jack Walsh",
+        "popularity": 0.34,
+        "profile_path": "/hrklvoHt8KuRRUzMxS9YjMSNTEW.jpg",
+        "cast_id": 41,
+        "character": "Mr. Roundheels",
+        "credit_id": "6198fb1fabdafc008f434c4f",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "52fe4296c3a36847f802a5a7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "52fe4296c3a36847f802a5ad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "52fe4296c3a36847f802a5b3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "52fe4296c3a36847f802a5b9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "52fe4296c3a36847f802a5bf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "52fe4296c3a36847f802a5c5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "52fe4296c3a36847f802a5d1",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14793,
+        "known_for_department": "Camera",
+        "name": "Herbert Cardwell",
+        "original_name": "Herbert Cardwell",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "52fe4296c3a36847f802a5d7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4434,
+        "known_for_department": "Camera",
+        "name": "Frederick Elmes",
+        "original_name": "Frederick Elmes",
+        "popularity": 0.3047,
+        "profile_path": "/lxhFy0QdIJzmmdSuX9Axl5Nib8t.jpg",
+        "credit_id": "52fe4296c3a36847f802a5dd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2039691,
+        "known_for_department": "Sound",
+        "name": "Peter Ivers",
+        "original_name": "Peter Ivers",
+        "popularity": 0.0747,
+        "profile_path": "/3eKFqpGIfFa5CNQOOToXWZ0IWAS.jpg",
+        "credit_id": "6249dca908cf8700a10c2d31",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123516,
+        "known_for_department": "Acting",
+        "name": "Catherine E. Coulson",
+        "original_name": "Catherine E. Coulson",
+        "popularity": 0.2811,
+        "profile_path": "/4SaHDcYbd5q859LM7kMH3lPweTD.jpg",
+        "credit_id": "615bbb2adb952d002cb633e8",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3317751,
+        "known_for_department": "Production",
+        "name": "Doreen G. Small",
+        "original_name": "Doreen G. Small",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6198fb49497560002cfb7b15",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123516,
+        "known_for_department": "Acting",
+        "name": "Catherine E. Coulson",
+        "original_name": "Catherine E. Coulson",
+        "popularity": 0.2811,
+        "profile_path": "/4SaHDcYbd5q859LM7kMH3lPweTD.jpg",
+        "credit_id": "6198fb53e32943002d4a7e45",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "6198fb685c071b0065f36160",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117303,
+        "known_for_department": "Sound",
+        "name": "Alan Splet",
+        "original_name": "Alan Splet",
+        "popularity": 0.1673,
+        "profile_path": "/hDi7aeZgiDZF3KLkbUZHNVJhbex.jpg",
+        "credit_id": "6198fb75e2ff320026e39e6e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4434,
+        "known_for_department": "Camera",
+        "name": "Frederick Elmes",
+        "original_name": "Frederick Elmes",
+        "popularity": 0.3047,
+        "profile_path": "/lxhFy0QdIJzmmdSuX9Axl5Nib8t.jpg",
+        "credit_id": "6198fb848de0ae00422970ff",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15078,
+        "known_for_department": "Acting",
+        "name": "Fred Baker",
+        "original_name": "Fred Baker",
+        "popularity": 0.1188,
+        "profile_path": "/vTGhx4jcScfafQpXpM31UqDIKYU.jpg",
+        "credit_id": "5bea85a1c3a36876cf020951",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5602,
+        "known_for_department": "Directing",
+        "name": "David Lynch",
+        "original_name": "David Lynch",
+        "popularity": 3.1437,
+        "profile_path": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "credit_id": "5ebc2c5eaad9c2001f242fcd",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1009,
+        "name": "baby"
+      },
+      {
+        "id": 3030,
+        "name": "nightmare"
+      },
+      {
+        "id": 1852,
+        "name": "mutant"
+      },
+      {
+        "id": 2147,
+        "name": "claustrophobia"
+      },
+      {
+        "id": 3453,
+        "name": "parents-in-law"
+      },
+      {
+        "id": 4597,
+        "name": "pencil"
+      },
+      {
+        "id": 9887,
+        "name": "surrealism"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 33465,
+        "name": "parallel world"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1980-04-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "São Paulo, São Paulo, CineSesc (Retrospectiva Do Onírico ao Real – Uma Homenagem a David Lynch) (4K Restored Version)",
+            "release_date": "2025-02-20T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1978-02-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Projekt 100",
+            "release_date": "1998-01-22T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "OmU",
+            "release_date": "2011-02-28T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1977-09-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-05-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1994-02-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1978-06-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-05-31T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2001-01-08T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1999-04-12T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinobo",
+            "release_date": "2020-09-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "IIB",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": " 4k restoration",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Limited 4k restoration rerelease",
+            "release_date": "2017-06-28T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1982-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1981-09-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-07-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2017-11-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2011-09-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1983-12-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD, Blu ray",
+            "release_date": "2012-12-04T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 2",
+            "release_date": "2008-08-03T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1977-09-28T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-11-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1978-02-03T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2026-02-05T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-05-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1977-09-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmex Festival",
+            "release_date": "1977-03-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1977-09-28T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1978-02-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

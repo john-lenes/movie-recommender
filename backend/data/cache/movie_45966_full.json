@@ -1,0 +1,320 @@
+{
+  "adult": false,
+  "backdrop_path": "/lt1Lan9bmG29JjqaMad5tkRpCHJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 3900,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 45966,
+  "imdb_id": "tt0042384",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Day of the Fight",
+  "overview": "",
+  "popularity": 5.8374,
+  "poster_path": "/7OEwDK1Fdz8R7Xo9cDWANjiz7vH.jpg",
+  "production_companies": [
+    {
+      "id": 6,
+      "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+      "name": "RKO Radio Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1951-04-26",
+  "revenue": 0,
+  "runtime": 13,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Day of the Fight",
+  "video": false,
+  "vote_average": 5.745,
+  "vote_count": 165,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134299,
+        "known_for_department": "Acting",
+        "name": "Vincent Cartier",
+        "original_name": "Vincent Cartier",
+        "popularity": 0.1315,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self, Walter's twin brother and manager",
+        "credit_id": "52fe46dcc3a36847f81165ef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134308,
+        "known_for_department": "Acting",
+        "name": "Walter Cartier",
+        "original_name": "Walter Cartier",
+        "popularity": 0.0823,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "52fe46dcc3a36847f81165f3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134309,
+        "known_for_department": "Acting",
+        "name": "Nat Fleischer",
+        "original_name": "Nat Fleischer",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self, boxing historian",
+        "credit_id": "52fe46dcc3a36847f81165f7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134310,
+        "known_for_department": "Acting",
+        "name": "Bobby James",
+        "original_name": "Bobby James",
+        "popularity": 0.1082,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self, Walter's opponent",
+        "credit_id": "52fe46dcc3a36847f81165fb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 134314,
+        "known_for_department": "Acting",
+        "name": "Judy Singer",
+        "original_name": "Judy Singer",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self, female fan in crowd (uncredited)",
+        "credit_id": "52fe46dcc3a36847f81165ff",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "cast_id": 10,
+        "character": "Self (man at ringside with camera) (uncredited)",
+        "credit_id": "52fe46dcc3a36847f8116603",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39759,
+        "known_for_department": "Directing",
+        "name": "Alexander Singer",
+        "original_name": "Alexander Singer",
+        "popularity": 1.1365,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "52fe46dcc3a36847f8116619",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1242953,
+        "known_for_department": "Acting",
+        "name": "Douglas Edwards",
+        "original_name": "Douglas Edwards",
+        "popularity": 0.2058,
+        "profile_path": "/6nTXmtSFuguQQZtyEsuL4JTyUMo.jpg",
+        "cast_id": 20,
+        "character": "Narrator",
+        "credit_id": "55e95e3dc3a3682c76005084",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe46dcc3a36847f811660f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "52fe46dcc3a36847f8116609",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240,
+        "known_for_department": "Directing",
+        "name": "Stanley Kubrick",
+        "original_name": "Stanley Kubrick",
+        "popularity": 2.2841,
+        "profile_path": "/yFT0VyIelI9aegZrsAwOG5iVP4v.jpg",
+        "credit_id": "55d0b196c3a3681bff007bde",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3350,
+        "known_for_department": "Sound",
+        "name": "Gerald Fried",
+        "original_name": "Gerald Fried",
+        "popularity": 0.2852,
+        "profile_path": "/vtx9R0AT9YMybr8ekqh0Vu7d5k6.jpg",
+        "credit_id": "55d0b19f92514131a500797c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39759,
+        "known_for_department": "Directing",
+        "name": "Alexander Singer",
+        "original_name": "Alexander Singer",
+        "popularity": 1.1365,
+        "profile_path": null,
+        "credit_id": "55d0b175c3a3681bf0006e35",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1497436,
+        "known_for_department": "Editing",
+        "name": "Julian Bergman",
+        "original_name": "Julian Bergman",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "55d0b168c3a3681bf0006e2f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1497437,
+        "known_for_department": "Crew",
+        "name": "Robert Rein",
+        "original_name": "Robert Rein",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "55d0b1859251413198007d92",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228938,
+        "known_for_department": "Production",
+        "name": "Jay Bonafield",
+        "original_name": "Jay Bonafield",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "67a849ba89f05e1619f1301f",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 586,
+        "name": "new jersey"
+      },
+      {
+        "id": 2792,
+        "name": "boxer"
+      },
+      {
+        "id": 7375,
+        "name": "twin brother"
+      },
+      {
+        "id": 18396,
+        "name": "catholic"
+      },
+      {
+        "id": 209476,
+        "name": "boxing"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1951-04-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

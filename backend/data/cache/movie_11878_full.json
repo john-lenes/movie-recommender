@@ -1,0 +1,1515 @@
+{
+  "adult": false,
+  "backdrop_path": "/5BBwSVytssbFuSPZE4DtJVhROjN.jpg",
+  "belongs_to_collection": {
+    "id": 627389,
+    "name": "Sanjuro Collection",
+    "poster_path": "/dt7bIfEi6Jkw8IJGKu4zfbl7wB3.jpg",
+    "backdrop_path": "/ai4Q6RTjAxmEuD8NHB6d6Bkspp8.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 11878,
+  "imdb_id": "tt0055630",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "用心棒",
+  "overview": "Um ronin sem nome, ou samurai sem mestre, entra em uma pequena vila no Japão feudal, onde dois empresários rivais lutam pelo controle do comércio local de jogos de azar. Assumindo o nome de Sanjuro Kuwabatake, o ronin convence o comerciante de seda Tazaemon e o comerciante de saquê Tokuemon a contratá-lo como guarda-costas pessoal, e então habilmente desencadeia uma guerra de gangues em grande escala entre os dois homens ambiciosos e inescrupulosos.",
+  "popularity": 3.0224,
+  "poster_path": "/A9XnNGooDNtvx2mzZ8R7pt6UuUP.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1961-04-25",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Os Sete Samurais se fosse apenas um Samurai!",
+  "title": "Yojimbo, o Guarda-Costas",
+  "video": false,
+  "vote_average": 8.089,
+  "vote_count": 1624,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7450,
+        "known_for_department": "Acting",
+        "name": "Toshirô Mifune",
+        "original_name": "三船敏郎",
+        "popularity": 1.5337,
+        "profile_path": "/3A9PqrtiXHLp8B2JL7m3YvVXrmL.jpg",
+        "cast_id": 1,
+        "character": "Sanjuro Kuwabatake / The Samurai",
+        "credit_id": "52fe44999251416c7503a5e7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70131,
+        "known_for_department": "Acting",
+        "name": "Tatsuya Nakadai",
+        "original_name": "仲代達矢",
+        "popularity": 1.3044,
+        "profile_path": "/4LygOe0vFQplLIft5IUWI5OewPX.jpg",
+        "cast_id": 2,
+        "character": "Unosuke, gunfighter",
+        "credit_id": "52fe44999251416c7503a5eb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70811,
+        "known_for_department": "Acting",
+        "name": "Yôko Tsukasa",
+        "original_name": "司葉子",
+        "popularity": 0.6794,
+        "profile_path": "/hq7RFoQmnq82KoJpFPzioNXqlrK.jpg",
+        "cast_id": 3,
+        "character": "Nui",
+        "credit_id": "52fe44999251416c7503a5ef",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33761,
+        "known_for_department": "Acting",
+        "name": "山田五十鈴",
+        "original_name": "山田五十鈴",
+        "popularity": 0.439,
+        "profile_path": "/3b029DnOGOGBCj9rzg8RQFfYPHw.jpg",
+        "cast_id": 4,
+        "character": "Orin",
+        "credit_id": "52fe44999251416c7503a5f3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7457,
+        "known_for_department": "Acting",
+        "name": "加東大介",
+        "original_name": "加東大介",
+        "popularity": 1.1378,
+        "profile_path": "/dTcLO2XWLwp6RiJTpwDjxzbnuSp.jpg",
+        "cast_id": 14,
+        "character": "Inokichi",
+        "credit_id": "52fe44999251416c7503a62d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83202,
+        "known_for_department": "Acting",
+        "name": "Seizaburô Kawazu",
+        "original_name": "河津清三郎",
+        "popularity": 0.6579,
+        "profile_path": "/l6d2AdjkG59E35X1snJWrt4oph2.jpg",
+        "cast_id": 16,
+        "character": "Seibê - brothel operator",
+        "credit_id": "52fe44999251416c7503a635",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7453,
+        "known_for_department": "Acting",
+        "name": "志村喬",
+        "original_name": "志村喬",
+        "popularity": 1.1852,
+        "profile_path": "/j88EU7H06bQePjyaZffoNFuG0L6.jpg",
+        "cast_id": 15,
+        "character": "Tokuemon, sake brewer",
+        "credit_id": "52fe44999251416c7503a631",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33763,
+        "known_for_department": "Acting",
+        "name": "太刀川寛",
+        "original_name": "太刀川寛",
+        "popularity": 0.6599,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Yoichiro",
+        "credit_id": "52fe44999251416c7503a639",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131201,
+        "known_for_department": "Acting",
+        "name": "夏木陽介",
+        "original_name": "夏木陽介",
+        "popularity": 0.8001,
+        "profile_path": "/jE3Vvko1gVcRUB6x4aWAwztaD0B.jpg",
+        "cast_id": 25,
+        "character": "Kohei's Son",
+        "credit_id": "52fe44999251416c7503a655",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 106165,
+        "known_for_department": "Acting",
+        "name": "東野英治郎",
+        "original_name": "東野英治郎",
+        "popularity": 0.5255,
+        "profile_path": "/dJqhcdHUqwa4S7bFjFXMza8jBth.jpg",
+        "cast_id": 19,
+        "character": "Gonji, Tavern Keeper",
+        "credit_id": "52fe44999251416c7503a63d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 96552,
+        "known_for_department": "Acting",
+        "name": "藤原釜足",
+        "original_name": "藤原釜足",
+        "popularity": 0.7476,
+        "profile_path": "/jf1aok2Ln5XG805BDzBJc2PjZQg.jpg",
+        "cast_id": 20,
+        "character": "Tazaemon",
+        "credit_id": "52fe44999251416c7503a641",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97204,
+        "known_for_department": "Acting",
+        "name": "沢村いき雄",
+        "original_name": "沢村いき雄",
+        "popularity": 0.4048,
+        "profile_path": "/gKAa6KJILJZd2JR0V2FumFaRtz6.jpg",
+        "cast_id": 21,
+        "character": "Hansuke",
+        "credit_id": "52fe44999251416c7503a645",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134294,
+        "known_for_department": "Acting",
+        "name": "渡辺篤",
+        "original_name": "渡辺篤",
+        "popularity": 0.761,
+        "profile_path": "/s45tFh01BT7mCCwF7oz6IiEGqgC.jpg",
+        "cast_id": 22,
+        "character": "The Cooper (Coffin-Maker)",
+        "credit_id": "52fe44999251416c7503a649",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30907,
+        "known_for_department": "Acting",
+        "name": "藤田進",
+        "original_name": "藤田進",
+        "popularity": 0.3886,
+        "profile_path": "/sSnAxPTb4YEI3Mw15Y2isBbC22K.jpg",
+        "cast_id": 23,
+        "character": "Homma, Instructor Who Skips Town",
+        "credit_id": "52fe44999251416c7503a64d",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 213469,
+        "known_for_department": "Acting",
+        "name": "山茶花究",
+        "original_name": "山茶花究",
+        "popularity": 0.6115,
+        "profile_path": "/cd3ZT9lYG8JqodN9WF93V3e2IUM.jpg",
+        "cast_id": 24,
+        "character": "Ushitora",
+        "credit_id": "52fe44999251416c7503a651",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25462,
+        "known_for_department": "Acting",
+        "name": "西村晃",
+        "original_name": "西村晃",
+        "popularity": 0.7093,
+        "profile_path": "/vIJRKuIndIdwHwrgJpse4yCMweK.jpg",
+        "cast_id": 26,
+        "character": "Kuma",
+        "credit_id": "559054769251412963001404",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72540,
+        "known_for_department": "Acting",
+        "name": "加藤武",
+        "original_name": "加藤武",
+        "popularity": 0.7185,
+        "profile_path": "/Ajb5kXEFSbsbSgRoICgsKuVcQJ2.jpg",
+        "cast_id": 27,
+        "character": "Ronin Kobuhachi",
+        "credit_id": "559054c3925141338e001062",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118993,
+        "known_for_department": "Acting",
+        "name": "中谷一郎",
+        "original_name": "中谷一郎",
+        "popularity": 0.6499,
+        "profile_path": "/yGWAZguLnWvXW9xcAIE7Eo6VGfU.jpg",
+        "cast_id": 28,
+        "character": "First Samurai",
+        "credit_id": "559054ee9251415a26001cd4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108026,
+        "known_for_department": "Acting",
+        "name": "堺左千夫",
+        "original_name": "堺左千夫",
+        "popularity": 0.4572,
+        "profile_path": "/5b6g3ZHfSXxfNgInvwz44lUv43I.jpg",
+        "cast_id": 29,
+        "character": "First Foot Soldier",
+        "credit_id": "559055199251412c430010f2",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552167,
+        "known_for_department": "Acting",
+        "name": "谷晃",
+        "original_name": "谷晃",
+        "popularity": 0.5991,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Kame",
+        "credit_id": "55905558925141325f000608",
+        "order": 19
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1482585,
+        "known_for_department": "Acting",
+        "name": "Namigoro Rashomon",
+        "original_name": "Namigoro Rashomon",
+        "popularity": 1.4,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Kannuki the Giant",
+        "credit_id": "55905593c3a368686d00607c",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17540,
+        "known_for_department": "Acting",
+        "name": "土屋嘉男",
+        "original_name": "土屋嘉男",
+        "popularity": 0.5847,
+        "profile_path": "/kJS04UByTERRVYF7TwozrXwh5cs.jpg",
+        "cast_id": 32,
+        "character": "Kohei",
+        "credit_id": "559055a0c3a36843490037f4",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552187,
+        "known_for_department": "Acting",
+        "name": "清水元",
+        "original_name": "清水元",
+        "popularity": 0.8458,
+        "profile_path": "/j8cTqUE8RbrqwO5VUE2oZvDHgWn.jpg",
+        "cast_id": 33,
+        "character": "Magotaro",
+        "credit_id": "559055af925141325f00060e",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933714,
+        "known_for_department": "Acting",
+        "name": "ジェリー藤尾",
+        "original_name": "ジェリー藤尾",
+        "popularity": 0.3062,
+        "profile_path": "/6H3m9hWawCzKgSrQkFd7cjoJzXq.jpg",
+        "cast_id": 60,
+        "character": "Roku - Samurai Whose Arm is Cut",
+        "credit_id": "55905aa69251412c4300115e",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134320,
+        "known_for_department": "Acting",
+        "name": "佐田豊",
+        "original_name": "佐田豊",
+        "popularity": 0.3963,
+        "profile_path": "/wNQ0ewamRqCpy9HkSEBcCr2U4Fq.jpg",
+        "cast_id": 34,
+        "character": "Matsukichi",
+        "credit_id": "559055bec3a368686d006083",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552174,
+        "known_for_department": "Acting",
+        "name": "大友伸",
+        "original_name": "大友伸",
+        "popularity": 0.5096,
+        "profile_path": "/efd6F1rj3qu18nuF7ANaYumdfDa.jpg",
+        "cast_id": 35,
+        "character": "Kumosuke",
+        "credit_id": "559056b8c3a368686d006095",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552170,
+        "known_for_department": "Acting",
+        "name": "広瀬正一",
+        "original_name": "広瀬正一",
+        "popularity": 0.3113,
+        "profile_path": "/6GPbRH8GNvGygu9Bj77XeFr5l8w.jpg",
+        "cast_id": 36,
+        "character": "Ushitora Follower",
+        "credit_id": "559056ca9251412c4300110f",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 227622,
+        "known_for_department": "Acting",
+        "name": "天本英世",
+        "original_name": "天本英世",
+        "popularity": 0.4223,
+        "profile_path": "/5hPGmYj0FEaFC8Dij7xpIcG6waT.jpg",
+        "cast_id": 37,
+        "character": "Yahachi",
+        "credit_id": "559056d6c3a3687bdb0089cd",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553430,
+        "known_for_department": "Acting",
+        "name": "大木正司",
+        "original_name": "大木正司",
+        "popularity": 0.3771,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Sukeju",
+        "credit_id": "559057a0c3a3685cf9002fc4",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552173,
+        "known_for_department": "Acting",
+        "name": "大橋史典",
+        "original_name": "大橋史典",
+        "popularity": 0.4683,
+        "profile_path": "/10n66ncpxPCKDiubw4XfatAYrSU.jpg",
+        "cast_id": 39,
+        "character": "Second Samurai",
+        "credit_id": "559057b0c3a3684e6e001c80",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136553,
+        "known_for_department": "Acting",
+        "name": "寄山弘",
+        "original_name": "寄山弘",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "cast_id": 82,
+        "character": "Farmer",
+        "credit_id": "5fab2e3aa84a47003f3a853a",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552166,
+        "known_for_department": "Acting",
+        "name": "大村千吉",
+        "original_name": "大村千吉",
+        "popularity": 0.5338,
+        "profile_path": "/hRLeplP5SobQSm3QcQy1REsn9yH.jpg",
+        "cast_id": 41,
+        "character": "Traveler",
+        "credit_id": "559057f3925141296300143c",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7456,
+        "known_for_department": "Acting",
+        "name": "Noriko Honma",
+        "original_name": "本間文子",
+        "popularity": 0.4911,
+        "profile_path": "/r0Z6sTGdmRsm3TVJ7wxPD9xfoNC.jpg",
+        "cast_id": 42,
+        "character": "Farmer's Ex-wife",
+        "credit_id": "55905802c3a3687bdb0089e2",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1482592,
+        "known_for_department": "Acting",
+        "name": "Ryusuke Nishio",
+        "original_name": "Ryusuke Nishio",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Seibei Follower",
+        "credit_id": "55905813c3a3687fcb001645",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1167990,
+        "known_for_department": "Acting",
+        "name": "草川直也",
+        "original_name": "草川直也",
+        "popularity": 0.1926,
+        "profile_path": "/l4d1RplbxJhssYonWOLxbE3I1LN.jpg",
+        "cast_id": 44,
+        "character": "Seibei Follower",
+        "credit_id": "5590587992514145080010f2",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235381,
+        "known_for_department": "Acting",
+        "name": "桐野洋雄",
+        "original_name": "桐野洋雄",
+        "popularity": 0.1884,
+        "profile_path": "/5DMWYLaQVjM0dStNOcd0mtgUad0.jpg",
+        "cast_id": 45,
+        "character": "Seibei Follower",
+        "credit_id": "5590588ac3a368686d0060b4",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1479153,
+        "known_for_department": "Acting",
+        "name": "津田光男",
+        "original_name": "津田光男",
+        "popularity": 0.6272,
+        "profile_path": null,
+        "cast_id": 83,
+        "character": "",
+        "credit_id": "5fab2e88e1faed004045dd2e",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121190,
+        "known_for_department": "Acting",
+        "name": "高木新平",
+        "original_name": "高木新平",
+        "popularity": 0.1811,
+        "profile_path": "/qXuhGryqHToin3yHSvrfefRkyzF.jpg",
+        "cast_id": 79,
+        "character": "Ushitora Follower",
+        "credit_id": "5a9c52ae0e0a2605f2036d4a",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083306,
+        "known_for_department": "Acting",
+        "name": "大友純",
+        "original_name": "大友純",
+        "popularity": 0.2228,
+        "profile_path": "/t1CMnOZL7O77FHsLUQcy97m15e9.jpg",
+        "cast_id": 46,
+        "character": "Seibei Follower",
+        "credit_id": "55905898c3a3685d45003001",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1185637,
+        "known_for_department": "Acting",
+        "name": "草間璋夫",
+        "original_name": "草間璋夫",
+        "popularity": 0.6168,
+        "profile_path": "/toHHIdaSHJ8UWGX1KfDfyoGaviu.jpg",
+        "cast_id": 48,
+        "character": "Ushitora Follower",
+        "credit_id": "559058ed9251415a26001d20",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1060036,
+        "known_for_department": "Acting",
+        "name": "小川安三",
+        "original_name": "小川安三",
+        "popularity": 0.7014,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Ushitora Follower",
+        "credit_id": "559058fdc3a3684349003832",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1200147,
+        "known_for_department": "Acting",
+        "name": "高木弘",
+        "original_name": "高木弘",
+        "popularity": 0.0843,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Ushitora Follower",
+        "credit_id": "559059379251412c43001149",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1167988,
+        "known_for_department": "Acting",
+        "name": "向井淳一郎",
+        "original_name": "向井淳一郎",
+        "popularity": 0.5607,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Seibei Follower",
+        "credit_id": "559059529251415a26001d26",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552169,
+        "known_for_department": "Acting",
+        "name": "熊谷卓三",
+        "original_name": "熊谷卓三",
+        "popularity": 0.5278,
+        "profile_path": "/xanW6GbvZk53ITGXltY3tbj6KxO.jpg",
+        "cast_id": 86,
+        "character": "",
+        "credit_id": "5fab2ec2e1faed004245ae7f",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552180,
+        "known_for_department": "Acting",
+        "name": "千葉一郎",
+        "original_name": "千葉一郎",
+        "popularity": 0.6202,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Second Foot Soldier",
+        "credit_id": "55905992c3a3687fcb001668",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552184,
+        "known_for_department": "Acting",
+        "name": "坂本晴哉",
+        "original_name": "坂本晴哉",
+        "popularity": 0.3304,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Ushitora Follower",
+        "credit_id": "5590599f925141338e0010a5",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552182,
+        "known_for_department": "Acting",
+        "name": "緒方燐作",
+        "original_name": "緒方燐作",
+        "popularity": 0.2227,
+        "profile_path": "/1LNdhjRZ5WVkxll5NaMoo1AxrZz.jpg",
+        "cast_id": 55,
+        "character": "Seibei Follower",
+        "credit_id": "559059acc3a3684349003847",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482596,
+        "known_for_department": "Acting",
+        "name": "小串丈夫",
+        "original_name": "小串丈夫",
+        "popularity": 0.1191,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Ushitora Follower",
+        "credit_id": "55905a1d925141338e0010b1",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1482597,
+        "known_for_department": "Acting",
+        "name": "Yoko Terui",
+        "original_name": "Yoko Terui",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Woman at Seibei's House",
+        "credit_id": "55905a33925141338e0010ba",
+        "order": 48
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1481412,
+        "known_for_department": "Acting",
+        "name": "峯丘ひろみ",
+        "original_name": "峯丘ひろみ",
+        "popularity": 0.1523,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Woman at Seibei's House",
+        "credit_id": "55905a459251412963001460",
+        "order": 49
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1482598,
+        "known_for_department": "Acting",
+        "name": "河美智子",
+        "original_name": "河美智子",
+        "popularity": 0.5477,
+        "profile_path": "/1zdMq5vr6sw59gtQLKAVJlS5jKY.jpg",
+        "cast_id": 59,
+        "character": "Woman at Seibei's House",
+        "credit_id": "55905a769251415a26001d32",
+        "order": 50
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.1929,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe44999251416c7503a5f9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.1929,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe44999251416c7503a5ff",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34373,
+        "known_for_department": "Writing",
+        "name": "菊島隆三",
+        "original_name": "菊島隆三",
+        "popularity": 0.5939,
+        "profile_path": "/gNNF41FS2hqSKRHR0Rwkanvv68D.jpg",
+        "credit_id": "52fe44999251416c7503a605",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34373,
+        "known_for_department": "Writing",
+        "name": "菊島隆三",
+        "original_name": "菊島隆三",
+        "popularity": 0.5939,
+        "profile_path": "/gNNF41FS2hqSKRHR0Rwkanvv68D.jpg",
+        "credit_id": "52fe44999251416c7503a60b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.1929,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe44999251416c7503a611",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18604,
+        "known_for_department": "Production",
+        "name": "田中友幸",
+        "original_name": "田中友幸",
+        "popularity": 0.4447,
+        "profile_path": "/fceS19GAexPnmtVQJHG9VxaVHGZ.jpg",
+        "credit_id": "52fe44999251416c7503a617",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18609,
+        "known_for_department": "Sound",
+        "name": "佐藤勝",
+        "original_name": "佐藤勝",
+        "popularity": 0.2028,
+        "profile_path": "/rprvOr48BOrvaGnFifV5DoVJci8.jpg",
+        "credit_id": "52fe44999251416c7503a61d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7461,
+        "known_for_department": "Camera",
+        "name": "宮川一夫",
+        "original_name": "宮川一夫",
+        "popularity": 0.2336,
+        "profile_path": "/zOuiKy1s39qfm1eY6HBF6OIFIBu.jpg",
+        "credit_id": "52fe44999251416c7503a623",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5026,
+        "known_for_department": "Directing",
+        "name": "Akira Kurosawa",
+        "original_name": "黒澤明",
+        "popularity": 2.1929,
+        "profile_path": "/ca8fRqLDfTJTCamLKHp70up23ET.jpg",
+        "credit_id": "52fe44999251416c7503a629",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33132,
+        "known_for_department": "Art",
+        "name": "村木与四郎",
+        "original_name": "村木与四郎",
+        "popularity": 0.4505,
+        "profile_path": "/yBbn62PUvRXUitSrD3NgLGajtyX.jpg",
+        "credit_id": "56148325c3a368681401b704",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33132,
+        "known_for_department": "Art",
+        "name": "村木与四郎",
+        "original_name": "村木与四郎",
+        "popularity": 0.4505,
+        "profile_path": "/yBbn62PUvRXUitSrD3NgLGajtyX.jpg",
+        "credit_id": "56148347c3a368681f017f47",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1429269,
+        "known_for_department": "Editing",
+        "name": "Reiko Kaneko",
+        "original_name": "Reiko Kaneko",
+        "popularity": 0.2151,
+        "profile_path": null,
+        "credit_id": "561483ae92514147d800ffed",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143707,
+        "known_for_department": "Directing",
+        "name": "野上照代",
+        "original_name": "野上照代",
+        "popularity": 0.7753,
+        "profile_path": "/yo6YxxkjGhq9n8jG1RJaigY01RL.jpg",
+        "credit_id": "5643878c9251410a4c002720",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640545,
+        "known_for_department": "Production",
+        "name": "Hiroshi Nezu",
+        "original_name": "Hiroshi Nezu",
+        "popularity": 0.2668,
+        "profile_path": null,
+        "credit_id": "576c6fe79251411566000830",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1534241,
+        "known_for_department": "Directing",
+        "name": "出目昌伸",
+        "original_name": "出目昌伸",
+        "popularity": 0.4658,
+        "profile_path": "/7WhMRcNpLsV4EKkYXv7jAvF0nKO.jpg",
+        "credit_id": "576c705b92514115400007be",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33125,
+        "known_for_department": "Directing",
+        "name": "森谷司郎",
+        "original_name": "森谷司郎",
+        "popularity": 0.2823,
+        "profile_path": null,
+        "credit_id": "576c7085c3a36859e1000c8e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1561110,
+        "known_for_department": "Art",
+        "name": "Yoshifumi Honda",
+        "original_name": "Yoshifumi Honda",
+        "popularity": 0.1868,
+        "profile_path": null,
+        "credit_id": "576c70d9c3a3686f99000928",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1268048,
+        "known_for_department": "Crew",
+        "name": "Chôshichirô Mikami",
+        "original_name": "Chôshichirô Mikami",
+        "popularity": 0.202,
+        "profile_path": null,
+        "credit_id": "576c713c92514107f6000c66",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1640546,
+        "known_for_department": "Sound",
+        "name": "Ichirô Minawa",
+        "original_name": "Ichirô Minawa",
+        "popularity": 0.4591,
+        "profile_path": null,
+        "credit_id": "576c7180c3a36859e1000cf7",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1530328,
+        "known_for_department": "Sound",
+        "name": "Masanobu Miyazaki",
+        "original_name": "Masanobu Miyazaki",
+        "popularity": 0.2352,
+        "profile_path": null,
+        "credit_id": "576c71fa92514118ab000776",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529560,
+        "known_for_department": "Sound",
+        "name": "下永尚",
+        "original_name": "下永尚",
+        "popularity": 0.7533,
+        "profile_path": null,
+        "credit_id": "576c7228c3a3686b850008e9",
+        "department": "Crew",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529561,
+        "known_for_department": "Lighting",
+        "name": "石井長四郎",
+        "original_name": "石井長四郎",
+        "popularity": 0.6041,
+        "profile_path": null,
+        "credit_id": "576c72779251411519000836",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70129,
+        "known_for_department": "Camera",
+        "name": "斎藤孝雄",
+        "original_name": "斎藤孝雄",
+        "popularity": 0.2513,
+        "profile_path": null,
+        "credit_id": "576c72e8c3a3686b430009c4",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 552179,
+        "known_for_department": "Acting",
+        "name": "久世竜",
+        "original_name": "久世竜",
+        "popularity": 0.6089,
+        "profile_path": null,
+        "credit_id": "576c736192514107ed000e0c",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1982444,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yoshiko Matsumoto",
+        "original_name": "Yoshiko Matsumoto",
+        "popularity": 0.1713,
+        "profile_path": null,
+        "credit_id": "5a909973c3a36878a0004e12",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1982445,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Junjirō Yamada",
+        "original_name": "Junjirō Yamada",
+        "popularity": 0.2636,
+        "profile_path": null,
+        "credit_id": "5a9099829251413355004bfb",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33130,
+        "known_for_department": "Camera",
+        "name": "木村大作",
+        "original_name": "木村大作",
+        "popularity": 0.7237,
+        "profile_path": null,
+        "credit_id": "5af880b392514139960002c5",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1901701,
+        "known_for_department": "Art",
+        "name": "Kôichi Hamamura",
+        "original_name": "Kôichi Hamamura",
+        "popularity": 0.2612,
+        "profile_path": null,
+        "credit_id": "5af8818492514139cd000477",
+        "department": "Art",
+        "job": "Property Master"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 233,
+        "name": "japan"
+      },
+      {
+        "id": 1462,
+        "name": "samurai"
+      },
+      {
+        "id": 1400,
+        "name": "swordplay"
+      },
+      {
+        "id": 395,
+        "name": "gambling"
+      },
+      {
+        "id": 1938,
+        "name": "sword"
+      },
+      {
+        "id": 3088,
+        "name": "bodyguard"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 14955,
+        "name": "fighting"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 34038,
+        "name": "intrigue"
+      },
+      {
+        "id": 155198,
+        "name": "ronin"
+      },
+      {
+        "id": 186753,
+        "name": "jidaigeki"
+      },
+      {
+        "id": 188944,
+        "name": "revolver"
+      },
+      {
+        "id": 190446,
+        "name": "edo period"
+      },
+      {
+        "id": 198754,
+        "name": "feudal japan"
+      },
+      {
+        "id": 207928,
+        "name": "19th century"
+      },
+      {
+        "id": 232700,
+        "name": "business rivalry"
+      },
+      {
+        "id": 238066,
+        "name": "middleman"
+      },
+      {
+        "id": 254500,
+        "name": "asian western"
+      },
+      {
+        "id": 291153,
+        "name": "grand"
+      },
+      {
+        "id": 293751,
+        "name": "rivals"
+      },
+      {
+        "id": 342829,
+        "name": "pitting ones enemy's against each other"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Release",
+            "release_date": "2024-10-26T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2000-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "IMDB",
+            "release_date": "1963-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1982-05-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1965-03-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2001-05-16T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1963-03-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "ja",
+            "note": "",
+            "release_date": "1961-04-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1979-09-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-01-25T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1967-11-09T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray & 4K UHD",
+            "release_date": "2025-03-17T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "1961-08-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1963-06-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-04-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2004-04-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1963-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1983-01-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [
+              "Violence",
+              "Coarse Language"
+            ],
+            "iso_639_1": "",
+            "note": "4k restored",
+            "release_date": "2025-06-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [
+              "Violence",
+              "Coarse Language"
+            ],
+            "iso_639_1": "",
+            "note": "Eye Film Player",
+            "release_date": "2025-06-26T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-09-07T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1964-10-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-09-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VHS",
+            "release_date": "1999-01-01T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

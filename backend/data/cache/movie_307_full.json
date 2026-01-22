@@ -1,0 +1,996 @@
+{
+  "adult": false,
+  "backdrop_path": "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "Guerra"
+    }
+  ],
+  "homepage": "",
+  "id": 307,
+  "imdb_id": "tt0038890",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Roma città aperta",
+  "overview": "A localização: Roma ocupada pelos nazistas. Como Roma é classificada como uma cidade aberta, a maioria dos romanos pode passear pelas ruas sem medo de a cidade ser bombardeado ou eles serem mortos no processo. Mas a vida para os romanos ainda é difícil com a ocupação nazista. Há um toque de recolher, alimentos básicos são racionados, e os nazistas ainda estão procurando aqueles que trabalham para a resistência e fazem qualquer coisa para reprimir os que estão na resistência e ninguém  dá nenhuma ajuda aos partisans.",
+  "popularity": 3.9443,
+  "poster_path": "/4F6swrmExL01J7KuZgl841aqiQ.jpg",
+  "production_companies": [
+    {
+      "id": 193,
+      "logo_path": null,
+      "name": "Excelsa Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1945-10-08",
+  "revenue": 1000000,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Roma, Cidade Aberta",
+  "video": false,
+  "vote_average": 8.019,
+  "vote_count": 955,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4420,
+        "known_for_department": "Acting",
+        "name": "Aldo Fabrizi",
+        "original_name": "Aldo Fabrizi",
+        "popularity": 0.4704,
+        "profile_path": "/uXHLyjiFRzccnYUzP2ENYQEkhVC.jpg",
+        "cast_id": 13,
+        "character": "Don Pietro Pellegrini",
+        "credit_id": "52fe4235c3a36847f800c3f1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4422,
+        "known_for_department": "Directing",
+        "name": "Marcello Pagliero",
+        "original_name": "Marcello Pagliero",
+        "popularity": 0.5326,
+        "profile_path": "/lXAv4nx1KkvZFohYn7fi5SFZRVO.jpg",
+        "cast_id": 15,
+        "character": "Giorgio Manfredi aka Luigi Ferraris",
+        "credit_id": "52fe4235c3a36847f800c3f9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4424,
+        "known_for_department": "Acting",
+        "name": "Harry Feist",
+        "original_name": "Harry Feist",
+        "popularity": 0.3709,
+        "profile_path": "/7aSAXOUFNtjyTzGxHD1EuP2RX5o.jpg",
+        "cast_id": 16,
+        "character": "Major Fritz Bergmann",
+        "credit_id": "52fe4235c3a36847f800c3fd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4421,
+        "known_for_department": "Acting",
+        "name": "Anna Magnani",
+        "original_name": "Anna Magnani",
+        "popularity": 0.9575,
+        "profile_path": "/iT6FUf7z5O2N9OOZFxhreVWRHYp.jpg",
+        "cast_id": 14,
+        "character": "Pina",
+        "credit_id": "52fe4235c3a36847f800c3f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4426,
+        "known_for_department": "Acting",
+        "name": "Maria Michi",
+        "original_name": "Maria Michi",
+        "popularity": 0.3252,
+        "profile_path": "/z4IJay0SUTnTzwkvK29fwQ8n1RV.jpg",
+        "cast_id": 18,
+        "character": "Marina Mari",
+        "credit_id": "52fe4235c3a36847f800c405",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4425,
+        "known_for_department": "Acting",
+        "name": "Francesco Grandjacquet",
+        "original_name": "Francesco Grandjacquet",
+        "popularity": 0.2176,
+        "profile_path": "/nuG8gVafa3Qpf7UBbf3beS1UnLH.jpg",
+        "cast_id": 17,
+        "character": "Francesco",
+        "credit_id": "52fe4235c3a36847f800c401",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4423,
+        "known_for_department": "Acting",
+        "name": "Vito Annichiarico",
+        "original_name": "Vito Annichiarico",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Marcello",
+        "credit_id": "52fe4235c3a36847f800c409",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5001,
+        "known_for_department": "Writing",
+        "name": "Ákos Tolnay",
+        "original_name": "Ákos Tolnay",
+        "popularity": 0.2159,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Austrian Deserter",
+        "credit_id": "52fe4235c3a36847f800c413",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5002,
+        "known_for_department": "Acting",
+        "name": "Joop van Hulzen",
+        "original_name": "Joop van Hulzen",
+        "popularity": 0.2311,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Captain Hartmann",
+        "credit_id": "52fe4235c3a36847f800c417",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5003,
+        "known_for_department": "Acting",
+        "name": "Carla Rovere",
+        "original_name": "Carla Rovere",
+        "popularity": 0.0264,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Lauretta",
+        "credit_id": "52fe4235c3a36847f800c41b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18337,
+        "known_for_department": "Acting",
+        "name": "Giovanna Galletti",
+        "original_name": "Giovanna Galletti",
+        "popularity": 0.2938,
+        "profile_path": "/uRIcePqBd860nE6mBoMAEuHQ5JO.jpg",
+        "cast_id": 25,
+        "character": "Ingrid",
+        "credit_id": "52fe4235c3a36847f800c41f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132194,
+        "known_for_department": "Acting",
+        "name": "Nando Bruno",
+        "original_name": "Nando Bruno",
+        "popularity": 0.1733,
+        "profile_path": "/frBpf1CDNNrQ2c8LJUY1v5LgAu6.jpg",
+        "cast_id": 39,
+        "character": "Agostino the Sexton",
+        "credit_id": "562034359251413a74000886",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 374218,
+        "known_for_department": "Acting",
+        "name": "Eduardo Passarelli",
+        "original_name": "Eduardo Passarelli",
+        "popularity": 0.1829,
+        "profile_path": "/k96lHLUYIfLI86kS3hMjDd6QIbn.jpg",
+        "cast_id": 40,
+        "character": "Neighborhood Police Sergeant",
+        "credit_id": "5620348fc3a3680e24005efe",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 32669,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carlo Sindici",
+        "original_name": "Carlo Sindici",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Police Commissioner",
+        "credit_id": "562034c4c3a3680e0e00601c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132479,
+        "known_for_department": "Acting",
+        "name": "Turi Pandolfini",
+        "original_name": "Turi Pandolfini",
+        "popularity": 0.284,
+        "profile_path": "/5UlqZs6pzEY0x0dsXb0OmHyeCjP.jpg",
+        "cast_id": 42,
+        "character": "Grandfather (uncredited)",
+        "credit_id": "5620353992514171d4005aca",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1459391,
+        "known_for_department": "Acting",
+        "name": "Amalia Pellegrini",
+        "original_name": "Amalia Pellegrini",
+        "popularity": 0.2259,
+        "profile_path": "/tlRq2FcIOD2gMh0sU9JNRP60xfB.jpg",
+        "cast_id": 43,
+        "character": "Nannina (uncredited)",
+        "credit_id": "56203555c3a3680e190057bb",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 543796,
+        "known_for_department": "Art",
+        "name": "Alberto Tavazzi",
+        "original_name": "Alberto Tavazzi",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "The Priest (uncredited)",
+        "credit_id": "5620358392514171cb00573f",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4416,
+        "known_for_department": "Sound",
+        "name": "Renzo Rossellini",
+        "original_name": "Renzo Rossellini",
+        "popularity": 0.1346,
+        "profile_path": "/roEI4WCBeyHvzCUIyp0OI8rHDWQ.jpg",
+        "credit_id": "52fe4235c3a36847f800c3db",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4419,
+        "known_for_department": "Art",
+        "name": "Rosario Megna",
+        "original_name": "Rosario Megna",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4235c3a36847f800c3ed",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4413,
+        "known_for_department": "Writing",
+        "name": "Sergio Amidei",
+        "original_name": "Sergio Amidei",
+        "popularity": 0.2523,
+        "profile_path": null,
+        "credit_id": "52fe4235c3a36847f800c437",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4418,
+        "known_for_department": "Editing",
+        "name": "Eraldo Da Roma",
+        "original_name": "Eraldo Da Roma",
+        "popularity": 0.2271,
+        "profile_path": "/7mU29mK4NziwjL7GSHCIeDb4pb7.jpg",
+        "credit_id": "52fe4235c3a36847f800c3e7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4417,
+        "known_for_department": "Camera",
+        "name": "Ubaldo Arata",
+        "original_name": "Ubaldo Arata",
+        "popularity": 0.0981,
+        "profile_path": null,
+        "credit_id": "52fe4235c3a36847f800c3e1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4410,
+        "known_for_department": "Directing",
+        "name": "Roberto Rossellini",
+        "original_name": "Roberto Rossellini",
+        "popularity": 1.0219,
+        "profile_path": "/dEfCuU0CoIqhgoEDtHZpIoNWNVj.jpg",
+        "credit_id": "52fe4235c3a36847f800c3c3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4413,
+        "known_for_department": "Writing",
+        "name": "Sergio Amidei",
+        "original_name": "Sergio Amidei",
+        "popularity": 0.2523,
+        "profile_path": null,
+        "credit_id": "52fe4235c3a36847f800c43d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 54928,
+        "known_for_department": "Production",
+        "name": "Rod E. Geiger",
+        "original_name": "Rod E. Geiger",
+        "popularity": 0.1427,
+        "profile_path": null,
+        "credit_id": "6279352067e0f75369566a9b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4411,
+        "known_for_department": "Production",
+        "name": "Giuseppe Amato",
+        "original_name": "Giuseppe Amato",
+        "popularity": 0.1712,
+        "profile_path": "/cdInEb32KWsw2FHvUlApiyLeZmQ.jpg",
+        "credit_id": "627934ff389da100a3255db6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4415,
+        "known_for_department": "Directing",
+        "name": "Federico Fellini",
+        "original_name": "Federico Fellini",
+        "popularity": 1.652,
+        "profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+        "credit_id": "6279356172d8551306a8d05c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4410,
+        "known_for_department": "Directing",
+        "name": "Roberto Rossellini",
+        "original_name": "Roberto Rossellini",
+        "popularity": 1.0219,
+        "profile_path": "/dEfCuU0CoIqhgoEDtHZpIoNWNVj.jpg",
+        "credit_id": "6279352c323eba5246bdb049",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4410,
+        "known_for_department": "Directing",
+        "name": "Roberto Rossellini",
+        "original_name": "Roberto Rossellini",
+        "popularity": 1.0219,
+        "profile_path": "/dEfCuU0CoIqhgoEDtHZpIoNWNVj.jpg",
+        "credit_id": "627934e9389da1006647bf4b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 22472,
+        "known_for_department": "Editing",
+        "name": "Jolanda Benvenuti",
+        "original_name": "Jolanda Benvenuti",
+        "popularity": 0.101,
+        "profile_path": "/2qJTodsSTzZaxQ035RefWtUSXDv.jpg",
+        "credit_id": "62793542713ea632887a9e01",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4428,
+        "known_for_department": "Sound",
+        "name": "Raffaele Del Monte",
+        "original_name": "Raffaele Del Monte",
+        "popularity": 0.1568,
+        "profile_path": null,
+        "credit_id": "61c0c1626a300b001d9be51c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4413,
+        "known_for_department": "Writing",
+        "name": "Sergio Amidei",
+        "original_name": "Sergio Amidei",
+        "popularity": 0.2523,
+        "profile_path": null,
+        "credit_id": "61c0c1ee6517d6001a52a39a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1643892,
+        "known_for_department": "Sound",
+        "name": "Luigi Ricci",
+        "original_name": "Luigi Ricci",
+        "popularity": 0.099,
+        "profile_path": null,
+        "credit_id": "61c0c22a2da846001d2d6af5",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2939782,
+        "known_for_department": "Production",
+        "name": "Alberto Manni",
+        "original_name": "Alberto Manni",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "61c0c1a70443c900600a441f",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1538558,
+        "known_for_department": "Production",
+        "name": "Jone Tuzi",
+        "original_name": "Jone Tuzi",
+        "popularity": 0.0766,
+        "profile_path": null,
+        "credit_id": "61c0c1ca2da8460092960065",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4412,
+        "known_for_department": "Production",
+        "name": "Ferruccio De Martino",
+        "original_name": "Ferruccio De Martino",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "credit_id": "561fe171c3a3680e16003c55",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1187444,
+        "known_for_department": "Camera",
+        "name": "Vincenzo Seratrice",
+        "original_name": "Vincenzo Seratrice",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "561fe21a92514171cd0042b6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4415,
+        "known_for_department": "Directing",
+        "name": "Federico Fellini",
+        "original_name": "Federico Fellini",
+        "popularity": 1.652,
+        "profile_path": "/r0GTpMWUrxgPRbMmv38mNggOBvA.jpg",
+        "credit_id": "63d109d59f51af008299d12f",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2652,
+        "name": "nazi"
+      },
+      {
+        "id": 588,
+        "name": "rome, italy"
+      },
+      {
+        "id": 836,
+        "name": "resistance"
+      },
+      {
+        "id": 1755,
+        "name": "fascism"
+      },
+      {
+        "id": 1803,
+        "name": "drug addiction"
+      },
+      {
+        "id": 1805,
+        "name": "curfew"
+      },
+      {
+        "id": 1806,
+        "name": "desertion"
+      },
+      {
+        "id": 189422,
+        "name": "nazi occupation"
+      },
+      {
+        "id": 196096,
+        "name": "nsdap (nazi party)"
+      },
+      {
+        "id": 207883,
+        "name": "1940s"
+      },
+      {
+        "id": 208408,
+        "name": "neo realism"
+      },
+      {
+        "id": 252193,
+        "name": "italian neo realism"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1947-02-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1948-11-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "e 16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1946-01-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TV Futura",
+            "release_date": "2015-12-12T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1961-02-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1946-10-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Madrid",
+            "release_date": "1969-10-14T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Barcelona",
+            "release_date": "1969-09-09T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-12-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1946-11-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rerelease",
+            "release_date": "2021-06-30T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1963-01-01T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1948-12-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Issue",
+            "release_date": "2025-06-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-05-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "Rome International Film Festival",
+            "release_date": "1945-09-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "1945-10-08T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "Re-release",
+            "release_date": "2014-03-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1950-11-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1948-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2015-03-30T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Porto, Cineclube do Porto",
+            "release_date": "1984-12-02T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release; Restored version",
+            "release_date": "1983-07-22T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1947-10-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2015-04-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1947-03-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "rus",
+            "note": "Субтитры – субт. маст. ГУКиК , 1947 г.",
+            "release_date": "1947-10-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1946-02-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1947-11-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cape Town",
+            "release_date": "1948-02-09T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Durban",
+            "release_date": "1948-05-19T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Johannesburg",
+            "release_date": "1948-03-08T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  }
+}

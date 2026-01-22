@@ -1,0 +1,545 @@
+{
+  "adult": false,
+  "backdrop_path": "/60mel00T22aIaV3Gy7uP3jPGbXm.jpg",
+  "belongs_to_collection": {
+    "id": 686791,
+    "name": "The Untold Story Collection",
+    "poster_path": "/1ZWpnoJfbj9SVyrgGb3gIE64BVx.jpg",
+    "backdrop_path": "/xuzis3qLCRLt3c3fOcAOYz6K3jA.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    }
+  ],
+  "homepage": "",
+  "id": 39857,
+  "imdb_id": "tt0103743",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "八仙飯店之人肉叉燒包",
+  "overview": "",
+  "popularity": 7.3067,
+  "poster_path": "/9SIFnCS9rzBIO0T4oTSTpYTcRHg.jpg",
+  "production_companies": [
+    {
+      "id": 44692,
+      "logo_path": null,
+      "name": "Uniden Investments",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1993-05-13",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "八仙飯店之人肉叉燒包",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 147,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26784,
+        "known_for_department": "Acting",
+        "name": "李修賢",
+        "original_name": "李修賢",
+        "popularity": 1.2649,
+        "profile_path": "/fyRGlzi1fF20d37ryTQx8aK6k49.jpg",
+        "cast_id": 7,
+        "character": "Officer Lee",
+        "credit_id": "52fe47369251416c9106dd49",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66717,
+        "known_for_department": "Acting",
+        "name": "黃秋生",
+        "original_name": "黃秋生",
+        "popularity": 2.2983,
+        "profile_path": "/hHxVKR5MJoqBNg210Kw2vYahw80.jpg",
+        "cast_id": 6,
+        "character": "Wong Chi Hang",
+        "credit_id": "52fe47369251416c9106dd45",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 555151,
+        "known_for_department": "Acting",
+        "name": "關寶慧",
+        "original_name": "關寶慧",
+        "popularity": 1.0473,
+        "profile_path": "/6PLjgVFWdsJCwVvKjzqXIbydCls.jpg",
+        "cast_id": 8,
+        "character": "Bo",
+        "credit_id": "52fe47369251416c9106dd4d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56804,
+        "known_for_department": "Acting",
+        "name": "劉兆銘",
+        "original_name": "劉兆銘",
+        "popularity": 1.0769,
+        "profile_path": "/qYtz9B0AwTSIJmObwCeZPYIGmcO.jpg",
+        "cast_id": 26,
+        "character": "Cheng Lam",
+        "credit_id": "6238082cdb4ed600451b4700",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119447,
+        "known_for_department": "Acting",
+        "name": "成奎安",
+        "original_name": "成奎安",
+        "popularity": 1.1498,
+        "profile_path": "/iLGQZ8OjGdZW3imJlgiUNv9ER8y.jpg",
+        "cast_id": 13,
+        "character": "Cheng Poon",
+        "credit_id": "52fe47379251416c9106dd5d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1119115,
+        "known_for_department": "Acting",
+        "name": "紀家發",
+        "original_name": "紀家發",
+        "popularity": 0.5959,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Robert",
+        "credit_id": "6475962bdd2589013f2ddf43",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228587,
+        "known_for_department": "Acting",
+        "name": "林敬剛",
+        "original_name": "林敬剛",
+        "popularity": 0.5225,
+        "profile_path": "/9tDdqjQv4kEgkfmwC7gwgJhdYZT.jpg",
+        "cast_id": 41,
+        "character": "King Kong",
+        "credit_id": "679287abff857acd6189991e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553881,
+        "known_for_department": "Acting",
+        "name": "黃柏文",
+        "original_name": "黃柏文",
+        "popularity": 0.9556,
+        "profile_path": "/tYgmuuA4iNK1eecRgMGGcVGub9Y.jpg",
+        "cast_id": 11,
+        "character": "Bull",
+        "credit_id": "52fe47379251416c9106dd55",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 556938,
+        "known_for_department": "Acting",
+        "name": "James Ha Chim-Si",
+        "original_name": "James Ha Chim-Si",
+        "popularity": 0.4245,
+        "profile_path": "/mCZZ2FiipAfiw2tEPt8FSrInFdx.jpg",
+        "cast_id": 34,
+        "character": "Wong's Hong Kong Mahjong Buddy",
+        "credit_id": "646d8e6ba5046e0189433873",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122815,
+        "known_for_department": "Acting",
+        "name": "李華月",
+        "original_name": "李華月",
+        "popularity": 1.6534,
+        "profile_path": "/mh0DWaY4xRauwHWciuoW4k32x39.jpg",
+        "cast_id": 36,
+        "character": "Pearl",
+        "credit_id": "64af4c37d6590b011eebd7ba",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1629227,
+        "known_for_department": "Acting",
+        "name": "許思敏",
+        "original_name": "許思敏",
+        "popularity": 1.0747,
+        "profile_path": "/3WSFTlz8v0o7Ei0QLxPx87DOrVa.jpg",
+        "cast_id": 28,
+        "character": "Cheng Lam's Wife",
+        "credit_id": "6238086fdb4ed600451b4802",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632540,
+        "known_for_department": "Acting",
+        "name": "藍靖",
+        "original_name": "藍靖",
+        "popularity": 0.2427,
+        "profile_path": "/oCyg3JOhxbMJDIjdyhuio5MKX6P.jpg",
+        "cast_id": 30,
+        "character": "Policeman at Hospital",
+        "credit_id": "6238088a2efe4e0075367e48",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415350,
+        "known_for_department": "Acting",
+        "name": "肥伯",
+        "original_name": "肥伯",
+        "popularity": 0.657,
+        "profile_path": "/a7cipe2IwjPRrj1G3imodBRJn6p.jpg",
+        "cast_id": 31,
+        "character": "Customs Officer Chan",
+        "credit_id": "6238089b209f180072da5efe",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1711713,
+        "known_for_department": "Directing",
+        "name": "梁鴻華",
+        "original_name": "梁鴻華",
+        "popularity": 0.4541,
+        "profile_path": "/nlPVD0iGDwXE9S27I6To3MsuAUx.jpg",
+        "cast_id": 38,
+        "character": "Doctor",
+        "credit_id": "6562f1ac706e5600e1538e99",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1417211,
+        "known_for_department": "Acting",
+        "name": "張浚鴻",
+        "original_name": "張浚鴻",
+        "popularity": 0.3331,
+        "profile_path": "/aoTkzz7baQApAiQeHP2r3RVxRRx.jpg",
+        "cast_id": 32,
+        "character": "Inmate",
+        "credit_id": "623808aa81c7be0076123063",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1400222,
+        "known_for_department": "Acting",
+        "name": "蘇偉南",
+        "original_name": "蘇偉南",
+        "popularity": 0.5615,
+        "profile_path": "/qw7aaQL4DfLyoY6a3VADSYkQHvT.jpg",
+        "cast_id": 33,
+        "character": "Policeman",
+        "credit_id": "62e21ddbca8354004d2fe3d5",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1265954,
+        "known_for_department": "Acting",
+        "name": "伍國健",
+        "original_name": "伍國健",
+        "popularity": 0.2394,
+        "profile_path": "/2yobqdubbKIWZQd6Xs3Emkdz0mE.jpg",
+        "cast_id": 42,
+        "character": "Policeman",
+        "credit_id": "679288b5d1ff4f396f57fbb2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632540,
+        "known_for_department": "Acting",
+        "name": "藍靖",
+        "original_name": "藍靖",
+        "popularity": 0.2427,
+        "profile_path": "/oCyg3JOhxbMJDIjdyhuio5MKX6P.jpg",
+        "cast_id": 43,
+        "character": "Policeman",
+        "credit_id": "679288ecd1ff4f396f57fbc9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065706,
+        "known_for_department": "Directing",
+        "name": "梁小熊",
+        "original_name": "梁小熊",
+        "popularity": 1.9401,
+        "profile_path": "/gGy2hVLZy0WnAyH8rUUO5Uxtwi6.jpg",
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "68b92165e823ec1c8c9bf268",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92831,
+        "known_for_department": "Directing",
+        "name": "邱禮濤",
+        "original_name": "邱禮濤",
+        "popularity": 0.6287,
+        "profile_path": "/tlNlkpshXcqnsnrVNAqSXzMQG7H.jpg",
+        "credit_id": "52fe47369251416c9106dd2f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555149,
+        "known_for_department": "Writing",
+        "name": "Law Kam-Fai",
+        "original_name": "Law Kam-Fai",
+        "popularity": 0.369,
+        "profile_path": null,
+        "credit_id": "52fe47369251416c9106dd35",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555150,
+        "known_for_department": "Crew",
+        "name": "Jimmy Ha",
+        "original_name": "Jimmy Ha",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "52fe47369251416c9106dd41",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1364187,
+        "known_for_department": "Crew",
+        "name": "Tien-Hsing Li",
+        "original_name": "Tien-Hsing Li",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "credit_id": "5416f4c2c3a3684cec00547d",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26784,
+        "known_for_department": "Acting",
+        "name": "李修賢",
+        "original_name": "李修賢",
+        "popularity": 1.2649,
+        "profile_path": "/fyRGlzi1fF20d37ryTQx8aK6k49.jpg",
+        "credit_id": "5aa036c29251414bc40110f4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1878953,
+        "known_for_department": "Editing",
+        "name": "蔡雄",
+        "original_name": "蔡雄",
+        "popularity": 0.4761,
+        "profile_path": null,
+        "credit_id": "5aa0370d0e0a2641d1018f9f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66004,
+        "known_for_department": "Art",
+        "name": "馬光榮",
+        "original_name": "馬光榮",
+        "popularity": 0.1885,
+        "profile_path": null,
+        "credit_id": "5aa036f4925141581e01641f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1992492,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yu Kit-Ling",
+        "original_name": "Yu Kit-Ling",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "5aa037230e0a2632a00128df",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1925186,
+        "known_for_department": "Sound",
+        "name": "王邦",
+        "original_name": "王邦",
+        "popularity": 0.1414,
+        "profile_path": null,
+        "credit_id": "5aa03734c3a3680a27016f01",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427704,
+        "known_for_department": "Camera",
+        "name": "曹惠琪",
+        "original_name": "曹惠琪",
+        "popularity": 0.1617,
+        "profile_path": null,
+        "credit_id": "5aa037020e0a2641d401920a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1702236,
+        "known_for_department": "Costume & Make-Up",
+        "name": "唐萍",
+        "original_name": "唐萍",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "credit_id": "5aa0372b925141580c016747",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 14676,
+        "name": "series of murders"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-30T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "III",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1993-05-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "",
+            "release_date": "1993-10-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1995-05-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

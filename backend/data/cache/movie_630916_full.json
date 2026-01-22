@@ -1,0 +1,578 @@
+{
+  "adult": false,
+  "backdrop_path": "/A4NuuRScGc4WmtBMOQpP5eap5HW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    }
+  ],
+  "homepage": "",
+  "id": 630916,
+  "imdb_id": "tt10921042",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Christmas at the Plaza",
+  "overview": "Com o Natal se aproximando em Nova York, a historiadora Jessica é contratada para criar uma exposição em homenagem à história do Natal no Hotel Plaza. Quando ela começa a trabalhar com Nick, um bonito decorador, eles acabam desfrutando de uma série de tradições natalinas juntos e se apaixonam um pelo outro.",
+  "popularity": 5.2926,
+  "poster_path": "/iNgQzpc1mDmt8j60FizkqwMOmv1.jpg",
+  "production_companies": [
+    {
+      "id": 53015,
+      "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-11-28",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Natal no Hotel Plaza",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 119,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223886,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Henstridge",
+        "original_name": "Elizabeth Henstridge",
+        "popularity": 0.7684,
+        "profile_path": "/7jodEzlGLKJYncM1tTGZdKiVWhZ.jpg",
+        "cast_id": 2,
+        "character": "Jessica Cooper",
+        "credit_id": "5d7b8e59069f0e62d733c3e9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1554734,
+        "known_for_department": "Acting",
+        "name": "Ryan Paevey",
+        "original_name": "Ryan Paevey",
+        "popularity": 1.4528,
+        "profile_path": "/sHBKqrGRayUyjmHs2BiUPUIoAiB.jpg",
+        "cast_id": 1,
+        "character": "Nick Perrelli",
+        "credit_id": "5d7b8e4f069f0e62d733c3d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52374,
+        "known_for_department": "Acting",
+        "name": "Bruce Davison",
+        "original_name": "Bruce Davison",
+        "popularity": 1.4575,
+        "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+        "cast_id": 3,
+        "character": "Reginald Brookwater",
+        "credit_id": "5db7ced60f2fbd001773b54e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 100602,
+        "known_for_department": "Acting",
+        "name": "Julia Duffy",
+        "original_name": "Julia Duffy",
+        "popularity": 1.0937,
+        "profile_path": "/oyHm2KIci8LyP6QSljjldmg0JbK.jpg",
+        "cast_id": 4,
+        "character": "Amanda Clark",
+        "credit_id": "5db7cede0f2fbd0014730d90",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80405,
+        "known_for_department": "Acting",
+        "name": "Karen Holness",
+        "original_name": "Karen Holness",
+        "popularity": 0.9145,
+        "profile_path": "/mKyNgWJMLA3dKRNHyAU0qaZWSRY.jpg",
+        "cast_id": 5,
+        "character": "Cassidy",
+        "credit_id": "5db7cee6a1d3320014e6d3ac",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1842856,
+        "known_for_department": "Acting",
+        "name": "David Lafontaine",
+        "original_name": "David Lafontaine",
+        "popularity": 0.5469,
+        "profile_path": "/1jUM0Cj5DXMenTZfb2kMhmthzTK.jpg",
+        "cast_id": 6,
+        "character": "Dennis Park",
+        "credit_id": "5db7cef00f2fbd001173539c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 997197,
+        "known_for_department": "Acting",
+        "name": "Nelson Wong",
+        "original_name": "Nelson Wong",
+        "popularity": 0.7313,
+        "profile_path": "/kepIOIAtrCZBvw7TuFufyGqQoo5.jpg",
+        "cast_id": 7,
+        "character": "Kenny Kwan",
+        "credit_id": "5db7cf002d37210019e89144",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 117085,
+        "known_for_department": "Acting",
+        "name": "Wanda Cannon",
+        "original_name": "Wanda Cannon",
+        "popularity": 0.867,
+        "profile_path": "/yyH6KOwbIxVRB9OGIRmvugdAnz1.jpg",
+        "cast_id": 8,
+        "character": "Lana",
+        "credit_id": "5db7cf070792e10013453c05",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148697,
+        "known_for_department": "Acting",
+        "name": "Adam Hurtig",
+        "original_name": "Adam Hurtig",
+        "popularity": 0.4515,
+        "profile_path": "/sJ0RxYecZCJ5zybOsQjTedhMwp.jpg",
+        "cast_id": 9,
+        "character": "Jeremy Brookwater",
+        "credit_id": "5db7cf11d2c0c1001b17eefb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1184420,
+        "known_for_department": "Acting",
+        "name": "Emilea Wilson",
+        "original_name": "Emilea Wilson",
+        "popularity": 0.3929,
+        "profile_path": "/njGu6dxdsuCoTsZhWWGnTlzQKQY.jpg",
+        "cast_id": 10,
+        "character": "Alicia",
+        "credit_id": "5db7cf1a0f2fbd0011735417",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 181863,
+        "known_for_department": "Acting",
+        "name": "Rebecca Street",
+        "original_name": "Rebecca Street",
+        "popularity": 0.3668,
+        "profile_path": "/mY6xiyfA5jr2XIl2C0fM52Ap1Of.jpg",
+        "cast_id": 12,
+        "character": "Marie",
+        "credit_id": "5db7cf2ca1d3320011e667b9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2443652,
+        "known_for_department": "Acting",
+        "name": "Gerardo Gismondi",
+        "original_name": "Gerardo Gismondi",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Max",
+        "credit_id": "5db7cf34d2c0c10018172256",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2154533,
+        "known_for_department": "Acting",
+        "name": "Stephanie Sy",
+        "original_name": "Stephanie Sy",
+        "popularity": 0.7739,
+        "profile_path": "/o2LxSIY7kbSh8WNpnM0FOPP6CVK.jpg",
+        "cast_id": 14,
+        "character": "Desiree",
+        "credit_id": "5db7cf3c0f2fbd001773b6c8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33051,
+        "known_for_department": "Acting",
+        "name": "John B. Lowe",
+        "original_name": "John B. Lowe",
+        "popularity": 0.4336,
+        "profile_path": "/j2Ra0REYuP9Ipdx6nG7tkukyycG.jpg",
+        "cast_id": 32,
+        "character": "Franklin Collins",
+        "credit_id": "643381794539d000f4346acf",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2443653,
+        "known_for_department": "Acting",
+        "name": "Brenda Gorlick",
+        "original_name": "Brenda Gorlick",
+        "popularity": 0.0732,
+        "profile_path": "/9nsylgTClZYLZG84i1MWcAfvHQr.jpg",
+        "cast_id": 16,
+        "character": "Mrs. Collins",
+        "credit_id": "5db7cf543faba0001939a045",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2443654,
+        "known_for_department": "Acting",
+        "name": "Paula Potosky",
+        "original_name": "Paula Potosky",
+        "popularity": 0.131,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Mother",
+        "credit_id": "5db7cf9b3faba0001438ea52",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2443655,
+        "known_for_department": "Acting",
+        "name": "Olivia Rattanathongsay",
+        "original_name": "Olivia Rattanathongsay",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Six-Year-Old Laurel",
+        "credit_id": "5db7cfa60792e10013453fb8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4807136,
+        "known_for_department": "Acting",
+        "name": "Tom Young",
+        "original_name": "Tom Young",
+        "popularity": 0.1187,
+        "profile_path": "/7qWQmOU58E7y2bcIFRbfPKpYmgt.jpg",
+        "cast_id": 34,
+        "character": "Nick Sr.",
+        "credit_id": "668469b5701ce8fc0f3b08c7",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75814,
+        "known_for_department": "Crew",
+        "name": "Sean Skene",
+        "original_name": "Sean Skene",
+        "popularity": 0.4997,
+        "profile_path": "/nCpq5xa35rZaqrogZ3kUyMEjsj5.jpg",
+        "credit_id": "66d48d123f78a81e7601f28b",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2139452,
+        "known_for_department": "Art",
+        "name": "Mike Mulhall",
+        "original_name": "Mike Mulhall",
+        "popularity": 0.1275,
+        "profile_path": null,
+        "credit_id": "5db7d0c32d37210019e8967c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80523,
+        "known_for_department": "Directing",
+        "name": "Ron Oliver",
+        "original_name": "Ron Oliver",
+        "popularity": 0.5678,
+        "profile_path": "/s6UJkj8g1GmD6M66gbQlIyjafY8.jpg",
+        "credit_id": "5db7cfbf2d37210019e89420",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2443657,
+        "known_for_department": "Art",
+        "name": "Sean McMullen",
+        "original_name": "Sean McMullen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5db7d0cda1d3320011e66e42",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1701249,
+        "known_for_department": "Art",
+        "name": "Robert K. Laurie",
+        "original_name": "Robert K. Laurie",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "5db7d0f40f2fbd0014731405",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80523,
+        "known_for_department": "Directing",
+        "name": "Ron Oliver",
+        "original_name": "Ron Oliver",
+        "popularity": 0.5678,
+        "profile_path": "/s6UJkj8g1GmD6M66gbQlIyjafY8.jpg",
+        "credit_id": "5db7cfbb3faba0001438eacb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1102089,
+        "known_for_department": "Production",
+        "name": "Karen S. Spiegel",
+        "original_name": "Karen S. Spiegel",
+        "popularity": 0.09,
+        "profile_path": null,
+        "credit_id": "5db7cfc9d2c0c1001b17f125",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1191557,
+        "known_for_department": "Production",
+        "name": "Ian Dimerman",
+        "original_name": "Ian Dimerman",
+        "popularity": 0.1998,
+        "profile_path": null,
+        "credit_id": "5db7cfd4a1d3320011e66a8f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68170,
+        "known_for_department": "Camera",
+        "name": "Thomas M. Harting",
+        "original_name": "Thomas M. Harting",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "credit_id": "5db7cfe0a1d3320011e66aec",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1928800,
+        "known_for_department": "Editing",
+        "name": "Darren Tucker",
+        "original_name": "Darren Tucker",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "credit_id": "5db7d106d2c0c1001617f581",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1518773,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Charl Boettger",
+        "original_name": "Charl Boettger",
+        "popularity": 0.094,
+        "profile_path": null,
+        "credit_id": "5db7d0e90f2fbd001173570d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1099013,
+        "known_for_department": "Production",
+        "name": "Allison Estrin",
+        "original_name": "Allison Estrin",
+        "popularity": 0.2588,
+        "profile_path": "/a6KmgalsVW9CKFcCeA2cZr7HpMy.jpg",
+        "credit_id": "5db7d11da1d3320011e66f89",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2443658,
+        "known_for_department": "Production",
+        "name": "Henry Russell",
+        "original_name": "Henry Russell",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "5db7d12f3faba0001639442f",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1099130,
+        "known_for_department": "Production",
+        "name": "Carmen Kotyk",
+        "original_name": "Carmen Kotyk",
+        "popularity": 0.2555,
+        "profile_path": "/rdd4jwz5urcON73O5e8AzlPuoDz.jpg",
+        "credit_id": "5db7d1120f2fbd001773bd56",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 242,
+        "name": "new york city"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Studio Universal",
+            "release_date": "2020-12-05T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "W Network",
+            "release_date": "2019-11-30T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-11-22T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TF1",
+            "release_date": "2020-11-05T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Hallmark Channel",
+            "release_date": "2019-11-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

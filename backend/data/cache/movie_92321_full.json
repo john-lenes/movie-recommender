@@ -1,0 +1,788 @@
+{
+  "adult": false,
+  "backdrop_path": "/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "https://www.hotarubi.info/",
+  "id": 92321,
+  "imdb_id": "tt2061702",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "蛍火の杜へ",
+  "overview": "A história se foca em uma pequena garota chamada Hotaru. Ela se perde em uma floresta popularmente conhecida por ser habitada por espíritos. Lá, Hotaru se depara com um jovem usando uma máscara de raposa. Ele se diz um espírito amaldiçoado que desaparecerá se um humano o tocar.",
+  "popularity": 0.0027,
+  "poster_path": "/679ZPF55mEPiHnzTIW1A5dmo7G2.jpg",
+  "production_companies": [
+    {
+      "id": 22602,
+      "logo_path": "/8IYhcuLMK8cdzlh3sugyOrWYGKJ.png",
+      "name": "Brain's Base",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2011-09-17",
+  "revenue": 0,
+  "runtime": 45,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Into the Forest of Fireflies' Light",
+  "video": false,
+  "vote_average": 8.266,
+  "vote_count": 1192,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1315197,
+        "known_for_department": "Acting",
+        "name": "沢田泉",
+        "original_name": "沢田泉",
+        "popularity": 0.446,
+        "profile_path": "/A59nyfer38Q2J84Fy1lUbqgIFN1.jpg",
+        "cast_id": 1008,
+        "character": "Hotaru's Mother (voice)",
+        "credit_id": "5360da92c3a36860b5000cde",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248372,
+        "known_for_department": "Acting",
+        "name": "田谷隼",
+        "original_name": "田谷隼",
+        "popularity": 0.3877,
+        "profile_path": "/nwar5Rk5HZwl1YxggzGp207h4Y6.jpg",
+        "cast_id": 1030,
+        "character": "Ryouta (voice)",
+        "credit_id": "5919e656c3a368423c05d199",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 992869,
+        "known_for_department": "Acting",
+        "name": "Ayane Sakura",
+        "original_name": "佐倉綾音",
+        "popularity": 2.9256,
+        "profile_path": "/yPbTmntASE9psPIMhNGU5oo6vIH.jpg",
+        "cast_id": 1003,
+        "character": "Hotaru Takegawa (voice)",
+        "credit_id": "52fe48f89251416c750b9497",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254052,
+        "known_for_department": "Acting",
+        "name": "Koki Uchiyama",
+        "original_name": "内山昂輝",
+        "popularity": 1.7382,
+        "profile_path": "/sllSm3iZZWVLTBrDZQRtWrZUfEj.jpg",
+        "cast_id": 1016,
+        "character": "Gin (voice)",
+        "credit_id": "55729c2192514113ec000e1b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65438,
+        "known_for_department": "Acting",
+        "name": "辻親八",
+        "original_name": "辻親八",
+        "popularity": 0.5504,
+        "profile_path": "/af5ILJbixauO84bsuLOr8XSU9yd.jpg",
+        "cast_id": 1031,
+        "character": "Hotaru's Grandfather (voice)",
+        "credit_id": "5919e80b92514105da053058",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315198,
+        "known_for_department": "Acting",
+        "name": "山本兼平",
+        "original_name": "山本兼平",
+        "popularity": 0.4972,
+        "profile_path": "/8cDkO8oCkqsPliIqwFdnmJqHzDT.jpg",
+        "cast_id": 1009,
+        "character": "Shadow (voice)",
+        "credit_id": "5360da9ac3a36860e5000d83",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083327,
+        "known_for_department": "Acting",
+        "name": "町田政則",
+        "original_name": "町田政則",
+        "popularity": 0.4457,
+        "profile_path": "/nRNVf3x5JZsQFETeZSECHo8QLkg.jpg",
+        "cast_id": 1032,
+        "character": "Tree Hand (voice)",
+        "credit_id": "5919f2ccc3a368423c05db7f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1325959,
+        "known_for_department": "Acting",
+        "name": "内田愛美",
+        "original_name": "内田愛美",
+        "popularity": 0.3242,
+        "profile_path": "/3rwzvoMhYp7YSMpIBzfVBEc7EMw.jpg",
+        "cast_id": 1036,
+        "character": "Masked Child (voice)",
+        "credit_id": "611970db0f0da50030cb3710",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315195,
+        "known_for_department": "Acting",
+        "name": "Hiroki Goto",
+        "original_name": "後藤ヒロキ",
+        "popularity": 0.529,
+        "profile_path": "/fyIJd22ZWwA1lroxl7yF83xTgUY.jpg",
+        "cast_id": 1037,
+        "character": "Lion (voice)",
+        "credit_id": "611970e987f3f20075656b00",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3198636,
+        "known_for_department": "Acting",
+        "name": "Kumiko Tashiro",
+        "original_name": "Kumiko Tashiro",
+        "popularity": 0.0816,
+        "profile_path": null,
+        "cast_id": 1038,
+        "character": "Festival Child (voice)",
+        "credit_id": "611970fb9a9e2000723f8577",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1133618,
+        "known_for_department": "Acting",
+        "name": "今井麻美",
+        "original_name": "今井麻美",
+        "popularity": 1.082,
+        "profile_path": "/6Ff0ilLyKLQOMMdqqqiuK3U9VSb.jpg",
+        "cast_id": 1039,
+        "character": "Masked Child (voice)",
+        "credit_id": "61197103c14fee00452e36dd",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992867,
+        "known_for_department": "Sound",
+        "name": "吉森信",
+        "original_name": "吉森信",
+        "popularity": 0.2495,
+        "profile_path": null,
+        "credit_id": "621547630499f2001bbfb7fe",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2840559,
+        "known_for_department": "Visual Effects",
+        "name": "矢向宏志",
+        "original_name": "矢向宏志",
+        "popularity": 0.2868,
+        "profile_path": null,
+        "credit_id": "6233b394da10f0007640502e",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992866,
+        "known_for_department": "Directing",
+        "name": "大森貴弘",
+        "original_name": "大森貴弘",
+        "popularity": 0.317,
+        "profile_path": "/ajJaks8HkgfdNWHPRSayCqZOeH9.jpg",
+        "credit_id": "52fe48f89251416c750b9487",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041669,
+        "known_for_department": "Visual Effects",
+        "name": "高田晃",
+        "original_name": "高田晃",
+        "popularity": 0.5721,
+        "profile_path": null,
+        "credit_id": "61043d704284ea210e467c8b",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1041669,
+        "known_for_department": "Visual Effects",
+        "name": "高田晃",
+        "original_name": "高田晃",
+        "popularity": 0.5721,
+        "profile_path": null,
+        "credit_id": "61043d7ef706de005efefbb4",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315203,
+        "known_for_department": "Art",
+        "name": "渋谷幸弘",
+        "original_name": "渋谷幸弘",
+        "popularity": 0.2805,
+        "profile_path": null,
+        "credit_id": "5360dad5c3a36860bd000dcf",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1315202,
+        "known_for_department": "Editing",
+        "name": "関一彦",
+        "original_name": "関一彦",
+        "popularity": 0.2078,
+        "profile_path": null,
+        "credit_id": "5360dacdc3a36860dd000d71",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1530282,
+        "known_for_department": "Camera",
+        "name": "田村仁",
+        "original_name": "田村仁",
+        "popularity": 0.2721,
+        "profile_path": null,
+        "credit_id": "61b254f5da9ef2008daecf70",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2885193,
+        "known_for_department": "Visual Effects",
+        "name": "田中織枝",
+        "original_name": "田中織枝",
+        "popularity": 0.3639,
+        "profile_path": null,
+        "credit_id": "61b4b29fbfeb8b0063bb38ef",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1835795,
+        "known_for_department": "Directing",
+        "name": "吉田りさこ",
+        "original_name": "吉田りさこ",
+        "popularity": 0.3885,
+        "profile_path": null,
+        "credit_id": "61b4c9287d5f4b001cb2e511",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2428348,
+        "known_for_department": "Visual Effects",
+        "name": "近藤奈都子",
+        "original_name": "近藤奈都子",
+        "popularity": 0.2727,
+        "profile_path": null,
+        "credit_id": "61f04804cd204653096c0397",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3735062,
+        "known_for_department": "Visual Effects",
+        "name": "Saburō Yoshino",
+        "original_name": "Saburō Yoshino",
+        "popularity": 0.1539,
+        "profile_path": null,
+        "credit_id": "636dc35cf44f27007f182e75",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2160934,
+        "known_for_department": "Visual Effects",
+        "name": "今木宏明",
+        "original_name": "今木宏明",
+        "popularity": 0.1532,
+        "profile_path": null,
+        "credit_id": "636dc36721621b00cd61fa30",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2834157,
+        "known_for_department": "Visual Effects",
+        "name": "木村文代",
+        "original_name": "木村文代",
+        "popularity": 0.258,
+        "profile_path": null,
+        "credit_id": "636dc3a2f44f2700d9ff6d04",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2124761,
+        "known_for_department": "Visual Effects",
+        "name": "前原里恵",
+        "original_name": "前原里恵",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "63b220122e2b2c009050a235",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1848225,
+        "known_for_department": "Visual Effects",
+        "name": "川添政和",
+        "original_name": "川添政和",
+        "popularity": 0.4348,
+        "profile_path": null,
+        "credit_id": "63b22000c56d2d00d843615f",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1842744,
+        "known_for_department": "Visual Effects",
+        "name": "岸友洋",
+        "original_name": "岸友洋",
+        "popularity": 0.3437,
+        "profile_path": "/k2j640WK36R6unk4TBoXE95x9Hv.jpg",
+        "credit_id": "63b220232e2b2c00ddacad23",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1982965,
+        "known_for_department": "Visual Effects",
+        "name": "青野厚司",
+        "original_name": "青野厚司",
+        "popularity": 0.7102,
+        "profile_path": null,
+        "credit_id": "63b2202f1d1bf4007dbce91f",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1481778,
+        "known_for_department": "Visual Effects",
+        "name": "斎藤美香",
+        "original_name": "斎藤美香",
+        "popularity": 0.3214,
+        "profile_path": null,
+        "credit_id": "63b21ff2c56d2d0096d4716b",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2160612,
+        "known_for_department": "Visual Effects",
+        "name": "竹内旭",
+        "original_name": "竹内旭",
+        "popularity": 0.2267,
+        "profile_path": null,
+        "credit_id": "63b220181d1bf400a02e953f",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2799093,
+        "known_for_department": "Visual Effects",
+        "name": "山﨑絵里",
+        "original_name": "山﨑絵里",
+        "popularity": 0.2712,
+        "profile_path": null,
+        "credit_id": "63b21fe30d417e00cf28b8c0",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2995785,
+        "known_for_department": "Visual Effects",
+        "name": "川上暢彦",
+        "original_name": "川上暢彦",
+        "popularity": 0.1761,
+        "profile_path": null,
+        "credit_id": "63b22029c56d2d0089b23496",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 992866,
+        "known_for_department": "Directing",
+        "name": "大森貴弘",
+        "original_name": "大森貴弘",
+        "popularity": 0.317,
+        "profile_path": "/ajJaks8HkgfdNWHPRSayCqZOeH9.jpg",
+        "credit_id": "5919d907c3a3683a9305859e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817522,
+        "known_for_department": "Visual Effects",
+        "name": "宮脇裕美",
+        "original_name": "宮脇裕美",
+        "popularity": 0.3497,
+        "profile_path": null,
+        "credit_id": "5919dfda925141061e055269",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1783232,
+        "known_for_department": "Crew",
+        "name": "長谷川敏生",
+        "original_name": "長谷川敏生",
+        "popularity": 0.1899,
+        "profile_path": null,
+        "credit_id": "5919e059c3a368371b04dc7a",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817521,
+        "known_for_department": "Production",
+        "name": "京谷知美",
+        "original_name": "京谷知美",
+        "popularity": 0.2276,
+        "profile_path": null,
+        "credit_id": "5919df90c3a3683fb6056551",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 992868,
+        "known_for_department": "Writing",
+        "name": "Yuki Midorikawa",
+        "original_name": "緑川ゆき",
+        "popularity": 0.1308,
+        "profile_path": null,
+        "credit_id": "5919d7d492514105da052384",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1817517,
+        "known_for_department": "Production",
+        "name": "Ayako Yokoyama",
+        "original_name": "Ayako Yokoyama",
+        "popularity": 0.0503,
+        "profile_path": null,
+        "credit_id": "5919df6ac3a36842d605e597",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1817518,
+        "known_for_department": "Production",
+        "name": "Hirofumi Sugawara",
+        "original_name": "Hirofumi Sugawara",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "5919df77c3a3683a93058a66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1817520,
+        "known_for_department": "Production",
+        "name": "三宅将典",
+        "original_name": "三宅将典",
+        "popularity": 0.5344,
+        "profile_path": null,
+        "credit_id": "5919df7f925141583c05b4f8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1817523,
+        "known_for_department": "Editing",
+        "name": "池田康隆",
+        "original_name": "池田康隆",
+        "popularity": 0.39,
+        "profile_path": null,
+        "credit_id": "5919dfecc3a36842c105e329",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 144665,
+        "known_for_department": "Sound",
+        "name": "森川永子",
+        "original_name": "森川永子",
+        "popularity": 0.4677,
+        "profile_path": null,
+        "credit_id": "5919e045c3a3684269060389",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817525,
+        "known_for_department": "Writing",
+        "name": "内海照子",
+        "original_name": "内海照子",
+        "popularity": 0.2343,
+        "profile_path": null,
+        "credit_id": "5919e039925141585205cad7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 240776,
+        "known_for_department": "Directing",
+        "name": "柳沼和良",
+        "original_name": "柳沼和良",
+        "popularity": 0.2874,
+        "profile_path": null,
+        "credit_id": "5f2f4e433c3ab00036475948",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3806376,
+        "known_for_department": "Art",
+        "name": "澁谷恭子",
+        "original_name": "澁谷恭子",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "692e407d4796ccf74a512262",
+        "department": "Art",
+        "job": "Background Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6152,
+        "name": "supernatural"
+      },
+      {
+        "id": 9914,
+        "name": "slice of life"
+      },
+      {
+        "id": 13141,
+        "name": "based on manga"
+      },
+      {
+        "id": 13153,
+        "name": "spirit"
+      },
+      {
+        "id": 178856,
+        "name": "folklore"
+      },
+      {
+        "id": 206437,
+        "name": "shoujo"
+      },
+      {
+        "id": 207695,
+        "name": "japanese mythology"
+      },
+      {
+        "id": 210024,
+        "name": "anime"
+      },
+      {
+        "id": 254167,
+        "name": "loving"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Scotland Loves Anime",
+            "release_date": "2011-10-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2011-09-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD / Blu-ray Limited Edition",
+            "release_date": "2012-02-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "木棉花",
+            "release_date": "2021-04-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "曼迪傳播",
+            "release_date": "2012-09-05T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Anime Expo",
+            "release_date": "2012-06-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

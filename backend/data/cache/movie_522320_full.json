@@ -1,0 +1,390 @@
+{
+  "adult": false,
+  "backdrop_path": "/tHNF0C72wQzzJ5GVxNeHljHmpJu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 522320,
+  "imdb_id": "tt9107368",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bob Lazar: Area 51 and Flying Saucers",
+  "overview": "O premiado documentarista investigativo Jeremy Corbell (da série \"Crenças Extraordinárias\") lança seu novo documentário sobre Bob Lazar. Corbell já produziu \"Bob Lazar: O Denunciante Cósmico\" e na nova produção mostrará o cotidiano de Lazar em sua empresa (a United Nuclear), além de revelações inéditas da denunciante história que sacudiu o mundo ufológico há 30 anos.",
+  "popularity": 3.033,
+  "poster_path": "/yN2wTSRM3rM4T0NVu0M57d5xR9x.jpg",
+  "production_companies": [
+    {
+      "id": 104195,
+      "logo_path": null,
+      "name": "JKLC Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-11-01",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bob Lazar: Área 51 e os Discos Voadores",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 142,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653408,
+        "known_for_department": "Acting",
+        "name": "Bob Lazar",
+        "original_name": "Bob Lazar",
+        "popularity": 0.266,
+        "profile_path": "/f9RSED3ffAIFHuJIV3CzfomNP6L.jpg",
+        "cast_id": 0,
+        "character": "Self - Interviewee",
+        "credit_id": "5aec550f9251417f47005c5f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1981088,
+        "known_for_department": "Acting",
+        "name": "George Knapp",
+        "original_name": "George Knapp",
+        "popularity": 0.3454,
+        "profile_path": "/htIYj9VDjlIvVfbR058EyJ64qoh.jpg",
+        "cast_id": 2,
+        "character": "Self - Investigative Reporter",
+        "credit_id": "5c154a0d92514132b70ad44d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2295,
+        "known_for_department": "Acting",
+        "name": "Mickey Rourke",
+        "original_name": "Mickey Rourke",
+        "popularity": 3.1654,
+        "profile_path": "/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg",
+        "cast_id": 3,
+        "character": "Self - The Narrator (voice)",
+        "credit_id": "5c154a1bc3a36866c036d6e0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1967468,
+        "known_for_department": "Directing",
+        "name": "Jeremy Kenyon Lockyer Corbell",
+        "original_name": "Jeremy Kenyon Lockyer Corbell",
+        "popularity": 0.2162,
+        "profile_path": "/51cGe6zHRatkJhNyEw99JAjsIUv.jpg",
+        "cast_id": 4,
+        "character": "Self - Investigative Filmmaker",
+        "credit_id": "5c154a290e0a26037c3cae2c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2195998,
+        "known_for_department": "Acting",
+        "name": "Joy White",
+        "original_name": "Joy White",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self - The Wife",
+        "credit_id": "5c154a35c3a36866c736d10f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2196000,
+        "known_for_department": "Acting",
+        "name": "Phyllis Tucker",
+        "original_name": "Phyllis Tucker",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self - The Mom",
+        "credit_id": "5c154a3bc3a36866c336e885",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2196002,
+        "known_for_department": "Acting",
+        "name": "Layne Keck",
+        "original_name": "Layne Keck",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self - The Hypnotist",
+        "credit_id": "5c154a42c3a36866bd36c49d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2196003,
+        "known_for_department": "Acting",
+        "name": "Mario Santa Cruz",
+        "original_name": "Mario Santa Cruz",
+        "popularity": 0.1786,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self - The Friend",
+        "credit_id": "5c154a4b92514132b40ad4d9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2196005,
+        "known_for_department": "Acting",
+        "name": "Zack Slizewski",
+        "original_name": "Zack Slizewski",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self - The Employee",
+        "credit_id": "5c154a55c3a36866c536f1e8",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2180034,
+        "known_for_department": "Production",
+        "name": "Jim Martin",
+        "original_name": "Jim Martin",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "63bab5e0fc31d300a8de0586",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1967468,
+        "known_for_department": "Directing",
+        "name": "Jeremy Kenyon Lockyer Corbell",
+        "original_name": "Jeremy Kenyon Lockyer Corbell",
+        "popularity": 0.2162,
+        "profile_path": "/51cGe6zHRatkJhNyEw99JAjsIUv.jpg",
+        "credit_id": "5aec55289251417f30004f0e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1967468,
+        "known_for_department": "Directing",
+        "name": "Jeremy Kenyon Lockyer Corbell",
+        "original_name": "Jeremy Kenyon Lockyer Corbell",
+        "popularity": 0.2162,
+        "profile_path": "/51cGe6zHRatkJhNyEw99JAjsIUv.jpg",
+        "credit_id": "5c154aa40e0a2603883cbdc1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2196021,
+        "known_for_department": "Sound",
+        "name": "RedBlueBlackSilver",
+        "original_name": "RedBlueBlackSilver",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5c154afac3a36866ce36da73",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1967468,
+        "known_for_department": "Directing",
+        "name": "Jeremy Kenyon Lockyer Corbell",
+        "original_name": "Jeremy Kenyon Lockyer Corbell",
+        "popularity": 0.2162,
+        "profile_path": "/51cGe6zHRatkJhNyEw99JAjsIUv.jpg",
+        "credit_id": "5c154a9592514132b40ad50a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1981088,
+        "known_for_department": "Acting",
+        "name": "George Knapp",
+        "original_name": "George Knapp",
+        "popularity": 0.3454,
+        "profile_path": "/htIYj9VDjlIvVfbR058EyJ64qoh.jpg",
+        "credit_id": "5c154aaf92514132c60ae03b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2196019,
+        "known_for_department": "Sound",
+        "name": "Oliver Emrys Lewis",
+        "original_name": "Oliver Emrys Lewis",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5c154aef0e0a26037f3cae4e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2196024,
+        "known_for_department": "Sound",
+        "name": "Pawel Walentynski",
+        "original_name": "Pawel Walentynski",
+        "popularity": 0.0314,
+        "profile_path": null,
+        "credit_id": "5c154b0892514132bd0ae195",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1612,
+        "name": "spacecraft"
+      },
+      {
+        "id": 6086,
+        "name": "government"
+      },
+      {
+        "id": 3243,
+        "name": "flying saucer"
+      },
+      {
+        "id": 9951,
+        "name": "alien"
+      },
+      {
+        "id": 9738,
+        "name": "ufo"
+      },
+      {
+        "id": 177163,
+        "name": "area 51"
+      },
+      {
+        "id": 206212,
+        "name": "ufo conspiracy"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-06-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2018-12-04T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2018-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-11-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2018-12-08T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

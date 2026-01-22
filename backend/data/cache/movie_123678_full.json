@@ -1,0 +1,1162 @@
+{
+  "adult": false,
+  "backdrop_path": "/1jLaJPdu7dMl0Nk3vLuafDx9PWS.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 36,
+      "name": "História"
+    }
+  ],
+  "homepage": "",
+  "id": 123678,
+  "imdb_id": "tt2375605",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Jagal",
+  "overview": "",
+  "popularity": 1.9812,
+  "poster_path": "/hRpXuHE8MuVKcFeLstWxclycSZe.jpg",
+  "production_companies": [
+    {
+      "id": 29062,
+      "logo_path": "/hwlA6f2HhaOJP1ZcrYL8f8g8UbJ.png",
+      "name": "Final Cut for Real",
+      "origin_country": "DK"
+    },
+    {
+      "id": 29063,
+      "logo_path": "/52xiL9iqq2iPbn6yuFuzkJc4Cpy.png",
+      "name": "Piraya Film",
+      "origin_country": "NO"
+    },
+    {
+      "id": 29064,
+      "logo_path": null,
+      "name": "Novaya Zemlya",
+      "origin_country": ""
+    },
+    {
+      "id": 9120,
+      "logo_path": null,
+      "name": "Spring Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2012-11-01",
+  "revenue": 722714,
+  "runtime": 166,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "O Ato De Matar",
+  "video": false,
+  "vote_average": 7.661,
+  "vote_count": 739,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172489,
+        "known_for_department": "Acting",
+        "name": "Anwar Congo",
+        "original_name": "Anwar Congo",
+        "popularity": 0.1679,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self - Executioner in 1965",
+        "credit_id": "52fe4a9bc3a368484e15d201",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349417,
+        "known_for_department": "Acting",
+        "name": "Herman Koto",
+        "original_name": "Herman Koto",
+        "popularity": 0.1388,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self - Gangster & Paramilitary Leader",
+        "credit_id": "53deb9e40e0a265a86002f83",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172487,
+        "known_for_department": "Acting",
+        "name": "Syamsul Arifin",
+        "original_name": "Syamsul Arifin",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self - Governor of North Sumatra",
+        "credit_id": "52fe4a9bc3a368484e15d1f9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349439,
+        "known_for_department": "Acting",
+        "name": "Ibrahim Sinik",
+        "original_name": "Ibrahim Sinik",
+        "popularity": 0.1862,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Self - Newspaper Publisher",
+        "credit_id": "53debfe20e0a265a96003022",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349440,
+        "known_for_department": "Acting",
+        "name": "Yapto Soerjosoemarno",
+        "original_name": "Yapto Soerjosoemarno",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Self - Leader of Pancasila Youth",
+        "credit_id": "53debffa0e0a265a99002ce0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349441,
+        "known_for_department": "Acting",
+        "name": "Safit Pardede",
+        "original_name": "Safit Pardede",
+        "popularity": 0.1976,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Self - Local Paramilitary Leader",
+        "credit_id": "53dec0170e0a265a93002f0f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349442,
+        "known_for_department": "Acting",
+        "name": "Jusuf Kalla",
+        "original_name": "Jusuf Kalla",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Self - Vice President of Indonesia",
+        "credit_id": "53dec0250e0a265a93002f15",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349443,
+        "known_for_department": "Acting",
+        "name": "Adi Zulkadry",
+        "original_name": "Adi Zulkadry",
+        "popularity": 0.1746,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Self - Fellow Executioner in 1965",
+        "credit_id": "53dec0420e0a265a93002f1e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2871852,
+        "known_for_department": "Acting",
+        "name": "Suryono",
+        "original_name": "Suryono",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Self - Anwar's Neighbor",
+        "credit_id": "5fc0ebe8ac8e6b003d34e04e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2871853,
+        "known_for_department": "Acting",
+        "name": "Haji Marzuki",
+        "original_name": "Haji Marzuki",
+        "popularity": 0.0382,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Self - Member of North Sumatra Parliament",
+        "credit_id": "5fc0ebf29d2b63003ff27ba2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172486,
+        "known_for_department": "Acting",
+        "name": "Haji Anif",
+        "original_name": "Haji Anif",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self - Paramilitary Leader & Businessman",
+        "credit_id": "52fe4a9bc3a368484e15d1f5",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2871855,
+        "known_for_department": "Acting",
+        "name": "Rahmat Shah",
+        "original_name": "Rahmat Shah",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Self - Member of Parliament",
+        "credit_id": "5fc0ebffc613ce00407ebb3d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1172488,
+        "known_for_department": "Acting",
+        "name": "Sakhyan Asmara",
+        "original_name": "Sakhyan Asmara",
+        "popularity": 0.07,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self - Deputy Minister of Youth & Sport",
+        "credit_id": "52fe4a9bc3a368484e15d1fd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2871849,
+        "known_for_department": "Acting",
+        "name": "Soaduon Siregar",
+        "original_name": "Soaduon Siregar",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Self",
+        "credit_id": "5fc0ebdaac8e6b003e34953a",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1972579,
+        "known_for_department": "Directing",
+        "name": "Simon Lereng Wilmont",
+        "original_name": "Simon Lereng Wilmont",
+        "popularity": 0.139,
+        "profile_path": "/v0FV1o5pC5VVc9WeiAfCmKo8bHp.jpg",
+        "credit_id": "6077146a18864b00439dcfb2",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53296,
+        "known_for_department": "Directing",
+        "name": "Joshua Oppenheimer",
+        "original_name": "Joshua Oppenheimer",
+        "popularity": 0.3827,
+        "profile_path": "/dHlrnmh2X0xZYmEfEwcsLTuarAD.jpg",
+        "credit_id": "52fe4a9bc3a368484e15d1f1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 1.8554,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "credit_id": "53debab6c3a3686c5600189f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54901,
+        "known_for_department": "Production",
+        "name": "André Singer",
+        "original_name": "André Singer",
+        "popularity": 0.1393,
+        "profile_path": "/dbINy31veDc6ZiCIWbgixJKe6eP.jpg",
+        "credit_id": "53debb06c3a3686c5d00192f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037275,
+        "known_for_department": "Production",
+        "name": "Torstein Grude",
+        "original_name": "Torstein Grude",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "53deba960e0a265a99002c6a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349424,
+        "known_for_department": "Production",
+        "name": "Anne Köhncke",
+        "original_name": "Anne Köhncke",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "credit_id": "53debad0c3a3686c600017f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349426,
+        "known_for_department": "Production",
+        "name": "Signe Byrge Sørensen",
+        "original_name": "Signe Byrge Sørensen",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "53debb12c3a3686c450018c0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349433,
+        "known_for_department": "Editing",
+        "name": "Mariko Montpetit",
+        "original_name": "Mariko Montpetit",
+        "popularity": 0.073,
+        "profile_path": null,
+        "credit_id": "53debbbac3a3686c51001911",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349437,
+        "known_for_department": "Visual Effects",
+        "name": "Christopher Berge Hove",
+        "original_name": "Christopher Berge Hove",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "53debc44c3a3686c5a0017d9",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349428,
+        "known_for_department": "Production",
+        "name": "Bjarte Mørner Tveit",
+        "original_name": "Bjarte Mørner Tveit",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "53debb47c3a3686c51001902",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349435,
+        "known_for_department": "Crew",
+        "name": "Helga Høegh-Krohn",
+        "original_name": "Helga Høegh-Krohn",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "53debbd7c3a3686c560018ae",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40414,
+        "known_for_department": "Sound",
+        "name": "Henrik 'Gugge' Garnov",
+        "original_name": "Henrik 'Gugge' Garnov",
+        "popularity": 0.192,
+        "profile_path": null,
+        "credit_id": "53debbf7c3a3686c6000180e",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349436,
+        "known_for_department": "Sound",
+        "name": "Elin Øyen Vister",
+        "original_name": "Elin Øyen Vister",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "53debc15c3a3686c5a0017d3",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349427,
+        "known_for_department": "Production",
+        "name": "Joram ten Brink",
+        "original_name": "Joram ten Brink",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "53debb1fc3a3686c450018c5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349429,
+        "known_for_department": "Production",
+        "name": "Michael Uwemedimo",
+        "original_name": "Michael Uwemedimo",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "53debb54c3a3686c51001908",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349434,
+        "known_for_department": "Production",
+        "name": "Heidi Elise Christensen",
+        "original_name": "Heidi Elise Christensen",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "53debbc8c3a3686c5a0017ca",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349438,
+        "known_for_department": "Visual Effects",
+        "name": "Tom Christer Lilletvedt",
+        "original_name": "Tom Christer Lilletvedt",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "53debc50c3a3686c4d001990",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 563328,
+        "known_for_department": "Editing",
+        "name": "Erik Andersson",
+        "original_name": "Erik Andersson",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "credit_id": "53debb89c3a3686c4d001982",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349432,
+        "known_for_department": "Editing",
+        "name": "Ariadna Fatjó-Vilas",
+        "original_name": "Ariadna Fatjó-Vilas",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "credit_id": "53debbaec3a3686c60001808",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349423,
+        "known_for_department": "Production",
+        "name": "Maria Kristensen",
+        "original_name": "Maria Kristensen",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "credit_id": "53debac2c3a3686c450018b4",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349425,
+        "known_for_department": "Production",
+        "name": "Lizzy Ratner",
+        "original_name": "Lizzy Ratner",
+        "popularity": 0.0336,
+        "profile_path": null,
+        "credit_id": "53debaf8c3a3686c5a0017bf",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349423,
+        "known_for_department": "Production",
+        "name": "Maria Kristensen",
+        "original_name": "Maria Kristensen",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "credit_id": "53debbe5c3a3686c5d00193e",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18533,
+        "known_for_department": "Directing",
+        "name": "Errol Morris",
+        "original_name": "Errol Morris",
+        "popularity": 0.5463,
+        "profile_path": "/p0OVTOHWNOaEfK8eUjvey6uEbRp.jpg",
+        "credit_id": "53debadec3a3686c450018b9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349431,
+        "known_for_department": "Editing",
+        "name": "Charlotte Munch Bengtsen",
+        "original_name": "Charlotte Munch Bengtsen",
+        "popularity": 0.0544,
+        "profile_path": "/w5krnBXR353b8C5TzYysGeTI9C9.jpg",
+        "credit_id": "53debb97c3a3686c450018d1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23332,
+        "known_for_department": "Editing",
+        "name": "Janus Billeskov Jansen",
+        "original_name": "Janus Billeskov Jansen",
+        "popularity": 0.1387,
+        "profile_path": "/5ciSxy7PRxGJN58Q3IZSH0ZAPpJ.jpg",
+        "credit_id": "53debba2c3a3686c560018aa",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349420,
+        "known_for_department": "Directing",
+        "name": "Christine Cynn",
+        "original_name": "Christine Cynn",
+        "popularity": 0.0495,
+        "profile_path": "/gRpGZM2a6BQzKnKBpyZGsEzoiXb.jpg",
+        "credit_id": "53deba6f0e0a265a86002f91",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53296,
+        "known_for_department": "Directing",
+        "name": "Joshua Oppenheimer",
+        "original_name": "Joshua Oppenheimer",
+        "popularity": 0.3827,
+        "profile_path": "/dHlrnmh2X0xZYmEfEwcsLTuarAD.jpg",
+        "credit_id": "53debae8c3a3686c5a0017bc",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124865,
+        "known_for_department": "Editing",
+        "name": "Nils Pagh Andersen",
+        "original_name": "Nils Pagh Andersen",
+        "popularity": 0.1106,
+        "profile_path": null,
+        "credit_id": "53debb79c3a3686c60001805",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 575128,
+        "known_for_department": "Sound",
+        "name": "Gunn Tove Grønsberg",
+        "original_name": "Gunn Tove Grønsberg",
+        "popularity": 0.1619,
+        "profile_path": "/4FPx3mL8BaLuRGg3pUbuxfQaxJO.jpg",
+        "credit_id": "53debc05c3a3686c560018b2",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349420,
+        "known_for_department": "Directing",
+        "name": "Christine Cynn",
+        "original_name": "Christine Cynn",
+        "popularity": 0.0495,
+        "profile_path": "/gRpGZM2a6BQzKnKBpyZGsEzoiXb.jpg",
+        "credit_id": "65976408a6c1041071faaee2",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98071,
+        "known_for_department": "Camera",
+        "name": "Lars Skree",
+        "original_name": "Lars Skree",
+        "popularity": 0.2063,
+        "profile_path": "/l8SW6JRekoAEbzyVbWNPxeHK6zc.jpg",
+        "credit_id": "5769775ac3a368372600009c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1349430,
+        "known_for_department": "Crew",
+        "name": "Carlos Arango De Montis",
+        "original_name": "Carlos Arango De Montis",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "57697768c3a36833700000d8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1710652,
+        "known_for_department": "Directing",
+        "name": "Anonymous",
+        "original_name": "Anonymous",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "5ad4a441c3a3685c370152ce",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1349420,
+        "known_for_department": "Directing",
+        "name": "Christine Cynn",
+        "original_name": "Christine Cynn",
+        "popularity": 0.0495,
+        "profile_path": "/gRpGZM2a6BQzKnKBpyZGsEzoiXb.jpg",
+        "credit_id": "5fc0ecde25b955003a9b8274",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349438,
+        "known_for_department": "Visual Effects",
+        "name": "Tom Christer Lilletvedt",
+        "original_name": "Tom Christer Lilletvedt",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "5fc0ed0c6bdec3003d27e15b",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349427,
+        "known_for_department": "Production",
+        "name": "Joram ten Brink",
+        "original_name": "Joram ten Brink",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5fc0ecf5271ca53c6d5421fe",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1581519,
+        "known_for_department": "Directing",
+        "name": "Rosie Thomas",
+        "original_name": "Rosie Thomas",
+        "popularity": 0.1944,
+        "profile_path": null,
+        "credit_id": "5fc0ed2f9f51af003ee879cf",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037275,
+        "known_for_department": "Production",
+        "name": "Torstein Grude",
+        "original_name": "Torstein Grude",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "5fc0eceb4c1d9a003e879cad",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349428,
+        "known_for_department": "Production",
+        "name": "Bjarte Mørner Tveit",
+        "original_name": "Bjarte Mørner Tveit",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "5fc0ecfcdd926a003d78b90c",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 417,
+        "name": "corruption"
+      },
+      {
+        "id": 7348,
+        "name": "indonesia"
+      },
+      {
+        "id": 14900,
+        "name": "genocide"
+      },
+      {
+        "id": 238693,
+        "name": "indonesian genocide"
+      },
+      {
+        "id": 239902,
+        "name": "political documentary"
+      },
+      {
+        "id": 240847,
+        "name": "social & cultural documentary"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "MA 15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival",
+            "release_date": "2013-07-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2012-09-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-11-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Copenhagen International Documentary Film Festival",
+            "release_date": "2012-11-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-11-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-08-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-04-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-06-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-05-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "IIB",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-10-23T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-06-28T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-10-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-10-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-11-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Luxembourg City Film Festival",
+            "release_date": "2013-02-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-05-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 2",
+            "release_date": "2013-12-19T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-09-06T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-03-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-02-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2014-04-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2012-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Urban Nomad Film Festival",
+            "release_date": "2013-04-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Telluride Film Festival",
+            "release_date": "2012-08-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "True/False Film Festival",
+            "release_date": "2013-03-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Los Angeles Film Festival",
+            "release_date": "2013-06-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2013-07-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

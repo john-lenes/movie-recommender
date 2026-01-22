@@ -1,0 +1,621 @@
+{
+  "adult": false,
+  "backdrop_path": "/gJduZE3cAmLVQknEfiR5t0vT4Ie.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1096838,
+  "imdb_id": "tt5402714",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "Here After",
+  "overview": "Estrelando Connie Britton (Nashville, The White Lotus), Claire Hiller fica aliviada quando sua filha Robin é reanimada após um acidente fatal, mas o medo se instala quando ela suspeita que algo maligno voltou com ela.",
+  "popularity": 5.9715,
+  "poster_path": "/uKJx2O6a8H77Gb7eXtSvbOeJnNu.jpg",
+  "production_companies": [
+    {
+      "id": 103150,
+      "logo_path": "/wLiVwcFWPTjjy4RIkGRleWI63c.png",
+      "name": "Fenix Entertainment",
+      "origin_country": "IT"
+    },
+    {
+      "id": 195250,
+      "logo_path": null,
+      "name": "Claro Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2394,
+      "logo_path": "/sUWGEjxxCU5McOoD2JPrJHDW7K3.png",
+      "name": "Artina Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 51954,
+      "logo_path": null,
+      "name": "Hopscotch Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-25",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Além-mundo",
+  "video": false,
+  "vote_average": 5.433,
+  "vote_count": 104,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86310,
+        "known_for_department": "Acting",
+        "name": "Connie Britton",
+        "original_name": "Connie Britton",
+        "popularity": 2.4209,
+        "profile_path": "/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg",
+        "cast_id": 2,
+        "character": "Claire",
+        "credit_id": "6407b671326ec1007b6b1c12",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1070324,
+        "known_for_department": "Acting",
+        "name": "Giovanni Cirfiera",
+        "original_name": "Giovanni Cirfiera",
+        "popularity": 0.324,
+        "profile_path": "/faaDuQi3e2a39kBIDT2TubGXERi.jpg",
+        "cast_id": 4,
+        "character": "Luca",
+        "credit_id": "65257b000cb33516fd4721d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2078350,
+        "known_for_department": "Acting",
+        "name": "Tommaso Basili",
+        "original_name": "Tommaso Basili",
+        "popularity": 0.3077,
+        "profile_path": "/gGTY9TbPS88lMq7AP38DddYro4G.jpg",
+        "cast_id": 5,
+        "character": "Dr. Ben Romano",
+        "credit_id": "65257b1207216645b7c900f0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1182996,
+        "known_for_department": "Acting",
+        "name": "Babetida Sadjo",
+        "original_name": "Babetida Sadjo",
+        "popularity": 0.367,
+        "profile_path": "/wrjfsAZqcITkAgaGCZlAQp8JC1H.jpg",
+        "cast_id": 6,
+        "character": "Viv",
+        "credit_id": "65257b1fcedac400e2126330",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2871980,
+        "known_for_department": "Acting",
+        "name": "Syama Rayner",
+        "original_name": "Syama Rayner",
+        "popularity": 0.1325,
+        "profile_path": "/sEQwgkbb2xGKt73wdA1PrTBGrJ5.jpg",
+        "cast_id": 7,
+        "character": "Adriana",
+        "credit_id": "65257b2cfd630000e2022e41",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48377,
+        "known_for_department": "Acting",
+        "name": "Alessandro Bressanello",
+        "original_name": "Alessandro Bressanello",
+        "popularity": 0.3421,
+        "profile_path": "/htcsjd0FVBorC69sRFbcoxgNbGa.jpg",
+        "cast_id": 8,
+        "character": "Father Sergio",
+        "credit_id": "65257b3ccedac40122174fe1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2500901,
+        "known_for_department": "Acting",
+        "name": "Freya Hannan-Mills",
+        "original_name": "Freya Hannan-Mills",
+        "popularity": 0.3291,
+        "profile_path": "/eV70wCE8cte5KwXoLiJ1HzsQOuT.jpg",
+        "cast_id": 9,
+        "character": "Robin",
+        "credit_id": "65257b4d07216645b91a76d4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25102,
+        "known_for_department": "Acting",
+        "name": "Andrea Bruschi",
+        "original_name": "Andrea Bruschi",
+        "popularity": 0.4049,
+        "profile_path": "/sWsOuuVVOAwffIaFxlF2ZThYDl.jpg",
+        "cast_id": 10,
+        "character": "Dr. Stancik",
+        "credit_id": "65257b5d0cb33516fec513bd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1282491,
+        "known_for_department": "Acting",
+        "name": "Giorgia Trasselli",
+        "original_name": "Giorgia Trasselli",
+        "popularity": 0.1552,
+        "profile_path": "/cQvdwneOoEhg2D9yrGKlzIRKppB.jpg",
+        "cast_id": 11,
+        "character": "Greta",
+        "credit_id": "65257b7007216645b6da8c26",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330099,
+        "known_for_department": "Acting",
+        "name": "Lollo Franco",
+        "original_name": "Lollo Franco",
+        "popularity": 0.1528,
+        "profile_path": "/4LCgKcfHfyeN8xQhEtwQC6xeGIT.jpg",
+        "cast_id": 12,
+        "character": "Renato",
+        "credit_id": "65257b80447f9c013a565e06",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152321,
+        "known_for_department": "Acting",
+        "name": "Alessandro Riceci",
+        "original_name": "Alessandro Riceci",
+        "popularity": 0.2165,
+        "profile_path": "/3748jMf2WelAgLaYHUDrL2uQoxn.jpg",
+        "cast_id": 25,
+        "character": "Sagravas",
+        "credit_id": "66bf6452956502353e9a08fd",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4489317,
+        "known_for_department": "Acting",
+        "name": "Laura Anzani",
+        "original_name": "Laura Anzani",
+        "popularity": 0.059,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Nurse Giulia",
+        "credit_id": "66bf646d469814d852ad6edb",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 52607,
+        "known_for_department": "Production",
+        "name": "Sukee Chew",
+        "original_name": "Sukee Chew",
+        "popularity": 0.126,
+        "profile_path": "/zSOs1LTbMM93cJE2CDCft5MqsQ1.jpg",
+        "credit_id": "65257bc6629b2c011c8e4c0f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2819079,
+        "known_for_department": "Writing",
+        "name": "Sarah Conradt",
+        "original_name": "Sarah Conradt",
+        "popularity": 0.2137,
+        "profile_path": "/o6rWOCrlZUySFJllWzmNc3Z3i2f.jpg",
+        "credit_id": "65257ab2ca7ec6011d3e7b99",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79665,
+        "known_for_department": "Production",
+        "name": "Naomi Despres",
+        "original_name": "Naomi Despres",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "credit_id": "65257be3d399e600e3639a57",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2438464,
+        "known_for_department": "Production",
+        "name": "Riccardo Di Pasquale",
+        "original_name": "Riccardo Di Pasquale",
+        "popularity": 0.0918,
+        "profile_path": null,
+        "credit_id": "65257bfe447f9c00c6bd19ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2819079,
+        "known_for_department": "Writing",
+        "name": "Sarah Conradt",
+        "original_name": "Sarah Conradt",
+        "popularity": 0.2137,
+        "profile_path": "/o6rWOCrlZUySFJllWzmNc3Z3i2f.jpg",
+        "credit_id": "65257bd4d399e6013a3ce55c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2627898,
+        "known_for_department": "Production",
+        "name": "Raffaello Vignoli",
+        "original_name": "Raffaello Vignoli",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "65257c7acedac401221750b0",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6409,
+        "known_for_department": "Production",
+        "name": "Robert Salerno",
+        "original_name": "Robert Salerno",
+        "popularity": 0.3329,
+        "profile_path": "/ihHJKi9VcCfX2xC5WdRXjwzflbm.jpg",
+        "credit_id": "65257c1e3a4a1200e3ec0f7f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6409,
+        "known_for_department": "Production",
+        "name": "Robert Salerno",
+        "original_name": "Robert Salerno",
+        "popularity": 0.3329,
+        "profile_path": "/ihHJKi9VcCfX2xC5WdRXjwzflbm.jpg",
+        "credit_id": "6407b64fa217c000853de005",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1476165,
+        "known_for_department": "Camera",
+        "name": "Bartosz Nalazek",
+        "original_name": "Bartosz Nalazek",
+        "popularity": 0.1341,
+        "profile_path": null,
+        "credit_id": "66bec8557f0feb8daf97ae5e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1455188,
+        "known_for_department": "Production",
+        "name": "Gian Gabriele Foschini",
+        "original_name": "Gian Gabriele Foschini",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "credit_id": "66bf656948ba16e0209da0d8",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1520771,
+        "known_for_department": "Sound",
+        "name": "Fabrizio Mancinelli",
+        "original_name": "Fabrizio Mancinelli",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "credit_id": "66bf660043e3bd93aa9ae032",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1789277,
+        "known_for_department": "Production",
+        "name": "Armando Pizzuti",
+        "original_name": "Armando Pizzuti",
+        "popularity": 0.1329,
+        "profile_path": "/b8VfSTLAxnzvNXlXL4vM8qWsNEH.jpg",
+        "credit_id": "66bf66499d7ac070ae9adf59",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66985,
+        "known_for_department": "Editing",
+        "name": "John F. Lyons",
+        "original_name": "John F. Lyons",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "credit_id": "66bf66225d2af2dae39a094a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425940,
+        "known_for_department": "Production",
+        "name": "Christopher Tricarico",
+        "original_name": "Christopher Tricarico",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "66bf659102f320957a1f31d2",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 793,
+        "name": "drowning"
+      },
+      {
+        "id": 588,
+        "name": "rome, italy"
+      },
+      {
+        "id": 10508,
+        "name": "teacher"
+      },
+      {
+        "id": 10122,
+        "name": "reanimation"
+      },
+      {
+        "id": 10392,
+        "name": "mute"
+      },
+      {
+        "id": 190287,
+        "name": "life after death"
+      },
+      {
+        "id": 205685,
+        "name": "animal cruelty"
+      },
+      {
+        "id": 212654,
+        "name": "lip reading"
+      },
+      {
+        "id": 232687,
+        "name": "serious accident"
+      },
+      {
+        "id": 240315,
+        "name": "mother daughter relationship"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-07-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

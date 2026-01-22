@@ -1,0 +1,1615 @@
+{
+  "adult": false,
+  "backdrop_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+  "belongs_to_collection": {
+    "id": 275402,
+    "name": "Bob Esponja: Coleção",
+    "poster_path": "/kFjITg8dQKOvHYHl0MChqHYvqMx.jpg",
+    "backdrop_path": "/82aBKm6QfMzNYl7jk9VG4mMPOYu.jpg"
+  },
+  "budget": 64000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 10751,
+      "name": "Família"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "https://www.paramountpictures.com.br/filmes/bob-esponja-4",
+  "id": 991494,
+  "imdb_id": "tt23572848",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The SpongeBob Movie: Search for SquarePants",
+  "overview": "Bob Esponja tem a missão de provar que é um “cara grande\". Determinado a mostrar sua bravura ao Sr. Sirigueijo, ele segue o Holandês Voador – um misterioso pirata fantasma – e embarca em uma aventura marítima que o leva às profundezas do mar, onde nenhuma outra Esponja jamais esteve.",
+  "popularity": 52.5488,
+  "poster_path": "/obDYToEfPFNMKW6x0eamCrjTMzK.jpg",
+  "production_companies": [
+    {
+      "id": 24955,
+      "logo_path": "/lie8ak7NyITCES3JMygrC4XQIe2.png",
+      "name": "Paramount Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2531,
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+      "name": "MRC",
+      "origin_country": "US"
+    },
+    {
+      "id": 2787,
+      "logo_path": "/uPqyNmCYnjBUXadIa7JmglQ59Y8.png",
+      "name": "Reel FX Creative Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-16",
+  "revenue": 133730650,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Um navio, uma esponja e nenhuma direção.",
+  "title": "Bob Esponja: Em Busca da Calça Quadrada",
+  "video": false,
+  "vote_average": 6.493,
+  "vote_count": 73,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78798,
+        "known_for_department": "Acting",
+        "name": "Tom Kenny",
+        "original_name": "Tom Kenny",
+        "popularity": 2.9286,
+        "profile_path": "/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg",
+        "cast_id": 1,
+        "character": "SpongeBob SquarePants / Gary / Morning DJ (voice)",
+        "credit_id": "62b51be24f9a9900608b9c66",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6574,
+        "known_for_department": "Acting",
+        "name": "Clancy Brown",
+        "original_name": "Clancy Brown",
+        "popularity": 3.8025,
+        "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg",
+        "cast_id": 5,
+        "character": "Mr. Krabs / Pirate / Narrator (voice)",
+        "credit_id": "6476c3481f98d1028471fac8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70615,
+        "known_for_department": "Acting",
+        "name": "Rodger Bumpass",
+        "original_name": "Rodger Bumpass",
+        "popularity": 1.1639,
+        "profile_path": "/lGQkw6adxqB6Hcm7VK8nVHbKupe.jpg",
+        "cast_id": 4,
+        "character": "Squidward Tentacles (voice)",
+        "credit_id": "6476c33512c60400e1dc5f31",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34398,
+        "known_for_department": "Acting",
+        "name": "Bill Fagerbakke",
+        "original_name": "Bill Fagerbakke",
+        "popularity": 1.4421,
+        "profile_path": "/zntKKc1uT53BnIihmzbq601eWKZ.jpg",
+        "cast_id": 3,
+        "character": "Patrick Star (voice)",
+        "credit_id": "6476c320706b9f00f89908ff",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2,
+        "known_for_department": "Acting",
+        "name": "Mark Hamill",
+        "original_name": "Mark Hamill",
+        "popularity": 3.0469,
+        "profile_path": "/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
+        "cast_id": 10,
+        "character": "Flying Dutchman (voice)",
+        "credit_id": "66a2c058fccfec06dc612523",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35705,
+        "known_for_department": "Acting",
+        "name": "Regina Hall",
+        "original_name": "Regina Hall",
+        "popularity": 3.3924,
+        "profile_path": "/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg",
+        "cast_id": 39,
+        "character": "Barb (voice)",
+        "credit_id": "684849c595ac06a73e2069ad",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78799,
+        "known_for_department": "Acting",
+        "name": "Carolyn Lawrence",
+        "original_name": "Carolyn Lawrence",
+        "popularity": 0.8036,
+        "profile_path": "/vHycxQTs8EuyFdFJNww15xXB5lT.jpg",
+        "cast_id": 13,
+        "character": "Sandy Cheeks (voice)",
+        "credit_id": "66d4c0e0147f47aa6a658dd9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 188229,
+        "known_for_department": "Acting",
+        "name": "Mr. Lawrence",
+        "original_name": "Mr. Lawrence",
+        "popularity": 1.4273,
+        "profile_path": "/gWFgxlREzbaPPdWsQZSCdjrFozy.jpg",
+        "cast_id": 14,
+        "character": "Sheldon J. Plankton (voice)",
+        "credit_id": "66d4c0f2ee1ec0f10cc0fb94",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41798,
+        "known_for_department": "Acting",
+        "name": "George López",
+        "original_name": "George López",
+        "popularity": 1.5129,
+        "profile_path": "/jeUUeE3ipY9edqdOSNI9v5maAbi.jpg",
+        "cast_id": 40,
+        "character": "JK Fishlips (voice)",
+        "credit_id": "684849d09ae1425b31206b25",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4118330,
+        "known_for_department": "Acting",
+        "name": "Ice Spice",
+        "original_name": "Ice Spice",
+        "popularity": 0.7492,
+        "profile_path": "/q3O02uHVOWd6Qoa5uNQmXlpLEpj.jpg",
+        "cast_id": 41,
+        "character": "Ticket Taker (voice)",
+        "credit_id": "684849da5cbe141884bb3801",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457999,
+        "known_for_department": "Acting",
+        "name": "Arturo Castro",
+        "original_name": "Arturo Castro",
+        "popularity": 0.9353,
+        "profile_path": "/pbLoDCfjm3fLtGHVqQcnbM2d0cu.jpg",
+        "cast_id": 37,
+        "character": "Ride Operator",
+        "credit_id": "684849a7e9ca8a7b3c3fcec4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2088734,
+        "known_for_department": "Acting",
+        "name": "Sherry Cola",
+        "original_name": "Sherry Cola",
+        "popularity": 0.9516,
+        "profile_path": "/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg",
+        "cast_id": 38,
+        "character": "Studio Spokesperson / Krusty Krab Patron (voice)",
+        "credit_id": "684849ba9966b96afcde766b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1657897,
+        "known_for_department": "Acting",
+        "name": "Mark Whitten",
+        "original_name": "Mark Whitten",
+        "popularity": 0.5625,
+        "profile_path": "/zcD76XCZ6zQ41C9j1lsttLbxbLE.jpg",
+        "cast_id": 64,
+        "character": "Lookout Pirate (voice)",
+        "credit_id": "6943590684db15ffaa7054d2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1065,
+        "known_for_department": "Acting",
+        "name": "Thomas F. Wilson",
+        "original_name": "Thomas F. Wilson",
+        "popularity": 1.7857,
+        "profile_path": "/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg",
+        "cast_id": 65,
+        "character": "Coach Tuna (voice)",
+        "credit_id": "69435986bc2ef61501e6e769",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "Grey DeLisle",
+        "original_name": "Grey DeLisle",
+        "popularity": 2.0506,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 68,
+        "character": "Mean Girl / Harp Fish (voice)",
+        "credit_id": "69435a077132961dc9d57562",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17414,
+        "known_for_department": "Acting",
+        "name": "Jill Talley",
+        "original_name": "Jill Talley",
+        "popularity": 0.778,
+        "profile_path": "/x0r43qyI9KNEyb5RsF0MckqxgfM.jpg",
+        "cast_id": 52,
+        "character": "Judgy Girl (voice)",
+        "credit_id": "692452e81b39634d76958e0d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1997735,
+        "known_for_department": "Acting",
+        "name": "Juan Francisco Villa",
+        "original_name": "Juan Francisco Villa",
+        "popularity": 0.2148,
+        "profile_path": "/dEbcp4uQ6nNfp3AaWzItTfjcXkY.jpg",
+        "cast_id": 67,
+        "character": "Amusement Park Patron (voice)",
+        "credit_id": "694359b23e3232c49ed575b6",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1660709,
+        "known_for_department": "Production",
+        "name": "Margaux Susi",
+        "original_name": "Margaux Susi",
+        "popularity": 0.1967,
+        "profile_path": "/ocDUK1Va6b2CnOal0i2OdXmHTpx.jpg",
+        "cast_id": 69,
+        "character": "Amusement Park Patron (voice)",
+        "credit_id": "69435a821ee344478a8bc71f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5640739,
+        "known_for_department": "Acting",
+        "name": "Arthur Waite",
+        "original_name": "Arthur Waite",
+        "popularity": 0.077,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Beach Kid (voice)",
+        "credit_id": "6924536ab6bc1c09c6958f07",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4830647,
+        "known_for_department": "Acting",
+        "name": "Capri O'Neill",
+        "original_name": "Capri O'Neill",
+        "popularity": 0.1324,
+        "profile_path": null,
+        "cast_id": 70,
+        "character": "Rollerblader (voice)",
+        "credit_id": "69435adfb0b556747b8bc744",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1209708,
+        "known_for_department": "Acting",
+        "name": "Vladimir Kubr",
+        "original_name": "Vladimir Kubr",
+        "popularity": 0.1208,
+        "profile_path": "/7qa6No7BdmEl9z00wQAgmet0nvt.jpg",
+        "cast_id": 71,
+        "character": "Volleyball Player (voice)",
+        "credit_id": "69435aeb4491e6dd2636a716",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 217181,
+        "known_for_department": "Writing",
+        "name": "Aaron Springer",
+        "original_name": "Aaron Springer",
+        "popularity": 0.4388,
+        "profile_path": null,
+        "cast_id": 72,
+        "character": "Scallop (voice)",
+        "credit_id": "69435af7397cf57cb270548c",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5884012,
+        "known_for_department": "Acting",
+        "name": "Gigi Teverbaugh",
+        "original_name": "Gigi Teverbaugh",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "cast_id": 74,
+        "character": "Phil (voice)",
+        "credit_id": "69435b288ae6a109fc0fadce",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24358,
+        "known_for_department": "Acting",
+        "name": "Lori Alan",
+        "original_name": "Lori Alan",
+        "popularity": 0.9607,
+        "profile_path": "/cavATg4fX0zAl2MHwlt1IZei7EI.jpg",
+        "cast_id": 50,
+        "character": "Pearl (voice) (uncredited)",
+        "credit_id": "692452b233d2889f6a1876c9",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80634,
+        "known_for_department": "Acting",
+        "name": "Mary Jo Catlett",
+        "original_name": "Mary Jo Catlett",
+        "popularity": 0.8719,
+        "profile_path": "/72XlPyoJS8RSze69hrv0xeUFppt.jpg",
+        "cast_id": 51,
+        "character": "Mrs. Puff (voice) (uncredited)",
+        "credit_id": "692452c433d2889f6a1876cd",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1186489,
+        "known_for_department": "Acting",
+        "name": "Bryan Coffee",
+        "original_name": "Bryan Coffee",
+        "popularity": 0.5037,
+        "profile_path": "/uyaBFWR9Gmge3AC0eGVm2IJwdAk.jpg",
+        "cast_id": 53,
+        "character": "Bartender (uncredited)",
+        "credit_id": "692452f2fbc4b068eedd4df9",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51301,
+        "known_for_department": "Acting",
+        "name": "Douglas Tait",
+        "original_name": "Douglas Tait",
+        "popularity": 0.7467,
+        "profile_path": "/srV2pY6rPyTpHGW5saOhdbRfcrv.jpg",
+        "cast_id": 54,
+        "character": "Zombie (uncredited)",
+        "credit_id": "692452fd697c9c1b95b74a06",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836332,
+        "known_for_department": "Acting",
+        "name": "James Hunter",
+        "original_name": "James Hunter",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Zombie (uncredited)",
+        "credit_id": "69245336549e857d2632ad99",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3893116,
+        "known_for_department": "Acting",
+        "name": "Leonel Garza",
+        "original_name": "Leonel Garza",
+        "popularity": 0.1239,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Zombie (uncredited)",
+        "credit_id": "69245345549e857d2632ad9d",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836333,
+        "known_for_department": "Acting",
+        "name": "Tammy Davis",
+        "original_name": "Tammy Davis",
+        "popularity": 0.0563,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "(uncredited)",
+        "credit_id": "69245354627452faf2a3b820",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5031879,
+        "known_for_department": "Acting",
+        "name": "Scott Frenzel",
+        "original_name": "Scott Frenzel",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Zombie (uncredited)",
+        "credit_id": "6924535b8de9f39dd9dcff55",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4648119,
+        "known_for_department": "Acting",
+        "name": "Melissa Kaye Bontempt",
+        "original_name": "Melissa Kaye Bontempt",
+        "popularity": 0.0828,
+        "profile_path": "/ktQndqhGSqLYuFbW2tueJu3ldBl.jpg",
+        "cast_id": 60,
+        "character": "Zombie (uncredited)",
+        "credit_id": "692453730a4cc08039dd009e",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 590804,
+        "known_for_department": "Acting",
+        "name": "James Hunter",
+        "original_name": "James Hunter",
+        "popularity": 0.2815,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Zombie (uncredited)",
+        "credit_id": "6931f412595f4bc80df9143d",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1123194,
+        "known_for_department": "Editing",
+        "name": "Wyatt Jones",
+        "original_name": "Wyatt Jones",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "cast_id": 77,
+        "character": "Skeleton (voice)",
+        "credit_id": "6949d216f948d17d1f812845",
+        "order": 33
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70651,
+        "known_for_department": "Writing",
+        "name": "Stephen Hillenburg",
+        "original_name": "Stephen Hillenburg",
+        "popularity": 0.9853,
+        "profile_path": "/c4850yRqFMC1GZpCvDx4q2PRY1E.jpg",
+        "credit_id": "65afbbe8bd588b010b5e1f2b",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70652,
+        "known_for_department": "Directing",
+        "name": "Derek Drymon",
+        "original_name": "Derek Drymon",
+        "popularity": 0.7053,
+        "profile_path": "/1ZdPd2JaiigVDB7hPxy29RAx9GY.jpg",
+        "credit_id": "644ad5090c125505147a8f3c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34522,
+        "known_for_department": "Writing",
+        "name": "Pam Brady",
+        "original_name": "Pam Brady",
+        "popularity": 0.594,
+        "profile_path": "/eaEP8fYoHOag9sLnj25bUFtcCob.jpg",
+        "credit_id": "66c8c348f2bfd8e9268f15ae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11652,
+        "known_for_department": "Production",
+        "name": "Lisa Stewart",
+        "original_name": "Lisa Stewart",
+        "popularity": 0.2145,
+        "profile_path": "/c2NKJBFQWCnCXXTje8Kmb7osi2x.jpg",
+        "credit_id": "66c8c35a613112fd5bb302d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216340,
+        "known_for_department": "Directing",
+        "name": "Vincent Waller",
+        "original_name": "Vincent Waller",
+        "popularity": 0.3811,
+        "profile_path": "/8YlmmunnlPU9mIBFjRvcPxq48Ok.jpg",
+        "credit_id": "67a2291080e593d5fde2cec3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1376732,
+        "known_for_department": "Writing",
+        "name": "Marc Ceccarelli",
+        "original_name": "Marc Ceccarelli",
+        "popularity": 0.2311,
+        "profile_path": null,
+        "credit_id": "67a2291f0abccc3b39262248",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1352958,
+        "known_for_department": "Art",
+        "name": "A. Todd Holland",
+        "original_name": "A. Todd Holland",
+        "popularity": 0.2324,
+        "profile_path": null,
+        "credit_id": "67a2293fa45287b7fde2e559",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1703118,
+        "known_for_department": "Art",
+        "name": "Katrina Sainz",
+        "original_name": "Katrina Sainz",
+        "popularity": 0.2495,
+        "profile_path": null,
+        "credit_id": "67a229520f96f416df0315be",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1516079,
+        "known_for_department": "Production",
+        "name": "Aaron Dem",
+        "original_name": "Aaron Dem",
+        "popularity": 0.1712,
+        "profile_path": "/7e8Vtsw4m91MIbKXqwRxlvTzTqb.jpg",
+        "credit_id": "67f45e157b43bdce20ad5da2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34522,
+        "known_for_department": "Writing",
+        "name": "Pam Brady",
+        "original_name": "Pam Brady",
+        "popularity": 0.594,
+        "profile_path": "/eaEP8fYoHOag9sLnj25bUFtcCob.jpg",
+        "credit_id": "67f45e588cfccf7bafd92dfd",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218548,
+        "known_for_department": "Writing",
+        "name": "Kaz",
+        "original_name": "Kaz",
+        "popularity": 0.4397,
+        "profile_path": null,
+        "credit_id": "67f45e6ba5471a51ee997b6b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1450307,
+        "known_for_department": "Production",
+        "name": "Andrew Goodman",
+        "original_name": "Andrew Goodman",
+        "popularity": 0.3736,
+        "profile_path": null,
+        "credit_id": "67f45e84ddf9194387d9afe9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445622,
+        "known_for_department": "Production",
+        "name": "Pete Chiappetta",
+        "original_name": "Pete Chiappetta",
+        "popularity": 0.2946,
+        "profile_path": null,
+        "credit_id": "6872a64b2c4efacbc1541d3b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445623,
+        "known_for_department": "Production",
+        "name": "Andrew Lary",
+        "original_name": "Andrew Lary",
+        "popularity": 0.5064,
+        "profile_path": null,
+        "credit_id": "6872a6564a4b44a0daa97f8a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445624,
+        "known_for_department": "Production",
+        "name": "Anthony Tittanegro",
+        "original_name": "Anthony Tittanegro",
+        "popularity": 0.3121,
+        "profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+        "credit_id": "6872a669a09f4f060f6ea7c5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1659138,
+        "known_for_department": "Visual Effects",
+        "name": "Marshall Richard Krasser",
+        "original_name": "Marshall Richard Krasser",
+        "popularity": 0.1541,
+        "profile_path": null,
+        "credit_id": "6878307b99aa499e5aaf0b1f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4067284,
+        "known_for_department": "Visual Effects",
+        "name": "Elizabeth Hauser Hemme",
+        "original_name": "Elizabeth Hauser Hemme",
+        "popularity": 0.0368,
+        "profile_path": null,
+        "credit_id": "687830849effd36cc6bbdf68",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4118330,
+        "known_for_department": "Acting",
+        "name": "Ice Spice",
+        "original_name": "Ice Spice",
+        "popularity": 0.7492,
+        "profile_path": "/q3O02uHVOWd6Qoa5uNQmXlpLEpj.jpg",
+        "credit_id": "691a65c101dc9bc32b81beaa",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4500,
+        "known_for_department": "Sound",
+        "name": "John Debney",
+        "original_name": "John Debney",
+        "popularity": 0.4265,
+        "profile_path": "/iUwBpunUEdknzkRpgAyodwIEh4n.jpg",
+        "credit_id": "6924527f87864fc07fa3b799",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20823,
+        "known_for_department": "Camera",
+        "name": "Peter Lyons Collister",
+        "original_name": "Peter Lyons Collister",
+        "popularity": 0.3974,
+        "profile_path": "/7HZIthu9DIGbIhjmCmWGiAOJmk6.jpg",
+        "credit_id": "69245294024a642dbd32ac97",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34522,
+        "known_for_department": "Writing",
+        "name": "Pam Brady",
+        "original_name": "Pam Brady",
+        "popularity": 0.594,
+        "profile_path": "/eaEP8fYoHOag9sLnj25bUFtcCob.jpg",
+        "credit_id": "6939d2163f33efb5f51ff088",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 99363,
+        "known_for_department": "Writing",
+        "name": "Matt Lieberman",
+        "original_name": "Matt Lieberman",
+        "popularity": 0.4937,
+        "profile_path": "/mJcafAY4KRbppDEzMVfUuIOMVZZ.jpg",
+        "credit_id": "6939d21bf7989ee3381ff0a2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9618,
+        "known_for_department": "Art",
+        "name": "Sean Haworth",
+        "original_name": "Sean Haworth",
+        "popularity": 0.2399,
+        "profile_path": null,
+        "credit_id": "6949d1e2958d552c457ac57d",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1123194,
+        "known_for_department": "Editing",
+        "name": "Wyatt Jones",
+        "original_name": "Wyatt Jones",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "6949d200c4780926b2073c85",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3250730,
+        "known_for_department": "Art",
+        "name": "Pablo R. Mayer",
+        "original_name": "Pablo R. Mayer",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6949d22b496afaacac2fc6ea",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893446,
+        "known_for_department": "Art",
+        "name": "Travis Ruiz",
+        "original_name": "Travis Ruiz",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "6949d243c1eaf926bafb19ba",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70651,
+        "known_for_department": "Writing",
+        "name": "Stephen Hillenburg",
+        "original_name": "Stephen Hillenburg",
+        "popularity": 0.9853,
+        "profile_path": "/c4850yRqFMC1GZpCvDx4q2PRY1E.jpg",
+        "credit_id": "694d53387c66b2b00db1bf0e",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218549,
+        "known_for_department": "Writing",
+        "name": "Mark O'Hare",
+        "original_name": "Mark O'Hare",
+        "popularity": 0.2336,
+        "profile_path": null,
+        "credit_id": "694f7a459df78ecdb9073037",
+        "department": "Writing",
+        "job": "Head of Story"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10244,
+        "name": "based on cartoon"
+      },
+      {
+        "id": 12988,
+        "name": "pirate"
+      },
+      {
+        "id": 269769,
+        "name": "based on tv series"
+      },
+      {
+        "id": 276775,
+        "name": "irreverent"
+      },
+      {
+        "id": 298636,
+        "name": "underworld"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE+7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-7",
+            "descriptors": [
+              "contains violence",
+              "may cause anxiety"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "I",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-20T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "I",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "SU",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-16T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "All",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "iTunes / Apple TV",
+            "release_date": "2026-03-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "V",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [
+              "Fear"
+            ],
+            "iso_639_1": "nl",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Red Sea International Film Festival",
+            "release_date": "2025-12-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-20T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "0+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AFI Fest",
+            "release_date": "2025-10-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-19T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-20T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "adult": false,
+  "backdrop_path": "/aaRbO3m3L3yVg2L73QLYvgP23hj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 91,
+  "imdb_id": "tt0023037",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Las Hurdes",
+  "overview": "Documentário mostra de forma crua e extremamente realista a pobreza e miséria da região do norte da Espanha. Denúncia pungente de 1932, esse curta-metragem de Buñuel reflete suas preocupações sociais e forte personalidade.",
+  "popularity": 2.8738,
+  "poster_path": "/3SbSd2vqXwIaS1ihh1OE2AShQ0k.jpg",
+  "production_companies": [
+    {
+      "id": 85869,
+      "logo_path": null,
+      "name": "Ramón Acín",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1933-12-01",
+  "revenue": 0,
+  "runtime": 27,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Terra sem Pão",
+  "video": false,
+  "vote_average": 7.055,
+  "vote_count": 164,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9768,
+        "known_for_department": "Acting",
+        "name": "Francisco Rabal",
+        "original_name": "Francisco Rabal",
+        "popularity": 0.5648,
+        "profile_path": "/4SXneju54P5QjrF7ZmAlU09HHxX.jpg",
+        "cast_id": 22,
+        "character": "Narrator (voice)",
+        "credit_id": "68962f0f6be4639d9ac4b32a",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 849,
+        "known_for_department": "Camera",
+        "name": "Eli Lotar",
+        "original_name": "Eli Lotar",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "52fe4216c3a36847f8002fb5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2516,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "52fe4216c3a36847f8002f91",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 815,
+        "known_for_department": "Production",
+        "name": "Ramón Acín",
+        "original_name": "Ramón Acín",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "52fe4216c3a36847f8002f9d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2516,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "52fe4216c3a36847f8002fa3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 813,
+        "known_for_department": "Writing",
+        "name": "Pierre Unik",
+        "original_name": "Pierre Unik",
+        "popularity": 0.0983,
+        "profile_path": null,
+        "credit_id": "588a3d02925141533b009707",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 817,
+        "known_for_department": "Writing",
+        "name": "Rafael Sánchez Ventura",
+        "original_name": "Rafael Sánchez Ventura",
+        "popularity": 0.1169,
+        "profile_path": null,
+        "credit_id": "588a3cf19251415516008798",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2516,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "588a3cd19251411ac601c732",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042001,
+        "known_for_department": "Sound",
+        "name": "Darius Milhaud",
+        "original_name": "Darius Milhaud",
+        "popularity": 0.1406,
+        "profile_path": "/9M6Ms2Kbeok7t5giPp32aPltFiD.jpg",
+        "credit_id": "588a3cbac3a3681589008102",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 247601,
+        "known_for_department": "Acting",
+        "name": "Charles Dorat",
+        "original_name": "Charles Dorat",
+        "popularity": 0.2782,
+        "profile_path": "/92UdM56tdYl60JvQyVXaWfgN40z.jpg",
+        "credit_id": "5a8eab989251416c870116c3",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 813,
+        "known_for_department": "Writing",
+        "name": "Pierre Unik",
+        "original_name": "Pierre Unik",
+        "popularity": 0.0983,
+        "profile_path": null,
+        "credit_id": "5cc14d6fc3a36872c98e31d7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 817,
+        "known_for_department": "Writing",
+        "name": "Rafael Sánchez Ventura",
+        "original_name": "Rafael Sánchez Ventura",
+        "popularity": 0.1169,
+        "profile_path": null,
+        "credit_id": "5cc14d5cc3a3687f8f8bb2b3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2296500,
+        "known_for_department": "Writing",
+        "name": "Maurice Legendre",
+        "original_name": "Maurice Legendre",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "5cc14da4c3a368776c8c9401",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18196,
+        "known_for_department": "Production",
+        "name": "Pierre Braunberger",
+        "original_name": "Pierre Braunberger",
+        "popularity": 0.1538,
+        "profile_path": null,
+        "credit_id": "5cc14e8dc3a36872c98e3498",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 793,
+        "known_for_department": "Directing",
+        "name": "Luis Buñuel",
+        "original_name": "Luis Buñuel",
+        "popularity": 1.2516,
+        "profile_path": "/a7wib1eRG6TyonDXpAbF7PZd0f8.jpg",
+        "credit_id": "5cc14d3fc3a3687f8f8bb292",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 514,
+        "name": "spain"
+      },
+      {
+        "id": 2903,
+        "name": "propaganda"
+      },
+      {
+        "id": 9887,
+        "name": "surrealism"
+      },
+      {
+        "id": 12987,
+        "name": "poverty"
+      },
+      {
+        "id": 160517,
+        "name": "fake documentary"
+      },
+      {
+        "id": 161316,
+        "name": "social documentary"
+      },
+      {
+        "id": 208250,
+        "name": "spanish second republic (1931-39)"
+      },
+      {
+        "id": 214548,
+        "name": "1930s"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 276164,
+        "name": "pseudo-documentary"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rio de Janeiro International Film Festival",
+            "release_date": "2005-09-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2008-02-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "West Germany",
+            "release_date": "1963-01-30T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1933-12-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1996-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1937-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinemateca Portuguesa",
+            "release_date": "2009-05-12T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1972-10-13T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2019-07-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

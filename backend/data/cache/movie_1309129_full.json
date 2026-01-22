@@ -1,0 +1,315 @@
+{
+  "adult": false,
+  "backdrop_path": "/dbUUasPx24MR0JHWbREwKy0CgvU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Terror"
+    },
+    {
+      "id": 9648,
+      "name": "Mistério"
+    }
+  ],
+  "homepage": "",
+  "id": 1309129,
+  "imdb_id": "tt29728906",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Diabolisch",
+  "overview": "",
+  "popularity": 19.1105,
+  "poster_path": "/gm0e0W7QRTpima3aIGz2ZLU9pgm.jpg",
+  "production_companies": [
+    {
+      "id": 138114,
+      "logo_path": null,
+      "name": "Doorn Eden Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2025-09-29",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Diabolisch",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4795464,
+        "known_for_department": "Acting",
+        "name": "Caroline Lichtenberg",
+        "original_name": "Caroline Lichtenberg",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Jessica Insinger",
+        "credit_id": "667ba427504b878dc7aa68ae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4224696,
+        "known_for_department": "Acting",
+        "name": "Elske Stout",
+        "original_name": "Elske Stout",
+        "popularity": 0.1325,
+        "profile_path": "/aMShtS2yml6VDSMpSSc3apaHas9.jpg",
+        "cast_id": 8,
+        "character": "Anna",
+        "credit_id": "667ba4345abbc72a4072d4c2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4795465,
+        "known_for_department": "Acting",
+        "name": "Paul Schaareman",
+        "original_name": "Paul Schaareman",
+        "popularity": 0.0356,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "David",
+        "credit_id": "667ba449eace6f1feabaf21e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4795466,
+        "known_for_department": "Acting",
+        "name": "Alexandra van Lier",
+        "original_name": "Alexandra van Lier",
+        "popularity": 0.1876,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Michelle",
+        "credit_id": "667ba46425b893ff6caa6863",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4477247,
+        "known_for_department": "Acting",
+        "name": "Sam Post",
+        "original_name": "Sam Post",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Valerie Insinger",
+        "credit_id": "667ba46b6faf2d0919baf1dd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3678600,
+        "known_for_department": "Acting",
+        "name": "Dirk van der Pol",
+        "original_name": "Dirk van der Pol",
+        "popularity": 0.7444,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Willem Insinger",
+        "credit_id": "6941330d2fa2dffbf0467e90",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2346016,
+        "known_for_department": "Acting",
+        "name": "Jos Timmerman",
+        "original_name": "Jos Timmerman",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Dr. Raymond Erlings",
+        "credit_id": "6941331c1b2415eb3dc01a2f",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628473,
+        "known_for_department": "Directing",
+        "name": "Tristan van Doorn",
+        "original_name": "Tristan van Doorn",
+        "popularity": 0.0809,
+        "profile_path": "/nz3zGs75VnLOKVt2WDBvfppDybX.jpg",
+        "credit_id": "667ba3b643287745f9f9b386",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628473,
+        "known_for_department": "Directing",
+        "name": "Tristan van Doorn",
+        "original_name": "Tristan van Doorn",
+        "popularity": 0.0809,
+        "profile_path": "/nz3zGs75VnLOKVt2WDBvfppDybX.jpg",
+        "credit_id": "667ba3c15abbc72a4072d4a0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628473,
+        "known_for_department": "Directing",
+        "name": "Tristan van Doorn",
+        "original_name": "Tristan van Doorn",
+        "popularity": 0.0809,
+        "profile_path": "/nz3zGs75VnLOKVt2WDBvfppDybX.jpg",
+        "credit_id": "667ba3d0504b878dc7aa688f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2730234,
+        "known_for_department": "Directing",
+        "name": "Jeroen van Eden",
+        "original_name": "Jeroen van Eden",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "667ba3e03760724279baf0eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2730233,
+        "known_for_department": "Sound",
+        "name": "René Gijzemijter",
+        "original_name": "René Gijzemijter",
+        "popularity": 0.0702,
+        "profile_path": null,
+        "credit_id": "667ba3f8c37738eba0557489",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2730234,
+        "known_for_department": "Directing",
+        "name": "Jeroen van Eden",
+        "original_name": "Jeroen van Eden",
+        "popularity": 0.0393,
+        "profile_path": null,
+        "credit_id": "667ba40c5c23b05cd5d22954",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 243003,
+        "name": "demonic spirit"
+      },
+      {
+        "id": 251762,
+        "name": "genetic disorder"
+      },
+      {
+        "id": 256183,
+        "name": "supernatural horror"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "nl",
+            "note": "Amazon Prime Video",
+            "release_date": "2025-11-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [
+              "Violence",
+              "Fear",
+              "Coarse Language"
+            ],
+            "iso_639_1": "nl",
+            "note": "Limited Theatrical Release",
+            "release_date": "2025-09-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

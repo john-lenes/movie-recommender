@@ -1,0 +1,290 @@
+{
+  "adult": false,
+  "backdrop_path": "/aQNXzRCtwO2iMcIIGrT80cmUhxr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 44065,
+  "imdb_id": "tt0336693",
+  "origin_country": [
+    "IR"
+  ],
+  "original_language": "fa",
+  "original_title": "خانه سیاه است",
+  "overview": "Documentário sobre uma colônia de leprosos situada no norte do Irã.",
+  "popularity": 3.1545,
+  "poster_path": "/eFIpxjYOMLoN5BBjy4McT7rBKmr.jpg",
+  "production_companies": [
+    {
+      "id": 72152,
+      "logo_path": null,
+      "name": "Studio Golestan",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IR",
+      "name": "Iran"
+    }
+  ],
+  "release_date": "1963-02-18",
+  "revenue": 0,
+  "runtime": 21,
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Casa é Escura",
+  "video": false,
+  "vote_average": 7.363,
+  "vote_count": 143,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1174367,
+        "known_for_department": "Directing",
+        "name": "Forugh Farrokhzad",
+        "original_name": "Forugh Farrokhzad",
+        "popularity": 0.232,
+        "profile_path": "/vofBBmDcfVE3EWWjlCziM2lAzD0.jpg",
+        "cast_id": 6,
+        "character": "Narrator (voice) (uncredited)",
+        "credit_id": "599f1a2bc3a3683f42001dfc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128485,
+        "known_for_department": "Directing",
+        "name": "Ebrahim Golestan",
+        "original_name": "Ebrahim Golestan",
+        "popularity": 0.1727,
+        "profile_path": "/fRX25Y4CQJ4tQivoLrbBuQG3n7p.jpg",
+        "cast_id": 7,
+        "character": "Narrator (voice) (uncredited)",
+        "credit_id": "599f1a369251410e32001e5b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1876244,
+        "known_for_department": "Acting",
+        "name": "Hossein Mansouri",
+        "original_name": "Hossein Mansouri",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self (uncredited)",
+        "credit_id": "599f1a47c3a3683ef90021bd",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1174367,
+        "known_for_department": "Directing",
+        "name": "Forugh Farrokhzad",
+        "original_name": "Forugh Farrokhzad",
+        "popularity": 0.232,
+        "profile_path": "/vofBBmDcfVE3EWWjlCziM2lAzD0.jpg",
+        "credit_id": "52fe4675c3a36847f81002cd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1174367,
+        "known_for_department": "Directing",
+        "name": "Forugh Farrokhzad",
+        "original_name": "Forugh Farrokhzad",
+        "popularity": 0.232,
+        "profile_path": "/vofBBmDcfVE3EWWjlCziM2lAzD0.jpg",
+        "credit_id": "599f1a03c3a3683f42001dbe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1128485,
+        "known_for_department": "Directing",
+        "name": "Ebrahim Golestan",
+        "original_name": "Ebrahim Golestan",
+        "popularity": 0.1727,
+        "profile_path": "/fRX25Y4CQJ4tQivoLrbBuQG3n7p.jpg",
+        "credit_id": "599f1a0fc3a3683ea4002119",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1174367,
+        "known_for_department": "Directing",
+        "name": "Forugh Farrokhzad",
+        "original_name": "Forugh Farrokhzad",
+        "popularity": 0.232,
+        "profile_path": "/vofBBmDcfVE3EWWjlCziM2lAzD0.jpg",
+        "credit_id": "599f19f89251410e12001fde",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563924,
+        "known_for_department": "Camera",
+        "name": "Soleyman Minasian",
+        "original_name": "Soleyman Minasian",
+        "popularity": 0.0705,
+        "profile_path": "/loj7Yg2qQnppTzfMZay2iZ6Ulj.jpg",
+        "credit_id": "599f1a1bc3a3683f0e002137",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3341,
+        "name": "leprosy"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Locarno Film Festival",
+            "release_date": "1995-08-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Oberhausen",
+            "release_date": "1963-02-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Women's Cinema from Tangiers to Tehran",
+            "release_date": "2008-02-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Madani International Film Festival",
+            "release_date": "2023-10-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "2019-08-29T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jeonju International Film Festival",
+            "release_date": "2021-05-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Women Make Waves International Film Festival",
+            "release_date": "2023-10-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2008-01-15T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  }
+}

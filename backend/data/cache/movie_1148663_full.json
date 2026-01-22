@@ -1,0 +1,744 @@
+{
+  "adult": false,
+  "backdrop_path": "/a4aFQpXV6hfRW4ZEjghVCVArXnu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "História"
+    }
+  ],
+  "homepage": "",
+  "id": 1148663,
+  "imdb_id": "tt28297850",
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Iddu - L'ultimo padrino",
+  "overview": "",
+  "popularity": 6.6565,
+  "poster_path": "/y3B7FMTzIrywDNCQYU2Arp5ANwY.jpg",
+  "production_companies": [
+    {
+      "id": 1533,
+      "logo_path": "/bMD3Zv15TujMXJwvqoTFY6Scexx.png",
+      "name": "Indigo Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 234479,
+      "logo_path": null,
+      "name": "Cine+ OCS",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2024-10-10",
+  "revenue": 0,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Iddu - L'ultimo padrino",
+  "video": false,
+  "vote_average": 6.219,
+  "vote_count": 112,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72782,
+        "known_for_department": "Acting",
+        "name": "Toni Servillo",
+        "original_name": "Toni Servillo",
+        "popularity": 0.5934,
+        "profile_path": "/h9Js3JQOFD5h4uNtJB2VwSgMcYq.jpg",
+        "cast_id": 12,
+        "character": "Catello Palumbo",
+        "credit_id": "64a697822b531d01458478e8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59269,
+        "known_for_department": "Acting",
+        "name": "Elio Germano",
+        "original_name": "Elio Germano",
+        "popularity": 0.4701,
+        "profile_path": "/2Z6SHTOQ9XuKdFlFpKZ2yPCpald.jpg",
+        "cast_id": 11,
+        "character": "Matteo",
+        "credit_id": "64a69778724de100fff7ba8f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1445999,
+        "known_for_department": "Acting",
+        "name": "Daniela Marra",
+        "original_name": "Daniela Marra",
+        "popularity": 0.3791,
+        "profile_path": "/sjYoXTxE8pnio0TdvssybIqZPLL.jpg",
+        "cast_id": 13,
+        "character": "Rita Mancuso",
+        "credit_id": "64a6979707faa200e40ba846",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27271,
+        "known_for_department": "Acting",
+        "name": "Barbora Bobuľová",
+        "original_name": "Barbora Bobuľová",
+        "popularity": 0.4598,
+        "profile_path": "/dCUMZhPuTtQo259uWKMSRhb9g3F.jpg",
+        "cast_id": 14,
+        "character": "Lucia Russo",
+        "credit_id": "64a697a32b531d0126ba66ab",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2012708,
+        "known_for_department": "Acting",
+        "name": "Giuseppe Tantillo",
+        "original_name": "Giuseppe Tantillo",
+        "popularity": 0.0743,
+        "profile_path": "/63ST4R9S5hSzkqDnDyiRuPkYeVC.jpg",
+        "cast_id": 16,
+        "character": "Pino Tumino",
+        "credit_id": "64a697bd2b531d0145847903",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105870,
+        "known_for_department": "Acting",
+        "name": "Fausto Russo Alesi",
+        "original_name": "Fausto Russo Alesi",
+        "popularity": 0.3352,
+        "profile_path": "/3ur2kwquax7vJujGXpWIzjHa4Ao.jpg",
+        "cast_id": 15,
+        "character": "Emilio Schiavon",
+        "credit_id": "64a697b1724de100aca6aca6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 128220,
+        "known_for_department": "Acting",
+        "name": "Antonia Truppo",
+        "original_name": "Antonia Truppo",
+        "popularity": 0.3434,
+        "profile_path": "/7RzR58zqdgjKqhyjIbzExBCc5qo.jpg",
+        "cast_id": 17,
+        "character": "Stefania",
+        "credit_id": "64a697cc724de1011cc4b73f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226353,
+        "known_for_department": "Acting",
+        "name": "Tommaso Ragno",
+        "original_name": "Tommaso Ragno",
+        "popularity": 0.7261,
+        "profile_path": "/jxCSg7hYjhilnYpTjXCFjGox5v6.jpg",
+        "cast_id": 18,
+        "character": "Papacena",
+        "credit_id": "64a697da724de100e220bb41",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2406108,
+        "known_for_department": "Acting",
+        "name": "Betti Pedrazzi",
+        "original_name": "Betti Pedrazzi",
+        "popularity": 0.3259,
+        "profile_path": "/zwZPLSH1TZfHIxAewMSMNVp52R9.jpg",
+        "cast_id": 19,
+        "character": "Elvira",
+        "credit_id": "64a697eb724de100fff7bac1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 19465,
+        "known_for_department": "Acting",
+        "name": "Filippo Luna",
+        "original_name": "Filippo Luna",
+        "popularity": 0.3592,
+        "profile_path": "/88JIIDFni0coD9tPAbOEsqsxN3D.jpg",
+        "cast_id": 20,
+        "character": "Giovannino",
+        "credit_id": "64a697f5cae63200c87dacb2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2410265,
+        "known_for_department": "Acting",
+        "name": "Rosario Palazzolo",
+        "original_name": "Rosario Palazzolo",
+        "popularity": 0.0524,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Don Gaetano",
+        "credit_id": "64a698070398ab00ebeed44c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 133217,
+        "known_for_department": "Acting",
+        "name": "Roberto De Francesco",
+        "original_name": "Roberto De Francesco",
+        "popularity": 0.5372,
+        "profile_path": "/uJD4tphYchfj5gBmVEBHmu3NKmq.jpg",
+        "cast_id": 21,
+        "character": "Senatore",
+        "credit_id": "64a697ff0398ab014edf4329",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1811723,
+        "known_for_department": "Acting",
+        "name": "Vincenzo Ferrera",
+        "original_name": "Vincenzo Ferrera",
+        "popularity": 0.3177,
+        "profile_path": "/lNa0jOriPA416Hdgoa4orseX1Y6.jpg",
+        "cast_id": 23,
+        "character": "Assessore",
+        "credit_id": "64a69812724de100c5e98aa4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1278815,
+        "known_for_department": "Acting",
+        "name": "Maurizio Marchetti",
+        "original_name": "Maurizio Marchetti",
+        "popularity": 0.1723,
+        "profile_path": "/kby0k70f8OZDoNUPxOUNIv2fCwB.jpg",
+        "cast_id": 31,
+        "character": "Maresciallo Di Graziano",
+        "credit_id": "66d1e7e02a06f48f7eb15760",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3441576,
+        "known_for_department": "Acting",
+        "name": "Gianluca Zaccaria",
+        "original_name": "Gianluca Zaccaria",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Appuntato Battaglia",
+        "credit_id": "64a6981f2b531d0126ba66e1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1890517,
+        "known_for_department": "Acting",
+        "name": "Lucio Patané",
+        "original_name": "Lucio Patané",
+        "popularity": 0.2083,
+        "profile_path": "/2j1b8Arbr0vQi1WZEN3LsZDLTYQ.jpg",
+        "cast_id": 32,
+        "character": "Sindaco Manciaracina",
+        "credit_id": "66d1e7e863aa27a532811eba",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1776083,
+        "known_for_department": "Acting",
+        "name": "Chiara Bassermann",
+        "original_name": "Chiara Bassermann",
+        "popularity": 0.0998,
+        "profile_path": "/nmv6Fx8dEdAvzvjJaCtrgF3vt8o.jpg",
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "64a6981a0398ab00ca2088d1",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7560,
+        "known_for_department": "Camera",
+        "name": "Luca Bigazzi",
+        "original_name": "Luca Bigazzi",
+        "popularity": 0.3899,
+        "profile_path": "/fajMzDfil9wWUiEOvc9wzxFxlYe.jpg",
+        "credit_id": "64a696f707faa200c7ec11e9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2410255,
+        "known_for_department": "Production",
+        "name": "Maurilio Mangano",
+        "original_name": "Maurilio Mangano",
+        "popularity": 0.105,
+        "profile_path": null,
+        "credit_id": "64a69745724de100e220bb03",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1171455,
+        "known_for_department": "Writing",
+        "name": "Fabio Grassadonia",
+        "original_name": "Fabio Grassadonia",
+        "popularity": 0.2146,
+        "profile_path": "/gKMjInST8W5i0H1p2ZKyBR7N6rV.jpg",
+        "credit_id": "64a696680398ab012d546ea8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2275730,
+        "known_for_department": "Art",
+        "name": "Gaspare De Pascali",
+        "original_name": "Gaspare De Pascali",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "64a6971d0398ab00ca208884",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210535,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Andrea Cavalletto",
+        "original_name": "Andrea Cavalletto",
+        "popularity": 0.1275,
+        "profile_path": "/5NNA6CHCNCuSXSsgulU55fLZbIE.jpg",
+        "credit_id": "64a69731c3bffe00c86bc742",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171456,
+        "known_for_department": "Writing",
+        "name": "Antonio Piazza",
+        "original_name": "Antonio Piazza",
+        "popularity": 0.1779,
+        "profile_path": "/qmqNK1cu66BT1PpWYi7FkJ7dg2G.jpg",
+        "credit_id": "64a69677724de100e220bab5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 31013,
+        "known_for_department": "Editing",
+        "name": "Paola Freddi",
+        "original_name": "Paola Freddi",
+        "popularity": 0.1126,
+        "profile_path": null,
+        "credit_id": "64a6970b07faa2011e031ef0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1171456,
+        "known_for_department": "Writing",
+        "name": "Antonio Piazza",
+        "original_name": "Antonio Piazza",
+        "popularity": 0.1779,
+        "profile_path": "/qmqNK1cu66BT1PpWYi7FkJ7dg2G.jpg",
+        "credit_id": "64a6967e0398ab010c5472d5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3371392,
+        "known_for_department": "Acting",
+        "name": "Colapesce",
+        "original_name": "Colapesce",
+        "popularity": 0.1237,
+        "profile_path": "/kzNpMjwnRZiXCjkXNeHGyPut8vM.jpg",
+        "credit_id": "64a69752724de100e220bb0c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1171455,
+        "known_for_department": "Writing",
+        "name": "Fabio Grassadonia",
+        "original_name": "Fabio Grassadonia",
+        "popularity": 0.2146,
+        "profile_path": "/gKMjInST8W5i0H1p2ZKyBR7N6rV.jpg",
+        "credit_id": "64a6966007faa2011e031e9e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933273,
+        "known_for_department": "Production",
+        "name": "Francesca Cima",
+        "original_name": "Francesca Cima",
+        "popularity": 0.3557,
+        "profile_path": "/kygUwqeRSfrRVYv7ZK0UD8cHwbe.jpg",
+        "credit_id": "66d1e78b9dc73a87a2b06d5b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1412913,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Frédérique Foglia",
+        "original_name": "Frédérique Foglia",
+        "popularity": 0.1267,
+        "profile_path": null,
+        "credit_id": "66d1e755df4f4133ee811e67",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1422522,
+        "known_for_department": "Sound",
+        "name": "Mirko Perri",
+        "original_name": "Mirko Perri",
+        "popularity": 0.5315,
+        "profile_path": null,
+        "credit_id": "66d1e8216cbf9623e6811e8c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2655394,
+        "known_for_department": "Sound",
+        "name": "Giulio Previ",
+        "original_name": "Giulio Previ",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "credit_id": "66d1e82ca77fa59df46a5679",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1341584,
+        "known_for_department": "Production",
+        "name": "Carlotta Calori",
+        "original_name": "Carlotta Calori",
+        "popularity": 0.098,
+        "profile_path": "/iUqFcA1gxbkpbheuO4yTcVgLwRB.jpg",
+        "credit_id": "66d1e7769b26114fe101bbd9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1300829,
+        "known_for_department": "Production",
+        "name": "Alexis Dantec",
+        "original_name": "Alexis Dantec",
+        "popularity": 0.1193,
+        "profile_path": null,
+        "credit_id": "66d1e844cb3ed9ca8dc0be23",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1151378,
+        "known_for_department": "Production",
+        "name": "Viola Prestieri",
+        "original_name": "Viola Prestieri",
+        "popularity": 0.2637,
+        "profile_path": null,
+        "credit_id": "66d1e76c532f6a08ae9439da",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3161336,
+        "known_for_department": "Sound",
+        "name": "Stefano Campus",
+        "original_name": "Stefano Campus",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "credit_id": "66d1e8378459f33af20fd6f7",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1986904,
+        "known_for_department": "Production",
+        "name": "Stefano D'Avella",
+        "original_name": "Stefano D'Avella",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "66d1e850adae92a955c0bca5",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933274,
+        "known_for_department": "Production",
+        "name": "Nicola Giuliano",
+        "original_name": "Nicola Giuliano",
+        "popularity": 0.1945,
+        "profile_path": null,
+        "credit_id": "66d1e79be782a58e4c0c27b7",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10391,
+        "name": "mafia"
+      },
+      {
+        "id": 195568,
+        "name": "storia"
+      },
+      {
+        "id": 320010,
+        "name": "cosanostra"
+      },
+      {
+        "id": 320011,
+        "name": "criminalità"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ST. ALi Italian Film Festival",
+            "release_date": "2025-09-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Zurich Film Festival",
+            "release_date": "2024-10-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice Film Festival",
+            "release_date": "2024-09-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "2024-10-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "2025 Venice in Seoul",
+            "release_date": "2025-02-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2025-03-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2025-04-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Odesa International Film Festival",
+            "release_date": "2025-09-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  }
+}

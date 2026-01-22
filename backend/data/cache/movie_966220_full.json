@@ -1,0 +1,445 @@
+{
+  "adult": false,
+  "backdrop_path": "/oal5fDK90yX6b8yunj6JahBqX2J.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "Guerra"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 966220,
+  "imdb_id": "tt19465630",
+  "origin_country": [
+    "UA"
+  ],
+  "original_language": "uk",
+  "original_title": "Снайпер. Білий ворон",
+  "overview": "Depois de sofrer uma tragédia nas mãos de soldados invasores em Donbass, um professor de física ucraniano busca vingança. Ele está de olho em um atirador de elite russo cuja eliminação pode mudar o curso do conflito.",
+  "popularity": 7.5002,
+  "poster_path": "/1zNcJWXQYgMDAF3pNoqxU47FHfc.jpg",
+  "production_companies": [
+    {
+      "id": 173973,
+      "logo_path": null,
+      "name": "UM Group",
+      "origin_country": "UA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "release_date": "2022-05-03",
+  "revenue": 881,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Corvo Branco",
+  "video": false,
+  "vote_average": 7.628,
+  "vote_count": 850,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3258776,
+        "known_for_department": "Acting",
+        "name": "Павло Алдошин",
+        "original_name": "Павло Алдошин",
+        "popularity": 0.1813,
+        "profile_path": "/Vi4YZuPX6oFVNeaugZ8YalOFSg.jpg",
+        "cast_id": 4,
+        "character": "Mykola",
+        "credit_id": "6262bef9fbe36f006a7c1472",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2232024,
+        "known_for_department": "Acting",
+        "name": "Марина Кошкіна",
+        "original_name": "Марина Кошкіна",
+        "popularity": 0.4483,
+        "profile_path": "/eLPvR0xFkOOKtVjL7UWD6sFs5dF.jpg",
+        "cast_id": 5,
+        "character": "Nastia",
+        "credit_id": "6262bf15c1ffbd10a2324993",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2039497,
+        "known_for_department": "Acting",
+        "name": "Андрій Мостренко",
+        "original_name": "Андрій Мостренко",
+        "popularity": 0.3847,
+        "profile_path": "/ovCSFuWwBqgb42uPOxxbIaKttce.jpg",
+        "cast_id": 6,
+        "character": "Cap",
+        "credit_id": "6262c0087caa4714b346bbc2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1916805,
+        "known_for_department": "Acting",
+        "name": "Roman Semysal",
+        "original_name": "Roman Semysal",
+        "popularity": 0.1861,
+        "profile_path": "/ulFaXUul8kQDUx2IFI0Xs1NSYFY.jpg",
+        "cast_id": 7,
+        "character": "Brigade commander",
+        "credit_id": "6262c0256eecee30f1cf4fa2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2342168,
+        "known_for_department": "Acting",
+        "name": "Роман Ясіновський",
+        "original_name": "Роман Ясіновський",
+        "popularity": 0.3398,
+        "profile_path": "/oNGKZ1TJypBbXQjUmSC7ycOU4PF.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "630f29dacb80280082ca7b34",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1886663,
+        "known_for_department": "Acting",
+        "name": "Oleh Shulha",
+        "original_name": "Oleh Shulha",
+        "popularity": 0.243,
+        "profile_path": "/inCAXCrKoEBJgl1sNgXtxg1fMo2.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "630f29ea564ec700915c457b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3834432,
+        "known_for_department": "Acting",
+        "name": "Yehor Kozlov",
+        "original_name": "Yehor Kozlov",
+        "popularity": 0.5246,
+        "profile_path": "/hFMVcdH8MMhr0tL5vuhL220pqpY.jpg",
+        "cast_id": 11,
+        "character": "Ivan",
+        "credit_id": "639d8e982f3b170094c92d6e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3226254,
+        "known_for_department": "Acting",
+        "name": "Євген Черников",
+        "original_name": "Євген Черников",
+        "popularity": 0.3819,
+        "profile_path": "/odCWzg6itgADb8UL6qYew9sKu0O.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "63dd5e8dce5d82008e082f88",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2754738,
+        "known_for_department": "Acting",
+        "name": "Vadym Kurylko",
+        "original_name": "Vadym Kurylko",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Hyurza",
+        "credit_id": "63ea0b636c849200c773ce5e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2730048,
+        "known_for_department": "Acting",
+        "name": "Захар Шадрін",
+        "original_name": "Захар Шадрін",
+        "popularity": 0.1486,
+        "profile_path": "/bF3dWLmbXa1AslvscpQD0z3Qswd.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "651b680dc50ad2012c1a34e7",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3518356,
+        "known_for_department": "Directing",
+        "name": "Marian Bushan",
+        "original_name": "Marian Bushan",
+        "popularity": 0.0644,
+        "profile_path": "/nFlnK25dipejSoitm1QMgrl3YKS.jpg",
+        "credit_id": "6262be6b1495651653922eb3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3518358,
+        "known_for_department": "Writing",
+        "name": "Mykola Voronin",
+        "original_name": "Mykola Voronin",
+        "popularity": 0.1412,
+        "profile_path": null,
+        "credit_id": "6262be9a57530e0a7428c699",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3518356,
+        "known_for_department": "Directing",
+        "name": "Marian Bushan",
+        "original_name": "Marian Bushan",
+        "popularity": 0.0644,
+        "profile_path": "/nFlnK25dipejSoitm1QMgrl3YKS.jpg",
+        "credit_id": "6262be73e61e6d00a7ab3cce",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4120844,
+        "known_for_department": "Sound",
+        "name": "Maurizio Armato",
+        "original_name": "Maurizio Armato",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "657321edcaab6d00ad2ccad4",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3824297,
+        "known_for_department": "Sound",
+        "name": "Nadiia Odesiuk",
+        "original_name": "Nadiia Odesiuk",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "63943508d05a0300ae4f53d5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3023,
+        "name": "eastern europe"
+      },
+      {
+        "id": 1295,
+        "name": "europe"
+      },
+      {
+        "id": 244797,
+        "name": "donbass war"
+      },
+      {
+        "id": 252606,
+        "name": "russian invasion of ukraine (2022)"
+      },
+      {
+        "id": 257783,
+        "name": "2010s"
+      },
+      {
+        "id": 272265,
+        "name": "ukraine"
+      },
+      {
+        "id": 273967,
+        "name": "war"
+      },
+      {
+        "id": 294348,
+        "name": "factual"
+      },
+      {
+        "id": 294795,
+        "name": "war in ukraine"
+      },
+      {
+        "id": 301386,
+        "name": "russo-ukrainian war"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-01-20T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2023-05-03T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD & Blu-Ray",
+            "release_date": "2023-05-03T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-10-03T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-10-03T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-01-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-05-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-08-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-07-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-07-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

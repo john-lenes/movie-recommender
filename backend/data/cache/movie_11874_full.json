@@ -1,0 +1,947 @@
+{
+  "adult": false,
+  "backdrop_path": "/myO1oP0NIGTBpSQuTb0uj5ROZwQ.jpg",
+  "belongs_to_collection": {
+    "id": 266731,
+    "name": "Jango: Coleção",
+    "poster_path": "/cMv1lFuapgoPni14AQD9hRNtVTU.jpg",
+    "backdrop_path": "/wwTxNzXfZSvqi2cLOAaEEXJDozW.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Faroeste"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 11874,
+  "imdb_id": "tt0064860",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "I quattro dell'Ave Maria",
+  "overview": "Caco (Eli Watch) é um fora-da-lei que está prestes a ter sua sentença de morte executada. Harold, o presidente do banco de El Paso, vai até ele lhe fazer uma proposta: facilitar sua fuga caso ele recupere para o banqueiro o dinheiro que está com a dupla Cat (Terence Hill) e Hutch (Bud Spencer).",
+  "popularity": 5.3612,
+  "poster_path": "/9XwihaPv0FSLroIYfdndRR0t6IL.jpg",
+  "production_companies": [
+    {
+      "id": 15408,
+      "logo_path": null,
+      "name": "Crono Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 25287,
+      "logo_path": null,
+      "name": "San Marco",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1968-10-02",
+  "revenue": 0,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ninguém vence o Caco no seu próprio jogo, porque mesmo que você ganhe... você perde!",
+  "title": "Os Quatro da Ave Maria",
+  "video": false,
+  "vote_average": 6.531,
+  "vote_count": 213,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3265,
+        "known_for_department": "Acting",
+        "name": "Eli Wallach",
+        "original_name": "Eli Wallach",
+        "popularity": 1.5667,
+        "profile_path": "/egLe8r2PwbTx9ocwS1Zu2vsYC9v.jpg",
+        "cast_id": 1,
+        "character": "Cacopoulos",
+        "credit_id": "52fe44989251416c7503a4ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15140,
+        "known_for_department": "Acting",
+        "name": "Terence Hill",
+        "original_name": "Terence Hill",
+        "popularity": 4.5075,
+        "profile_path": "/vBkWDZh93QRUvg3oh5d96QQZWLn.jpg",
+        "cast_id": 2,
+        "character": "Cat Stevens",
+        "credit_id": "52fe44989251416c7503a4b1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18841,
+        "known_for_department": "Acting",
+        "name": "Bud Spencer",
+        "original_name": "Bud Spencer",
+        "popularity": 2.5781,
+        "profile_path": "/cVbBoKxRDFOdDKwdpRmxVazDWlE.jpg",
+        "cast_id": 3,
+        "character": "Hutch Bessy",
+        "credit_id": "52fe44989251416c7503a4b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2112,
+        "known_for_department": "Acting",
+        "name": "Brock Peters",
+        "original_name": "Brock Peters",
+        "popularity": 0.8066,
+        "profile_path": "/yrnjKF4BDdp7usDJeHGpMmYUNgJ.jpg",
+        "cast_id": 4,
+        "character": "Thomas",
+        "credit_id": "52fe44989251416c7503a4b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34597,
+        "known_for_department": "Acting",
+        "name": "Kevin McCarthy",
+        "original_name": "Kevin McCarthy",
+        "popularity": 0.9269,
+        "profile_path": "/nKKwlz1tvDABTIrxK6oH4zdQPPB.jpg",
+        "cast_id": 13,
+        "character": "Drake",
+        "credit_id": "533e5dddc3a3681383000d6c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5817,
+        "known_for_department": "Acting",
+        "name": "Livio Lorenzon",
+        "original_name": "Livio Lorenzon",
+        "popularity": 0.3908,
+        "profile_path": "/AkIJIeGG2w0RIWejf6QoReu3ZhB.jpg",
+        "cast_id": 14,
+        "character": "Paco Rosa",
+        "credit_id": "58447fd29251416a7400cfa5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132262,
+        "known_for_department": "Acting",
+        "name": "Steffen Zacharias",
+        "original_name": "Steffen Zacharias",
+        "popularity": 0.8857,
+        "profile_path": "/i5RxP1CZgpEK5FnrMksZo9AJKcu.jpg",
+        "cast_id": 15,
+        "character": "Harold",
+        "credit_id": "58447fe1c3a368481300c65b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228147,
+        "known_for_department": "Acting",
+        "name": "Armando Bandini",
+        "original_name": "Armando Bandini",
+        "popularity": 0.1939,
+        "profile_path": "/pZBtR5z8rVqn5UTS5qml9hg2wf.jpg",
+        "cast_id": 18,
+        "character": "Bank Manager",
+        "credit_id": "5a159c5bc3a36807460132c9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33811,
+        "known_for_department": "Acting",
+        "name": "Remo Capitani",
+        "original_name": "Remo Capitani",
+        "popularity": 0.2406,
+        "profile_path": "/u4mA2m8SFOvhPLVTDy5JOfI2jHx.jpg",
+        "cast_id": 17,
+        "character": "Cangaceiro",
+        "credit_id": "5a159c5092514178c2013e16",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98492,
+        "known_for_department": "Acting",
+        "name": "Federico Boido",
+        "original_name": "Federico Boido",
+        "popularity": 0.3148,
+        "profile_path": "/lGPoEZtCqn2DdlzKT6xkbPEb8FX.jpg",
+        "cast_id": 23,
+        "character": "Drake's Henchman",
+        "credit_id": "5a159ca3c3a368073e014d0c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1735764,
+        "known_for_department": "Acting",
+        "name": "Isa Foster",
+        "original_name": "Isa Foster",
+        "popularity": 0.0457,
+        "profile_path": "/bDoEbSjqvCzYeF73ntuEnxA0J4c.jpg",
+        "cast_id": 31,
+        "character": "Cacopoulos' Woman",
+        "credit_id": "5e332de3c56d2d001852f22c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33819,
+        "known_for_department": "Acting",
+        "name": "Bruno Corazzari",
+        "original_name": "Bruno Corazzari",
+        "popularity": 0.3554,
+        "profile_path": "/dWb3zJZM46yKwiBAU5J7kT0kMgP.jpg",
+        "cast_id": 19,
+        "character": "Charlie",
+        "credit_id": "5a159c6692514178b90140c5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1008489,
+        "known_for_department": "Acting",
+        "name": "Dante Cleri",
+        "original_name": "Dante Cleri",
+        "popularity": 0.3604,
+        "profile_path": "/cQM8nfs0k4bdqHZmqiji4cp8jUw.jpg",
+        "cast_id": 32,
+        "character": "Card-Playing Banker",
+        "credit_id": "5e332df9ac8e6b001ac0a17e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2061352,
+        "known_for_department": "Acting",
+        "name": "Aldo Sala",
+        "original_name": "Aldo Sala",
+        "popularity": 0.0721,
+        "profile_path": "/6ArjCdTtQQbPb06WoF6YdsiQovs.jpg",
+        "cast_id": 34,
+        "character": "Casino Employee",
+        "credit_id": "5e332e12326c19001420b302",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1127378,
+        "known_for_department": "Acting",
+        "name": "Antonietta Fiorito",
+        "original_name": "Antonietta Fiorito",
+        "popularity": 0.1988,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "5e332e0898f1f1001200f969",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1718294,
+        "known_for_department": "Acting",
+        "name": "Tiffany Hoyveld",
+        "original_name": "Tiffany Hoyveld",
+        "popularity": 0.0311,
+        "profile_path": "/mGjKvS6H2XexuUJ4AvKSdHF0XeC.jpg",
+        "cast_id": 16,
+        "character": "Thomas' Wife",
+        "credit_id": "58447fee9251416a8000d365",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1140028,
+        "known_for_department": "Acting",
+        "name": "Giuseppe Terranova",
+        "original_name": "Giuseppe Terranova",
+        "popularity": 0.1425,
+        "profile_path": "/f5ky94TE4QHE9YLKaqFUvco7GHe.jpg",
+        "cast_id": 35,
+        "character": "Casino Treasurer",
+        "credit_id": "5e332e1dc3926600162685b5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1064667,
+        "known_for_department": "Acting",
+        "name": "Edoardo Torricella",
+        "original_name": "Edoardo Torricella",
+        "popularity": 0.2482,
+        "profile_path": "/4AhppwVDTssFOR6wGKMzDRx20VW.jpg",
+        "cast_id": 36,
+        "character": "Roulette Player",
+        "credit_id": "5e332e2898f1f10018013aea",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234392,
+        "known_for_department": "Acting",
+        "name": "Corrado Olmi",
+        "original_name": "Corrado Olmi",
+        "popularity": 0.3507,
+        "profile_path": "/v6KVPON2Wa2AyDqv9vuh6UrejxA.jpg",
+        "cast_id": 21,
+        "character": "Bandit",
+        "credit_id": "5a159c8592514178b60138f9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 550642,
+        "known_for_department": "Acting",
+        "name": "Luciano Telli",
+        "original_name": "Luciano Telli",
+        "popularity": 0.076,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Roulette Player",
+        "credit_id": "5e332e330f0da500130eba3d",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72888,
+        "known_for_department": "Acting",
+        "name": "Frank Braña",
+        "original_name": "Frank Braña",
+        "popularity": 0.4289,
+        "profile_path": "/cVl6735BB319Xm8q2N39upkN177.jpg",
+        "cast_id": 20,
+        "character": "Man With Jail Kay",
+        "credit_id": "5a159c7992514178c50135c0",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 103617,
+        "known_for_department": "Acting",
+        "name": "Riccardo Pizzuti",
+        "original_name": "Riccardo Pizzuti",
+        "popularity": 0.4434,
+        "profile_path": "/jca3RJER4wLcTmdNgygl2OZtAdG.jpg",
+        "cast_id": 22,
+        "character": "Drake's Henchman",
+        "credit_id": "5a159c91c3a368073e014cf0",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1600593,
+        "known_for_department": "Acting",
+        "name": "Arnaldo Caivano",
+        "original_name": "Arnaldo Caivano",
+        "popularity": 0.2558,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Townsman at Boxing Match (uncredited)",
+        "credit_id": "62e3113bfe077a0059084614",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1439789,
+        "known_for_department": "Acting",
+        "name": "Quinto Marziali",
+        "original_name": "Quinto Marziali",
+        "popularity": 0.099,
+        "profile_path": "/hHBfOclWCPOAXdUQ21s4P5SSRWn.jpg",
+        "cast_id": 39,
+        "character": "Casino Guest (uncredited)",
+        "credit_id": "633cf2075ab81a0079bf3c7a",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1071993,
+        "known_for_department": "Acting",
+        "name": "Giancarlo Badessi",
+        "original_name": "Giancarlo Badessi",
+        "popularity": 0.2829,
+        "profile_path": "/inOlc0614kcqILyYBTjrZjZ7J1J.jpg",
+        "cast_id": 40,
+        "character": "Man with Moustache Promoting the Black Boxer (uncredited)",
+        "credit_id": "6384638ca410c8008cd4a714",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1428054,
+        "known_for_department": "Acting",
+        "name": "Roger Beaumont",
+        "original_name": "Roger Beaumont",
+        "popularity": 0.1009,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Croupier (uncredited)",
+        "credit_id": "638463a4229ae2158116be0e",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1465385,
+        "known_for_department": "Acting",
+        "name": "Angelo Casadei",
+        "original_name": "Angelo Casadei",
+        "popularity": 0.3571,
+        "profile_path": "/p7uJBjBGW2NA9Hl51RaSmwkpKZH.jpg",
+        "cast_id": 42,
+        "character": "Roulette Player (uncredited)",
+        "credit_id": "638463cf2e06970245e6f36b",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1139937,
+        "known_for_department": "Acting",
+        "name": "Gildo Di Marco",
+        "original_name": "Gildo Di Marco",
+        "popularity": 0.4688,
+        "profile_path": "/m336tOztEIIpPIbBYIaAdB51SA7.jpg",
+        "cast_id": 43,
+        "character": "Henchman Choked by Hutch Bessy (uncredited)",
+        "credit_id": "638463dd5b4fed00b12d122b",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 213725,
+        "known_for_department": "Acting",
+        "name": "Mel Gaines",
+        "original_name": "Mel Gaines",
+        "popularity": 0.0861,
+        "profile_path": "/9PKhu8fNVfFXaZ1Y3jUjcoPJWU.jpg",
+        "cast_id": 44,
+        "character": "Drake Henchman (uncredited)",
+        "credit_id": "638463e98fdda900b8912eca",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1082664,
+        "known_for_department": "Acting",
+        "name": "Franco Gulà",
+        "original_name": "Franco Gulà",
+        "popularity": 0.2316,
+        "profile_path": "/3ve3G3fIwvBvuMzmPiakcZSzUKM.jpg",
+        "cast_id": 45,
+        "character": "Al - Oldtimer (uncredited)",
+        "credit_id": "638463f5b3316b0084a82d36",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2500840,
+        "known_for_department": "Acting",
+        "name": "Leroy Haynes",
+        "original_name": "Leroy Haynes",
+        "popularity": 0.0522,
+        "profile_path": "/guHSiNlO8Gfys3jqF6oP8lAKDHK.jpg",
+        "cast_id": 46,
+        "character": "Prize boxer (uncredited)",
+        "credit_id": "638464022e0697024d2a8336",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1140961,
+        "known_for_department": "Acting",
+        "name": "Carlo Landa",
+        "original_name": "Carlo Landa",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Roulette Player (uncredited)",
+        "credit_id": "63846414bf09d100afd19bed",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1120097,
+        "known_for_department": "Acting",
+        "name": "Gino Marturano",
+        "original_name": "Gino Marturano",
+        "popularity": 0.1845,
+        "profile_path": "/lbwGo5B2cq1pnDci7AIE8xKBCoN.jpg",
+        "cast_id": 48,
+        "character": "Drake Henchman (uncredited)",
+        "credit_id": "63846426229ae2155c53ae47",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491992,
+        "known_for_department": "Acting",
+        "name": "Fulvio Pellegrino",
+        "original_name": "Fulvio Pellegrino",
+        "popularity": 0.1192,
+        "profile_path": "/mMs72HBogmWTsST96OTuw1XZsrR.jpg",
+        "cast_id": 49,
+        "character": "Drunken Man (uncredited)",
+        "credit_id": "6384643c5b4fed0086b3a62f",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100309,
+        "known_for_department": "Acting",
+        "name": "Vicente Roca",
+        "original_name": "Vicente Roca",
+        "popularity": 0.1846,
+        "profile_path": "/7KN4LhremsxxJ1EbqexsWOXByMK.jpg",
+        "cast_id": 50,
+        "character": "Ramirez, Court Martial Member (uncredited)",
+        "credit_id": "638464488fdda9007b064cdd",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68331,
+        "known_for_department": "Acting",
+        "name": "Enzo Santaniello",
+        "original_name": "Enzo Santaniello",
+        "popularity": 0.319,
+        "profile_path": "/bmVbNPjqUXwvucQbOUuTgSglf5e.jpg",
+        "cast_id": 51,
+        "character": "Irish Family's Boy (uncredited)",
+        "credit_id": "638464525b4fed0098f09cb7",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1910451,
+        "known_for_department": "Acting",
+        "name": "Simonetta Santaniello",
+        "original_name": "Simonetta Santaniello",
+        "popularity": 0.1392,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Irish Family's Daughter (uncredited)",
+        "credit_id": "6384645c5b4fed0098f09cbd",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25264,
+        "known_for_department": "Acting",
+        "name": "José María Tasso",
+        "original_name": "José María Tasso",
+        "popularity": 0.1352,
+        "profile_path": "/uqKj7RnNEkQyQQ34C9Ul1Kwk0x1.jpg",
+        "cast_id": 53,
+        "character": "Photographer (uncredited)",
+        "credit_id": "6384646eb3316b007f3c6401",
+        "order": 37
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18834,
+        "known_for_department": "Directing",
+        "name": "Giuseppe Colizzi",
+        "original_name": "Giuseppe Colizzi",
+        "popularity": 0.3881,
+        "profile_path": null,
+        "credit_id": "52fe44989251416c7503a4bf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18834,
+        "known_for_department": "Directing",
+        "name": "Giuseppe Colizzi",
+        "original_name": "Giuseppe Colizzi",
+        "popularity": 0.3881,
+        "profile_path": null,
+        "credit_id": "52fe44989251416c7503a4cb",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18834,
+        "known_for_department": "Directing",
+        "name": "Giuseppe Colizzi",
+        "original_name": "Giuseppe Colizzi",
+        "popularity": 0.3881,
+        "profile_path": null,
+        "credit_id": "52fe44989251416c7503a4d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18835,
+        "known_for_department": "Camera",
+        "name": "Marcello Masciocchi",
+        "original_name": "Marcello Masciocchi",
+        "popularity": 0.1573,
+        "profile_path": null,
+        "credit_id": "52fe44989251416c7503a4e3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29500,
+        "known_for_department": "Sound",
+        "name": "Carlo Rustichelli",
+        "original_name": "Carlo Rustichelli",
+        "popularity": 0.6606,
+        "profile_path": "/uZyH8qIupMgsRErHN7RKuAActno.jpg",
+        "credit_id": "52fe44989251416c7503a4dd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4954,
+        "known_for_department": "Production",
+        "name": "Bino Cicogna",
+        "original_name": "Bino Cicogna",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "52fe44989251416c7503a4c5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70803,
+        "known_for_department": "Editing",
+        "name": "Marcello Malvestito",
+        "original_name": "Marcello Malvestito",
+        "popularity": 0.1267,
+        "profile_path": null,
+        "credit_id": "52fe44989251416c7503a4e9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4954,
+        "known_for_department": "Production",
+        "name": "Bino Cicogna",
+        "original_name": "Bino Cicogna",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "52fe44989251416c7503a4d1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45670,
+        "known_for_department": "Sound",
+        "name": "Bruno Nicolai",
+        "original_name": "Bruno Nicolai",
+        "popularity": 0.2724,
+        "profile_path": "/nTROuM0wjr9pZrPaAB6UswBnerW.jpg",
+        "credit_id": "6384649c229ae2158116beaa",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2329069,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Massimo De Rossi",
+        "original_name": "Massimo De Rossi",
+        "popularity": 1.113,
+        "profile_path": null,
+        "credit_id": "5d61de2454f6eb00149c0e11",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2395249,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luciana Fortini",
+        "original_name": "Luciana Fortini",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "5d61de1a87f3f20015fd526a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1120805,
+        "known_for_department": "Art",
+        "name": "Gastone Carsetti",
+        "original_name": "Gastone Carsetti",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "5d61de0d7f6c8d0017ed81bc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1706163,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna Graziosi",
+        "original_name": "Anna Graziosi",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "5d61de2f87f3f20014fd50a2",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 264477,
+        "known_for_department": "Writing",
+        "name": "Gino Mangini",
+        "original_name": "Gino Mangini",
+        "popularity": 0.217,
+        "profile_path": null,
+        "credit_id": "5e332d414ca67600174ed3e2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2329491,
+        "known_for_department": "Directing",
+        "name": "Silvana Mangini Colizzi",
+        "original_name": "Silvana Mangini Colizzi",
+        "popularity": 0.1317,
+        "profile_path": null,
+        "credit_id": "5e332d324ca67600174ed3bf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101123,
+        "known_for_department": "Acting",
+        "name": "Renato Moretti",
+        "original_name": "Renato Moretti",
+        "popularity": 0.2068,
+        "profile_path": "/yb4Jpcv9eN42YFExRHpvLiS8BCs.jpg",
+        "credit_id": "5e332d5598f1f1001400ad8f",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 378,
+        "name": "prison"
+      },
+      {
+        "id": 75,
+        "name": "gunslinger"
+      },
+      {
+        "id": 642,
+        "name": "robbery"
+      },
+      {
+        "id": 1929,
+        "name": "bank manager"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1968-10-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1969-11-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1991-11-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1970-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1968-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1968-10-02T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1969-09-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

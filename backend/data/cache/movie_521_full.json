@@ -1,0 +1,1099 @@
+{
+  "adult": false,
+  "backdrop_path": "/gTsiagZaMjJxr6Q12KfOfC556d6.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 521,
+  "imdb_id": "tt0046912",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dial M for Murder",
+  "overview": "Em Londres, um ex-tenista profissional decide matar sua mulher, para poder herdar seu dinheiro e também como vingança por ela ter tido um affair um ano antes, com um escritor que vivia nos Estados Unidos mas que no momento está na cidade. Ele chantageia um colega de faculdade para estrangulá-la, dando a entender que o crime teria sido cometido por um ladrão. Mas quando algo sai muito errado, ele vê uma maneira de dar um rumo aos acontecimentos em proveito próprio.",
+  "popularity": 1.5784,
+  "poster_path": "/e5lycUI9xh7p1m3zBExoz5AVghs.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1954-05-29",
+  "revenue": 3000000,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "É você querida?",
+  "title": "Disque M para Matar",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 2777,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7124,
+        "known_for_department": "Acting",
+        "name": "Ray Milland",
+        "original_name": "Ray Milland",
+        "popularity": 1.1803,
+        "profile_path": "/nqZGSLa9jS92hYlmkacFXxYwB2Y.jpg",
+        "cast_id": 6,
+        "character": "Tony Wendice",
+        "credit_id": "52fe424cc3a36847f80137ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4070,
+        "known_for_department": "Acting",
+        "name": "Grace Kelly",
+        "original_name": "Grace Kelly",
+        "popularity": 0.7862,
+        "profile_path": "/gnz3NGJrUERwklqfuPWXxcOPs0Q.jpg",
+        "cast_id": 5,
+        "character": "Margot Wendice",
+        "credit_id": "52fe424cc3a36847f80137a9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7125,
+        "known_for_department": "Acting",
+        "name": "Robert Cummings",
+        "original_name": "Robert Cummings",
+        "popularity": 0.8347,
+        "profile_path": "/opnAIsyGG8Tgnr0KyrmHJxkFSxX.jpg",
+        "cast_id": 7,
+        "character": "Mark Halliday",
+        "credit_id": "52fe424cc3a36847f80137b1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5182,
+        "known_for_department": "Acting",
+        "name": "John Williams",
+        "original_name": "John Williams",
+        "popularity": 0.9393,
+        "profile_path": "/gsg1KjcGnZK76LGIYm8lMpSM1Oq.jpg",
+        "cast_id": 8,
+        "character": "Chief Inspector Hubbard",
+        "credit_id": "52fe424cc3a36847f80137b5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7682,
+        "known_for_department": "Acting",
+        "name": "Anthony Dawson",
+        "original_name": "Anthony Dawson",
+        "popularity": 0.8314,
+        "profile_path": "/1ugv90qPJyAdBNU3YJM2M3tlKi6.jpg",
+        "cast_id": 16,
+        "character": "Charles Swann",
+        "credit_id": "52fe424cc3a36847f80137e3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217924,
+        "known_for_department": "Acting",
+        "name": "Leo Britt",
+        "original_name": "Leo Britt",
+        "popularity": 0.309,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Storyteller",
+        "credit_id": "5842f2599251417ec7009784",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73980,
+        "known_for_department": "Acting",
+        "name": "Patrick Allen",
+        "original_name": "Patrick Allen",
+        "popularity": 0.6799,
+        "profile_path": "/4CVa7v878G43ULmSUpABf9vtpGz.jpg",
+        "cast_id": 18,
+        "character": "Detective Pearson",
+        "credit_id": "52fe424cc3a36847f80137eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933880,
+        "known_for_department": "Acting",
+        "name": "George Leigh",
+        "original_name": "George Leigh",
+        "popularity": 0.1735,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Detective Williams",
+        "credit_id": "52fe424cc3a36847f80137ef",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2781081,
+        "known_for_department": "Acting",
+        "name": "George Alderson",
+        "original_name": "George Alderson",
+        "popularity": 0.1355,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "First Detective",
+        "credit_id": "5f62836c93388b00366ac651",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87518,
+        "known_for_department": "Acting",
+        "name": "Robin Hughes",
+        "original_name": "Robin Hughes",
+        "popularity": 0.4876,
+        "profile_path": "/7RYnZ9nMZg1LK3IXQelFEPe56d9.jpg",
+        "cast_id": 22,
+        "character": "Police Sergeant O'Brien",
+        "credit_id": "561009eb925141061500272f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629431,
+        "known_for_department": "Acting",
+        "name": "Jack Cunningham",
+        "original_name": "Jack Cunningham",
+        "popularity": 0.113,
+        "profile_path": "/rE9ADyvC05cvKmOwE3Al4aiJNm9.jpg",
+        "cast_id": 33,
+        "character": "Bobby (uncredited)",
+        "credit_id": "574f234692514168ae000153",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9923,
+        "known_for_department": "Acting",
+        "name": "Guy Doleman",
+        "original_name": "Guy Doleman",
+        "popularity": 0.6259,
+        "profile_path": "/2Qfkwj2fve1t4ou9DiXl0ZLoBA.jpg",
+        "cast_id": 24,
+        "character": "Detective (uncredited)",
+        "credit_id": "56100a609251414feb005f1b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 121323,
+        "known_for_department": "Acting",
+        "name": "Bess Flowers",
+        "original_name": "Bess Flowers",
+        "popularity": 0.6707,
+        "profile_path": "/oErbIo6a2QPYZSqfdzU6vlDTD8i.jpg",
+        "cast_id": 20,
+        "character": "Woman Exiting Ship (uncredited)",
+        "credit_id": "52fe424cc3a36847f80137f3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216356,
+        "known_for_department": "Acting",
+        "name": "Sam Harris",
+        "original_name": "Sam Harris",
+        "popularity": 0.3206,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Man in Phone Booth (uncredited)",
+        "credit_id": "56100abac3a368681000fb82",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 171111,
+        "known_for_department": "Acting",
+        "name": "Harold Miller",
+        "original_name": "Harold Miller",
+        "popularity": 0.7271,
+        "profile_path": "/baYrpaujUdnO5aoQFHJrkLru7l0.jpg",
+        "cast_id": 27,
+        "character": "Men's Club Party Member (uncredited)",
+        "credit_id": "56100b0f9251410d95001931",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14573,
+        "known_for_department": "Acting",
+        "name": "Martin Milner",
+        "original_name": "Martin Milner",
+        "popularity": 0.7105,
+        "profile_path": "/2sEL4PauMRhLGnOyVwYtw5QP1YL.jpg",
+        "cast_id": 28,
+        "character": "Policeman Outside Wendice Flat (uncredited)",
+        "credit_id": "56100b91c3a368681f00e673",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141067,
+        "known_for_department": "Acting",
+        "name": "Forbes Murray",
+        "original_name": "Forbes Murray",
+        "popularity": 0.6344,
+        "profile_path": "/twfHU2COpK8F40toerX502dywIb.jpg",
+        "cast_id": 29,
+        "character": "Judge at Margot's Trial (uncredited)",
+        "credit_id": "56100bc7c3a368682400e775",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 380051,
+        "known_for_department": "Acting",
+        "name": "Thayer Roberts",
+        "original_name": "Thayer Roberts",
+        "popularity": 0.1387,
+        "profile_path": "/P97t4SaOsFAaaexer9yxQm23GB.jpg",
+        "cast_id": 30,
+        "character": "Detective (uncredited)",
+        "credit_id": "56100c15925141061500275b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176510,
+        "known_for_department": "Acting",
+        "name": "William H. O'Brien",
+        "original_name": "William H. O'Brien",
+        "popularity": 1.1222,
+        "profile_path": "/dHqtM4SNmq6W2WBnxyXgRdlgSfk.jpg",
+        "cast_id": 40,
+        "character": "Waiter at Stag Dinner (uncredited)",
+        "credit_id": "5e2f16f0fd140b00156bdd24",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2636,
+        "known_for_department": "Directing",
+        "name": "Alfred Hitchcock",
+        "original_name": "Alfred Hitchcock",
+        "popularity": 2.9211,
+        "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+        "cast_id": 47,
+        "character": "Banquet Member (uncredited)",
+        "credit_id": "643479a7ec45520112814fd8",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1598135,
+        "known_for_department": "Acting",
+        "name": "Herschel Graham",
+        "original_name": "Herschel Graham",
+        "popularity": 0.4166,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Banquet Member (uncredited)",
+        "credit_id": "664f2ad5449db1e365bb3fd1",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4758874,
+        "known_for_department": "Acting",
+        "name": "Robert Dobson",
+        "original_name": "Robert Dobson",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Police Photographer (uncredited)",
+        "credit_id": "6661b063c6919aca38f2b270",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2636,
+        "known_for_department": "Directing",
+        "name": "Alfred Hitchcock",
+        "original_name": "Alfred Hitchcock",
+        "popularity": 2.9211,
+        "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+        "credit_id": "52fe424cc3a36847f8013799",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2636,
+        "known_for_department": "Directing",
+        "name": "Alfred Hitchcock",
+        "original_name": "Alfred Hitchcock",
+        "popularity": 2.9211,
+        "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg",
+        "credit_id": "52fe424cc3a36847f801379f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4082,
+        "known_for_department": "Sound",
+        "name": "Dimitri Tiomkin",
+        "original_name": "Dimitri Tiomkin",
+        "popularity": 0.2459,
+        "profile_path": "/oYL6Tiuf7MuFEd5F7vf7Dt5vHmF.jpg",
+        "credit_id": "52fe424cc3a36847f80137bb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2654,
+        "known_for_department": "Camera",
+        "name": "Robert Burks",
+        "original_name": "Robert Burks",
+        "popularity": 0.2958,
+        "profile_path": "/bAn6DRoDZQWZWYqzfqPvvKOXqyj.jpg",
+        "credit_id": "52fe424cc3a36847f80137c1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7126,
+        "known_for_department": "Editing",
+        "name": "Rudi Fehr",
+        "original_name": "Rudi Fehr",
+        "popularity": 0.3667,
+        "profile_path": "/5Px6kpMUB4eMpaOD9YGv9JM0M5w.jpg",
+        "credit_id": "52fe424cc3a36847f80137c7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7127,
+        "known_for_department": "Art",
+        "name": "Edward Carrere",
+        "original_name": "Edward Carrere",
+        "popularity": 0.2374,
+        "profile_path": null,
+        "credit_id": "52fe424cc3a36847f80137cd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4126,
+        "known_for_department": "Art",
+        "name": "George James Hopkins",
+        "original_name": "George James Hopkins",
+        "popularity": 0.2648,
+        "profile_path": null,
+        "credit_id": "52fe424cc3a36847f80137d3",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4313,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gordon Bau",
+        "original_name": "Gordon Bau",
+        "popularity": 0.3295,
+        "profile_path": null,
+        "credit_id": "52fe424cc3a36847f80137d9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76160,
+        "known_for_department": "Production",
+        "name": "Mel Dellar",
+        "original_name": "Mel Dellar",
+        "popularity": 0.1535,
+        "profile_path": null,
+        "credit_id": "560f20019251415e53001694",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14727,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Moss Mabry",
+        "original_name": "Moss Mabry",
+        "popularity": 0.1671,
+        "profile_path": null,
+        "credit_id": "57696e71c3a36817d40001b2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7123,
+        "known_for_department": "Writing",
+        "name": "Frederick Knott",
+        "original_name": "Frederick Knott",
+        "popularity": 0.2621,
+        "profile_path": null,
+        "credit_id": "5f6283d093388b00366ac74c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7123,
+        "known_for_department": "Writing",
+        "name": "Frederick Knott",
+        "original_name": "Frederick Knott",
+        "popularity": 0.2621,
+        "profile_path": null,
+        "credit_id": "5f6283dd1684f70039453eee",
+        "department": "Writing",
+        "job": "Theatre Play"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7128,
+        "known_for_department": "Sound",
+        "name": "Oliver S. Garretson",
+        "original_name": "Oliver S. Garretson",
+        "popularity": 0.1858,
+        "profile_path": null,
+        "credit_id": "5f62841293388b00366ac816",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4082,
+        "known_for_department": "Sound",
+        "name": "Dimitri Tiomkin",
+        "original_name": "Dimitri Tiomkin",
+        "popularity": 0.2459,
+        "profile_path": "/oYL6Tiuf7MuFEd5F7vf7Dt5vHmF.jpg",
+        "credit_id": "5f628452dbcade0036132875",
+        "department": "Sound",
+        "job": "Conductor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 596,
+        "name": "adultery"
+      },
+      {
+        "id": 212,
+        "name": "london, england"
+      },
+      {
+        "id": 931,
+        "name": "jealousy"
+      },
+      {
+        "id": 1936,
+        "name": "blackmail"
+      },
+      {
+        "id": 703,
+        "name": "detective"
+      },
+      {
+        "id": 2848,
+        "name": "tennis player"
+      },
+      {
+        "id": 6038,
+        "name": "marriage"
+      },
+      {
+        "id": 3344,
+        "name": "letter"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 14604,
+        "name": "theft"
+      },
+      {
+        "id": 162271,
+        "name": "husband"
+      },
+      {
+        "id": 208508,
+        "name": "murder plot"
+      },
+      {
+        "id": 229959,
+        "name": "crime fiction writer"
+      },
+      {
+        "id": 235907,
+        "name": "keys"
+      },
+      {
+        "id": 361850,
+        "name": "warnercolor"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-04-20T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "3-D version",
+            "release_date": "1993-12-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-07-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1986-07-31T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-06-15T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2004-10-25T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-07-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "West Germany ",
+            "release_date": "1954-12-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "West Germany",
+            "release_date": "1971-12-06T00:00:00.000Z",
+            "type": 6
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "East Germany",
+            "release_date": "1981-10-17T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-07-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1963-06-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-12-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TV premiere",
+            "release_date": "1971-04-05T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-11-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "K-16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "1984-10-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-02-02T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2001-10-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Arte",
+            "release_date": "2025-10-26T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-06-30T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2013-07-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-01-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-release",
+            "release_date": "2010-01-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-01-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-07-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-11-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-10-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1956-09-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-11-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2005-08-31T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 2",
+            "release_date": "2014-08-01T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-03-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New Horizons Film Festival, 3-D version",
+            "release_date": "2014-07-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-05-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-01-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-08-29T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Blu-ray",
+            "release_date": "2019-09-10T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-10-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Philadelphia, Pennsylvania",
+            "release_date": "1954-05-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1954-05-29T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "3-D version",
+            "release_date": "2004-01-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1955-01-26T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  }
+}

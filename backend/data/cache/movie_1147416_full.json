@@ -1,0 +1,1693 @@
+{
+  "adult": false,
+  "backdrop_path": "/cBTwQKMd7Vn6rGTGBtoFLIfj7uM.jpg",
+  "belongs_to_collection": {
+    "id": 822306,
+    "name": "Miraculous World: Coleção",
+    "poster_path": "/jaQiXB7ZCiW8zUCnuZ7sf73yX4Z.jpg",
+    "backdrop_path": "/fL266xNoCgTa4rGHzfRdLHpQnJ1.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    }
+  ],
+  "homepage": "",
+  "id": 1147416,
+  "imdb_id": "tt13701202",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Miraculous World : Londres, la course contre le temps",
+  "overview": "Para salvar o futuro, Marinette, agora Chronobug, deve se unir a Bunnyx para resolver o mistério de quem descobriu a identidade secreta de Ladybug. Porque essa pessoa também conseguiu obter o Miraculous da Joaninha, e todos aqueles na Caixa dos Miraculous. Durante suas aventuras, as heroínas descobrem que o ladrão que descobriu o segredo final também é o novo portador do Miraculous da Borboleta. A única esperança de Marinette é ter sucesso em encontrar esse adversário que está escondido em algum lugar no tempo. Caso contrário, será o fim de Ladybug.",
+  "popularity": 5.3954,
+  "poster_path": "/wcoHmWbTRNp0HSttto4faQL1MKG.jpg",
+  "production_companies": [
+    {
+      "id": 79650,
+      "logo_path": "/bUAfLFkb0xhmY5UsO7cWvo8Pt6A.png",
+      "name": "ZAG Entertainment",
+      "origin_country": "FR"
+    },
+    {
+      "id": 35136,
+      "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png",
+      "name": "Method Animation",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-11-14",
+  "revenue": 0,
+  "runtime": 50,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Um segredo revelado pode acabar com tudo.",
+  "title": "Miraculous World: Londres, Corrida Contra o Tempo",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 294,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762588,
+        "known_for_department": "Acting",
+        "name": "Anouck Hautbois",
+        "original_name": "Anouck Hautbois",
+        "popularity": 0.5515,
+        "profile_path": "/yHBoYywjBecWuzI9ir2LKBzliRP.jpg",
+        "cast_id": 2,
+        "character": "Marinette / Chronobug (voice)",
+        "credit_id": "64a2d046e9da69010146dd87",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1373143,
+        "known_for_department": "Acting",
+        "name": "Marie Nonnenmacher",
+        "original_name": "Marie Nonnenmacher",
+        "popularity": 0.3349,
+        "profile_path": "/b0F4vbkVIWEk849tWKL04WcLJ6S.jpg",
+        "cast_id": 4,
+        "character": "Bunnyx / Tikki / Gimmi (voice)",
+        "credit_id": "64a2d05c8e20c500ec3c92c7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1558832,
+        "known_for_department": "Acting",
+        "name": "Benjamin Bollen",
+        "original_name": "Benjamin Bollen",
+        "popularity": 0.5769,
+        "profile_path": "/v39WarohjEdNCexiM5wF6CCMwG1.jpg",
+        "cast_id": 42,
+        "character": "Adrien / Chat Noir (voice)",
+        "credit_id": "686435e3616c9219431f8139",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5535460,
+        "known_for_department": "Acting",
+        "name": "Clara Soares",
+        "original_name": "Clara Soares",
+        "popularity": 0.2519,
+        "profile_path": "/nPBty1OeKBVbM5EDWmwPHQpmY9Z.jpg",
+        "cast_id": 41,
+        "character": "Lila / Kagami / Clara (voice)",
+        "credit_id": "6861fe6cb40be0e39da4d72b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762591,
+        "known_for_department": "Acting",
+        "name": "Marie Chevalot",
+        "original_name": "Marie Chevalot",
+        "popularity": 0.3033,
+        "profile_path": "/tHvk1jTWad3kb27c2v0zN0T2eFz.jpg",
+        "cast_id": 43,
+        "character": "Nathalie (voice)",
+        "credit_id": "6864361b72c8b20fdef83fa2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1758915,
+        "known_for_department": "Acting",
+        "name": "Antoine Tomé",
+        "original_name": "Antoine Tomé",
+        "popularity": 0.3675,
+        "profile_path": "/2rxz83TmtO2rHJuabTMkbIFCtqx.jpg",
+        "cast_id": 46,
+        "character": "Gabriel (voice)",
+        "credit_id": "686436b4616c9219431f8140",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1364266,
+        "known_for_department": "Acting",
+        "name": "Martial Le Minoux",
+        "original_name": "Martial Le Minoux",
+        "popularity": 0.6693,
+        "profile_path": "/fwVHuPoEv8j4VjBTibizOAAIga1.jpg",
+        "cast_id": 45,
+        "character": "Nooroo / Tom / Journalist (voice)",
+        "credit_id": "686436785c237de2e9f83ff9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762589,
+        "known_for_department": "Acting",
+        "name": "Thierry Kazazian",
+        "original_name": "Thierry Kazazian",
+        "popularity": 0.2684,
+        "profile_path": "/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg",
+        "cast_id": 44,
+        "character": "Plagg / Gimmi / Wayzz (voice)",
+        "credit_id": "6864364e19f5e8352accdada",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2889967,
+        "known_for_department": "Acting",
+        "name": "Jessie Lambotte",
+        "original_name": "Jessie Lambotte",
+        "popularity": 0.133,
+        "profile_path": "/bAlnNJNeWaj75Kb3FeeyKvBHtpk.jpg",
+        "cast_id": 47,
+        "character": "Nadja / Barkk / Sabine (voice)",
+        "credit_id": "6864371e3893a2858e41499b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762592,
+        "known_for_department": "Acting",
+        "name": "Alexandre Nguyen",
+        "original_name": "Alexandre Nguyen",
+        "popularity": 0.2869,
+        "profile_path": "/2MWLitWeA7MdS7pC9dHSs0s4chN.jpg",
+        "cast_id": 55,
+        "character": "Sass / Journalist (voice)",
+        "credit_id": "690dd668965b35bb239ab261",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1874835,
+        "known_for_department": "Acting",
+        "name": "Céline Melloul",
+        "original_name": "Céline Melloul",
+        "popularity": 0.3479,
+        "profile_path": "/v6uNETOuor81FbqMKCrivNsDpXl.jpg",
+        "cast_id": 53,
+        "character": "Ziggi / Journalist (voice)",
+        "credit_id": "688a5e59b89a73b944b26d3c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1309535,
+        "known_for_department": "Acting",
+        "name": "Gauthier Battoue",
+        "original_name": "Gauthier Battoue",
+        "popularity": 0.2725,
+        "profile_path": "/3PooWwDmyJMF5wP8LLajgWs4lwB.jpg",
+        "cast_id": 54,
+        "character": "Daizzi (voice)",
+        "credit_id": "68b80caded4c3c544c0687c7",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Directing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.0199,
+        "profile_path": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+        "credit_id": "64a2d0218e20c500ec3c92a4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762584,
+        "known_for_department": "Production",
+        "name": "Jeremy Zag",
+        "original_name": "Jeremy Zag",
+        "popularity": 0.4621,
+        "profile_path": "/jpRNzAD8NrpcgIFIiGCoI9uLfmr.jpg",
+        "credit_id": "6701f8f667c6fb09fff863cb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53228,
+        "known_for_department": "Production",
+        "name": "Aton Soumache",
+        "original_name": "Aton Soumache",
+        "popularity": 0.1903,
+        "profile_path": "/kZxddrTBioEmDlkAftOE6f3CPsl.jpg",
+        "credit_id": "6701f979c9a10d46ea7d2f1c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.2676,
+        "profile_path": "/k4irJmEDJ9cRcBJBPaxaBOpREbi.jpg",
+        "credit_id": "6701fa88f3495d72c4f79ba4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983183,
+        "known_for_department": "Production",
+        "name": "Hermeline Vincent Nakache",
+        "original_name": "Hermeline Vincent Nakache",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "credit_id": "6701faa367c6fb09fff863f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762584,
+        "known_for_department": "Production",
+        "name": "Jeremy Zag",
+        "original_name": "Jeremy Zag",
+        "popularity": 0.4621,
+        "profile_path": "/jpRNzAD8NrpcgIFIiGCoI9uLfmr.jpg",
+        "credit_id": "6701fabd925fdf925b7d2bb5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1115676,
+        "known_for_department": "Sound",
+        "name": "Noam Kaniel",
+        "original_name": "Noam Kaniel",
+        "popularity": 0.2515,
+        "profile_path": "/2aZEDJcOmmgYPTe5iPu8RtrG9Xf.jpg",
+        "credit_id": "6701faca67c6fb09fff86404",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016185,
+        "known_for_department": "Production",
+        "name": "Sylvain Goldberg",
+        "original_name": "Sylvain Goldberg",
+        "popularity": 0.1299,
+        "profile_path": "/wpyt8cQzA2NcxU5ZjZdX09niX7i.jpg",
+        "credit_id": "6701fae0925fdf925b7d2bd0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762584,
+        "known_for_department": "Production",
+        "name": "Jeremy Zag",
+        "original_name": "Jeremy Zag",
+        "popularity": 0.4621,
+        "profile_path": "/jpRNzAD8NrpcgIFIiGCoI9uLfmr.jpg",
+        "credit_id": "6701faebf878adfed0858473",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983185,
+        "known_for_department": "Sound",
+        "name": "Julien Jardon",
+        "original_name": "Julien Jardon",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "credit_id": "6701fafb925fdf925b7d2bde",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983187,
+        "known_for_department": "Sound",
+        "name": "Vitaly Jardon",
+        "original_name": "Vitaly Jardon",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "6701fb12925fdf925b7d2bea",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Directing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.0199,
+        "profile_path": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+        "credit_id": "6701fca3f878adfed08584ca",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Directing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.0199,
+        "profile_path": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+        "credit_id": "6701fcb77830c1301e7d2066",
+        "department": "Writing",
+        "job": "Writers' Production"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1652545,
+        "known_for_department": "Art",
+        "name": "Nathanaël Bronn",
+        "original_name": "Nathanaël Bronn",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "6701fd0a1592ef1ba98571a2",
+        "department": "Writing",
+        "job": "Writers' Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.2676,
+        "profile_path": "/k4irJmEDJ9cRcBJBPaxaBOpREbi.jpg",
+        "credit_id": "6701fd1cc9a10d46ea7d2f3f",
+        "department": "Writing",
+        "job": "Writers' Production"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1652545,
+        "known_for_department": "Art",
+        "name": "Nathanaël Bronn",
+        "original_name": "Nathanaël Bronn",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "6701fd38c9a10d46ea7d2f47",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565301,
+        "known_for_department": "Directing",
+        "name": "Thomas Astruc",
+        "original_name": "Thomas Astruc",
+        "popularity": 1.0199,
+        "profile_path": "/uIb3EHr8VeQuXxSG0oVjaTZXwD3.jpg",
+        "credit_id": "6701fd4e67c6fb09fff86476",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1484734,
+        "known_for_department": "Writing",
+        "name": "Mélanie Duval",
+        "original_name": "Mélanie Duval",
+        "popularity": 0.1724,
+        "profile_path": null,
+        "credit_id": "6701fd5dfa3e69e0ef7d1e10",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.2676,
+        "profile_path": "/k4irJmEDJ9cRcBJBPaxaBOpREbi.jpg",
+        "credit_id": "6701fd7d67c6fb09fff86495",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334505,
+        "known_for_department": "Writing",
+        "name": "Manon Desveaux",
+        "original_name": "Manon Desveaux",
+        "popularity": 0.1006,
+        "profile_path": "/vrscQLx7PG54v6pt246aecug5p2.jpg",
+        "credit_id": "6701fd96b146282f7b8577fe",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983197,
+        "known_for_department": "Art",
+        "name": "Joanna Celse",
+        "original_name": "Joanna Celse",
+        "popularity": 0.0875,
+        "profile_path": null,
+        "credit_id": "6701fdb51592ef1ba98571b1",
+        "department": "Art",
+        "job": "Storyboard Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2285712,
+        "known_for_department": "Directing",
+        "name": "Wilfried Pain",
+        "original_name": "Wilfried Pain",
+        "popularity": 0.1774,
+        "profile_path": null,
+        "credit_id": "6701fdc4fa3e69e0ef7d1e28",
+        "department": "Art",
+        "job": "Storyboard Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3224685,
+        "known_for_department": "Directing",
+        "name": "Antoine Poirine",
+        "original_name": "Antoine Poirine",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "credit_id": "6701fdd51592ef1ba98571b4",
+        "department": "Art",
+        "job": "Storyboard Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983198,
+        "known_for_department": "Art",
+        "name": "Louise Reynaud",
+        "original_name": "Louise Reynaud",
+        "popularity": 0.0457,
+        "profile_path": null,
+        "credit_id": "6701fde5fa3e69e0ef7d1e33",
+        "department": "Art",
+        "job": "Storyboard Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3620419,
+        "known_for_department": "Writing",
+        "name": "Nicolas Reynaud",
+        "original_name": "Nicolas Reynaud",
+        "popularity": 0.0667,
+        "profile_path": "/TbRGqftU6pmqrasHU9CBoyTqWT.jpg",
+        "credit_id": "6701fdf1fa3e69e0ef7d1e42",
+        "department": "Art",
+        "job": "Storyboard Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983180,
+        "known_for_department": "Production",
+        "name": "Jacqueline Tordjan",
+        "original_name": "Jacqueline Tordjan",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "6797abe409c252e3ab23daaf",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4983181,
+        "known_for_department": "Production",
+        "name": "Maurice Marciano",
+        "original_name": "Maurice Marciano",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "6797ac169ca029099c2b168a",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5542092,
+        "known_for_department": "Writing",
+        "name": "Frédéric/que Engel Lenoir",
+        "original_name": "Frédéric/que Engel Lenoir",
+        "popularity": 0.189,
+        "profile_path": null,
+        "credit_id": "6866a53ec1b9a22081743292",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1484734,
+        "known_for_department": "Writing",
+        "name": "Mélanie Duval",
+        "original_name": "Mélanie Duval",
+        "popularity": 0.1724,
+        "profile_path": null,
+        "credit_id": "6866a752d69fe0c5b5c1190a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1163095,
+        "known_for_department": "Writing",
+        "name": "Sébastien Thibaudeau",
+        "original_name": "Sébastien Thibaudeau",
+        "popularity": 0.2676,
+        "profile_path": "/k4irJmEDJ9cRcBJBPaxaBOpREbi.jpg",
+        "credit_id": "6868235023b31a518d6e7644",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 212,
+        "name": "london, england"
+      },
+      {
+        "id": 90,
+        "name": "paris, france"
+      },
+      {
+        "id": 9715,
+        "name": "superhero"
+      },
+      {
+        "id": 4379,
+        "name": "time travel"
+      },
+      {
+        "id": 208349,
+        "name": "kids"
+      },
+      {
+        "id": 324429,
+        "name": "romantic"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney Channel",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Gloob",
+            "release_date": "2025-01-24T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "TE+7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney Channel",
+            "release_date": "2024-11-30T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney Channel",
+            "release_date": "2024-10-05T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney Channel",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MQ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-10-31T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney Channel",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney Channel",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "6+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "Okko",
+            "release_date": "2024-12-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney Channel",
+            "release_date": "2024-11-28T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "WF",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "YT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Disney+",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

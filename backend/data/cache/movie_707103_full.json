@@ -1,0 +1,1207 @@
+{
+  "adult": false,
+  "backdrop_path": "/7DrLrDf3vVVjgOGRUf37knUu7Rx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "História"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 707103,
+  "imdb_id": "tt12374656",
+  "origin_country": [],
+  "original_language": "en",
+  "original_title": "Emily",
+  "overview": "A vida imaginada de uma das autoras mais famosas do mundo, Emily Brontë, enquanto ela encontra sua voz e escreve o clássico literário O Morro dos Ventos Uivantes.  Explore os relacionamentos que a inspiraram; sua irmandade crua e apaixonada com Charlotte e Anne; seu primeiro amor dolorido e proibido por Weightman e seu cuidado por seu irmão rebelde a quem ela idolatra.",
+  "popularity": 5.9145,
+  "poster_path": "/tgVBMIiJczfBWINRRd9yxE8ESln.jpg",
+  "production_companies": [
+    {
+      "id": 3130,
+      "logo_path": "/b2blyz6adfykkLdLQId8SNHGfZk.png",
+      "name": "Tempo Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 15780,
+      "logo_path": "/bdQFj7E5yNsir5pMgacux2SoLGQ.png",
+      "name": "Arenamedia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 86902,
+      "logo_path": "/uTXXIOJMikSZteOB6V284SDQer4.png",
+      "name": "Embankment Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-10-14",
+  "revenue": 1859871,
+  "runtime": 130,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A imaginação por trás do Morro dos Ventos Uivantes",
+  "title": "Emily",
+  "video": false,
+  "vote_average": 6.87,
+  "vote_count": 243,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2201315,
+        "known_for_department": "Acting",
+        "name": "Emma Mackey",
+        "original_name": "Emma Mackey",
+        "popularity": 1.7241,
+        "profile_path": "/y8nDoKXpyNViFL8Eam4Ey1PkgQ6.jpg",
+        "cast_id": 1,
+        "character": "Emily Brontë",
+        "credit_id": "5ec7712a6c849200202ce204",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1687041,
+        "known_for_department": "Acting",
+        "name": "Fionn Whitehead",
+        "original_name": "Fionn Whitehead",
+        "popularity": 0.7849,
+        "profile_path": "/2JjRhwG6BEWeF4n9TlvDEDzlP5P.jpg",
+        "cast_id": 3,
+        "character": "Branwell Brontë",
+        "credit_id": "5ec7713aae281100203b36c0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 551020,
+        "known_for_department": "Acting",
+        "name": "Oliver Jackson-Cohen",
+        "original_name": "Oliver Jackson-Cohen",
+        "popularity": 0.8989,
+        "profile_path": "/dd84B5U7Zd2kAh7is35Yhn1qTZK.jpg",
+        "cast_id": 12,
+        "character": "William Weightman",
+        "credit_id": "60896a66944a57006f247bfc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1403115,
+        "known_for_department": "Acting",
+        "name": "Alexandra Dowling",
+        "original_name": "Alexandra Dowling",
+        "popularity": 0.6592,
+        "profile_path": "/r82iduLbDcvN4VvwfWtkFn6Libn.jpg",
+        "cast_id": 13,
+        "character": "Charlotte Brontë",
+        "credit_id": "60896a71cabfe4003fed9d06",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9138,
+        "known_for_department": "Acting",
+        "name": "Gemma Jones",
+        "original_name": "Gemma Jones",
+        "popularity": 1.2868,
+        "profile_path": "/hFApnOEWXyE55ONGGXis6a0PPHM.jpg",
+        "cast_id": 14,
+        "character": "Aunt Branwell",
+        "credit_id": "60896a75da10f000582eb7a7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42566,
+        "known_for_department": "Acting",
+        "name": "Adrian Dunbar",
+        "original_name": "Adrian Dunbar",
+        "popularity": 0.8985,
+        "profile_path": "/AwiptVRftEIwXSM8C4izNVQtQL7.jpg",
+        "cast_id": 15,
+        "character": "Patrick Brontë",
+        "credit_id": "60896a7ada10f000582eb7be",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2429612,
+        "known_for_department": "Acting",
+        "name": "Amelia Gething",
+        "original_name": "Amelia Gething",
+        "popularity": 0.4074,
+        "profile_path": "/5VG7FNP9VCngHtFXuGkcgMxqjR7.jpg",
+        "cast_id": 16,
+        "character": "Anne Brontë",
+        "credit_id": "60896a8584448e007933edee",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1220089,
+        "known_for_department": "Acting",
+        "name": "Veronica Roberts",
+        "original_name": "Veronica Roberts",
+        "popularity": 0.282,
+        "profile_path": "/ts8AWjKwMe3sUMbl9Qljp2yJJDI.jpg",
+        "cast_id": 22,
+        "character": "Tabby",
+        "credit_id": "6351d408be4b360084e55279",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78095,
+        "known_for_department": "Acting",
+        "name": "Gerald Lepkowski",
+        "original_name": "Gerald Lepkowski",
+        "popularity": 0.4745,
+        "profile_path": "/6LG2Ys98l6QjobTR027Xr9lxhme.jpg",
+        "cast_id": 23,
+        "character": "Mr. Linton",
+        "credit_id": "6351d45967203d007acac25d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1253518,
+        "known_for_department": "Acting",
+        "name": "Paul Warriner",
+        "original_name": "Paul Warriner",
+        "popularity": 0.3971,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Reverend Miller",
+        "credit_id": "6351d4f8c998260082978216",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130461,
+        "known_for_department": "Acting",
+        "name": "Sacha Parkinson",
+        "original_name": "Sacha Parkinson",
+        "popularity": 0.5475,
+        "profile_path": "/hkeXFSzpqADyaVQFzabS2gDapd1.jpg",
+        "cast_id": 25,
+        "character": "Ellen Nussey",
+        "credit_id": "6351d5514ca676007a527f69",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077056,
+        "known_for_department": "Acting",
+        "name": "Philip Desmeules",
+        "original_name": "Philip Desmeules",
+        "popularity": 0.1625,
+        "profile_path": "/sCMqRwGxSdvjlEZHBZEObLHs6TL.jpg",
+        "cast_id": 26,
+        "character": "Monsieur Heger",
+        "credit_id": "6351d5b85f4b73007b84c20e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2069445,
+        "known_for_department": "Acting",
+        "name": "Robert Pickavance",
+        "original_name": "Robert Pickavance",
+        "popularity": 0.321,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Sir Ralph Delaney",
+        "credit_id": "6351d5f084448e0091545513",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3750304,
+        "known_for_department": "Acting",
+        "name": "Richard Anthony-Lloyd",
+        "original_name": "Richard Anthony-Lloyd",
+        "popularity": 0.1399,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Mr. Barker",
+        "credit_id": "6351d626c99826007abaf46f",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095552,
+        "known_for_department": "Sound",
+        "name": "Brendan Hill",
+        "original_name": "Brendan Hill",
+        "popularity": 0.1452,
+        "profile_path": null,
+        "credit_id": "65166532a199a600e1fb40af",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2025704,
+        "known_for_department": "Sound",
+        "name": "Franziska Treutler",
+        "original_name": "Franziska Treutler",
+        "popularity": 0.254,
+        "profile_path": null,
+        "credit_id": "6516655e967cc700c5183b6d",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1703626,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lucy Cain",
+        "original_name": "Lucy Cain",
+        "popularity": 0.1264,
+        "profile_path": null,
+        "credit_id": "65166597ea84c7010c11cf07",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4296681,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lou Bannell",
+        "original_name": "Lou Bannell",
+        "popularity": 0.1979,
+        "profile_path": null,
+        "credit_id": "65166584a199a600c49d04ce",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3286111,
+        "known_for_department": "Sound",
+        "name": "Maxwell MacRae",
+        "original_name": "Maxwell MacRae",
+        "popularity": 0.2089,
+        "profile_path": null,
+        "credit_id": "6516654dea84c700eb988ecc",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2607440,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clare Golds",
+        "original_name": "Clare Golds",
+        "popularity": 0.1948,
+        "profile_path": null,
+        "credit_id": "651665a2ea84c7014efabcde",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1703626,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lucy Cain",
+        "original_name": "Lucy Cain",
+        "popularity": 0.1264,
+        "profile_path": null,
+        "credit_id": "6516658fd4653709e005bdab",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1451407,
+        "known_for_department": "Sound",
+        "name": "Phil Lee",
+        "original_name": "Phil Lee",
+        "popularity": 0.2757,
+        "profile_path": null,
+        "credit_id": "65166540ea84c7012d666f62",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2607440,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clare Golds",
+        "original_name": "Clare Golds",
+        "popularity": 0.1948,
+        "profile_path": null,
+        "credit_id": "651665aa0499f200fe992e3c",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4296681,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lou Bannell",
+        "original_name": "Lou Bannell",
+        "popularity": 0.1979,
+        "profile_path": null,
+        "credit_id": "651665b693bd69011b8cf068",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40823,
+        "known_for_department": "Sound",
+        "name": "Peter Burgis",
+        "original_name": "Peter Burgis",
+        "popularity": 0.344,
+        "profile_path": "/ApVqfB7TmNAIBtCcwVlWSy2iuQ6.jpg",
+        "credit_id": "651665249b861600ff68833b",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1036353,
+        "known_for_department": "Camera",
+        "name": "Nanu Segal",
+        "original_name": "Nanu Segal",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "62f64d082790bf0082413837",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 66732,
+        "known_for_department": "Editing",
+        "name": "Sam Sneade",
+        "original_name": "Sam Sneade",
+        "popularity": 0.079,
+        "profile_path": null,
+        "credit_id": "6328e4c3d7f4650084f75715",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338969,
+        "known_for_department": "Sound",
+        "name": "Niv Adiri",
+        "original_name": "Niv Adiri",
+        "popularity": 0.3644,
+        "profile_path": null,
+        "credit_id": "6328e4f0d7f465008e57afe9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 986677,
+        "known_for_department": "Art",
+        "name": "Steve Summersgill",
+        "original_name": "Steve Summersgill",
+        "popularity": 0.1387,
+        "profile_path": null,
+        "credit_id": "6328e502e194b00083609dce",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11295,
+        "known_for_department": "Production",
+        "name": "Fiona Weir",
+        "original_name": "Fiona Weir",
+        "popularity": 0.3619,
+        "profile_path": null,
+        "credit_id": "63ce24607aecc60080c916cf",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35012,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michael O'Connor",
+        "original_name": "Michael O'Connor",
+        "popularity": 0.2279,
+        "profile_path": null,
+        "credit_id": "63ce24837aecc600c52fced3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 986677,
+        "known_for_department": "Art",
+        "name": "Steve Summersgill",
+        "original_name": "Steve Summersgill",
+        "popularity": 0.1387,
+        "profile_path": null,
+        "credit_id": "63ce24475bce9e00885aa844",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1736379,
+        "known_for_department": "Art",
+        "name": "Jono Moles",
+        "original_name": "Jono Moles",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "credit_id": "640643e4d75bd600c0edcf2e",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1451407,
+        "known_for_department": "Sound",
+        "name": "Phil Lee",
+        "original_name": "Phil Lee",
+        "popularity": 0.2757,
+        "profile_path": null,
+        "credit_id": "64064423ef9d720081031af4",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117522,
+        "known_for_department": "Production",
+        "name": "Michael Reuter",
+        "original_name": "Michael Reuter",
+        "popularity": 0.1353,
+        "profile_path": null,
+        "credit_id": "640644c3ef9d720081031b2e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40811,
+        "known_for_department": "Sound",
+        "name": "Tom Sayers",
+        "original_name": "Tom Sayers",
+        "popularity": 0.2151,
+        "profile_path": null,
+        "credit_id": "64064415f48b3400818a4ac8",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1405780,
+        "known_for_department": "Art",
+        "name": "Cathy Featherstone",
+        "original_name": "Cathy Featherstone",
+        "popularity": 0.1429,
+        "profile_path": null,
+        "credit_id": "640643ee358da7007c2c86c7",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099731,
+        "known_for_department": "Production",
+        "name": "Jo Bamford",
+        "original_name": "Jo Bamford",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "64064444358da700a0556812",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118168,
+        "known_for_department": "Production",
+        "name": "Tim Haslam",
+        "original_name": "Tim Haslam",
+        "popularity": 0.1129,
+        "profile_path": null,
+        "credit_id": "64064466b6cff1007cc14eff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2757881,
+        "known_for_department": "Production",
+        "name": "Jamie Jessop",
+        "original_name": "Jamie Jessop",
+        "popularity": 0.1193,
+        "profile_path": null,
+        "credit_id": "64064470202e1100c59dcac7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56710,
+        "known_for_department": "Directing",
+        "name": "Oliver Parker",
+        "original_name": "Oliver Parker",
+        "popularity": 0.6672,
+        "profile_path": "/4J0TcOFhYL3KkojgayPm2uL79Zv.jpg",
+        "credit_id": "64064497ef9d72009957f376",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069435,
+        "known_for_department": "Production",
+        "name": "Andrea Scarso",
+        "original_name": "Andrea Scarso",
+        "popularity": 0.1098,
+        "profile_path": "/Atvo4gLMaNgpVlikJvFmSnP621S.jpg",
+        "credit_id": "640644cdf48b3400bf46df49",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2055956,
+        "known_for_department": "Production",
+        "name": "Peter Touche",
+        "original_name": "Peter Touche",
+        "popularity": 0.1778,
+        "profile_path": null,
+        "credit_id": "640644d7f48b340085724838",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1408795,
+        "known_for_department": "Production",
+        "name": "Janine Modder",
+        "original_name": "Janine Modder",
+        "popularity": 0.3481,
+        "profile_path": null,
+        "credit_id": "64064488202e1100a267eafb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1477023,
+        "known_for_department": "Production",
+        "name": "Hugo Grumbar",
+        "original_name": "Hugo Grumbar",
+        "popularity": 0.1182,
+        "profile_path": null,
+        "credit_id": "6406445bef9d7200f657a7ff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558016,
+        "known_for_department": "Sound",
+        "name": "Abel Korzeniowski",
+        "original_name": "Abel Korzeniowski",
+        "popularity": 0.2713,
+        "profile_path": "/as9IqiOseNFrnbwg8644WcflNht.jpg",
+        "credit_id": "6406447af48b3400818a4ade",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2107204,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rachel Buxton",
+        "original_name": "Rachel Buxton",
+        "popularity": 0.1166,
+        "profile_path": null,
+        "credit_id": "640643fed75bd600f74f949c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1892230,
+        "known_for_department": "Visual Effects",
+        "name": "Sebastian Barker",
+        "original_name": "Sebastian Barker",
+        "popularity": 0.163,
+        "profile_path": null,
+        "credit_id": "6406444ff48b3400f6df5d3b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 558016,
+        "known_for_department": "Sound",
+        "name": "Abel Korzeniowski",
+        "original_name": "Abel Korzeniowski",
+        "popularity": 0.2713,
+        "profile_path": "/as9IqiOseNFrnbwg8644WcflNht.jpg",
+        "credit_id": "6655c73e39c69edfd7e4bcd2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1518,
+        "known_for_department": "Acting",
+        "name": "Frances O'Connor",
+        "original_name": "Frances O'Connor",
+        "popularity": 1.502,
+        "profile_path": "/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg",
+        "credit_id": "5ec771a50fb17f001d7bf083",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1518,
+        "known_for_department": "Acting",
+        "name": "Frances O'Connor",
+        "original_name": "Frances O'Connor",
+        "popularity": 1.502,
+        "profile_path": "/tWGMS7DciV43tlxA6UEc2UqxrhL.jpg",
+        "credit_id": "5ec771569979d20021398fa5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099731,
+        "known_for_department": "Production",
+        "name": "Jo Bamford",
+        "original_name": "Jo Bamford",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "5ec771eb8e2e0000212553b7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2172727,
+        "known_for_department": "Production",
+        "name": "Robert Patterson",
+        "original_name": "Robert Patterson",
+        "popularity": 0.0841,
+        "profile_path": "/rVjW0GYayiFmeyfQ5dhpar8nR4T.jpg",
+        "credit_id": "5ec772140fb17f001d7bf289",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65614,
+        "known_for_department": "Production",
+        "name": "David Barron",
+        "original_name": "David Barron",
+        "popularity": 0.1982,
+        "profile_path": "/t0CsU1EUmmZDqCtvSS5p0IFAx6W.jpg",
+        "credit_id": "5ec771c5e635710022cf0048",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 79135,
+        "known_for_department": "Production",
+        "name": "Piers Tempest",
+        "original_name": "Piers Tempest",
+        "popularity": 0.1875,
+        "profile_path": null,
+        "credit_id": "5ec771d40fb17f001d7bf0d5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75725,
+        "known_for_department": "Directing",
+        "name": "Robert Connolly",
+        "original_name": "Robert Connolly",
+        "popularity": 0.4818,
+        "profile_path": "/J41J32HMZ2S3mHhRDGkJJYtOkm.jpg",
+        "credit_id": "5ec771fe8e2e0000212553d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2165847,
+        "known_for_department": "Crew",
+        "name": "Laurence Brown",
+        "original_name": "Laurence Brown",
+        "popularity": 0.1588,
+        "profile_path": null,
+        "credit_id": "68f0e6d46aaa709567c77bdf",
+        "department": "Crew",
+        "job": "Legal Services"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 392,
+        "name": "england"
+      },
+      {
+        "id": 10818,
+        "name": "author"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 190012,
+        "name": "deathbed"
+      },
+      {
+        "id": 196751,
+        "name": "fictional biography"
+      },
+      {
+        "id": 207928,
+        "name": "19th century"
+      },
+      {
+        "id": 287581,
+        "name": "wuthering heights"
+      },
+      {
+        "id": 311472,
+        "name": "emily bronte"
+      },
+      {
+        "id": 311473,
+        "name": "royal academy of arts"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-12-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-01-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-12-29T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2023-03-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2022-09-09T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-02-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-02-23T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-03-03T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2022-12-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2022-12-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-01-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2023-03-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-10-14T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-14T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-10-22T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2022-12-12T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "15A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-10-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-10-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-06-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fine Arts",
+            "release_date": "2023-02-23T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "Русский Репортаж",
+            "release_date": "2022-11-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "M18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-01-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2023-02-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

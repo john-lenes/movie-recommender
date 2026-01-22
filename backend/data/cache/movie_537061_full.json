@@ -1,0 +1,901 @@
+{
+  "adult": false,
+  "backdrop_path": "/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "Cinema TV"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    },
+    {
+      "id": 878,
+      "name": "Ficção científica"
+    },
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 537061,
+  "imdb_id": "tt10515852",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Steven Universe: The Movie",
+  "overview": "Steven acha que seu tempo de defesa da Terra acabou, mas quando uma nova ameaça chega a Beach City, Steven enfrenta seu maior desafio.",
+  "popularity": 1.9527,
+  "poster_path": "/xSmtEs771Czn1cU3PwgYqDuwCgA.jpg",
+  "production_companies": [
+    {
+      "id": 7899,
+      "logo_path": "/uYMD8NPD7Eph0cFd1WJZJrot1Fb.png",
+      "name": "Cartoon Network Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 274991,
+      "logo_path": "/tJUFfVUpKgU48FJ57T8bF8Kzuwr.png",
+      "name": "Cartoon Network Movies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-10-07",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Steven Universo: O Filme",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 837,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225863,
+        "known_for_department": "Acting",
+        "name": "Zach Callison",
+        "original_name": "Zach Callison",
+        "popularity": 0.7884,
+        "profile_path": "/gGvcqBYFa0WNyx72FOEMfpSFpKS.jpg",
+        "cast_id": 0,
+        "character": "Steven Universe (voice)",
+        "credit_id": "5b5375fb0e0a262317015b99",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1217614,
+        "known_for_department": "Acting",
+        "name": "Deedee Magno",
+        "original_name": "Deedee Magno",
+        "popularity": 0.3541,
+        "profile_path": "/7YE7BszWB45woWAzrBomXu4TgCE.jpg",
+        "cast_id": 2,
+        "character": "Pearl / Yellow Pearl (voice)",
+        "credit_id": "5b53761e0e0a26231f0151d8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224949,
+        "known_for_department": "Acting",
+        "name": "Estelle",
+        "original_name": "Estelle",
+        "popularity": 0.3528,
+        "profile_path": "/l4V8IZg3pZKTG6x4gAy9FilFOXH.jpg",
+        "cast_id": 3,
+        "character": "Garnet (voice)",
+        "credit_id": "5b5376409251411f7c013973",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 109488,
+        "known_for_department": "Acting",
+        "name": "Michaela Dietz",
+        "original_name": "Michaela Dietz",
+        "popularity": 0.3931,
+        "profile_path": "/yma1aG1ehl71K19f7zt4igMpByd.jpg",
+        "cast_id": 1,
+        "character": "Amethyst (voice)",
+        "credit_id": "5b53760fc3a3680b56015634",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1890500,
+        "known_for_department": "Acting",
+        "name": "Sarah Stiles",
+        "original_name": "Sarah Stiles",
+        "popularity": 0.5638,
+        "profile_path": "/t1OuHZmz9GlbFu7bfOUg3nzIki6.jpg",
+        "cast_id": 38,
+        "character": "Spinel (voice)",
+        "credit_id": "5d6eb2805cc11d00139d4bde",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226513,
+        "known_for_department": "Writing",
+        "name": "Tom Scharpling",
+        "original_name": "Tom Scharpling",
+        "popularity": 0.4077,
+        "profile_path": "/yKPOtwDOIxSKN639JuNWxbPuqt7.jpg",
+        "cast_id": 10,
+        "character": "Greg Universe (voice)",
+        "credit_id": "5d078eb80e0a26511fcd25ae",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332680,
+        "known_for_department": "Acting",
+        "name": "Uzo Aduba",
+        "original_name": "Uzo Aduba",
+        "popularity": 1.3904,
+        "profile_path": "/VXzHXOKBTAcNmhAHHYPiNmhxwF.jpg",
+        "cast_id": 7,
+        "character": "Bismuth (voice)",
+        "credit_id": "5d078e299251414241b8d9e3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 206869,
+        "known_for_department": "Acting",
+        "name": "Shelby Rabara",
+        "original_name": "Shelby Rabara",
+        "popularity": 0.7551,
+        "profile_path": "/ouMiEKlhCj2LFKEQtI6fGRMDemF.jpg",
+        "cast_id": 11,
+        "character": "Peridot (voice)",
+        "credit_id": "5d078ecd925141488abbb23d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1386672,
+        "known_for_department": "Acting",
+        "name": "Jennifer Paz",
+        "original_name": "Jennifer Paz",
+        "popularity": 0.2537,
+        "profile_path": "/7LubxPLtFCWCs56gBvFOlccdNj0.jpg",
+        "cast_id": 15,
+        "character": "Lapis Lazuli (voice)",
+        "credit_id": "5d078f580e0a2601efc99b6b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5699,
+        "known_for_department": "Acting",
+        "name": "Patti LuPone",
+        "original_name": "Patti LuPone",
+        "popularity": 1.2145,
+        "profile_path": "/mbNAKaSYSTGeigxeFwUQfvoUXW0.jpg",
+        "cast_id": 6,
+        "character": "Yellow Diamond (voice)",
+        "credit_id": "5d078df6c3a368087023a251",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4003,
+        "known_for_department": "Acting",
+        "name": "Christine Ebersole",
+        "original_name": "Christine Ebersole",
+        "popularity": 1.1357,
+        "profile_path": "/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg",
+        "cast_id": 8,
+        "character": "White Diamond (voice)",
+        "credit_id": "5d078e4a0e0a26511fcd2538",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1326574,
+        "known_for_department": "Acting",
+        "name": "Lisa Hannigan",
+        "original_name": "Lisa Hannigan",
+        "popularity": 0.2438,
+        "profile_path": "/pUKJGMISGp1IdlDCzuoDxuPWtoi.jpg",
+        "cast_id": 9,
+        "character": "Blue Diamond (voice)",
+        "credit_id": "5d078e8a0e0a262e2eca9b5a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1217865,
+        "known_for_department": "Acting",
+        "name": "Erica Luttrell",
+        "original_name": "Erica Luttrell",
+        "popularity": 0.6805,
+        "profile_path": "/qRsIqCvNf2uUDoKYxNxtW0FxX8r.jpg",
+        "cast_id": 12,
+        "character": "Sapphire (voice)",
+        "credit_id": "5d078ee69251411a82ce0aba",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 93285,
+        "known_for_department": "Acting",
+        "name": "Charlyne Yi",
+        "original_name": "Charlyne Yi",
+        "popularity": 1.5685,
+        "profile_path": "/1lNDk1RfiGlGdgLEF5E35PpEc22.jpg",
+        "cast_id": 13,
+        "character": "Ruby (voice)",
+        "credit_id": "5d078f18c3a3680cba1edc6b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 946462,
+        "known_for_department": "Acting",
+        "name": "Grace Rolek",
+        "original_name": "Grace Rolek",
+        "popularity": 0.4492,
+        "profile_path": "/a9Gt8N85FE0dneCbsJ5WrscUqIB.jpg",
+        "cast_id": 14,
+        "character": "Connie Maheswaran (voice)",
+        "credit_id": "5d078f3c9251414241b8db0f",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 132354,
+        "known_for_department": "Acting",
+        "name": "Kate Micucci",
+        "original_name": "Kate Micucci",
+        "popularity": 1.565,
+        "profile_path": "/10FRMebTRHAgkxqhJ3Egq1liICF.jpg",
+        "cast_id": 16,
+        "character": "Sadie Miller (voice)",
+        "credit_id": "5d078f6c0e0a2601efc99bab",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254625,
+        "known_for_department": "Acting",
+        "name": "Matthew Moy",
+        "original_name": "Matthew Moy",
+        "popularity": 0.5411,
+        "profile_path": "/w9DiMbXov2nRgfgfxZg00spGQDf.jpg",
+        "cast_id": 17,
+        "character": "Lars Barriga (voice)",
+        "credit_id": "5d078f7fc3a368445b2f58c3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1256258,
+        "known_for_department": "Acting",
+        "name": "Toks Olagundoye",
+        "original_name": "Toks Olagundoye",
+        "popularity": 1.6282,
+        "profile_path": "/2tKnfTA0gh6QnTcHb18hj8o70uG.jpg",
+        "cast_id": 18,
+        "character": "Nanefua Pizza (voice)",
+        "credit_id": "5d078f98925141131bbdb793",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4771,
+        "known_for_department": "Acting",
+        "name": "Aimee Mann",
+        "original_name": "Aimee Mann",
+        "popularity": 0.2658,
+        "profile_path": "/8tu8KaykmzXfvqAJ5kUeiPBu2Ln.jpg",
+        "cast_id": 34,
+        "character": "Opal (voice)",
+        "credit_id": "5d65b863ba4802001226698a",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1386542,
+        "known_for_department": "Acting",
+        "name": "Ted Leo",
+        "original_name": "Ted Leo",
+        "popularity": 0.2589,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Steg (voice)",
+        "credit_id": "5d6eb28ba284eb19a0337abf",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1245726,
+        "known_for_department": "Writing",
+        "name": "Rebecca Sugar",
+        "original_name": "Rebecca Sugar",
+        "popularity": 0.6474,
+        "profile_path": "/wpC32gDTbdkYJYFU3RJ9MKxkmfi.jpg",
+        "credit_id": "64edecfa83901800af827894",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393206,
+        "known_for_department": "Sound",
+        "name": "Aivi Tran",
+        "original_name": "Aivi Tran",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "64edecce4cbe1200fe0d7732",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1199905,
+        "known_for_department": "Acting",
+        "name": "Chance the Rapper",
+        "original_name": "Chance the Rapper",
+        "popularity": 0.4822,
+        "profile_path": "/cXlzPkVu1T1g9mMnXRCOrEgERB5.jpg",
+        "credit_id": "64eded2183901800af82789f",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2478525,
+        "known_for_department": "Sound",
+        "name": "Steven Velema",
+        "original_name": "Steven Velema",
+        "popularity": 0.1501,
+        "profile_path": null,
+        "credit_id": "64edecea06f98400eb6178ac",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224949,
+        "known_for_department": "Acting",
+        "name": "Estelle",
+        "original_name": "Estelle",
+        "popularity": 0.3528,
+        "profile_path": "/l4V8IZg3pZKTG6x4gAy9FilFOXH.jpg",
+        "credit_id": "64eded12c3c891013ab3dd76",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1245726,
+        "known_for_department": "Writing",
+        "name": "Rebecca Sugar",
+        "original_name": "Rebecca Sugar",
+        "popularity": 0.6474,
+        "profile_path": "/wpC32gDTbdkYJYFU3RJ9MKxkmfi.jpg",
+        "credit_id": "5d05b5430e0a26511fc9e6d3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1296988,
+        "known_for_department": "Acting",
+        "name": "Jackie Buscarino",
+        "original_name": "Jackie Buscarino",
+        "popularity": 0.4496,
+        "profile_path": "/nnJNAN8N7fhPs3ruhiiTNKQBBGU.jpg",
+        "credit_id": "5d6ed657c8113d001171ce6c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1251099,
+        "known_for_department": "Writing",
+        "name": "Kat Morris",
+        "original_name": "Kat Morris",
+        "popularity": 0.1383,
+        "profile_path": "/kJjBquj4eXrzmN0EJghiMYLUDWr.jpg",
+        "credit_id": "5d6ed5bce9da69001475e11a",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2065041,
+        "known_for_department": "Sound",
+        "name": "Jeff Ball",
+        "original_name": "Jeff Ball",
+        "popularity": 0.0529,
+        "profile_path": null,
+        "credit_id": "5d6ed6d8c8113d001171cebe",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224670,
+        "known_for_department": "Directing",
+        "name": "Joe Johnston",
+        "original_name": "Joe Johnston",
+        "popularity": 0.2678,
+        "profile_path": "/26fpsUWy3cllRIZRAl8Jedo5JPe.jpg",
+        "credit_id": "5d6ed5ab6aa8e0000f425018",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1245726,
+        "known_for_department": "Writing",
+        "name": "Rebecca Sugar",
+        "original_name": "Rebecca Sugar",
+        "popularity": 0.6474,
+        "profile_path": "/wpC32gDTbdkYJYFU3RJ9MKxkmfi.jpg",
+        "credit_id": "5d6ed664c8113d001171ce73",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292298,
+        "known_for_department": "Writing",
+        "name": "Ian Jones-Quartey",
+        "original_name": "Ian Jones-Quartey",
+        "popularity": 0.148,
+        "profile_path": "/j2pXEXcz6f3DDQO0qPJ23brj0ra.jpg",
+        "credit_id": "5d6ed68a6aa8e00010424fd8",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224670,
+        "known_for_department": "Directing",
+        "name": "Joe Johnston",
+        "original_name": "Joe Johnston",
+        "popularity": 0.2678,
+        "profile_path": "/26fpsUWy3cllRIZRAl8Jedo5JPe.jpg",
+        "credit_id": "5d6ed61d35d1bc00124a8f86",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224670,
+        "known_for_department": "Directing",
+        "name": "Joe Johnston",
+        "original_name": "Joe Johnston",
+        "popularity": 0.2678,
+        "profile_path": "/26fpsUWy3cllRIZRAl8Jedo5JPe.jpg",
+        "credit_id": "5d6ed676e9da69001075e0ea",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1199905,
+        "known_for_department": "Acting",
+        "name": "Chance the Rapper",
+        "original_name": "Chance the Rapper",
+        "popularity": 0.4822,
+        "profile_path": "/cXlzPkVu1T1g9mMnXRCOrEgERB5.jpg",
+        "credit_id": "5d6ed6946aa8e00010424ff6",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1251099,
+        "known_for_department": "Writing",
+        "name": "Kat Morris",
+        "original_name": "Kat Morris",
+        "popularity": 0.1383,
+        "profile_path": "/kJjBquj4eXrzmN0EJghiMYLUDWr.jpg",
+        "credit_id": "5d6ed66de9da69001475e1e5",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1539577,
+        "known_for_department": "Writing",
+        "name": "Alonso Ramirez Ramos",
+        "original_name": "Alonso Ramirez Ramos",
+        "popularity": 0.1256,
+        "profile_path": null,
+        "credit_id": "5d6ed680c8113d000f71d114",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2084817,
+        "known_for_department": "Creator",
+        "name": "Ben Levin",
+        "original_name": "Ben Levin",
+        "popularity": 0.2931,
+        "profile_path": null,
+        "credit_id": "5d65b7acba4802001226692b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292298,
+        "known_for_department": "Writing",
+        "name": "Ian Jones-Quartey",
+        "original_name": "Ian Jones-Quartey",
+        "popularity": 0.148,
+        "profile_path": "/j2pXEXcz6f3DDQO0qPJ23brj0ra.jpg",
+        "credit_id": "5d65b7b2b3e6270018fd96b4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1684259,
+        "known_for_department": "Writing",
+        "name": "Jack Pendarvis",
+        "original_name": "Jack Pendarvis",
+        "popularity": 0.2147,
+        "profile_path": null,
+        "credit_id": "5d65b7bbba480200132669c5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1251099,
+        "known_for_department": "Writing",
+        "name": "Kat Morris",
+        "original_name": "Kat Morris",
+        "popularity": 0.1383,
+        "profile_path": "/kJjBquj4eXrzmN0EJghiMYLUDWr.jpg",
+        "credit_id": "5d65b65658361b001221543f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1251094,
+        "known_for_department": "Writing",
+        "name": "Hilary Florido",
+        "original_name": "Hilary Florido",
+        "popularity": 0.24,
+        "profile_path": "/3No49z2kyAOYNgRrMRpPiNJ2y5j.jpg",
+        "credit_id": "5d65b7a0ba48020015266a6f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2084816,
+        "known_for_department": "Writing",
+        "name": "Matt Burnett",
+        "original_name": "Matt Burnett",
+        "popularity": 0.3589,
+        "profile_path": null,
+        "credit_id": "5d65b7dcba48020015266a89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1245726,
+        "known_for_department": "Writing",
+        "name": "Rebecca Sugar",
+        "original_name": "Rebecca Sugar",
+        "popularity": 0.6474,
+        "profile_path": "/wpC32gDTbdkYJYFU3RJ9MKxkmfi.jpg",
+        "credit_id": "5d65b641ac8e6b728cf7b9c7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2397615,
+        "known_for_department": "Sound",
+        "name": "Grant Henry",
+        "original_name": "Grant Henry",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5d65b77eac8e6b728cf7baaa",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 11469,
+        "name": "memory loss"
+      },
+      {
+        "id": 216734,
+        "name": "abandonment"
+      },
+      {
+        "id": 232766,
+        "name": "vengeance"
+      },
+      {
+        "id": 256035,
+        "name": "abandonment issues"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-09-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-10-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "HBO",
+            "release_date": "2020-09-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cartoon Network France",
+            "release_date": "2019-10-27T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lucca Comics & Games",
+            "release_date": "2019-11-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cartoon Network ",
+            "release_date": "2020-03-20T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-10-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-05-17T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CN Premium",
+            "release_date": "2020-07-03T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "M/6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "HBO",
+            "release_date": "2020-09-18T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "M/6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cartoon Network",
+            "release_date": "2020-08-29T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "AP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-05-09T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "普遍級",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2019-12-22T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "The Theater at Ace Hotel",
+            "release_date": "2019-08-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cartoon Network",
+            "release_date": "2019-09-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  }
+}

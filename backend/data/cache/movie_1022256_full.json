@@ -1,0 +1,2071 @@
+{
+  "adult": false,
+  "backdrop_path": "/u3MWQCdHyCK7IADtat4sVmBXd9U.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    },
+    {
+      "id": 10402,
+      "name": "Música"
+    }
+  ],
+  "homepage": "https://tv.apple.com/br/movie/umc.cmc.39yw4dp13gshxq5bt9fsl0o5y",
+  "id": 1022256,
+  "imdb_id": "tt21819250",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Selena Gomez: My Mind & Me",
+  "overview": "Selena Gomez alcançou uma fama inimaginável após anos estando sob os holofotes. Porém, ao alcançar um novo patamar, uma reviravolta inesperada a joga na escuridão. Este documentário exclusivo e íntimo cobre seis anos de sua jornada rumo à uma nova luz.",
+  "popularity": 3.7882,
+  "poster_path": "/t5nOw2JTw8DDksT6DpZbx3NVdAT.jpg",
+  "production_companies": [
+    {
+      "id": 91390,
+      "logo_path": "/asfiFPtyptv1qW7fvGPe95RtKr7.png",
+      "name": "Lighthouse Management + Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 118381,
+      "logo_path": "/jXGMxHQREYFoojxN9BaLBbdkglQ.png",
+      "name": "Interscope Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-04",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A cada respiro, uma descoberta.",
+  "title": "Selena Gomez: Minha Mente e Eu",
+  "video": false,
+  "vote_average": 8.58,
+  "vote_count": 572,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77948,
+        "known_for_department": "Acting",
+        "name": "Selena Gómez",
+        "original_name": "Selena Gomez",
+        "popularity": 2.7759,
+        "profile_path": "/sOxhTZWWzYWpPJcYKHsPiW4vI3D.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "631a21920f0da5009b47ab39",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2748908,
+        "known_for_department": "Acting",
+        "name": "Raquelle Stevens",
+        "original_name": "Raquelle Stevens",
+        "popularity": 0.285,
+        "profile_path": "/khe8Ag6GRAMaEqdNT614IOl301d.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "63a5c7e1c048a900d7f3588b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3768916,
+        "known_for_department": "Acting",
+        "name": "Ashley Cook",
+        "original_name": "Ashley Cook",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "63a5c811310325009322a791",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 557778,
+        "known_for_department": "Acting",
+        "name": "Liana Blackburn",
+        "original_name": "Liana Blackburn",
+        "popularity": 0.1753,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "693ab4fa71e3420fbb1ff36e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1290596,
+        "known_for_department": "Acting",
+        "name": "Brent L. Boxberger",
+        "original_name": "Brent L. Boxberger",
+        "popularity": 0.1409,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "693ab520dd97317ef6dfaa17",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5251601,
+        "known_for_department": "Acting",
+        "name": "Devyck Bull",
+        "original_name": "Devyck Bull",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "693ab5384b5267bec16904b1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871130,
+        "known_for_department": "Acting",
+        "name": "Mia Campagna",
+        "original_name": "Mia Campagna",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "693ab55da5b91cc28d690480",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871132,
+        "known_for_department": "Acting",
+        "name": "Rodney Chonia",
+        "original_name": "Rodney Chonia",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "693ab571d6e42daac5dfaa3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4763178,
+        "known_for_department": "Visual Effects",
+        "name": "Samantha Coatsworth",
+        "original_name": "Samantha Coatsworth",
+        "popularity": 0.0913,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "693ab58a69e1f0dc05aea35b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871134,
+        "known_for_department": "Acting",
+        "name": "Toshi Davidson",
+        "original_name": "Toshi Davidson",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Self",
+        "credit_id": "693ab5a55ea90b57d7b840c2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871135,
+        "known_for_department": "Acting",
+        "name": "Priscilla Deleon",
+        "original_name": "Priscilla Deleon",
+        "popularity": 0.05,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Self",
+        "credit_id": "693ab5b99e69f7bfe0cdf2cf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4082307,
+        "known_for_department": "Acting",
+        "name": "Stevie Dore",
+        "original_name": "Stevie Dore",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Self",
+        "credit_id": "693ab5d2d46e70d1e11d2a74",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50949,
+        "known_for_department": "Directing",
+        "name": "Alek Keshishian",
+        "original_name": "Alek Keshishian",
+        "popularity": 0.4895,
+        "profile_path": "/Gv5G8XiCL8BhSzq3PA9p7ek5cQ.jpg",
+        "credit_id": "631a21a9cf9ba3007987d57f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2201266,
+        "known_for_department": "Production",
+        "name": "Michelle An",
+        "original_name": "Michelle An",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "631a3498caef2d007e72e133",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2527329,
+        "known_for_department": "Production",
+        "name": "John Janick",
+        "original_name": "John Janick",
+        "popularity": 0.3564,
+        "profile_path": null,
+        "credit_id": "631a3502fac5020085cb1174",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50949,
+        "known_for_department": "Directing",
+        "name": "Alek Keshishian",
+        "original_name": "Alek Keshishian",
+        "popularity": 0.4895,
+        "profile_path": "/Gv5G8XiCL8BhSzq3PA9p7ek5cQ.jpg",
+        "credit_id": "631a343f1d1bf400797ef543",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1084980,
+        "known_for_department": "Production",
+        "name": "Stephanie Meurer",
+        "original_name": "Stephanie Meurer",
+        "popularity": 0.266,
+        "profile_path": null,
+        "credit_id": "631a34f0caef2d00794aff20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1617012,
+        "known_for_department": "Production",
+        "name": "Katherine LeBlond",
+        "original_name": "Katherine LeBlond",
+        "popularity": 0.0994,
+        "profile_path": null,
+        "credit_id": "631a34e81c6329007cc00ba4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2646405,
+        "known_for_department": "Production",
+        "name": "Steve Berman",
+        "original_name": "Steve Berman",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "credit_id": "631a3605caef2d007e72e178",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2241696,
+        "known_for_department": "Production",
+        "name": "Zack Morgenroth",
+        "original_name": "Zack Morgenroth",
+        "popularity": 0.1345,
+        "profile_path": null,
+        "credit_id": "631a348e62fcd3007cfb00e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2419427,
+        "known_for_department": "Production",
+        "name": "Caitlin Daley",
+        "original_name": "Caitlin Daley",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "631a34f81c6329007cc00baa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59702,
+        "known_for_department": "Production",
+        "name": "Aleen Keshishian",
+        "original_name": "Aleen Keshishian",
+        "popularity": 0.1789,
+        "profile_path": null,
+        "credit_id": "631a3484426ae80098299cab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31230,
+        "known_for_department": "Camera",
+        "name": "Matthias Schubert",
+        "original_name": "Matthias Schubert",
+        "popularity": 0.0962,
+        "profile_path": null,
+        "credit_id": "63f1a764a67254007de8cfc9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1897021,
+        "known_for_department": "Editing",
+        "name": "Rodrigo Brazão",
+        "original_name": "Rodrigo Brazão",
+        "popularity": 0.0389,
+        "profile_path": null,
+        "credit_id": "63f1a77815376c00cb232bce",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2478152,
+        "known_for_department": "Editing",
+        "name": "Scott Evans",
+        "original_name": "Scott Evans",
+        "popularity": 0.1768,
+        "profile_path": "/tbxbGwcmxlgNOKElDllaHxJydfy.jpg",
+        "credit_id": "63f1a79152497800dc4392dd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117762,
+        "known_for_department": "Editing",
+        "name": "David Brodie",
+        "original_name": "David Brodie",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "credit_id": "63f1a78315376c0083362fdf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2733680,
+        "known_for_department": "Camera",
+        "name": "David Paul Jacobson",
+        "original_name": "David Paul Jacobson",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "63f1a755caaca200a19b56eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2322728,
+        "known_for_department": "Directing",
+        "name": "Inaya Graciana Yusuf",
+        "original_name": "Inaya Graciana Yusuf",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "63f1a7a615376c0095b19dae",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2744570,
+        "known_for_department": "Editing",
+        "name": "Veronica Pinkham",
+        "original_name": "Veronica Pinkham",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "63f1a79ca24c5000a13cc975",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3459474,
+        "known_for_department": "Sound",
+        "name": "Mike James Gallagher",
+        "original_name": "Mike James Gallagher",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "63f1a7b1a24c5000848cebe0",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1348000,
+        "known_for_department": "Sound",
+        "name": "Jeffrey A. Pitts",
+        "original_name": "Jeffrey A. Pitts",
+        "popularity": 0.3268,
+        "profile_path": null,
+        "credit_id": "63f1a7cd15376c0095b19dc7",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50949,
+        "known_for_department": "Directing",
+        "name": "Alek Keshishian",
+        "original_name": "Alek Keshishian",
+        "popularity": 0.4895,
+        "profile_path": "/Gv5G8XiCL8BhSzq3PA9p7ek5cQ.jpg",
+        "credit_id": "63f1a71352497800dc439287",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3929163,
+        "known_for_department": "Camera",
+        "name": "Hunter Simmons",
+        "original_name": "Hunter Simmons",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "63f1a76ea67254007de8cfd3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 551991,
+        "known_for_department": "Editing",
+        "name": "Paul Marchand",
+        "original_name": "Paul Marchand",
+        "popularity": 0.3482,
+        "profile_path": null,
+        "credit_id": "63f1a720caaca200a19b56d1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92992,
+        "known_for_department": "Sound",
+        "name": "Matthew Olivo",
+        "original_name": "Matthew Olivo",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "63f1a7d8a6725400865d6b88",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1919839,
+        "known_for_department": "Sound",
+        "name": "Anthony Vanchure",
+        "original_name": "Anthony Vanchure",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "credit_id": "63f1a7ef4a4bfc008ece50cf",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1980964,
+        "known_for_department": "Sound",
+        "name": "Alex Altman",
+        "original_name": "Alex Altman",
+        "popularity": 0.1802,
+        "profile_path": null,
+        "credit_id": "67aa8bd909b8551a04b09215",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 246377,
+        "name": "music documentary"
+      },
+      {
+        "id": 325761,
+        "name": "admiring"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "D",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "18A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "K-12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FJ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "K12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "IIB",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "17+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "PG12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LU",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "16+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "B-15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "B-15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MY",
+        "release_dates": [
+          {
+            "certification": "18SG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "OM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "NC16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TJ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TM",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "16+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "AFI Fest",
+            "release_date": "2022-11-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Apple TV+",
+            "release_date": "2022-11-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}

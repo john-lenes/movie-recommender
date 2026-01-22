@@ -1,0 +1,797 @@
+{
+  "adult": false,
+  "backdrop_path": "/fEfFaByobTu2RR2KMMohmCNLReg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1631,
+  "imdb_id": "tt0135024",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Une vraie jeune fille",
+  "overview": "Esta é a história de Alice Bonnard, jovem que estuda no colégio para meninas Saint-Sulvien. A ação se passa \"em algum destes meses de julho e agosto, na turbulência dos anos 60\", quando o conflito de gerações era a tônica. A bela Alice vem passar férias com seus pais no campo. Eles gerenciam uma serraria e acabaram de contratar o garanhão Jim. Os negócios não vão bem, mas o senhor e a senhora Bonnard, isolados em seu orgulho, não conseguem admitir o iminente fracasso do empreendimento. O casal vai à loucura com a atitude cool, de desprezo pelo trabalho, de Jim. Um fato complicador vem apimentar as relações neste ambiente prestes a desmoronar: o amor cego que Alice alimenta pelo sedutor empregado da serraria. Entretanto, ela não ousa lhe dirigir a palavra, consciente de que Jim praticamente ignora sua triste existência. Ela ronda em torno dele, mas a barreira do silêncio só faz aumentar... Quanto mais Alice se aproxima de Jim, aumenta a impossibilidade de comunicação.",
+  "popularity": 6.7007,
+  "poster_path": "/sYLZxnRBoNekrbcLaEzBJSmRRh8.jpg",
+  "production_companies": [
+    {
+      "id": 18477,
+      "logo_path": null,
+      "name": "Les Films La Boétie",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25899,
+      "logo_path": null,
+      "name": "Artédis",
+      "origin_country": "FR"
+    },
+    {
+      "id": 243,
+      "logo_path": null,
+      "name": "CB Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1976-06-01",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Uma Adolescente de Verdade",
+  "video": false,
+  "vote_average": 5.276,
+  "vote_count": 136,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18240,
+        "known_for_department": "Acting",
+        "name": "Charlotte Alexandra",
+        "original_name": "Charlotte Alexandra",
+        "popularity": 0.6493,
+        "profile_path": "/e4Q6t0NFP57171TTCfHqykyPoau.jpg",
+        "cast_id": 7,
+        "character": "Alice Bonnard",
+        "credit_id": "52fe4306c3a36847f8034be5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18241,
+        "known_for_department": "Acting",
+        "name": "Hiram Keller",
+        "original_name": "Hiram Keller",
+        "popularity": 0.7395,
+        "profile_path": "/wD2P3zKgKaweJufPhoG5gD9XoLD.jpg",
+        "cast_id": 8,
+        "character": "Pierre-Evariste Renard / 'Jim' / 'Earthworm Jim'",
+        "credit_id": "52fe4306c3a36847f8034be9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18242,
+        "known_for_department": "Acting",
+        "name": "Rita Maiden",
+        "original_name": "Rita Maiden",
+        "popularity": 0.4976,
+        "profile_path": "/z21gHqDxwCgBxdzySbmZVYHNARQ.jpg",
+        "cast_id": 9,
+        "character": "Mrs. Bonnard",
+        "credit_id": "52fe4306c3a36847f8034bed",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18243,
+        "known_for_department": "Acting",
+        "name": "Bruno Balp",
+        "original_name": "Bruno Balp",
+        "popularity": 0.215,
+        "profile_path": "/pM4nvsJTKvDDM0PISAjyYcK7aYO.jpg",
+        "cast_id": 10,
+        "character": "Mr. Bonnard",
+        "credit_id": "52fe4306c3a36847f8034bf1",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 101315,
+        "known_for_department": "Acting",
+        "name": "Georges Guéret",
+        "original_name": "Georges Guéret",
+        "popularity": 1.146,
+        "profile_path": "/yblJtWBPu3mwMiPs8AAS9yaRwod.jpg",
+        "cast_id": 15,
+        "character": "Martial",
+        "credit_id": "58a5cfb29251413cbd007041",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67513,
+        "known_for_department": "Acting",
+        "name": "Shirley Stoler",
+        "original_name": "Shirley Stoler",
+        "popularity": 0.3161,
+        "profile_path": "/uxAIgzhTHWPzQxTuAk5PSfyrddo.jpg",
+        "cast_id": 14,
+        "character": "Grocer in Aupom",
+        "credit_id": "53dfe423c3a3683b570008db",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584176,
+        "known_for_department": "Acting",
+        "name": "Thierry Roland",
+        "original_name": "Thierry Roland",
+        "popularity": 0.1719,
+        "profile_path": "/kYMf2DH6lW9dNQy7GteZrOwGnZC.jpg",
+        "cast_id": 29,
+        "character": "TV Commentator (voice) (archive footage)",
+        "credit_id": "64436b1dd35dea04d9fb5c4d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18336,
+        "known_for_department": "Acting",
+        "name": "Marie-Hélène Breillat",
+        "original_name": "Marie-Hélène Breillat",
+        "popularity": 0.4312,
+        "profile_path": "/xf91t5EHUYWR6rxpLbm1sbXWmvu.jpg",
+        "cast_id": 30,
+        "character": "Voice of Alice Bonnard (voice) (uncredited)",
+        "credit_id": "64436b2c651fcf02fb9cf1dd",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022868,
+        "known_for_department": "Acting",
+        "name": "Alexandra Gouveia",
+        "original_name": "Alexandra Gouveia",
+        "popularity": 0.0582,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Martine (uncredited)",
+        "credit_id": "64436b5ccee2f6049f3665d0",
+        "order": 8
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 1075550,
+        "known_for_department": "Acting",
+        "name": "Carmelo Petix",
+        "original_name": "Carmelo Petix",
+        "popularity": 0.6,
+        "profile_path": "/yqxFq67TkK90fKa8y25f04EVf4M.jpg",
+        "cast_id": 32,
+        "character": "L'Exhibitionniste (uncredited)",
+        "credit_id": "64436ba705822404bf3276d2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001617,
+        "known_for_department": "Acting",
+        "name": "Georges Pompidou",
+        "original_name": "Georges Pompidou",
+        "popularity": 0.6885,
+        "profile_path": "/2FWkhHkQcF9yyDzg3HLQWHQ64fM.jpg",
+        "cast_id": 33,
+        "character": "Self (on TV) (archive footage) (uncredited)",
+        "credit_id": "64436bc5cee2f604f3367511",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2926640,
+        "known_for_department": "Acting",
+        "name": "Christian Valentin",
+        "original_name": "Christian Valentin",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Le Chanteur (uncredited)",
+        "credit_id": "64436be5cee2f604f3367525",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6682,
+        "profile_path": "/r5FXWbOribIYMFNm19um0rwKbdS.jpg",
+        "credit_id": "52fe4306c3a36847f8034bcf",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 18239,
+        "known_for_department": "Camera",
+        "name": "Pierre Fattori",
+        "original_name": "Pierre Fattori",
+        "popularity": 2.323,
+        "profile_path": null,
+        "credit_id": "52fe4306c3a36847f8034be1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18245,
+        "known_for_department": "Editing",
+        "name": "Michèle Quevroy",
+        "original_name": "Michèle Quevroy",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "52fe4306c3a36847f8034bfd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6682,
+        "profile_path": "/r5FXWbOribIYMFNm19um0rwKbdS.jpg",
+        "credit_id": "52fe4306c3a36847f8034bc3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6682,
+        "profile_path": "/r5FXWbOribIYMFNm19um0rwKbdS.jpg",
+        "credit_id": "52fe4306c3a36847f8034bc9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 18244,
+        "known_for_department": "Editing",
+        "name": "Annie Charrier",
+        "original_name": "Annie Charrier",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "credit_id": "52fe4306c3a36847f8034bf7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18237,
+        "known_for_department": "Production",
+        "name": "André Génovès",
+        "original_name": "André Génovès",
+        "popularity": 0.213,
+        "profile_path": null,
+        "credit_id": "52fe4306c3a36847f8034bd5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2358586,
+        "known_for_department": "Production",
+        "name": "Guy Azzi",
+        "original_name": "Guy Azzi",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "credit_id": "644368b6fcec2e0465d9f133",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2348925,
+        "known_for_department": "Camera",
+        "name": "Patrick Godaert",
+        "original_name": "Patrick Godaert",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "64436a63fcec2e04bdd9ef69",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6682,
+        "profile_path": "/r5FXWbOribIYMFNm19um0rwKbdS.jpg",
+        "credit_id": "6443696eb3f6f504c89e58c3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022857,
+        "known_for_department": "Production",
+        "name": "Jean Guillaume",
+        "original_name": "Jean Guillaume",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "644369e1ad87f70497ccba4a",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4022859,
+        "known_for_department": "Directing",
+        "name": "Philippe Lang",
+        "original_name": "Philippe Lang",
+        "popularity": 0.001,
+        "profile_path": null,
+        "credit_id": "64436a05fcec2e04e9d9e9bc",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 1768296,
+        "known_for_department": "Camera",
+        "name": "Maurice Giraud",
+        "original_name": "Maurice Giraud",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "64436a4ca06efe0320a45478",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2348925,
+        "known_for_department": "Camera",
+        "name": "Patrick Godaert",
+        "original_name": "Patrick Godaert",
+        "popularity": 0.6,
+        "profile_path": null,
+        "credit_id": "6443694a05822404e9327694",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22203,
+        "known_for_department": "Camera",
+        "name": "Jean-Claude Couty",
+        "original_name": "Jean-Claude Couty",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "64436a3dcee2f604c93676a6",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1702253,
+        "known_for_department": "Production",
+        "name": "Pierre-Richard Muller",
+        "original_name": "Pierre-Richard Muller",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "644368d8d35dea02fcfb55a4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7695,
+        "known_for_department": "Production",
+        "name": "Jean-François Lepetit",
+        "original_name": "Jean-François Lepetit",
+        "popularity": 0.2389,
+        "profile_path": "/ol5wKO7Tn26XgvjVgXjWrlm0LHj.jpg",
+        "credit_id": "64436a7dad87f70515ccbb7e",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4022860,
+        "known_for_department": "Sound",
+        "name": "Bernard Mangière",
+        "original_name": "Bernard Mangière",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "64436a24d35dea0455fb5c5d",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125649,
+        "known_for_department": "Sound",
+        "name": "Mort Shuman",
+        "original_name": "Mort Shuman",
+        "popularity": 0.1814,
+        "profile_path": "/3XLbV00bkQ4ZvYwjsaKARr4NCi0.jpg",
+        "credit_id": "6443692505822402fb32764d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19090,
+        "known_for_department": "Sound",
+        "name": "Guy Chichignoud",
+        "original_name": "Guy Chichignoud",
+        "popularity": 0.1624,
+        "profile_path": null,
+        "credit_id": "64436a19a06efe036fa4545e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6295,
+        "known_for_department": "Directing",
+        "name": "Catherine Breillat",
+        "original_name": "Catherine Breillat",
+        "popularity": 0.6682,
+        "profile_path": "/r5FXWbOribIYMFNm19um0rwKbdS.jpg",
+        "credit_id": "672a7f5b83e62f05c6b58c88",
+        "department": "Writing",
+        "job": "Lyricist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1525,
+        "name": "puberty"
+      },
+      {
+        "id": 2201,
+        "name": "first time"
+      },
+      {
+        "id": 254,
+        "name": "france"
+      },
+      {
+        "id": 970,
+        "name": "parent child relationship"
+      },
+      {
+        "id": 699,
+        "name": "love at first sight"
+      },
+      {
+        "id": 1664,
+        "name": "eroticism"
+      },
+      {
+        "id": 2316,
+        "name": "women's sexual identity"
+      },
+      {
+        "id": 4125,
+        "name": "provocation"
+      },
+      {
+        "id": 5825,
+        "name": "precocity"
+      },
+      {
+        "id": 7665,
+        "name": "girls' boarding school"
+      },
+      {
+        "id": 10791,
+        "name": "teenage crush"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2000-09-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "18A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Québec",
+            "release_date": "2002-03-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2001-02-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2013-02-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "NatFilm Festival",
+            "release_date": "2004-04-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Visa CNC 45098",
+            "release_date": "1999-04-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Edinburgh International Film Festival",
+            "release_date": "2001-08-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Thessaloniki International Film Festival",
+            "release_date": "2000-11-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "III",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Body and Desire in French Cinema",
+            "release_date": "2001-05-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2013-02-22T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Film was completed in 1976 but release company went bankrupt and film was not released until 1999",
+            "release_date": "1976-06-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2001-09-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "R18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tokyo",
+            "release_date": "2001-11-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "International Film Festival Rotterdam",
+            "release_date": "1999-02-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Silver",
+            "release_date": "2009-09-03T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2001-07-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "New York City, New York",
+            "release_date": "2001-06-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Chicago, Illinois",
+            "release_date": "2001-11-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

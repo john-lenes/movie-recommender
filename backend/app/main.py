@@ -1,3 +1,4 @@
+import logging
 from typing import Dict, List, Optional
 
 from fastapi import FastAPI, Header, HTTPException
@@ -18,6 +19,12 @@ from .models import (
     UserResponse,
 )
 from .recommender import ContentBasedRecommender
+
+# Configurar logging
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
 
 app = FastAPI(title="Movie Recommender API")
 
@@ -63,6 +70,7 @@ def get_current_user(authorization: Optional[str] = Header(None)):
 
 @app.get("/health")
 def health():
+    logger.info(f"Health check - Users: {len(DB.users)}, Movies: {len(MOVIES)}")
     return {"ok": True, "users": len(DB.users), "movies": len(MOVIES)}
 
 

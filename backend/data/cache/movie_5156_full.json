@@ -1,0 +1,1096 @@
+{
+  "adult": false,
+  "backdrop_path": "/nd6ItWuWGmTKhHXuxVC8kp86CmQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 133000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 5156,
+  "imdb_id": "tt0040522",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Ladri di biciclette",
+  "overview": "Desempregado Antonio Ricci (Lamberto Maggiorani) está eufórico quando finalmente encontra trabalho colocando cartazes pela cidade de Roma, destruída pela guerra. Sua esposa Maria (Lianella Carell), vende os lençóis da família para resgatar a bicicleta de Antonio da loja de penhor, para que ele possa aceitar o trabalho. Porém, o desastre ataca, quando a bicicleta de Antonio é roubada. (e 10 - Estimado 10 Anos)",
+  "popularity": 2.8819,
+  "poster_path": "/8hpVv2G8cXXEBp67dkcLNqrjNUs.jpg",
+  "production_companies": [
+    {
+      "id": 1875,
+      "logo_path": null,
+      "name": "Produzioni De Sica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1948-07-21",
+  "revenue": 450159,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "O triunfo que eles querem censurar",
+  "title": "Ladrões de Bicicleta",
+  "video": false,
+  "vote_average": 8.174,
+  "vote_count": 2581,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42416,
+        "known_for_department": "Acting",
+        "name": "Lamberto Maggiorani",
+        "original_name": "Lamberto Maggiorani",
+        "popularity": 0.2233,
+        "profile_path": "/qp3oZcD8UwTGRg1GiMMOyWLwSaX.jpg",
+        "cast_id": 12,
+        "character": "Antonio",
+        "credit_id": "52fe43f8c3a36847f807b0b5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42417,
+        "known_for_department": "Acting",
+        "name": "Enzo Staiola",
+        "original_name": "Enzo Staiola",
+        "popularity": 0.371,
+        "profile_path": "/k64j9HlXiHIn0DJOUX9Uk8MCtAw.jpg",
+        "cast_id": 13,
+        "character": "Bruno",
+        "credit_id": "52fe43f8c3a36847f807b0b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42419,
+        "known_for_department": "Acting",
+        "name": "Lianella Carell",
+        "original_name": "Lianella Carell",
+        "popularity": 0.3241,
+        "profile_path": "/dbLf4dnEpapogvOYoe6Mm5rbWbG.jpg",
+        "cast_id": 14,
+        "character": "Maria",
+        "credit_id": "52fe43f8c3a36847f807b0bd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 944148,
+        "known_for_department": "Acting",
+        "name": "Gino Saltamerenda",
+        "original_name": "Gino Saltamerenda",
+        "popularity": 0.3077,
+        "profile_path": "/xGSWaSgVYBTC2meKANoZp9JrM9S.jpg",
+        "cast_id": 17,
+        "character": "Baiocco",
+        "credit_id": "52fe43f8c3a36847f807b0c9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 975006,
+        "known_for_department": "Acting",
+        "name": "Vittorio Antonucci",
+        "original_name": "Vittorio Antonucci",
+        "popularity": 0.102,
+        "profile_path": "/uIWKAPeLJzfVvUawLOAM8DKWntA.jpg",
+        "cast_id": 18,
+        "character": "Alfredo Catelli, The Thief",
+        "credit_id": "52fe43f8c3a36847f807b0cd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 42423,
+        "known_for_department": "Acting",
+        "name": "Giulio Chiari",
+        "original_name": "Giulio Chiari",
+        "popularity": 0.0948,
+        "profile_path": "/cQQiRWDh2w14TMrxBIgdUOlctP.jpg",
+        "cast_id": 16,
+        "character": "The Beggar",
+        "credit_id": "52fe43f8c3a36847f807b0c5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 974973,
+        "known_for_department": "Acting",
+        "name": "Elena Altieri",
+        "original_name": "Elena Altieri",
+        "popularity": 0.3264,
+        "profile_path": "/pHGnV083CrEWuJgq8EH6WdpzBxU.jpg",
+        "cast_id": 19,
+        "character": "The Charitable Lady",
+        "credit_id": "52fe43f8c3a36847f807b0d1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 42421,
+        "known_for_department": "Acting",
+        "name": "Carlo Jachino",
+        "original_name": "Carlo Jachino",
+        "popularity": 0.1902,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "A Beggar",
+        "credit_id": "52fe43f8c3a36847f807b0c1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077249,
+        "known_for_department": "Acting",
+        "name": "Michele Sakara",
+        "original_name": "Michele Sakara",
+        "popularity": 0.2337,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Secretary of the Charity Organization",
+        "credit_id": "52fe43f8c3a36847f807b0d5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1077250,
+        "known_for_department": "Acting",
+        "name": "Emma Druetti",
+        "original_name": "Emma Druetti",
+        "popularity": 0.0585,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "52fe43f8c3a36847f807b0d9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31544,
+        "known_for_department": "Acting",
+        "name": "Eolo Capritti",
+        "original_name": "Eolo Capritti",
+        "popularity": 0.3007,
+        "profile_path": "/f116UWAZJkgWyH3vB9wn8sLgJAL.jpg",
+        "cast_id": 35,
+        "character": "Carabiniere (uncredited)",
+        "credit_id": "57a515f1c3a36868ee00430f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1116071,
+        "known_for_department": "Acting",
+        "name": "Fausto Guerzoni",
+        "original_name": "Fausto Guerzoni",
+        "popularity": 0.212,
+        "profile_path": "/jSFaAMBJhMeqCilFSwdMI6fFUpI.jpg",
+        "cast_id": 53,
+        "character": "Amateur Actor (uncredited)",
+        "credit_id": "61925ca8dbf144009282aa4d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571,
+        "known_for_department": "Acting",
+        "name": "Giulio Battiferri",
+        "original_name": "Giulio Battiferri",
+        "popularity": 0.243,
+        "profile_path": "/55HFksAmW2B3TZvTL9wfkSXdPQe.jpg",
+        "cast_id": 29,
+        "character": "Citizen Who Protects the Real Thief (uncredited)",
+        "credit_id": "57a514eb9251411002001b7f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4385,
+        "known_for_department": "Directing",
+        "name": "Sergio Leone",
+        "original_name": "Sergio Leone",
+        "popularity": 1.3074,
+        "profile_path": "/2576qoW8l9Z1nKGM10ar60aIwUu.jpg",
+        "cast_id": 30,
+        "character": "A Seminary Student (uncredited)",
+        "credit_id": "57a51520c3a368615a006754",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543561,
+        "known_for_department": "Acting",
+        "name": "Mario Meniconi",
+        "original_name": "Mario Meniconi",
+        "popularity": 0.233,
+        "profile_path": "/motDdFNICq5nL9un775DOE3WzbV.jpg",
+        "cast_id": 31,
+        "character": "Meniconi, the Street Sweeper (uncredited)",
+        "credit_id": "57a5154c9251411002001ba4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1037360,
+        "known_for_department": "Acting",
+        "name": "Checco Rissone",
+        "original_name": "Checco Rissone",
+        "popularity": 0.1786,
+        "profile_path": "/cH3ZLbKM9wmgYcWRxhSiUX7tBX7.jpg",
+        "cast_id": 32,
+        "character": "Guard in Piazza Vittorio (uncredited)",
+        "credit_id": "57a515879251411b76006a9b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274405,
+        "known_for_department": "Acting",
+        "name": "Peppino Spadaro",
+        "original_name": "Peppino Spadaro",
+        "popularity": 0.2386,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Police Officer (uncredited)",
+        "credit_id": "57a515b3c3a3684917006dc9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132194,
+        "known_for_department": "Acting",
+        "name": "Nando Bruno",
+        "original_name": "Nando Bruno",
+        "popularity": 0.1733,
+        "profile_path": "/frBpf1CDNNrQ2c8LJUY1v5LgAu6.jpg",
+        "cast_id": 34,
+        "character": "(uncredited)",
+        "credit_id": "57a515d1c3a3684917006dd7",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12341,
+        "known_for_department": "Acting",
+        "name": "Memmo Carotenuto",
+        "original_name": "Memmo Carotenuto",
+        "popularity": 0.3732,
+        "profile_path": "/4gqiAy02DoDiHX6AWY4OVBNpNpo.jpg",
+        "cast_id": 36,
+        "character": "(uncredited)",
+        "credit_id": "57a5162bc3a3680810002039",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1003179,
+        "known_for_department": "Acting",
+        "name": "Umberto Spadaro",
+        "original_name": "Umberto Spadaro",
+        "popularity": 0.3219,
+        "profile_path": "/BswmvmopAiV9FqyjRnX0fPx6RJ.jpg",
+        "cast_id": 37,
+        "character": "(uncredited)",
+        "credit_id": "57a51665925141332d006293",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1385221,
+        "known_for_department": "Directing",
+        "name": "Piero Heliczer",
+        "original_name": "Piero Heliczer",
+        "popularity": 0.2379,
+        "profile_path": "/mmOySznrfNFQGPGkoaMgKGRDx74.jpg",
+        "cast_id": 57,
+        "character": "A Young Boy (uncredited)",
+        "credit_id": "6275b12567e0f700519acc38",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3541252,
+        "known_for_department": "Acting",
+        "name": "Massimo Randisi",
+        "original_name": "Massimo Randisi",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Rich Kid in Restaurant (uncredited)",
+        "credit_id": "6277a1139979d234fe7365e0",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12330,
+        "known_for_department": "Writing",
+        "name": "Cesare Zavattini",
+        "original_name": "Cesare Zavattini",
+        "popularity": 0.7575,
+        "profile_path": "/Aw33b61PnxQLqZJ8vXT7IIRY3bW.jpg",
+        "credit_id": "52fe43f8c3a36847f807b09f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1009150,
+        "known_for_department": "Writing",
+        "name": "Adolfo Franci",
+        "original_name": "Adolfo Franci",
+        "popularity": 0.2536,
+        "profile_path": null,
+        "credit_id": "52fe43f8c3a36847f807b0e9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4418,
+        "known_for_department": "Editing",
+        "name": "Eraldo Da Roma",
+        "original_name": "Eraldo Da Roma",
+        "popularity": 0.2271,
+        "profile_path": "/7mU29mK4NziwjL7GSHCIeDb4pb7.jpg",
+        "credit_id": "52fe43f8c3a36847f807b099",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24658,
+        "known_for_department": "Writing",
+        "name": "Suso Cecchi d'Amico",
+        "original_name": "Suso Cecchi d'Amico",
+        "popularity": 0.5553,
+        "profile_path": "/2it2PNMhCxKY2Q2VrX98fnrtJt8.jpg",
+        "credit_id": "52fe43f8c3a36847f807b0ab",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41636,
+        "known_for_department": "Writing",
+        "name": "Luigi Bartolini",
+        "original_name": "Luigi Bartolini",
+        "popularity": 0.1507,
+        "profile_path": null,
+        "credit_id": "52fe43f8c3a36847f807b0e3",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12331,
+        "known_for_department": "Sound",
+        "name": "Alessandro Cicognini",
+        "original_name": "Alessandro Cicognini",
+        "popularity": 0.166,
+        "profile_path": null,
+        "credit_id": "52fe43f8c3a36847f807b0f5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 960215,
+        "known_for_department": "Art",
+        "name": "Antonio Traverso",
+        "original_name": "Antonio Traverso",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "52fe43f8c3a36847f807b0fb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41637,
+        "known_for_department": "Writing",
+        "name": "Oreste Biancoli",
+        "original_name": "Oreste Biancoli",
+        "popularity": 0.4436,
+        "profile_path": null,
+        "credit_id": "52fe43f8c3a36847f807b0a5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1125155,
+        "known_for_department": "Writing",
+        "name": "Gerardo Guerrieri",
+        "original_name": "Gerardo Guerrieri",
+        "popularity": 0.2149,
+        "profile_path": null,
+        "credit_id": "52fe43f8c3a36847f807b0ef",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12329,
+        "known_for_department": "Directing",
+        "name": "Vittorio De Sica",
+        "original_name": "Vittorio De Sica",
+        "popularity": 1.1376,
+        "profile_path": "/rcdyn8kE1zLTQyA7UnTN7gfAOVR.jpg",
+        "credit_id": "52fe43f8c3a36847f807b0b1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12329,
+        "known_for_department": "Directing",
+        "name": "Vittorio De Sica",
+        "original_name": "Vittorio De Sica",
+        "popularity": 1.1376,
+        "profile_path": "/rcdyn8kE1zLTQyA7UnTN7gfAOVR.jpg",
+        "credit_id": "52fe43f8c3a36847f807b081",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12329,
+        "known_for_department": "Directing",
+        "name": "Vittorio De Sica",
+        "original_name": "Vittorio De Sica",
+        "popularity": 1.1376,
+        "profile_path": "/rcdyn8kE1zLTQyA7UnTN7gfAOVR.jpg",
+        "credit_id": "52fe43f8c3a36847f807b08d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15194,
+        "known_for_department": "Camera",
+        "name": "Carlo Di Palma",
+        "original_name": "Carlo Di Palma",
+        "popularity": 0.2359,
+        "profile_path": "/i9bOfpLR2V68gGYv0yqJkjF6qiT.jpg",
+        "credit_id": "6277a0ba713ea6328768b1a3",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4411,
+        "known_for_department": "Production",
+        "name": "Giuseppe Amato",
+        "original_name": "Giuseppe Amato",
+        "popularity": 0.1712,
+        "profile_path": "/cdInEb32KWsw2FHvUlApiyLeZmQ.jpg",
+        "credit_id": "6277a08b713ea632866a7ac5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606804,
+        "known_for_department": "Production",
+        "name": "Nino Misiano",
+        "original_name": "Nino Misiano",
+        "popularity": 0.1984,
+        "profile_path": null,
+        "credit_id": "62fe663f90cf51007a66dd30",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662132,
+        "known_for_department": "Sound",
+        "name": "Biagio Fiorelli",
+        "original_name": "Biagio Fiorelli",
+        "popularity": 0.1327,
+        "profile_path": null,
+        "credit_id": "61c9ba3f549dda004170389a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1567999,
+        "known_for_department": "Directing",
+        "name": "Luisa Alessandri",
+        "original_name": "Luisa Alessandri",
+        "popularity": 0.2029,
+        "profile_path": null,
+        "credit_id": "61c9ba7f07291c005f2318aa",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1125155,
+        "known_for_department": "Writing",
+        "name": "Gerardo Guerrieri",
+        "original_name": "Gerardo Guerrieri",
+        "popularity": 0.2149,
+        "profile_path": null,
+        "credit_id": "61c9ba7333ad8f0043a0e172",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1662025,
+        "known_for_department": "Writing",
+        "name": "Gherardo Gherardi",
+        "original_name": "Gherardo Gherardi",
+        "popularity": 0.28,
+        "profile_path": null,
+        "credit_id": "57a4d1d29251411b76004e8a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31854,
+        "known_for_department": "Camera",
+        "name": "Mario Montuori",
+        "original_name": "Mario Montuori",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "credit_id": "57a5184b9251411002001cd1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52248,
+        "known_for_department": "Directing",
+        "name": "Umberto Scarpelli",
+        "original_name": "Umberto Scarpelli",
+        "popularity": 0.1034,
+        "profile_path": null,
+        "credit_id": "57a5174fc3a3684917006e6a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1606805,
+        "known_for_department": "Sound",
+        "name": "Bruno Brunacci",
+        "original_name": "Bruno Brunacci",
+        "popularity": 0.1959,
+        "profile_path": null,
+        "credit_id": "63d9d9ac9512e1008f37d024",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544085,
+        "known_for_department": "Camera",
+        "name": "Carlo Montuori",
+        "original_name": "Carlo Montuori",
+        "popularity": 0.1711,
+        "profile_path": "/hEYQJrKfVyKel1M6wVCuUuwZPoC.jpg",
+        "credit_id": "5d062311c3a368489e2537d4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12330,
+        "known_for_department": "Writing",
+        "name": "Cesare Zavattini",
+        "original_name": "Cesare Zavattini",
+        "popularity": 0.7575,
+        "profile_path": "/Aw33b61PnxQLqZJ8vXT7IIRY3bW.jpg",
+        "credit_id": "5eebcf4cb0460500350aa0e2",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1538490,
+        "known_for_department": "Production",
+        "name": "Roberto Moretti",
+        "original_name": "Roberto Moretti",
+        "popularity": 0.1173,
+        "profile_path": null,
+        "credit_id": "5eebd098c5ada50032d5470c",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1531323,
+        "known_for_department": "Sound",
+        "name": "Willy Ferrero",
+        "original_name": "Willy Ferrero",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "5eebd29db0460500350aa503",
+        "department": "Sound",
+        "job": "Conductor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 588,
+        "name": "rome, italy"
+      },
+      {
+        "id": 924,
+        "name": "italian"
+      },
+      {
+        "id": 3679,
+        "name": "society"
+      },
+      {
+        "id": 3197,
+        "name": "riding a bicycle"
+      },
+      {
+        "id": 11112,
+        "name": "search"
+      },
+      {
+        "id": 5374,
+        "name": "poster"
+      },
+      {
+        "id": 9727,
+        "name": "thief"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 33612,
+        "name": "stolen bicycle"
+      },
+      {
+        "id": 33613,
+        "name": "madame"
+      },
+      {
+        "id": 156052,
+        "name": "unemployment"
+      },
+      {
+        "id": 158651,
+        "name": "realism"
+      },
+      {
+        "id": 208408,
+        "name": "neo realism"
+      },
+      {
+        "id": 252193,
+        "name": "italian neo realism"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1953-07-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1950-11-03T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2006-04-28T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1948-07-21T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Locarno Film Festival",
+            "release_date": "1949-07-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1951-08-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1950-12-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "1950-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1952-02-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1949-08-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1949-12-12T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DVD",
+            "release_date": "2010-04-12T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2020-08-24T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Issue",
+            "release_date": "2024-07-11T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Re-Issue",
+            "release_date": "2013-07-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1951-02-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rome",
+            "release_date": "1948-11-21T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "T",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1948-11-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "JP",
+        "release_dates": [
+          {
+            "certification": "G",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1950-09-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "디지털 리마스터링",
+            "release_date": "2023-04-26T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "",
+            "release_date": "1948-07-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nederland 2",
+            "release_date": "2008-07-06T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lisbon",
+            "release_date": "1950-11-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1950-05-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kino distributed",
+            "release_date": "1999-01-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1949-12-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cape Town",
+            "release_date": "1950-07-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Durban",
+            "release_date": "1950-07-21T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Johannesburg",
+            "release_date": "1950-06-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

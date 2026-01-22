@@ -1,0 +1,602 @@
+{
+  "adult": false,
+  "backdrop_path": "/wqMARH2Ij9tvNpwp9z0gmo8zbOI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 16,
+      "name": "Animação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 35,
+      "name": "Comédia"
+    }
+  ],
+  "homepage": "",
+  "id": 1276521,
+  "imdb_id": "tt29612071",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Charlie the Wonderdog",
+  "overview": "",
+  "popularity": 8.602,
+  "poster_path": "/whvkL0wzxgKmVbaPontq9NlVd5z.jpg",
+  "production_companies": [
+    {
+      "id": 79543,
+      "logo_path": "/xxQesITWRfZ0rETKHJ13WfD5AEn.png",
+      "name": "ICON Creative Studio",
+      "origin_country": "CA"
+    },
+    {
+      "id": 218981,
+      "logo_path": null,
+      "name": "Centurion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 261832,
+      "logo_path": null,
+      "name": "Global Constellation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-10-24",
+  "revenue": 609503,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Charlie the Wonderdog",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 887,
+        "known_for_department": "Acting",
+        "name": "Owen Wilson",
+        "original_name": "Owen Wilson",
+        "popularity": 3.7815,
+        "profile_path": "/lFxHIlcywMlYpe6wkW39sfBrqag.jpg",
+        "cast_id": 8,
+        "character": "Charlie (voice)",
+        "credit_id": "68302d678928f411f4eb22e9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2989137,
+        "known_for_department": "Acting",
+        "name": "Dawson Littman",
+        "original_name": "Dawson Littman",
+        "popularity": 0.1017,
+        "profile_path": "/avLobOwBeNUdwIFSi9bo5cEyMS9.jpg",
+        "cast_id": 16,
+        "character": "Danny (voice)",
+        "credit_id": "68302e52dc74bba1a6036422",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74360,
+        "known_for_department": "Acting",
+        "name": "Tabitha St. Germain",
+        "original_name": "Tabitha St. Germain",
+        "popularity": 0.9514,
+        "profile_path": "/ljFeqt5uanRHqKTuMumd0iMW69b.jpg",
+        "cast_id": 9,
+        "character": "President Rose (voice)",
+        "credit_id": "68302d964ff8cd0fc772eee0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1975740,
+        "known_for_department": "Acting",
+        "name": "Sebastian Billingsley-Rodriguez",
+        "original_name": "Sebastian Billingsley-Rodriguez",
+        "popularity": 0.4327,
+        "profile_path": "/xhPHlfkz0RgoUGDfMpvz2SCYMlf.jpg",
+        "cast_id": 10,
+        "character": "Alien Prince (voice)",
+        "credit_id": "68302daf943458cb8db6a768",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1530746,
+        "known_for_department": "Acting",
+        "name": "Rhona Rees",
+        "original_name": "Rhona Rees",
+        "popularity": 0.4177,
+        "profile_path": "/6TBwRGBvWySSAWGHYQRzpQX4emI.jpg",
+        "cast_id": 21,
+        "character": "Alien Queen (voice)",
+        "credit_id": "696bd64121a87fbe81dcac63",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1569755,
+        "known_for_department": "Acting",
+        "name": "Anthony Bolognese",
+        "original_name": "Anthony Bolognese",
+        "popularity": 0.4272,
+        "profile_path": "/hU8imx5NXYfX5lilY3cB0h3iSlf.jpg",
+        "cast_id": 11,
+        "character": "Jacob (voice)",
+        "credit_id": "68302dce6368702a21b6a6cb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 219894,
+        "known_for_department": "Acting",
+        "name": "Caitlynne Medrek",
+        "original_name": "Caitlynne Medrek",
+        "popularity": 0.2369,
+        "profile_path": "/6Br3wKMAkMvsYMcezFYvAsjxDTm.jpg",
+        "cast_id": 22,
+        "character": "Kitten (voice)",
+        "credit_id": "696bd677962775e541aaa32d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1397009,
+        "known_for_department": "Acting",
+        "name": "Emily Delahunty",
+        "original_name": "Emily Delahunty",
+        "popularity": 0.3984,
+        "profile_path": "/31GdDbM0enaLVzGxFCVtWhc3SZE.jpg",
+        "cast_id": 23,
+        "character": "Emma (voice)",
+        "credit_id": "696bd68b962775e541aaa336",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1809690,
+        "known_for_department": "Acting",
+        "name": "Ruairi MacDonald",
+        "original_name": "Ruairi MacDonald",
+        "popularity": 0.1857,
+        "profile_path": "/uYxi9K2n9HTM0oKBvyjvL6H2Mp7.jpg",
+        "cast_id": 13,
+        "character": "Puddy (voice)",
+        "credit_id": "68302e0aedb3e846e54133db",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4392854,
+        "known_for_department": "Acting",
+        "name": "Mela Pietropaolo",
+        "original_name": "Mela Pietropaolo",
+        "popularity": 0.1854,
+        "profile_path": "/91rsRcg5xy7NflgtDQqAaffLJ6C.jpg",
+        "cast_id": 14,
+        "character": "Madison (voice)",
+        "credit_id": "68302e1e184eb7fe46a85dda",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1475772,
+        "known_for_department": "Acting",
+        "name": "Lindsay Gibson",
+        "original_name": "Lindsay Gibson",
+        "popularity": 0.2479,
+        "profile_path": "/lRQf8QbhaMaZMR6Hfpf6Rs5zZAP.jpg",
+        "cast_id": 12,
+        "character": "Judge Gruff (voice)",
+        "credit_id": "68302df294282ee2e4836e9e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2900375,
+        "known_for_department": "Production",
+        "name": "Jenn Rogan",
+        "original_name": "Jenn Rogan",
+        "popularity": 0.2133,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Sam (voice)",
+        "credit_id": "696bd6c5404f36f5f8dcac92",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5456567,
+        "known_for_department": "Acting",
+        "name": "Zac Bennett-McPhee",
+        "original_name": "Zac Bennett-McPhee",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Otis (voice)",
+        "credit_id": "68302e3b1ce59bcc97b6a7c4",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570267,
+        "known_for_department": "Production",
+        "name": "Shea Wageman",
+        "original_name": "Shea Wageman",
+        "popularity": 0.2244,
+        "profile_path": null,
+        "credit_id": "6621af180231f20163118157",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2290801,
+        "known_for_department": "Production",
+        "name": "Carson Loveday",
+        "original_name": "Carson Loveday",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6621af31e4c9eb0163f56f59",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 176148,
+        "known_for_department": "Directing",
+        "name": "Steve Ball",
+        "original_name": "Steve Ball",
+        "popularity": 0.219,
+        "profile_path": null,
+        "credit_id": "6621aef3e4c9eb017cf60f28",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2900375,
+        "known_for_department": "Production",
+        "name": "Jenn Rogan",
+        "original_name": "Jenn Rogan",
+        "popularity": 0.2133,
+        "profile_path": null,
+        "credit_id": "6621af3fe640d60163c30926",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570267,
+        "known_for_department": "Production",
+        "name": "Shea Wageman",
+        "original_name": "Shea Wageman",
+        "popularity": 0.2244,
+        "profile_path": null,
+        "credit_id": "6621af230231f2017c122d38",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570267,
+        "known_for_department": "Production",
+        "name": "Shea Wageman",
+        "original_name": "Shea Wageman",
+        "popularity": 0.2244,
+        "profile_path": null,
+        "credit_id": "686df65add25edf633703947",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 570267,
+        "known_for_department": "Production",
+        "name": "Shea Wageman",
+        "original_name": "Shea Wageman",
+        "popularity": 0.2244,
+        "profile_path": null,
+        "credit_id": "686df6982d2399db8c5409cb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3932064,
+        "known_for_department": "Sound",
+        "name": "Petteri Sainio",
+        "original_name": "Petteri Sainio",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "credit_id": "686df6b6851c557619540c85",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56683,
+        "known_for_department": "Acting",
+        "name": "Bryan Adams",
+        "original_name": "Bryan Adams",
+        "popularity": 0.6639,
+        "profile_path": "/dBS0vhq0BdcAryV5NqoXIEqs5v.jpg",
+        "credit_id": "686df7598de47e8a7e703971",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 15162,
+        "name": "dog"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "QA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ZA",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

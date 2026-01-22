@@ -1,0 +1,599 @@
+{
+  "adult": false,
+  "backdrop_path": "/sn5dvn1g977bejLHGyMUlXeEXn7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentário"
+    }
+  ],
+  "homepage": "",
+  "id": 42733,
+  "imdb_id": "tt0057960",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Comizi d'amore",
+  "overview": "Pier Paolo Pasolini viajou por toda a Itália, de fábricas a praias, entrevistando transeuntes sobre suas atitudes em relação ao sexo. Com o microfone em mão, ele os questiona sobre diversos tópicos: a importância do sexo na vida cotidiana, prostituição, homossexualidade, a legalização do divórcio.",
+  "popularity": 2.191,
+  "poster_path": "/m0eLHqckX5k61j5ddA7rvYE6DQ2.jpg",
+  "production_companies": [
+    {
+      "id": 4498,
+      "logo_path": null,
+      "name": "Arco Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1965-07-05",
+  "revenue": 2248,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Comícios de Amor",
+  "video": false,
+  "vote_average": 8.26,
+  "vote_count": 287,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5970,
+        "known_for_department": "Directing",
+        "name": "Pier Paolo Pasolini",
+        "original_name": "Pier Paolo Pasolini",
+        "popularity": 4.2586,
+        "profile_path": "/AdUQ0eBR9xWKh7f7KAN7yiHamAr.jpg",
+        "cast_id": 7,
+        "character": "Self - Interviewer (uncredited)",
+        "credit_id": "5902e0b29251413e3b006453",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 235564,
+        "known_for_department": "Acting",
+        "name": "Lello Bersani",
+        "original_name": "Lello Bersani",
+        "popularity": 0.1166,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Narrator (voice)",
+        "credit_id": "5fca6c3443999b003b17c518",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3780,
+        "known_for_department": "Writing",
+        "name": "Alberto Moravia",
+        "original_name": "Alberto Moravia",
+        "popularity": 0.3386,
+        "profile_path": "/fcve5GrHVl1FQjck2CRFw65E348.jpg",
+        "cast_id": 8,
+        "character": "Self - Writer",
+        "credit_id": "5902e0c6c3a36828b8005b41",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2881306,
+        "known_for_department": "Acting",
+        "name": "Cesare Musatti",
+        "original_name": "Cesare Musatti",
+        "popularity": 0.0542,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self - Psychoanalyst",
+        "credit_id": "5fca6c18d8e22500409140a7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48872,
+        "known_for_department": "Acting",
+        "name": "Peppino Di Capri",
+        "original_name": "Peppino Di Capri",
+        "popularity": 0.2614,
+        "profile_path": "/polInx3JZYnG7bHUWV04MsIqQfQ.jpg",
+        "cast_id": 25,
+        "character": "Self - Singer",
+        "credit_id": "5fca6e0041aac4003f727ea3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3508545,
+        "known_for_department": "Acting",
+        "name": "Ezio Pascutti",
+        "original_name": "Ezio Pascutti",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self - Football Player",
+        "credit_id": "625a065a69eb900066ca3ee8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3508546,
+        "known_for_department": "Acting",
+        "name": "William Negri",
+        "original_name": "William Negri",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Self - Football Player",
+        "credit_id": "625a06663acd201628a1e4d6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3508547,
+        "known_for_department": "Acting",
+        "name": "Carlo Furlanis",
+        "original_name": "Carlo Furlanis",
+        "popularity": 0.0418,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self - Football Player",
+        "credit_id": "625a0672c8a2d4005031104c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2868520,
+        "known_for_department": "Acting",
+        "name": "Giuseppe Ungaretti",
+        "original_name": "Giuseppe Ungaretti",
+        "popularity": 0.08,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self - Poet",
+        "credit_id": "5fbd1937323eba003dfa9513",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3508548,
+        "known_for_department": "Acting",
+        "name": "Camilla Cederna",
+        "original_name": "Camilla Cederna",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Self - Writer",
+        "credit_id": "625a068d5f2db1005084fff7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1174426,
+        "known_for_department": "Writing",
+        "name": "Oriana Fallaci",
+        "original_name": "Oriana Fallaci",
+        "popularity": 0.1053,
+        "profile_path": "/j9C30lxPrNJTZErM6aSck7mc6OC.jpg",
+        "cast_id": 23,
+        "character": "Self - Journalist",
+        "credit_id": "5fca6dbe7314a10041c9dfca",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1885257,
+        "known_for_department": "Acting",
+        "name": "Adele Cambria",
+        "original_name": "Adele Cambria",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self - Journalist",
+        "credit_id": "5fca6de3383df2003e58f58a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 133051,
+        "known_for_department": "Acting",
+        "name": "Antonella Lualdi",
+        "original_name": "Antonella Lualdi",
+        "popularity": 0.5737,
+        "profile_path": "/nQXbIhWX5m7TxAaaOLeLRhkJ8JN.jpg",
+        "cast_id": 26,
+        "character": "Self - Actress",
+        "credit_id": "5fca6e148261ee00413ecc68",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2509570,
+        "known_for_department": "Crew",
+        "name": "Ignazio Buttitta",
+        "original_name": "Ignazio Buttitta",
+        "popularity": 0.0268,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Self - Poet",
+        "credit_id": "625a06bc69eb90009ba91a8e",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1042185,
+        "known_for_department": "Acting",
+        "name": "Io Appolloni",
+        "original_name": "Io Appolloni",
+        "popularity": 0.1964,
+        "profile_path": "/2nuMAoB0sZyD7irwFEl4OezOld5.jpg",
+        "cast_id": 37,
+        "character": "Self - Girl at Lido with Swimming Cap (uncredited)",
+        "credit_id": "625a06d8d236e600a6cec313",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3217731,
+        "known_for_department": "Acting",
+        "name": "Graziella Chiarcossi",
+        "original_name": "Graziella Chiarcossi",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Graziella the Bride (uncredited)",
+        "credit_id": "625a06e869eb90009ba91b71",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73623,
+        "known_for_department": "Acting",
+        "name": "Graziella Granata",
+        "original_name": "Graziella Granata",
+        "popularity": 0.407,
+        "profile_path": "/77tEcnj7mu22lWCxiKVu9ygC7vB.jpg",
+        "cast_id": 27,
+        "character": "Self - Girl at Lido with Long Hair (uncredited)",
+        "credit_id": "5fca6e2d394a870042d54eec",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5970,
+        "known_for_department": "Directing",
+        "name": "Pier Paolo Pasolini",
+        "original_name": "Pier Paolo Pasolini",
+        "popularity": 4.2586,
+        "profile_path": "/AdUQ0eBR9xWKh7f7KAN7yiHamAr.jpg",
+        "credit_id": "52fe4615c3a36847f80ebde7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1335670,
+        "known_for_department": "Production",
+        "name": "Eliseo Boschi",
+        "original_name": "Eliseo Boschi",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "61c87400f5f1c5008f4cce35",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2508159,
+        "known_for_department": "Editing",
+        "name": "Andreina Casini",
+        "original_name": "Andreina Casini",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "61c8741fb6c26400610994d2",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2464586,
+        "known_for_department": "Camera",
+        "name": "Alessandro Ruzzolini",
+        "original_name": "Alessandro Ruzzolini",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "61c8747dbb1057001ac37e2b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72478,
+        "known_for_department": "Production",
+        "name": "Alfredo Bini",
+        "original_name": "Alfredo Bini",
+        "popularity": 0.132,
+        "profile_path": "/1FBfJsD2uDIvOnGiVofcrFB9Pe4.jpg",
+        "credit_id": "5902e054c3a36828660059e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4670,
+        "known_for_department": "Editing",
+        "name": "Nino Baragli",
+        "original_name": "Nino Baragli",
+        "popularity": 0.3561,
+        "profile_path": "/2iWNZkKmuo17q4QCI8TMhGPD7PA.jpg",
+        "credit_id": "5902e0649251413e2c006474",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 14274,
+        "known_for_department": "Sound",
+        "name": "Oscar De Arcangelis",
+        "original_name": "Oscar De Arcangelis",
+        "popularity": 0.0918,
+        "profile_path": null,
+        "credit_id": "5a7c6a499251414b1f00fb38",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1974584,
+        "known_for_department": "Sound",
+        "name": "Carlo Ramundo",
+        "original_name": "Carlo Ramundo",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5a7c6a569251414b2200fff5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1515343,
+        "known_for_department": "Camera",
+        "name": "Mario Bernardo",
+        "original_name": "Mario Bernardo",
+        "popularity": 0.1704,
+        "profile_path": null,
+        "credit_id": "5ecd5a3fe2bca800208bb4e0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2361,
+        "known_for_department": "Camera",
+        "name": "Tonino Delli Colli",
+        "original_name": "Tonino Delli Colli",
+        "popularity": 0.3075,
+        "profile_path": "/sgr90whx93wMsLqRTFUzETI3Z8U.jpg",
+        "credit_id": "5ecd5a461da7a6001ccfe2d3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 32663,
+        "known_for_department": "Camera",
+        "name": "Vittorio Bernini",
+        "original_name": "Vittorio Bernini",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "5fca6a85680be8003d18d596",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91793,
+        "known_for_department": "Camera",
+        "name": "Franco Delli Colli",
+        "original_name": "Franco Delli Colli",
+        "popularity": 0.1827,
+        "profile_path": null,
+        "credit_id": "5fca6a93dcf875004140a92f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1208456,
+        "known_for_department": "Camera",
+        "name": "Cesare Fontana",
+        "original_name": "Cesare Fontana",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "5fca6ab5a5743d004103b98e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2881299,
+        "known_for_department": "Camera",
+        "name": "Francesco Cappelli",
+        "original_name": "Francesco Cappelli",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "5fca6b69680be8003f1977cb",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5819,
+        "known_for_department": "Camera",
+        "name": "Angelo Novi",
+        "original_name": "Angelo Novi",
+        "popularity": 0.19,
+        "profile_path": null,
+        "credit_id": "5ff47ee764765400405eb392",
+        "department": "Camera",
+        "job": "Still Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 924,
+        "name": "italian"
+      },
+      {
+        "id": 1463,
+        "name": "culture clash"
+      },
+      {
+        "id": 1411,
+        "name": "brothel"
+      },
+      {
+        "id": 3311,
+        "name": "economic miracle"
+      },
+      {
+        "id": 4411,
+        "name": "sexism"
+      },
+      {
+        "id": 4690,
+        "name": "moral conflict"
+      },
+      {
+        "id": 11011,
+        "name": "morality"
+      },
+      {
+        "id": 33625,
+        "name": "illegal prostitution"
+      },
+      {
+        "id": 189464,
+        "name": "exploring sexuality"
+      },
+      {
+        "id": 208445,
+        "name": "virginity"
+      },
+      {
+        "id": 208992,
+        "name": "1960s"
+      },
+      {
+        "id": 212023,
+        "name": "forbidden sexuality"
+      },
+      {
+        "id": 220487,
+        "name": "rich vs poor"
+      },
+      {
+        "id": 226594,
+        "name": "investigative reporter"
+      },
+      {
+        "id": 262911,
+        "name": "economic boom"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Locarno Film Festival",
+            "release_date": "1964-07-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "1982-07-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "VM18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Turin",
+            "release_date": "1965-07-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  }
+}

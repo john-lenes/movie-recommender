@@ -1,0 +1,1142 @@
+{
+  "adult": false,
+  "backdrop_path": "/iVhkaPUv0bFEjSxjxAPuxoMLQtz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comédia"
+    },
+    {
+      "id": 27,
+      "name": "Terror"
+    }
+  ],
+  "homepage": "https://imovision.com.br/queens-of-the-dead",
+  "id": 1318435,
+  "imdb_id": "tt32986431",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Queens of the Dead",
+  "overview": "Um grupo de drag queens e club kids precisam superar suas rivalidades e conflitos pessoais para sobreviver a um surto zumbi que eclode durante uma festa de armazém no Brooklyn.",
+  "popularity": 6.1912,
+  "poster_path": "/mY8JqSMBSiXZh9EbGqUjpF6aacu.jpg",
+  "production_companies": [
+    {
+      "id": 46453,
+      "logo_path": "/pftS6dWlYOqNKRHektMx3UiwOgS.png",
+      "name": "Vanishing Angle",
+      "origin_country": "US"
+    },
+    {
+      "id": 31787,
+      "logo_path": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+      "name": "Creativity Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 79822,
+      "logo_path": null,
+      "name": "Flexibon Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 185675,
+      "logo_path": null,
+      "name": "Helmstreet Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-10-24",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Queens of the Dead",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2252989,
+        "known_for_department": "Acting",
+        "name": "Katy O'Brian",
+        "original_name": "Katy O'Brian",
+        "popularity": 3.3299,
+        "profile_path": "/lEz7WmJPrBGSsIkEiAA10t5nDDM.jpg",
+        "cast_id": 1,
+        "character": "Dre",
+        "credit_id": "6699444554a56457d5aac61c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3823459,
+        "known_for_department": "Acting",
+        "name": "Jaquel Spivey",
+        "original_name": "Jaquel Spivey",
+        "popularity": 0.1287,
+        "profile_path": "/4OAsyotDNmYeFylwwBEX8YMuhHu.jpg",
+        "cast_id": 9,
+        "character": "Sam",
+        "credit_id": "6699450ea44e8a259b754da1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2631149,
+        "known_for_department": "Acting",
+        "name": "Nina West",
+        "original_name": "Nina West",
+        "popularity": 0.2094,
+        "profile_path": "/qz6g7CBhDhZuOmhdE9bIkq9OfAa.jpg",
+        "cast_id": 8,
+        "character": "Ginsey",
+        "credit_id": "669945045e339ee6feaac627",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2739748,
+        "known_for_department": "Acting",
+        "name": "Tómas Matos",
+        "original_name": "Tómas Matos",
+        "popularity": 0.325,
+        "profile_path": "/gA73GEOwCBXKH31AfSlqxfJMefN.jpg",
+        "cast_id": 10,
+        "character": "Nico",
+        "credit_id": "669945195e339ee6feaac62d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11152,
+        "known_for_department": "Acting",
+        "name": "Margaret Cho",
+        "original_name": "Margaret Cho",
+        "popularity": 0.9672,
+        "profile_path": "/lsHpa4aRrBMn7LtFX8AdPTFBMGY.jpg",
+        "cast_id": 2,
+        "character": "Pops",
+        "credit_id": "6699444d83d5d37c8f539123",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1637781,
+        "known_for_department": "Acting",
+        "name": "Jack Haven",
+        "original_name": "Jack Haven",
+        "popularity": 1.1424,
+        "profile_path": "/gnf88fDvg0FI9lbWvcNsdA9NBDH.jpg",
+        "cast_id": 3,
+        "character": "Kelsey",
+        "credit_id": "66994456dbae66458ef45a99",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220768,
+        "known_for_department": "Acting",
+        "name": "Quincy Dunn-Baker",
+        "original_name": "Quincy Dunn-Baker",
+        "popularity": 0.329,
+        "profile_path": "/yTEbPv0WGGQRXCFjnphuRrCXUvv.jpg",
+        "cast_id": 11,
+        "character": "Barry",
+        "credit_id": "66994559c8bc45368d2016d1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212828,
+        "known_for_department": "Acting",
+        "name": "Cheyenne Jackson",
+        "original_name": "Cheyenne Jackson",
+        "popularity": 0.9428,
+        "profile_path": "/o1yZF6R450iIpl4kZK0YEgm3mCj.jpg",
+        "cast_id": 4,
+        "character": "Jimmy",
+        "credit_id": "6699445f639f3be11703d6a8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 453,
+        "known_for_department": "Acting",
+        "name": "Riki Lindhome",
+        "original_name": "Riki Lindhome",
+        "popularity": 1.6926,
+        "profile_path": "/kJAGFp0ZW5sY0NoysFZcfSRykZa.jpg",
+        "cast_id": 15,
+        "character": "Lizzy",
+        "credit_id": "6699458dc769949cf92aa5e2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2059621,
+        "known_for_department": "Acting",
+        "name": "Dominique Jackson",
+        "original_name": "Dominique Jackson",
+        "popularity": 0.3793,
+        "profile_path": "/zNrlS4w7Zn99EKV5rZIxBPp6qhd.jpg",
+        "cast_id": 14,
+        "character": "Yasmine",
+        "credit_id": "66994584c8bc45368d2016da",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1787399,
+        "known_for_department": "Acting",
+        "name": "Shaunette Renée Wilson",
+        "original_name": "Shaunette Renée Wilson",
+        "popularity": 0.7675,
+        "profile_path": "/fPjeTxxE2sB0bQUcAoO13mKsKK5.jpg",
+        "cast_id": 13,
+        "character": "Tiger",
+        "credit_id": "66994577e1cf704271277e32",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1725576,
+        "known_for_department": "Acting",
+        "name": "Becca Blackwell",
+        "original_name": "Becca Blackwell",
+        "popularity": 0.4719,
+        "profile_path": "/uieDJ7TSYgAZsXdUH4ZR5kzUaKW.jpg",
+        "cast_id": 12,
+        "character": "Twiz",
+        "credit_id": "66994563e1cf704271277e2d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1538801,
+        "known_for_department": "Acting",
+        "name": "Eve Lindley",
+        "original_name": "Eve Lindley",
+        "popularity": 0.8859,
+        "profile_path": "/44JHeA9pJemiKFO5gbaxs7DSQDZ.jpg",
+        "cast_id": 16,
+        "character": "Jane",
+        "credit_id": "6699459499fa60a5812aa5db",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11161,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tom Savini",
+        "original_name": "Tom Savini",
+        "popularity": 1.0921,
+        "profile_path": "/zBYnzxzlAIEoanEU00bGYJmRS6k.jpg",
+        "cast_id": 27,
+        "character": "Mayor",
+        "credit_id": "68359a1b3b0730c63ea87655",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 111923,
+        "known_for_department": "Acting",
+        "name": "Karan Brar",
+        "original_name": "Karan Brar",
+        "popularity": 1.5957,
+        "profile_path": "/iaFqMqxRvT36cr8gSd3ivLBIo2S.jpg",
+        "cast_id": 24,
+        "character": "Officer Trayvis",
+        "credit_id": "67c815e6d7419cdfd86e2997",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719112,
+        "known_for_department": "Acting",
+        "name": "Brian Morabito",
+        "original_name": "Brian Morabito",
+        "popularity": 0.0569,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Brian The Cop",
+        "credit_id": "67c815eb9264aa58666e2dc1",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1547515,
+        "known_for_department": "Acting",
+        "name": "Bryan Burton",
+        "original_name": "Bryan Burton",
+        "popularity": 0.4955,
+        "profile_path": "/1eogCBrIVJ6ScKvEAFBfUTNZvA.jpg",
+        "cast_id": 39,
+        "character": "Officer Brandt",
+        "credit_id": "690cf8a7deace3fca7ce7858",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3696184,
+        "known_for_department": "Acting",
+        "name": "Sarah Coffey",
+        "original_name": "Sarah Coffey",
+        "popularity": 0.1699,
+        "profile_path": "/8scuniRFcpHVDKmxGdxY0urrsAp.jpg",
+        "cast_id": 19,
+        "character": "Misty",
+        "credit_id": "66ba45d2c71f2fe93a6c5101",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2101425,
+        "known_for_department": "Acting",
+        "name": "Kimball Farley",
+        "original_name": "Kimball Farley",
+        "popularity": 0.2961,
+        "profile_path": "/fNkXD7QRu2oRjc00U8Oxp1Ulp7H.jpg",
+        "cast_id": 20,
+        "character": "Turtleneck",
+        "credit_id": "66ba45d9d070836704decccc",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4120887,
+        "known_for_department": "Acting",
+        "name": "Samora la Perdida",
+        "original_name": "Samora la Perdida",
+        "popularity": 0.0597,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Jax",
+        "credit_id": "690cf844d60b32fd17c04ced",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5800775,
+        "known_for_department": "Acting",
+        "name": "Julie J.",
+        "original_name": "Julie J.",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "ZombiQueen",
+        "credit_id": "690cf82460206ee4fc3a82aa",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5800784,
+        "known_for_department": "Acting",
+        "name": "Mandy Simpson",
+        "original_name": "Mandy Simpson",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Summer",
+        "credit_id": "690cf8e1ea3b47df3c4c6ec9",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1842927,
+        "known_for_department": "Acting",
+        "name": "John Michael Lyles",
+        "original_name": "John Michael Lyles",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Go Go Boy",
+        "credit_id": "690cf8beb4af3b17dd385393",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15072,
+        "known_for_department": "Acting",
+        "name": "Gaylen Ross",
+        "original_name": "Gaylen Ross",
+        "popularity": 0.489,
+        "profile_path": "/dXbBUu3QsmBHEzpxR6yiI9isRsl.jpg",
+        "cast_id": 42,
+        "character": "Stern Doctor",
+        "credit_id": "690cf8fda07ed93f07dd0e97",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1766268,
+        "known_for_department": "Acting",
+        "name": "Ahmad Maksoud",
+        "original_name": "Ahmad Maksoud",
+        "popularity": 0.2336,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Skinz Date Zombie",
+        "credit_id": "690cf9169002d0bc063a8279",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5800794,
+        "known_for_department": "Acting",
+        "name": "Danielle Vasinova",
+        "original_name": "Danielle Vasinova",
+        "popularity": 0.1165,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Jill Cardill",
+        "credit_id": "690cf975a04bfc56e49aafed",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2048776,
+        "known_for_department": "Acting",
+        "name": "Aden Hakimi",
+        "original_name": "Aden Hakimi",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Paulie Benedetto",
+        "credit_id": "690cf9a889f199e787385345",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2677076,
+        "known_for_department": "Acting",
+        "name": "Kolton Krouse",
+        "original_name": "Kolton Krouse",
+        "popularity": 0.0487,
+        "profile_path": "/9MK08ariMA3UEsYpzp5dGGm9TE0.jpg",
+        "cast_id": 44,
+        "character": "Partygoer 2",
+        "credit_id": "690cf94e3330221fc43a825d",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2902440,
+        "known_for_department": "Crew",
+        "name": "Emely Cartagena",
+        "original_name": "Emely Cartagena",
+        "popularity": 0.3373,
+        "profile_path": "/m9dmOFQgVowBvCI9qSNyIw7u0jj.jpg",
+        "cast_id": 29,
+        "character": "Partygoer 3 (uncredited)",
+        "credit_id": "68e7855bbf509554644a9569",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2154033,
+        "known_for_department": "Crew",
+        "name": "Warren E. Hull",
+        "original_name": "Warren E. Hull",
+        "popularity": 0.2435,
+        "profile_path": "/w3N0yyPy720juVTKFPRoescMKv5.jpg",
+        "cast_id": 30,
+        "character": "Undead Pink Jumpsuit (uncredited)",
+        "credit_id": "68e78566ce48270ee4b7aac6",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3979287,
+        "known_for_department": "Crew",
+        "name": "Taylor Valentine Lupini",
+        "original_name": "Taylor Valentine Lupini",
+        "popularity": 0.1043,
+        "profile_path": "/pyBl3OUxzMrggYyPm0sEUgHwGiq.jpg",
+        "cast_id": 31,
+        "character": "Officer Zombie 1 (uncredited)",
+        "credit_id": "68e785729f790d8be8aa142f",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1827844,
+        "known_for_department": "Crew",
+        "name": "Jason Mello",
+        "original_name": "Jason Mello",
+        "popularity": 0.1826,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Officer Zombie 2 (uncredited)",
+        "credit_id": "68e785905a23d12126d84d5c",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3396606,
+        "known_for_department": "Acting",
+        "name": "Quentin Nguyen-Duy",
+        "original_name": "Quentin Nguyen-Duy",
+        "popularity": 0.2907,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Turtleneck (uncredited)",
+        "credit_id": "68e785a2b2614f449e41dd88",
+        "order": 32
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2977178,
+        "known_for_department": "Acting",
+        "name": "Tina Romero",
+        "original_name": "Tina Romero",
+        "popularity": 0.1337,
+        "profile_path": "/ytvEFq8MIt5zr9L6EKIxNqgRsTP.jpg",
+        "credit_id": "669944c3de290a91b803d68f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4836727,
+        "known_for_department": "Writing",
+        "name": "Erin Judge",
+        "original_name": "Erin Judge",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "669944dd38675b5c934a6e0c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2977178,
+        "known_for_department": "Acting",
+        "name": "Tina Romero",
+        "original_name": "Tina Romero",
+        "popularity": 0.1337,
+        "profile_path": "/ytvEFq8MIt5zr9L6EKIxNqgRsTP.jpg",
+        "credit_id": "669944e749d2e344151a48f2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1718782,
+        "known_for_department": "Production",
+        "name": "Natalie Metzger",
+        "original_name": "Natalie Metzger",
+        "popularity": 0.1086,
+        "profile_path": null,
+        "credit_id": "6699c9b833db55d2e54b91e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1579192,
+        "known_for_department": "Production",
+        "name": "Matt Miller",
+        "original_name": "Matt Miller",
+        "popularity": 0.359,
+        "profile_path": "/vPcPZAutZuQzb3lkjWBcpM0zNmb.jpg",
+        "credit_id": "67064509597c126f07ddac9e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2610419,
+        "known_for_department": "Camera",
+        "name": "Shannon Madden",
+        "original_name": "Shannon Madden",
+        "popularity": 0.1793,
+        "profile_path": null,
+        "credit_id": "67064524dc54f29d0eab5651",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1427960,
+        "known_for_department": "Production",
+        "name": "Allison Twardziak",
+        "original_name": "Allison Twardziak",
+        "popularity": 0.062,
+        "profile_path": "/n92Km2pQTjzHIehutCBO0z2q0xG.jpg",
+        "credit_id": "67064530dc54f29d0eab5656",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4049388,
+        "known_for_department": "Sound",
+        "name": "Martin Macphail",
+        "original_name": "Martin Macphail",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "690cf7acd60b32fd17c04ce4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4049391,
+        "known_for_department": "Sound",
+        "name": "Dean Rode",
+        "original_name": "Dean Rode",
+        "popularity": 0.0795,
+        "profile_path": null,
+        "credit_id": "690cf7bbea3b47df3c4c6eaa",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4049392,
+        "known_for_department": "Sound",
+        "name": "Tristan Tarr",
+        "original_name": "Tristan Tarr",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "credit_id": "690cf7c83c6c3c652c4c6f0e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2592345,
+        "known_for_department": "Editing",
+        "name": "Aden Hakimi",
+        "original_name": "Aden Hakimi",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "6914d081ae981ceb3f9ad02f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 983884,
+        "known_for_department": "Costume & Make-Up",
+        "name": "David Tabbert",
+        "original_name": "David Tabbert",
+        "popularity": 0.1272,
+        "profile_path": null,
+        "credit_id": "6914d097600d16f5aedd355f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3146909,
+        "known_for_department": "Art",
+        "name": "Holly Trotta",
+        "original_name": "Holly Trotta",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6914d0a334eec9d9e7dd2fe4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316001,
+        "known_for_department": "Production",
+        "name": "Patrick Fischer",
+        "original_name": "Patrick Fischer",
+        "popularity": 0.125,
+        "profile_path": null,
+        "credit_id": "6914d0b88cb95fd9eaac209e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2508454,
+        "known_for_department": "Production",
+        "name": "Jonathan Feuer",
+        "original_name": "Jonathan Feuer",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "6914d0c39e0edb599f8761bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 428,
+        "name": "nurse"
+      },
+      {
+        "id": 824,
+        "name": "drag queen"
+      },
+      {
+        "id": 9833,
+        "name": "lesbian relationship"
+      },
+      {
+        "id": 11612,
+        "name": "hospital"
+      },
+      {
+        "id": 34130,
+        "name": "makeover"
+      },
+      {
+        "id": 41523,
+        "name": "brooklyn, new york city"
+      },
+      {
+        "id": 157892,
+        "name": "warehouse"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 186565,
+        "name": "zombie apocalypse"
+      },
+      {
+        "id": 211775,
+        "name": "frenemies"
+      },
+      {
+        "id": 224309,
+        "name": "drag show"
+      },
+      {
+        "id": 290527,
+        "name": "transgender"
+      },
+      {
+        "id": 319397,
+        "name": "witty"
+      },
+      {
+        "id": 325778,
+        "name": "bold"
+      },
+      {
+        "id": 339530,
+        "name": "club kid"
+      },
+      {
+        "id": 352581,
+        "name": "comedy horror"
+      },
+      {
+        "id": 364488,
+        "name": "zombie comedy"
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sydney Underground Film Festival",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Adelaide's LGBTQIA+ Arts and Culture Festival",
+            "release_date": "2025-10-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne Queer Film Festival ",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Brisbane International Film Festival ",
+            "release_date": "2025-11-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mardi Gras Film Festival",
+            "release_date": "2026-02-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rio de Janeiro International Film Festival",
+            "release_date": "2025-10-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasia International Film Festival",
+            "release_date": "2025-08-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Calgary International Film Festival",
+            "release_date": "2025-09-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto After Dark Film Festival",
+            "release_date": "2025-10-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mezipatra Queer Film Festival",
+            "release_date": "2025-11-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Abertoir Horror Festival",
+            "release_date": "2025-11-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Thessaloniki International Film Festival",
+            "release_date": "2025-11-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jakarta Film Week ",
+            "release_date": "2025-10-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Reykjavik International Film Festival",
+            "release_date": "2025-09-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rome Film Festival",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Octopus Film Festival",
+            "release_date": "2025-08-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tribeca Festival",
+            "release_date": "2025-06-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "deadCenter Film Festival",
+            "release_date": "2025-06-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beyond Fest",
+            "release_date": "2025-10-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Montana Film Festival",
+            "release_date": "2025-10-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Heartland International Film Festival",
+            "release_date": "2025-10-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Provincetown International Film Festival",
+            "release_date": "2025-06-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sidewalk Film Festival",
+            "release_date": "2025-08-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cordillera International Film Festival",
+            "release_date": "2025-09-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Charlotte Film Festival",
+            "release_date": "2025-09-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "NewFest",
+            "release_date": "2025-10-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Newport Beach Film Festival",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Brooklyn Horror Film Festival",
+            "release_date": "2025-10-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nightmares Film Festival",
+            "release_date": "2025-10-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "VOD",
+            "release_date": "2025-11-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  }
+}
