@@ -83,6 +83,7 @@ movie-recommender/
 ### Stack Tecnológico
 
 **Backend:**
+
 - FastAPI (framework web assíncrono)
 - Scikit-learn (TF-IDF, similaridade de cosseno)
 - Pandas & NumPy (manipulação de dados)
@@ -91,6 +92,7 @@ movie-recommender/
 - Pydantic (validação de dados)
 
 **Frontend:**
+
 - React 18 (biblioteca UI)
 - TypeScript (type safety)
 - Vite (build tool)
@@ -98,9 +100,9 @@ movie-recommender/
 - Axios (cliente HTTP)
 
 **Dados:**
+
 - TMDB API (metadados de filmes)
 - MovieLens Dataset (avaliações de usuários)
-
 
 ## 🚀 Instalação e Configuração
 
@@ -123,6 +125,7 @@ chmod +x quickstart.sh setup.sh validate.sh
 ```
 
 Este script irá:
+
 1. Configurar o ambiente Python
 2. Instalar dependências do backend
 3. Configurar o ambiente Node.js
@@ -157,6 +160,7 @@ uvicorn app.main:app --reload --port 8000
 O servidor estará rodando em: `http://localhost:8000`
 
 **Documentação Interativa:**
+
 - Swagger UI: `http://localhost:8000/docs`
 - ReDoc: `http://localhost:8000/redoc`
 
@@ -177,12 +181,14 @@ O frontend estará disponível em `http://localhost:5173`
 ### Variáveis de Ambiente
 
 **Backend** (`backend/.env`):
+
 ```env
 TMDB_API_KEY=sua_chave_aqui
 TOKEN_EXPIRY_HOURS=168  # 7 dias
 ```
 
 **Frontend** (`frontend/.env`):
+
 ```env
 VITE_API_URL=http://localhost:8000
 ```
@@ -191,15 +197,16 @@ VITE_API_URL=http://localhost:8000
 
 O frontend já está configurado para fazer proxy das requisições `/api/*` para o backend em `http://localhost:8000/*`.
 
-
 ## 🔧 API Reference
 
 ### Autenticação
 
 #### `POST /register`
+
 Registra novo usuário no sistema.
 
 **Request Body:**
+
 ```json
 {
   "username": "johndoe",
@@ -209,6 +216,7 @@ Registra novo usuário no sistema.
 ```
 
 **Response (201):**
+
 ```json
 {
   "user": {
@@ -222,9 +230,11 @@ Registra novo usuário no sistema.
 ```
 
 #### `POST /login`
+
 Autentica usuário existente.
 
 **Request Body:**
+
 ```json
 {
   "username": "johndoe",
@@ -233,6 +243,7 @@ Autentica usuário existente.
 ```
 
 **Response (200):**
+
 ```json
 {
   "user": {...},
@@ -241,14 +252,17 @@ Autentica usuário existente.
 ```
 
 #### `GET /me`
+
 Retorna dados do usuário autenticado.
 
 **Headers:**
+
 ```
 Authorization: Bearer <token>
 ```
 
 **Response (200):**
+
 ```json
 {
   "id": 1,
@@ -256,16 +270,18 @@ Authorization: Bearer <token>
   "email": "john@example.com",
   "liked_movies": [1, 5, 10],
   "disliked_movies": [2, 7],
-  "ratings": {"3": 5, "8": 4}
+  "ratings": { "3": 5, "8": 4 }
 }
 ```
 
 ### Filmes
 
 #### `GET /movies`
+
 Lista filmes com filtros avançados.
 
 **Query Parameters:**
+
 - `genre` (string): Filtrar por gênero (ex: "Action", "Drama")
 - `min_rating` (float): Avaliação mínima TMDB (0-10)
 - `min_popularity` (float): Popularidade mínima
@@ -274,11 +290,13 @@ Lista filmes com filtros avançados.
 - `keyword` (string): Busca no título, sinopse ou keywords
 
 **Exemplo:**
+
 ```bash
 GET /movies?genre=Action&min_rating=7.0&year_from=2020
 ```
 
 **Response (200):**
+
 ```json
 [
   {
@@ -302,14 +320,17 @@ GET /movies?genre=Action&min_rating=7.0&year_from=2020
 ```
 
 #### `GET /movies/{movie_id}`
+
 Retorna detalhes completos de um filme específico.
 
 **Response (200):** Objeto `Movie` completo
 
 #### `GET /movies/{movie_id}/similar`
+
 Retorna filmes similares baseados em gêneros, keywords e diretor.
 
 **Query Parameters:**
+
 - `limit` (int): Número de filmes (padrão: 5)
 
 **Response (200):** Array de objetos `Movie`
@@ -317,19 +338,23 @@ Retorna filmes similares baseados em gêneros, keywords e diretor.
 ### Recomendações
 
 #### `GET /recommendations`
+
 **🔒 Requer Autenticação**
 
 Retorna recomendações personalizadas baseadas no histórico do usuário.
 
 **Headers:**
+
 ```
 Authorization: Bearer <token>
 ```
 
 **Query Parameters:**
+
 - `k` (int): Número de recomendações (padrão: 10, máx: 50)
 
 **Response (200):**
+
 ```json
 {
   "user_id": 1,
@@ -356,24 +381,28 @@ Authorization: Bearer <token>
 ### Feedback
 
 #### `POST /feedback`
+
 **🔒 Requer Autenticação**
 
 Registra like ou dislike em um filme.
 
 **Headers:**
+
 ```
 Authorization: Bearer <token>
 ```
 
 **Request Body:**
+
 ```json
 {
   "movie_id": 42,
-  "action": "like"  // ou "dislike"
+  "action": "like" // ou "dislike"
 }
 ```
 
 **Response (200):**
+
 ```json
 {
   "message": "Feedback registrado com sucesso",
@@ -383,11 +412,13 @@ Authorization: Bearer <token>
 ```
 
 #### `POST /rate`
+
 **🔒 Requer Autenticação**
 
 Avalia um filme com nota de 1 a 5 estrelas.
 
 **Request Body:**
+
 ```json
 {
   "movie_id": 42,
@@ -396,6 +427,7 @@ Avalia um filme com nota de 1 a 5 estrelas.
 ```
 
 **Response (200):**
+
 ```json
 {
   "message": "Avaliação registrada com sucesso",
@@ -407,9 +439,11 @@ Avalia um filme com nota de 1 a 5 estrelas.
 ### Utilitários
 
 #### `GET /health`
+
 Verifica status da API.
 
 **Response (200):**
+
 ```json
 {
   "ok": true,
@@ -417,7 +451,6 @@ Verifica status da API.
   "movies": 5234
 }
 ```
-
 
 ## 📊 Modelos de Dados
 
@@ -431,11 +464,11 @@ Verifica status da API.
   "genres": List[str],                # Gêneros
   "director": str,                    # Diretor principal
   "description": str,                 # Descrição/sinopse
-  
+
   # IDs Externos
   "tmdb_id": int | None,              # ID no TMDB
   "imdb_id": str | None,              # ID no IMDb
-  
+
   # Metadados TMDB
   "original_title": str | None,       # Título original
   "original_language": str | None,    # Idioma original
@@ -443,7 +476,7 @@ Verifica status da API.
   "tagline": str | None,              # Frase de efeito
   "runtime": int | None,              # Duração (minutos)
   "release_date": str | None,         # Data de lançamento
-  
+
   # Avaliações
   "vote_average": float | None,       # Nota média (0-10)
   "vote_count": int | None,           # Número de votos
@@ -454,21 +487,21 @@ Verifica status da API.
     "min": float | None,
     "max": float | None
   },
-  
+
   # Conteúdo Rico
   "keywords": List[str] | None,       # Keywords/tags do TMDB
   "cast": List[str] | None,           # Elenco principal
   "production_companies": List[str],  # Produtoras
   "production_countries": List[str],  # Países de produção
-  
+
   # Imagens
   "poster_path": str | None,          # Caminho do poster
   "backdrop_path": str | None,        # Imagem de fundo
-  
+
   # Financeiro
   "budget": int | None,               # Orçamento (USD)
   "revenue": int | None,              # Receita (USD)
-  
+
   # Outros
   "adult": bool | None,               # Conteúdo adulto
   "belongs_to_collection": {...},     # Franquia/coleção
@@ -489,7 +522,6 @@ Verifica status da API.
   "ratings": Dict[int, int]           # {movie_id: rating}
 }
 ```
-
 
 ### Backend
 
@@ -537,20 +569,20 @@ O sistema utiliza análise de conteúdo baseada em **TF-IDF** (Term Frequency-In
 
 ### Features Utilizadas (com pesos)
 
-| Feature | Peso | Descrição |
-|---------|------|-----------|
-| **Keywords TMDB** | 6x | Tags precisas do conteúdo |
-| **Gêneros** | 5x | Categorias principais |
-| **Diretor** | 3x | Estilo único do diretor |
-| **Certificação** | 2x | Público-alvo (PG, R, etc.) |
-| **Elenco** | 2x | Top 5 atores principais |
-| **Sinopse** | 1x | Primeiras 150 palavras |
-| **Empresas** | 1x | Top 3 produtoras |
-| **Década** | 1x | Contexto temporal |
-| **Idioma** | 1x | Tipo de produção |
-| **Países** | 1x | Estilo regional |
-| **Popularidade Tier** | 1x | Alcance do filme |
-| **Tagline** | 1x | Frase de efeito |
+| Feature               | Peso | Descrição                  |
+| --------------------- | ---- | -------------------------- |
+| **Keywords TMDB**     | 6x   | Tags precisas do conteúdo  |
+| **Gêneros**           | 5x   | Categorias principais      |
+| **Diretor**           | 3x   | Estilo único do diretor    |
+| **Certificação**      | 2x   | Público-alvo (PG, R, etc.) |
+| **Elenco**            | 2x   | Top 5 atores principais    |
+| **Sinopse**           | 1x   | Primeiras 150 palavras     |
+| **Empresas**          | 1x   | Top 3 produtoras           |
+| **Década**            | 1x   | Contexto temporal          |
+| **Idioma**            | 1x   | Tipo de produção           |
+| **Países**            | 1x   | Estilo regional            |
+| **Popularidade Tier** | 1x   | Alcance do filme           |
+| **Tagline**           | 1x   | Frase de efeito            |
 
 ### Exemplo de Feature Extraction
 
@@ -575,13 +607,14 @@ paises:us uk
 As recomendações incluem explicações detalhadas:
 
 ```
-"Similar to 'Interstellar' (liked) - Shared genres: Sci-Fi, Thriller. 
+"Similar to 'Interstellar' (liked) - Shared genres: Sci-Fi, Thriller.
 Same director: Christopher Nolan. Common keywords: space, time, science."
 ```
 
 ### Fallback: Cold Start
 
 Para usuários novos (sem histórico), o sistema retorna:
+
 - Filmes mais populares
 - Melhor avaliados (vote_average)
 - Diversidade de gêneros
@@ -648,6 +681,7 @@ python collect_from_tmdb.py
 ```
 
 **Recursos:**
+
 - Rate limiting automático (40 req/10s)
 - Sistema de cache local
 - Retry com backoff exponencial
@@ -691,6 +725,7 @@ python test_tmdb.py
 ```
 
 Verifica:
+
 - ✅ API key válida
 - ✅ Busca de filmes
 - ✅ Detalhes completos
@@ -705,6 +740,7 @@ python test_recommender.py
 ```
 
 Testa:
+
 - ✅ Recomendações básicas
 - ✅ Personalização com likes/dislikes
 - ✅ Filmes similares
@@ -846,12 +882,14 @@ curl http://localhost:8000/health
 ### Variáveis de Ambiente
 
 Backend (`backend/.env`):
+
 ```env
 TMDB_API_KEY=sua_chave_aqui
 TOKEN_EXPIRY_HOURS=168  # 7 dias
 ```
 
 Frontend (`frontend/.env`):
+
 ```env
 VITE_API_URL=http://localhost:8000
 ```

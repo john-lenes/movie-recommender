@@ -353,7 +353,7 @@ def main():
         else:
             category_id, category_name = category_data
             max_pages = 1
-        
+
         print(f"📂 Categoria: {category_name} ({max_pages} página(s))")
 
         for page in range(1, max_pages + 1):
@@ -369,7 +369,9 @@ def main():
                 if not tmdb_id or tmdb_id in existing_tmdb_ids:
                     continue
 
-                print(f"  🎬 {movie_data.get('title', 'Sem título')} (TMDB ID: {tmdb_id})")
+                print(
+                    f"  🎬 {movie_data.get('title', 'Sem título')} (TMDB ID: {tmdb_id})"
+                )
 
                 # Buscar detalhes completos
                 full_data = get_movie_full_details(tmdb_id)
@@ -391,8 +393,10 @@ def main():
 
             if collected_count > 0:
                 print(f"  ✅ Página {page}: {collected_count} novos filmes")
-        
-        print(f"  📦 Total da categoria: {len([m for m in new_movies if any(category_name.lower() in g.lower() for g in m.get('genres', []))])} filmes\n")
+
+        print(
+            f"  📦 Total da categoria: {len([m for m in new_movies if any(category_name.lower() in g.lower() for g in m.get('genres', []))])} filmes\n"
+        )
 
     # Combinar filmes existentes com novos
     all_movies = existing_movies + new_movies
