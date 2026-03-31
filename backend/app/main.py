@@ -1,7 +1,9 @@
 import logging
+from collections import defaultdict
+from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 
-from fastapi import FastAPI, Header, HTTPException
+from fastapi import FastAPI, Header, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 
 from .auth import get_token_manager
@@ -47,6 +49,27 @@ DB = get_db()
 TOKEN_MANAGER = get_token_manager()
 
 
+class _RateLimiter:
+    """Limitador de taxa simples em memória para endpoints de autenticação."""
+
+    def __init__(self, max_requests: int = 10, window_seconds: int = 60):
+        self.max_requests = max_requests
+        self.window = timedelta(seconds=window_seconds)
+        self._log: Dict[str, list] = defaultdict(list)
+
+    def is_allowed(self, key: str) -> bool:
+        now = datetime.now()
+        cutoff = now - self.window
+        self._log[key] = [t for t in self._log[key] if t > cutoff]
+        if len(self._log[key]) >= self.max_requests:
+            return False
+        self._log[key].append(now)
+        return True
+
+
+_auth_limiter = _RateLimiter(max_requests=10, window_seconds=60)
+
+
 def get_current_user(authorization: Optional[str] = Header(None)):
     """Middleware para autenticação"""
     if not authorization:
@@ -82,36 +105,32 @@ def list_movies(
     year_from: Optional[int] = None,
     year_to: Optional[int] = None,
     keyword: Optional[str] = None,
+    limit: Optional[int] = None,
+    offset: int = 0,
 ):
     """
-    Lista filmes com filtros avançados
+    Lista filmes com filtros avançados.
     - genre: Filtrar por gênero
     - min_rating: Avaliação mínima TMDB (vote_average)
     - min_popularity: Popularidade mínima TMDB
     - year_from/year_to: Intervalo de anos
-    - keyword: Buscar por palavra-chave no título, overview ou keywords TMDB
+    - keyword: Buscar por palavra-chave no título, overview ou keywords
+    - limit/offset: Paginação opcional
     """
     results = MOVIES
 
     if genre:
-        results = [
-            m
-            for m in results
-            if genre.lower() in [g.lower() for g in m.get("genres", [])]
-        ]
+        gl = genre.lower()
+        results = [m for m in results if gl in [g.lower() for g in m.get("genres", [])]]
 
     if min_rating is not None:
         results = [
-            m
-            for m in results
-            if m.get("vote_average") and m["vote_average"] >= min_rating
+            m for m in results if m.get("vote_average") and m["vote_average"] >= min_rating
         ]
 
     if min_popularity is not None:
         results = [
-            m
-            for m in results
-            if m.get("popularity") and m["popularity"] >= min_popularity
+            m for m in results if m.get("popularity") and m["popularity"] >= min_popularity
         ]
 
     if year_from is not None:
@@ -121,14 +140,21 @@ def list_movies(
         results = [m for m in results if m.get("year", 9999) <= year_to]
 
     if keyword:
-        keyword_lower = keyword.lower()
+        kl = keyword.lower()
         results = [
             m
             for m in results
-            if keyword_lower in m.get("title", "").lower()
-            or keyword_lower in m.get("overview", "").lower()
-            or any(keyword_lower in kw.lower() for kw in m.get("keywords", []))
+            if kl in m.get("title", "").lower()
+            or kl in m.get("overview", "").lower()
+            or any(kl in kw.lower() for kw in m.get("keywords", []))
         ]
+
+    if offset:
+        results = results[offset:]
+    if limit is not None:
+        if limit < 1 or limit > 1000:
+            raise HTTPException(status_code=400, detail="limit deve estar entre 1 e 1000")
+        results = results[:limit]
 
     return results
 
@@ -193,8 +219,14 @@ def get_similar_movies(movie_id: int, limit: int = 5):
 
 
 @app.post("/auth/register", response_model=AuthResponse)
-def register(payload: UserCreate):
+def register(payload: UserCreate, request: Request):
     """Registra novo usuário"""
+    client_ip = request.client.host if request.client else "unknown"
+    if not _auth_limiter.is_allowed(f"register:{client_ip}"):
+        raise HTTPException(
+            status_code=429, detail="Muitas tentativas. Aguarde um momento."
+        )
+
     user = DB.create_user(
         username=payload.username, email=payload.email, password=payload.password
     )
@@ -208,8 +240,14 @@ def register(payload: UserCreate):
 
 
 @app.post("/auth/login", response_model=AuthResponse)
-def login(payload: UserLogin):
+def login(payload: UserLogin, request: Request):
     """Login de usuário"""
+    client_ip = request.client.host if request.client else "unknown"
+    if not _auth_limiter.is_allowed(f"login:{client_ip}"):
+        raise HTTPException(
+            status_code=429, detail="Muitas tentativas. Aguarde um momento."
+        )
+
     user = DB.authenticate(payload.username, payload.password)
 
     if not user:

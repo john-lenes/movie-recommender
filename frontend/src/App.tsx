@@ -7,12 +7,14 @@ import {
   logout,
   rateMovie,
   sendFeedback,
+  setAuthToken,
   type Movie,
   type Recommendation,
   type User,
 } from "./api";
 import AuthModal from "./AuthModal";
 import { Toaster, toast } from "./components/Toaster";
+import { useMovieFilters } from "./hooks/useMovieFilters";
 import { usePagination } from "./hooks/usePagination";
 
 // Mapeamento de ícones e cores para gêneros
@@ -370,17 +372,28 @@ export default function App() {
   const [showAuthModal, setShowAuthModal] = useState(false);
   const [movies, setMovies] = useState<Movie[]>([]);
   const [loading, setLoading] = useState(true);
-  const [query, setQuery] = useState("");
-  const [selectedGenres, setSelectedGenres] = useState<Set<string>>(new Set());
-  const [yearRange, setYearRange] = useState<[number, number]>([1990, 2025]);
   const [recs, setRecs] = useState<Recommendation[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [theme, setTheme] = useState<"dark" | "light">("dark");
-  const [sortBy, setSortBy] = useState<"year" | "title" | "rating">("year");
   const [showFilters, setShowFilters] = useState(false);
   const [connectionStatus, setConnectionStatus] = useState<
     "checking" | "connected" | "error"
   >("checking");
+
+  const {
+    query,
+    setQuery,
+    selectedGenres,
+    toggleGenre,
+    sortBy,
+    setSortBy,
+    yearRange,
+    setYearRange,
+    allGenres,
+    yearBounds,
+    filtered,
+    clearFilters,
+  } = useMovieFilters({ movies, user });
 
   // Carregar preferências do localStorage
   useEffect(() => {
@@ -443,59 +456,13 @@ export default function App() {
     })();
   }, []);
 
-  const allGenres = useMemo(() => {
-    const genres = new Set<string>();
-    movies.forEach((m) => m.genres.forEach((g) => genres.add(g)));
-    return Array.from(genres).sort();
-  }, [movies]);
-
-  const yearBounds = useMemo(() => {
-    if (movies.length === 0) return { min: 1990, max: 2025 };
-    const years = movies.map((m) => m.year);
-    return {
-      min: Math.min(...years),
-      max: Math.max(...years),
-    };
-  }, [movies]);
-
-  // Ajustar yearRange quando os filmes carregarem
-  useEffect(() => {
-    if (movies.length > 0) {
-      setYearRange([yearBounds.min, yearBounds.max]);
-    }
-  }, [movies.length, yearBounds]);
-
-  const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
-    let result = movies.filter((m) => {
-      const matchesQuery =
-        !q ||
-        [m.title, m.director, m.genres.join(" "), String(m.year)].some((x) =>
-          x.toLowerCase().includes(q),
-        );
-      const matchesGenres =
-        selectedGenres.size === 0 ||
-        m.genres.some((g) => selectedGenres.has(g));
-      const matchesYear = m.year >= yearRange[0] && m.year <= yearRange[1];
-      return matchesQuery && matchesGenres && matchesYear;
-    });
-
-    // Ordenar
-    if (sortBy === "year") {
-      result.sort((a, b) => b.year - a.year);
-    } else if (sortBy === "title") {
-      result.sort((a, b) => a.title.localeCompare(b.title));
-    } else if (sortBy === "rating") {
-      const userRatings = user?.ratings || {};
-      result.sort(
-        (a, b) => (userRatings[b.id] || 0) - (userRatings[a.id] || 0),
-      );
-    }
-
-    return result;
-  }, [movies, query, selectedGenres, yearRange, sortBy, user]);
-
   const pagination = usePagination(filtered, 20);
+
+  // Resetar página ao mudar filtros
+  useEffect(() => {
+    pagination.resetPage();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [filtered]);
 
   const stats = useMemo(() => {
     if (!user) return { totalRatings: 0, avgRating: 0 };
@@ -591,16 +558,6 @@ export default function App() {
     } catch (e: any) {
       setError(e?.message ?? "Erro ao carregar dados");
     }
-  }
-
-  function toggleGenre(genre: string) {
-    const next = new Set(selectedGenres);
-    if (next.has(genre)) {
-      next.delete(genre);
-    } else {
-      next.add(genre);
-    }
-    setSelectedGenres(next);
   }
 
   if (loading) {
@@ -865,10 +822,7 @@ export default function App() {
                   yearRange[0] !== yearBounds.min ||
                   yearRange[1] !== yearBounds.max) && (
                   <button
-                    onClick={() => {
-                      setSelectedGenres(new Set());
-                      setYearRange([yearBounds.min, yearBounds.max]);
-                    }}
+                    onClick={clearFilters}
                     className="w-full py-2.5 px-4 rounded-lg text-sm font-semibold text-gray-700 dark:text-gray-300 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
                   >
                     🗑️ Limpar todos os filtros
@@ -1063,25 +1017,27 @@ export default function App() {
                     </button>
 
                     <div className="flex gap-2">
-                      {Array.from(
-                        { length: Math.min(5, pagination.totalPages) },
-                        (_, i) => {
-                          const pageNum = i + 1;
-                          return (
-                            <button
-                              key={pageNum}
-                              onClick={() => pagination.goToPage(pageNum)}
-                              className={`w-10 h-10 rounded-lg font-semibold transition-all ${
-                                pagination.currentPage === pageNum
-                                  ? "bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-lg scale-110"
-                                  : "glass hover:scale-105"
-                              }`}
-                            >
-                              {pageNum}
-                            </button>
-                          );
-                        },
-                      )}
+                      {(() => {
+                        const { currentPage, totalPages } = pagination;
+                        const delta = 2;
+                        const start = Math.max(1, currentPage - delta);
+                        const end = Math.min(totalPages, currentPage + delta);
+                        const pages: number[] = [];
+                        for (let p = start; p <= end; p++) pages.push(p);
+                        return pages.map((pageNum) => (
+                          <button
+                            key={pageNum}
+                            onClick={() => pagination.goToPage(pageNum)}
+                            className={`w-10 h-10 rounded-lg font-semibold transition-all ${
+                              currentPage === pageNum
+                                ? "bg-gradient-to-r from-gray-600 to-gray-800 text-white shadow-lg scale-110"
+                                : "glass hover:scale-105"
+                            }`}
+                          >
+                            {pageNum}
+                          </button>
+                        ));
+                      })()}
                     </div>
 
                     <button

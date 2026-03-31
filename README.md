@@ -100,7 +100,7 @@ movie-recommender/
 - TypeScript (type safety)
 - Vite (build tool)
 - Tailwind CSS (estilização)
-- Axios (cliente HTTP)
+- Fetch API nativa (cliente HTTP)
 
 **Dados:**
 
@@ -183,17 +183,16 @@ O frontend estará disponível em `http://localhost:5173`
 
 ### Variáveis de Ambiente
 
-**Backend** (`backend/.env`):
+**Backend** (`backend/.env`) — copie de `backend/.env.example`:
 
 ```env
 TMDB_API_KEY=sua_chave_aqui
-TOKEN_EXPIRY_HOURS=168  # 7 dias
-```
-
-**Frontend** (`frontend/.env`):
-
-```env
-VITE_API_URL=http://localhost:8000
+TMDB_BEARER_TOKEN=seu_bearer_token_aqui
+MOVIELENS_PATH=./data/movielens
+ENABLE_CACHE=true
+CACHE_DIR=./data/cache
+CACHE_EXPIRY_DAYS=7
+DEFAULT_LANGUAGE=pt-BR
 ```
 
 ### Proxy do Vite
@@ -291,11 +290,14 @@ Lista filmes com filtros avançados.
 - `year_from` (int): Ano inicial
 - `year_to` (int): Ano final
 - `keyword` (string): Busca no título, sinopse ou keywords
+- `limit` (int, 1-1000): Limitar número de resultados
+- `offset` (int): Ignorar os primeiros N resultados
 
 **Exemplo:**
 
 ```bash
 GET /movies?genre=Action&min_rating=7.0&year_from=2020
+GET /movies?limit=20&offset=40
 ```
 
 **Response (200):**
@@ -769,6 +771,12 @@ def _get_cold_start_recommendations(candidates, k):
 - **Hash**: bcrypt com salt automático
 - **Verificação**: Comparação segura com timing constante
 - **Armazenamento**: Apenas hash, nunca senha em texto plano
+- **Política**: mínimo 8 caracteres, ao menos 1 letra e 1 número
+
+### Rate Limiting
+
+- **Endpoints de auth**: máximo 10 requisições por minuto por IP
+- Retorna `HTTP 429` quando o limite é atingido
 
 ### Uso da Autenticação
 
@@ -783,18 +791,21 @@ curl -H "Authorization: Bearer abc123..." \
 
 ### Endpoints Públicos
 
-- `POST /register`
-- `POST /login`
+- `POST /auth/register`
+- `POST /auth/login`
+- `POST /auth/logout`
 - `GET /health`
-- `GET /movies` (listagem básica)
+- `GET /movies`
 - `GET /movies/{id}`
+- `GET /movies/{id}/similar`
 
 ### Endpoints Protegidos 🔒
 
-- `GET /me`
+- `GET /auth/me`
 - `GET /recommendations`
 - `POST /feedback`
-- `POST /rate`
+- `DELETE /feedback/{movie_id}`
+- `POST /rating`
 
 ## 🛠️ Scripts Utilitários
 
@@ -906,9 +917,9 @@ uvicorn app.main:app --reload --port 8000
 curl http://localhost:8000/health
 
 # Registrar usuário
-curl -X POST http://localhost:8000/register \
+curl -X POST http://localhost:8000/auth/register \
   -H "Content-Type: application/json" \
-  -d '{"username":"test","email":"test@test.com","password":"123"}'
+  -d '{"username":"test","email":"test@test.com","password":"senha123"}'
 
 # Listar filmes
 curl http://localhost:8000/movies?genre=Action&min_rating=7.0
@@ -932,7 +943,6 @@ curl http://localhost:8000/movies?genre=Action&min_rating=7.0
 
 - **[Scikit-learn](https://scikit-learn.org/)** - TF-IDF e similaridade de cosseno
 - **[NumPy](https://numpy.org/)** - Operações numéricas e arrays otimizados
-- **[Pandas](https://pandas.pydata.org/)** - Manipulação e análise de dados
 
 **Melhorias de Arquitetura (2026):**
 
@@ -942,15 +952,17 @@ curl http://localhost:8000/movies?genre=Action&min_rating=7.0
 - ✨ **Walrus Operator**: Sintaxe moderna Python 3.8+ para código mais conciso
 - ✨ **Docstrings**: Documentação inline completa em cada função
 
-### HTTP & External APIs
+### HTTP & APIs Externas
 
-- **[HTTPX](https://www.python-httpx.org/)** - Cliente HTTP assíncrono
+- **[requests](https://requests.readthedocs.io/)** - Cliente HTTP com cache e retry
 - **[TMDB API](https://www.themoviedb.org/documentation/api)** - Metadados de filmes
 
 ### Segurança
 
 - **[bcrypt](https://github.com/pyca/bcrypt/)** - Hashing de senhas
 - **[python-dotenv](https://github.com/theskumar/python-dotenv)** - Variáveis de ambiente
+- Rate limiting em endpoints de autenticação
+- Validação de campos no backend (Pydantic validators)
 
 ### Frontend
 
@@ -958,12 +970,11 @@ curl http://localhost:8000/movies?genre=Action&min_rating=7.0
 - **[TypeScript](https://www.typescriptlang.org/)** - Type safety
 - **[Vite](https://vitejs.dev/)** - Build tool moderno
 - **[Tailwind CSS](https://tailwindcss.com/)** - Framework CSS utility-first
-- **[Axios](https://axios-http.com/)** - Cliente HTTP
+- Fetch API nativa com retry e timeout
 
-### Utilities
+### Utilitários
 
 - **[tqdm](https://tqdm.github.io/)** - Barras de progresso
-- **[python-dateutil](https://dateutil.readthedocs.io/)** - Manipulação de datas
 
 ## 📈 Performance
 

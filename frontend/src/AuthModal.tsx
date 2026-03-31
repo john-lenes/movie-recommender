@@ -7,8 +7,8 @@ type AuthModalProps = {
 }
 
 function validatePassword(password: string): string | null {
-  if (password.length < 6) {
-    return 'A senha deve ter no mínimo 6 caracteres'
+  if (password.length < 8) {
+    return 'A senha deve ter no mínimo 8 caracteres'
   }
   if (!/[A-Za-z]/.test(password)) {
     return 'A senha deve conter pelo menos uma letra'
@@ -111,7 +111,7 @@ export default function AuthModal({ onSuccess, onClose }: AuthModalProps) {
 
           <div>
             <label className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
-              Senha {!isLogin && <span className="text-xs text-gray-500">(mín. 6 caracteres, letra + número)</span>}
+              Senha {!isLogin && <span className="text-xs text-gray-500">(mín. 8 caracteres, letra + número)</span>}
             </label>
             <input
               type="password"
@@ -121,7 +121,7 @@ export default function AuthModal({ onSuccess, onClose }: AuthModalProps) {
                 passwordError ? 'border-red-500' : 'border-gray-300 dark:border-gray-600'
               } bg-white dark:bg-gray-800 text-gray-900 dark:text-white focus:ring-2 focus:ring-gray-500 outline-none`}
               required
-              minLength={6}
+              minLength={8}
             />
             {passwordError && !isLogin && (
               <p className="text-xs text-red-500 dark:text-red-400 mt-1">{passwordError}</p>

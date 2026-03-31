@@ -1,6 +1,7 @@
+import re
 from typing import Dict, List, Optional
 
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, EmailStr, field_validator
 
 
 class RatingStats(BaseModel):
@@ -118,6 +119,31 @@ class UserCreate(BaseModel):
     username: str
     email: EmailStr
     password: str
+
+    @field_validator("username")
+    @classmethod
+    def validate_username(cls, v: str) -> str:
+        v = v.strip()
+        if len(v) < 3:
+            raise ValueError("Nome de usuário deve ter pelo menos 3 caracteres")
+        if len(v) > 50:
+            raise ValueError("Nome de usuário deve ter no máximo 50 caracteres")
+        if not re.match(r"^[a-zA-Z0-9_]+$", v):
+            raise ValueError(
+                "Nome de usuário deve conter apenas letras, números e underscore"
+            )
+        return v
+
+    @field_validator("password")
+    @classmethod
+    def validate_password(cls, v: str) -> str:
+        if len(v) < 8:
+            raise ValueError("Senha deve ter pelo menos 8 caracteres")
+        if not re.search(r"[a-zA-Z]", v):
+            raise ValueError("Senha deve conter pelo menos uma letra")
+        if not re.search(r"[0-9]", v):
+            raise ValueError("Senha deve conter pelo menos um número")
+        return v
 
 
 class UserLogin(BaseModel):

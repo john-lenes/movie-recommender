@@ -22,12 +22,15 @@ class TMDBClient:
     IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500"
     
     def __init__(self):
-        # Credenciais TMDB (fallback para valores padrão se .env não existir)
-        self.api_key = os.getenv("TMDB_API_KEY", "063849745cebc73dd3d860ffdcfd9637")
-        self.bearer_token = os.getenv(
-            "TMDB_BEARER_TOKEN",
-            "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwNjM4NDk3NDVjZWJjNzNkZDNkODYwZmZkY2ZkOTYzNyIsIm5iZiI6MTc2ODg0NTE2Ny42NjksInN1YiI6IjY5NmU2ZjZmYzNjOTEzYjU4NzIwZGI0YiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.JY8xyPRFazyUqOONvmmonk4iwjdxMWZ-qVjJKM2Fp8Q"
-        )
+        # Credenciais TMDB — configure no arquivo .env
+        self.api_key = os.getenv("TMDB_API_KEY", "")
+        self.bearer_token = os.getenv("TMDB_BEARER_TOKEN", "")
+        if not self.api_key:
+            import logging as _log
+            _log.getLogger(__name__).warning(
+                "TMDB_API_KEY não configurada. Configure no arquivo backend/.env "
+                "para enriquecer os dados dos filmes. Veja backend/.env.example."
+            )
         
         self.language = os.getenv("DEFAULT_LANGUAGE", "pt-BR")
         self.enable_cache = os.getenv("ENABLE_CACHE", "true").lower() == "true"
